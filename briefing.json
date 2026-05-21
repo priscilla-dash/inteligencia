@@ -1,366 +1,613 @@
 {
   "versao": "2026-05-21",
-  "gerado_em": "2026-05-21T10:00:00-03:00",
-  "contexto_do_dia": "Mulheres em 2026 buscam relacionamentos mais estáveis e emocionalmente seguros, enquanto dados alarmantes apontam que quase metade delas sofre de ansiedade. O dia traz conteúdos urgentes sobre saúde emocional, identidade feminina no digital, maternidade e carreira — todos com alto potencial de identificação e engajamento.",
+  "gerado_em": "2026-05-21T09:00:00-03:00",
+  "contexto_do_dia": "Em maio de 2026, mulheres buscam relacionamentos mais autênticos e com comunicação clara, enquanto enfrentam altas taxas de ansiedade (46,2%) e avançam — ainda que lentamente — no mercado de trabalho. O autocuidado holístico e o autoconhecimento emergem como as grandes ferramentas de transformação feminina.",
   "items": [
     {
       "id": 1,
-      "titulo": "Estabilidade acima de tudo: o que as mulheres realmente querem num relacionamento",
-      "resumo": "Pesquisa de 2025 revela que 59% das mulheres priorizam parceiros emocionalmente consistentes e com propósito de vida definido. A busca por segurança emocional se intensificou num cenário de incertezas globais, tornando esse tema extremamente relevante para o público de Priscilla, que busca clareza sobre o que deseja nos relacionamentos.",
+      "titulo": "O Novo Romantismo Realista: como os relacionamentos estão mudando em 2026",
+      "resumo": "Pesquisas apontam que em 2026 as mulheres estão trocando idealizações por clareza e honestidade nas relações. O 'slow dating' e os micro-romances ganham força, sinalizando uma nova era emocional. Este tema é diretamente conectado ao público de Priscilla que busca relacionamentos mais saudáveis e conscientes.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "lo-fi",
         "carrossel"
       ],
-      "fonte": "Instituto do Casal / CNN Brasil",
+      "fonte": "CNN Brasil / Correio Braziliense",
       "copies": {
         "reels-react": {
-          "ideia_central": "Mostrar que a mulher atual não quer intensidade — ela quer consistência.",
-          "gancho": "Se você ainda acha que parceiro bom é aquele que te faz sentir emoções intensas, você precisa ouvir isso.",
+          "ideia_central": "As mulheres de 2026 estão desacelerando nos relacionamentos — e isso é inteligência emocional, não medo.",
+          "gancho": "Você ainda acha que romantismo é sobre intensidade? Em 2026, as mulheres mais conscientes estão fazendo o oposto.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Se você ainda acha que parceiro bom é aquele que te faz sentir borboletas no estômago, eu preciso te contar uma coisa."
+              "fala": "Você ainda acha que romantismo é sobre intensidade? Em 2026, as mulheres mais conscientes estão fazendo o oposto."
             },
             {
               "tempo": "3–15s",
               "descricao": "Desenvolvimento",
-              "fala": "Uma pesquisa de 2025 mostrou que 59% das mulheres hoje estão priorizando uma coisa completamente diferente nos relacionamentos. Elas não querem mais aquela montanha-russa emocional. Elas querem estabilidade. Querem um parceiro que aparece, que é consistente, que tem propósito."
+              "fala": "As pesquisas mostram que a maior tendência nos relacionamentos agora é a desaceleração — menos jogos emocionais, mais clareza. Mulheres estão pedindo comunicação direta, gestos simples e atenção genuína. Sem teatro."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada",
-              "fala": "E sabe o que é mais interessante? As mulheres que escolheram a estabilidade se sentem menos inseguras, menos ansiosas e muito mais realizadas. A borboleta no estômago pode ser sinal de ansiedade — não de amor."
+              "fala": "E sabe o que isso revela? Que amadurecer emocionalmente é saber o que você quer, ter coragem de pedir, e desapegar de quem não consegue entregar. Isso não é frieza. Isso é autoestima em ação."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Salva esse vídeo e manda pra uma amiga que ainda está confundindo intensidade com amor. Nos comentários me conta: você já viveu isso?"
+              "fala": "Comenta aqui: você já percebeu essa mudança nos seus relacionamentos? Me conta!"
             }
           ],
-          "legenda": "A borboleta no estômago pode ser ansiedade, não amor. 🦋\n\nUma pesquisa de 2025 revelou que 59% das mulheres estão priorizando estabilidade emocional acima de tudo nos relacionamentos. E faz todo sentido.\n\nQuando a gente cresce, para de romantizar o caos e começa a valorizar quem aparece. Quem é consistente. Quem tem propósito.\n\nVocê está buscando intensidade ou estabilidade no seu relacionamento? Me conta nos comentários. 👇\n\n#relacionamento #relacionamentoSaudavel #mulheres #psicologiaDoAmor #priscillaandrade #comportamentoFeminino #casamento #autoconhecimento"
+          "legenda": "O romantismo não morreu — ele evoluiu. 💫\n\nEm 2026, a mulher que se conhece pede clareza, honestidade e conexão real. Ela não tem mais tempo para suposições emocionais.\n\nE você, já está nesse nível? 👇\n\n#Relacionamentos2026 #SlowDating #MulherConsciente #PsicologiaFeminina #PriscillaAndrade #AmoreAutoestima #ComportamentoFeminino #RelacionamentoSaudavel"
+        },
+        "carrossel": {
+          "ideia": "Guia visual dos 5 sinais de que você amadureceu emocionalmente nos relacionamentos.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "5 sinais de que você amadureceu emocionalmente nos relacionamentos",
+              "subtitulo": "O romantismo real começa com você"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O que está mudando em 2026",
+              "texto": "Pesquisas do Tinder e CNN Brasil mostram: mulheres de 23 a 30 anos estão abandonando os jogos emocionais. Clareza, honestidade e comunicação direta são os novos padrões de relacionamento."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Os 5 sinais",
+              "texto": "1. Você pede o que quer em vez de esperar que adivinhem\n2. Você não tolera mais ambiguidade\n3. Você prioriza conexão real antes de intensidade\n4. Você sabe diferenciar apego de amor\n5. Você desapega sem drama de quem não caminha no mesmo nível"
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "Isso não é frieza — é autoestima",
+              "texto": "Desacelerar não é ter medo de amar. É ter clareza suficiente para saber que tipo de amor você merece. A mulher que se conhece não aceita menos do que isso."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "Você se identificou?",
+              "texto": "Salva esse carrossel e marca aquela amiga que também está nessa fase de evolução 💛 Comenta qual dos 5 sinais mais te representa!"
+            }
+          ],
+          "legenda": "O amor em 2026 tem nome: clareza. 💛\n\nArrastinha e descobre se você já amadureceu emocionalmente nos seus relacionamentos.\n\nSalva e marca alguém que precisa ver isso! 👇\n\n#MaturidadeEmocional #Relacionamentos2026 #AutoestimaFeminina #PriscillaAndrade #MulherEvoluida #RelacionamentoSaudavel #PsicologiaDoAmor"
         }
       }
     },
     {
       "id": 2,
-      "titulo": "O TikTok está destruindo a sua autoestima (e você nem percebeu)",
-      "resumo": "Estudo publicado na revista PLOS One aponta o TikTok como a plataforma que mais afeta negativamente a autoestima de mulheres jovens adultas. Em um momento em que redes sociais dominam o cotidiano feminino, este conteúdo gera identificação imediata e abre espaço para a reflexão sobre consumo digital consciente.",
-      "pilar": "Autoimagem & Identidade",
+      "titulo": "46% das mulheres têm ansiedade — e o relacionamento tem tudo a ver com isso",
+      "resumo": "Dados de 2025 revelam que 46,2% das mulheres reportam sintomas de ansiedade generalizada, contra 31,2% dos homens. A pressão para ser multitarefa — equilibrando carreira, família e relacionamento — é um gatilho central. Tema de altíssima identificação para o público de Priscilla.",
+      "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "carrossel",
-        "stories"
+        "lo-fi"
       ],
-      "fonte": "PLOS One (2024) / UAI Notícias",
+      "fonte": "HealthNews Portugal / OMS / INE 2025",
       "copies": {
         "reels-react": {
-          "ideia_central": "Provocar a mulher a refletir sobre o impacto silencioso do TikTok na sua percepção de si mesma.",
-          "gancho": "Você passa horas no TikTok e sai de lá se sentindo pior do que entrou. Não é coincidência.",
+          "ideia_central": "A ansiedade feminina não é fraqueza — é o sintoma de uma sobrecarga que o relacionamento pode agravar ou curar.",
+          "gancho": "Quase metade das mulheres está ansiosa. E ninguém está falando sobre o quanto o relacionamento tem a ver com isso.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Você passa horas no TikTok e sai de lá se sentindo pior do que entrou. Isso não é coincidência — é ciência."
+              "fala": "Quase metade das mulheres está ansiosa. E ninguém está falando sobre o quanto o relacionamento tem a ver com isso."
             },
             {
               "tempo": "3–15s",
               "descricao": "Desenvolvimento",
-              "fala": "Um estudo publicado em uma das revistas científicas mais respeitadas do mundo mostrou que o TikTok é a plataforma que mais afeta negativamente a autoestima de mulheres. Mais do que qualquer outra rede social. E não é só sobre padrões de beleza — é sobre a comparação constante, o consumo passivo, a sensação de que todo mundo está vivendo uma vida melhor que a sua."
+              "fala": "Dados de 2025 mostram que 46% das mulheres têm sintomas de ansiedade generalizada. A pressão de ser perfeita na carreira, em casa, no relacionamento, com os filhos, com o corpo — isso cobra um preço enorme da nossa saúde mental."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada",
-              "fala": "O problema não é a rede social em si. O problema é quando você consome no piloto automático, sem perceber como seu cérebro está interpretando aquilo. Cada vídeo que você assiste está moldando, aos poucos, a imagem que você tem de si mesma."
+              "fala": "E o relacionamento entra nisso de dois jeitos: ou ele é a maior fonte de sobrecarga — cheio de cobranças, insegurança e falta de diálogo — ou ele é um porto seguro que te ajuda a regular. A diferença está no tipo de relacionamento que você construiu."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Salva esse vídeo. Vou trazer dicas práticas de como usar as redes sociais sem deixar que elas te destruam por dentro. Qual rede você sente que mais te afeta?"
+              "fala": "O seu relacionamento hoje te acalma ou te angustia? Responde nos comentários. Quero saber."
             }
           ],
-          "legenda": "O TikTok pode estar te fazendo mal. E a ciência comprova. 📱\n\nUm estudo publicado na PLOS One apontou o TikTok como a plataforma com maior impacto negativo na autoestima feminina. O consumo passivo e a comparação constante moldam — silenciosamente — a forma como você se vê.\n\nNão é fraqueza. É biologia. Nosso cérebro foi feito para comparar.\n\nMas você pode escolher o que alimenta sua mente. 💡\n\nQual rede social você sente que mais afeta a sua autoestima? Comenta aqui. 👇\n\n#autoestima #identidadeFeminina #TikTok #saudeMental #priscillaandrade #autoconhecimento #comportamentoFeminino #redesSociais"
+          "legenda": "46% das mulheres com ansiedade. Isso não é coincidência. 💔\n\nO relacionamento que você está pode ser sua cura ou sua maior fonte de adoecimento.\n\nFala comigo nos comentários: como você está se sentindo? 👇\n\n#SaudeMentalFeminina #Ansiedade #RelacionamentosQueAdoecem #PriscillaAndrade #Psicologia #MulherAnsiosa #SaudeEmocional #BemEstarFeminino"
+        },
+        "lo-fi": {
+          "ideia": "Vídeo íntimo e direto sobre como a sobrecarga feminina gera ansiedade e como identificar se o seu relacionamento ajuda ou atrapalha.",
+          "gancho": "Você sabia que quase metade das mulheres está com ansiedade? Eu preciso falar sobre isso.",
+          "o_que_falar": [
+            "Apresentar o dado: 46,2% das mulheres com sintomas de ansiedade vs 31,2% dos homens — isso não é acaso.",
+            "Explicar a sobrecarga: a pressão de ser multitarefa (carreira, filhos, relacionamento, aparência) cobra um preço enorme na saúde mental.",
+            "Diferenciar: relacionamento como âncora vs relacionamento como gatilho de ansiedade — quais são os sinais de cada um.",
+            "Convite à reflexão: perguntar às seguidoras se conseguem identificar qual é o papel do relacionamento delas na saúde mental."
+          ],
+          "legenda": "Não é fraqueza. É sobrecarga. 🤍\n\nSe você se sente ansiosa com frequência, vale perguntar: o meu relacionamento me acalma ou me angustia?\n\nEssa é uma das perguntas mais importantes que você pode fazer por você mesma.\n\n#Ansiedade #SaudeMental #MulherConsciente #PriscillaAndrade #RelacionamentoSaudavel #PsicologiaFeminina",
+          "vibe": "Câmera estática na altura dos olhos, luz natural suave, tom íntimo e acolhedor — como uma conversa entre amigas"
         }
       }
     },
     {
       "id": 3,
-      "titulo": "Maternidade e carreira: por que 59% das mães ainda são prejudicadas no mercado de trabalho",
-      "resumo": "No Brasil, 59,1% das mães afirmam que a maternidade impactou negativamente suas carreiras — número que revela uma estrutura que ainda pune a mulher pela sua biologia. Para o público de Priscilla, que lida frequentemente com a tensão entre ambição profissional e vida pessoal, esse é um tema que gera forte identificação e engajamento.",
-      "pilar": "Posicionamento & Carreira",
+      "titulo": "O checklist de autoestima que toda mulher deveria fazer antes de entrar em um relacionamento",
+      "resumo": "Antes de buscar um parceiro, a mulher precisa se perguntar: eu me conheço? Me aceito? Tenho limites claros? Especialistas apontam que relacionamentos mais saudáveis começam com autoestima consolidada. Tema de altíssima tração para o público de Priscilla.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "hoje",
-      "formato_principal": "carrossel",
+      "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "reels-react",
-        "lo-fi"
+        "post-estatico"
       ],
-      "fonte": "ALAGEV / Solidariedade Mulher",
+      "fonte": "Hope Lingerie Blog / Academia de Autoestima",
       "copies": {
-        "carrossel": {
-          "ideia": "Dados e reflexões sobre o impacto real da maternidade na carreira feminina no Brasil, com caminhos concretos para enfrentar essa realidade.",
-          "cards": [
+        "reels-react": {
+          "ideia_central": "A autoestima não é vaidade — é o pré-requisito para qualquer relacionamento que não te destrua.",
+          "gancho": "Antes de entrar em um relacionamento, você precisa responder 5 perguntas sobre você mesma. Sem isso, vai repetir o mesmo padrão.",
+          "roteiro": [
             {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "59% das mães tiveram a carreira prejudicada pela maternidade.",
-              "subtitulo": "Esse número precisa ser discutido."
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Antes de entrar em um relacionamento, você precisa responder 5 perguntas sobre você mesma. Sem isso, vai repetir o mesmo padrão."
             },
             {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O Brasil pune a mulher pela sua biologia.",
-              "texto": "Pesquisa recente mostra que mais da metade das mães brasileiras sente o impacto direto da maternidade na sua trajetória profissional. Promoções adiadas. Salários congelados. Demissões mascaradas."
+              "tempo": "3–15s",
+              "descricao": "Desenvolvimento",
+              "fala": "Primeira: você se conhece de verdade? Sabe o que te faz feliz, o que te magoa, o que você não tolera? Segunda: você se aceita sem depender da validação de alguém? Terceira: você tem limites claros e consegue colocá-los sem culpa? Quarta: você sabe diferenciar solidão de amor? Quinta: você está buscando um parceiro ou um salvador?"
             },
             {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Não é escolha — é estrutura.",
-              "texto": "A sobrecarga do cuidado recai quase exclusivamente sobre as mulheres. Enquanto a carreira do pai raramente é questionada, a da mãe é colocada sob suspeita desde a gravidez."
+              "tempo": "15–25s",
+              "descricao": "Virada",
+              "fala": "Porque amar não é se fundir. É caminhar junto com identidade própria. E a mulher que não se conhece vai buscar no outro o que ela ainda não encontrou em si mesma. E isso é o início de todo relacionamento dependente."
             },
             {
-              "numero": 4,
-              "tipo": "Desenvolvimento",
-              "titulo": "O que os números também revelam:",
-              "texto": "• Mulheres recebem em média 21% menos que homens\n• Apenas 29% dos cargos de diretoria são ocupados por mulheres\n• Maternidade é o principal ponto de inflexão na carreira feminina"
-            },
-            {
-              "numero": 5,
-              "tipo": "Virada",
-              "titulo": "Mas existe um caminho.",
-              "texto": "Conhecer seus direitos, construir uma rede de apoio sólida, ter clareza do seu posicionamento profissional e não se isolar. A maternidade não precisa ser o fim da sua ambição."
-            },
-            {
-              "numero": 6,
-              "tipo": "CTA",
-              "titulo": "Você já sentiu isso na pele?",
-              "texto": "Me conta nos comentários. E salva esse carrossel para compartilhar com quem precisa ouvir isso. 💛"
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Salva esse vídeo e me conta: qual dessas perguntas te pegou mais? Comenta aqui."
             }
           ],
-          "legenda": "59% das mães brasileiras afirmam que a maternidade prejudicou sua carreira. 📊\n\nIsso não é estatística fria — é a realidade de milhões de mulheres que tiveram que escolher entre ser mãe e ser profissional.\n\nMas sabe o que ninguém te conta? Esse é um problema estrutural, não pessoal.\n\nSlide por slide, desmontei esse dado e trouxe o que você pode fazer para não se perder nessa estrutura que ainda não foi feita para nós.\n\nSalva e compartilha. 💛\n\n#maternidade #carreira #mulheresNoMercado #liderancaFeminina #priscillaandrade #posicionamento #empoderamento #trabalho"
+          "legenda": "Autoestima não é arrogância. É o mínimo que você deve a si mesma antes de amar alguém. 🌸\n\nAs 5 perguntas que toda mulher deveria responder antes de entrar em um relacionamento:\n\n1. Você se conhece?\n2. Você se aceita?\n3. Você tem limites?\n4. Você diferencia solidão de amor?\n5. Você busca parceiro ou salvador?\n\nSalva isso. Você vai precisar. 💛\n\n#AutoestimaFeminina #Autoconhecimento #RelacionamentoConsciente #PriscillaAndrade #Psicologia #IdentidadeFeminina #AmorProprio"
+        },
+        "post-estatico": {
+          "ideia": "Arte impactante com as 5 perguntas do checklist de autoestima antes de um relacionamento.",
+          "titulo_visual": "5 perguntas que você precisa responder ANTES de entrar em um relacionamento",
+          "legenda": "Autoestima em primeiro lugar. Sempre. 🌸\n\nQual dessas perguntas você ainda não sabe responder com segurança?\n\nSalva esse post — e compartilha com uma amiga que precisa ver isso.\n\n#AutoestimaFeminina #Checklist #Autoconhecimento #PriscillaAndrade #MulherConsciente #RelacionamentoSaudavel",
+          "cta": "Salva esse post — e compartilha com uma amiga que precisa ver isso."
         }
       }
     },
     {
       "id": 4,
-      "titulo": "Espiritualidade feminina: o autocuidado que vai além do espelho",
-      "resumo": "Cada vez mais mulheres estão descobrindo na espiritualidade um caminho para o autoconhecimento e a resiliência emocional — muito além das práticas de beleza convencionais. Para o público de Priscilla, que busca equilíbrio integral, esse conteúdo conecta espiritualidade com saúde mental e qualidade de vida de forma acessível e autêntica.",
-      "pilar": "Estilo de Vida & Espiritualidade",
-      "urgencia": "semana",
-      "formato_principal": "lo-fi",
+      "titulo": "O 'degrau quebrado' que impede mulheres de chegarem ao topo",
+      "resumo": "Pesquisa do LinkedIn 2026 mostra que apenas 30% das mulheres em cargos de entrada são promovidas, contra 43% dos homens. O fenômeno 'degrau quebrado' expõe que a barreira começa na primeira promoção, não no C-level. Tema urgente e provocador para o público que busca crescimento profissional.",
+      "pilar": "Posicionamento & Carreira",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "stories",
-        "post-estatico"
+        "carrossel"
       ],
-      "fonte": "Viva Saúde / Portal EdiCase",
+      "fonte": "LinkedIn / Movimento Mulher 360 / Vital Work 2026",
       "copies": {
-        "lo-fi": {
-          "ideia": "Falar sobre como a espiritualidade é uma ferramenta prática de equilíbrio emocional para mulheres — não algo distante ou restrito a uma religião específica.",
-          "gancho": "Autocuidado não começa na skincare. Começa em outro lugar.",
-          "o_que_falar": [
-            "A espiritualidade feminina não precisa ter nome de religião — ela é qualquer prática que te reconecta com você mesma: meditação, oração, natureza, silêncio.",
-            "Estudos mostram que mulheres que praticam algum tipo de espiritualidade têm maior resiliência emocional — se recuperam mais rápido de situações difíceis e se adaptam melhor a mudanças.",
-            "O problema é que a gente foi ensinada a cuidar do corpo e esqueceu da alma. E quando a alma está esvaziada, nenhuma rotinha de beleza preenche.",
-            "O que te reconecta com você mesma? Isso é a sua espiritualidade. E ela precisa ter espaço garantido na sua semana."
+        "reels-react": {
+          "ideia_central": "Existe um degrau invisível que quebra a trajetória das mulheres nas empresas — e você precisa saber onde ele está.",
+          "gancho": "Por que os homens chegam ao topo e as mulheres ficam para trás? Não é falta de competência. É um degrau que está quebrado.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Por que os homens chegam ao topo e as mulheres ficam para trás? Não é falta de competência. É um degrau que está quebrado."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Desenvolvimento",
+              "fala": "Pesquisa do LinkedIn revelou o chamado 'degrau quebrado': enquanto 43% dos homens em cargos de entrada são promovidos, apenas 30% das mulheres conseguem subir esse primeiro degrau. O problema não começa no C-level. Começa na primeira promoção que nunca chegou."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada",
+              "fala": "E o pior: mulheres em liderança ainda recebem menos apoio gerencial, menos oportunidades de capacitação e enfrentam mais esgotamento. A barreira não é sobre competência — é sobre um sistema que ainda não foi reformado. Saber disso é o primeiro passo para não internalizar o fracasso como seu."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Você já viveu isso? Comenta aqui. Vamos falar sobre isso juntas."
+            }
           ],
-          "legenda": "Autocuidado de verdade começa por dentro. ✨\n\nA espiritualidade feminina é um dos caminhos mais poderosos para o equilíbrio emocional — e não precisa ter um nome de religião específico.\n\nO que te silencia o barulho da cabeça e te reconecta com você mesma? Isso é espiritualidade.\n\nMe conta aqui: qual a sua prática? 👇\n\n#espiritualidade #autocuidado #estiloDeVida #mulheres #priscillaandrade #bemestar #autoconhecimento #saudeMental",
-          "vibe": "Câmera estática no rosto, luz natural suave de janela lateral, ambiente calmo — quarto ou sala arrumada. Tom de voz acolhedor e pausado. Sem edição pesada, máximo 1-2 cortes secos."
+          "legenda": "43% dos homens são promovidos no primeiro cargo. Entre as mulheres? Apenas 30%. 📊\n\nIsso tem nome: degrau quebrado. E não é culpa sua.\n\nO sistema ainda não está pronto para nos levar ao topo — mas isso não significa que você vai ficar parada. 💪\n\n#DegrauQuebrado #CarreiraFeminina #LiderancaFeminina #MercadoDeTrabalho #PriscillaAndrade #MulherNaLideranca #EmpodeamentoFeminino #CarreiraComProposito"
+        },
+        "carrossel": {
+          "ideia": "Explica o fenômeno do 'degrau quebrado' e dá 4 estratégias práticas para a mulher superar esse obstáculo.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "O 'degrau quebrado' da carreira feminina",
+              "subtitulo": "Por que mulheres competentes ficam para trás — e o que fazer"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "Os números que ninguém quer ver",
+              "texto": "Pesquisa LinkedIn 2026: 43% dos homens são promovidos no primeiro cargo de liderança. Mulheres? Apenas 30%. Esse abismo não começa no topo. Começa no primeiro degrau."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "O que causa o degrau quebrado?",
+              "texto": "• Mulheres recebem menos apoio gerencial\n• Menos indicações para capacitações estratégicas\n• Maior nível de esgotamento em cargos de liderança\n• Viés inconsciente nas decisões de promoção"
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "Como subir mesmo com o degrau quebrado",
+              "texto": "1. Torne suas conquistas visíveis — não espere ser notada\n2. Construa sua rede de apoio estrategicamente\n3. Peça feedback claro sobre critérios de promoção\n4. Não internalize o problema sistêmico como falha pessoal"
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "Você merece subir.",
+              "texto": "Salva esse conteúdo e compartilha com uma mulher da sua equipe. Juntas chegamos mais longe. 💛"
+            }
+          ],
+          "legenda": "O problema não é você. É o degrau que está quebrado. 🔥\n\nArrastinha e entende por que mulheres competentes ficam para trás — e como mudar isso.\n\nSalva e compartilha com sua rede! 💪\n\n#CarreiraFeminina #LiderancaFeminina #DegrauQuebrado #PriscillaAndrade #MulherNaCarreira #MercadoDeTrabalho2026 #CrescimentoProfissional"
         }
       }
     },
     {
       "id": 5,
-      "titulo": "Divórcio tardio: por que casais de mais de 50 anos estão se separando em massa",
-      "resumo": "O 'divórcio tardio' está crescendo globalmente — casais com décadas de relacionamento estão se separando após os 50 anos. Esse fenômeno revela mudanças profundas na forma como as mulheres encaram a segunda metade da vida e sua tolerância à insatisfação crônica no casamento.",
-      "pilar": "Casamento & Relacionamento",
+      "titulo": "Quando o empoderamento sexual feminino vira pressão",
+      "resumo": "Reportagem de maio de 2026 alerta: o discurso de empoderamento sexual passou a gerar uma nova forma de pressão sobre as mulheres, que se sentem obrigadas a performar liberdade. Tema polêmico e reflexivo que gera alto engajamento e aprofunda a conversa sobre autoimagem e identidade genuína.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "semana",
-      "formato_principal": "stories",
+      "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "reels-react",
-        "carrossel"
+        "lo-fi"
       ],
-      "fonte": "Gizmodo Brasil / Psicologia IBGE",
+      "fonte": "O Tempo — OTempo.com.br (maio 2026)",
       "copies": {
-        "stories": {
-          "total": 5,
-          "sequencia": [
+        "reels-react": {
+          "ideia_central": "O empoderamento que virou obrigação não é empoderamento — é uma nova gaiola com outra cor.",
+          "gancho": "Te disseram que você deveria se sentir poderosa. Mas e se esse 'dever' estiver te sufocando?",
+          "roteiro": [
             {
-              "numero": 1,
-              "tipo": "Gancho",
-              "texto": "Depois de 20, 30 anos juntos... eles se separaram. Por quê? 👀",
-              "recurso": "Texto em tela cheia com fundo escuro e letra grande"
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Te disseram que você deveria se sentir poderosa. Mas e se esse 'dever' estiver te sufocando?"
             },
             {
-              "numero": 2,
-              "tipo": "Contextualizacao",
-              "texto": "O 'divórcio tardio' está crescendo no mundo todo. Casais com mais de 50 anos — e décadas de relacionamento — estão se separando cada vez mais. O que está acontecendo?",
-              "recurso": "Caixa de texto com fundo neutro, fonte legível"
+              "tempo": "3–15s",
+              "descricao": "Desenvolvimento",
+              "fala": "Uma reportagem de maio de 2026 levantou algo que poucas estão dispostas a falar: o discurso de empoderamento sexual feminino, que nasceu para libertar, está criando uma nova pressão. Mulheres relatam se sentir obrigadas a performar liberdade, a querer mais, a ser menos 'retrógradas', mesmo quando não se identificam com isso."
             },
             {
-              "numero": 3,
-              "tipo": "Dado",
-              "texto": "Em 2010, um casamento durava em média 16 anos no Brasil. Hoje: 13 anos e 8 meses. E o divórcio tardio é um dos fenômenos por trás dessa queda.",
-              "recurso": "Destaque visual no número — fundo colorido com tipografia em negrito"
+              "tempo": "15–25s",
+              "descricao": "Virada",
+              "fala": "Empoderamento de verdade é você ter autonomia sobre o seu corpo, o seu desejo e as suas escolhas — incluindo a escolha de ser conservadora, de querer exclusividade, de não gostar de determinadas coisas. Qualquer discurso que te faz sentir culpada pelo que você genuinamente é... não é empoderamento. É mais um sistema de controle."
             },
             {
-              "numero": 4,
-              "tipo": "Reflexao",
-              "texto": "A mulher que chega aos 50 hoje não é a mesma de gerações anteriores. Ela tem mais autonomia, mais autoconhecimento e menos tolerância a um relacionamento que não a faz crescer.",
-              "recurso": "Enquete: Você acredita que é possível reconstruir um casamento depois de décadas?"
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "texto": "Quer entender mais sobre saúde conjugal e como construir um relacionamento que dure com qualidade? Me segue — esse é meu tema. 💛",
-              "recurso": "Link na bio / Arrasta para cima"
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Você já sentiu essa pressão? Me conta nos comentários. Esse assunto precisa de mais conversa."
             }
           ],
-          "interacao": "Enquete no story 4: 'Você acredita que é possível reconstruir um casamento depois de décadas?' — SIM / NÃO",
-          "conexao_feed": "Conecta com um reels sobre os pilares de um casamento saudável ou com carrossel sobre comunicação no relacionamento."
+          "legenda": "Empoderamento que vira obrigação não liberta — aprisiona. 🔓\n\nVocê tem o direito de ser quem você é, sem precisar performar liberdade que não é sua.\n\nVem conversar comigo nos comentários. 👇\n\n#EmpodeamentoFeminino #IdentidadeFeminina #AutoconhecimentoFeminino #PriscillaAndrade #Psicologia #LiberdadeFeminina #QuemSouEu #MulherAutentica"
+        },
+        "lo-fi": {
+          "ideia": "Vídeo reflexivo e honesto explorando a contradição entre o discurso de empoderamento e a nova pressão que ele cria sobre as mulheres.",
+          "gancho": "Eu preciso falar sobre algo que ninguém está querendo questionar sobre o empoderamento feminino.",
+          "o_que_falar": [
+            "Contextualizar: o empoderamento sexual nasceu como movimento de libertação, mas virou um novo padrão a ser seguido.",
+            "Dar exemplos concretos: mulher que quer relacionamento exclusivo e se sente 'antiquada'; mulher que não gosta de certas práticas mas sente pressão do grupo.",
+            "Definir empoderamento real: autonomia sobre suas escolhas — incluindo as que vão contra a corrente.",
+            "Deixar um convite: perguntar às seguidoras se já se sentiram pressionadas a performar uma versão 'empoderada' que não é delas."
+          ],
+          "legenda": "O empoderamento que te faz sentir culpada por ser você mesma precisa ser questionado. 💭\n\nNão é sobre certo ou errado. É sobre sua autenticidade.\n\n#EmpodeamentoFeminino #IdentidadeFeminina #PriscillaAndrade #Reflexao #AutoconhecimentoFeminino #MulherVerdadeira",
+          "vibe": "Câmera levemente inclinada, luz natural de tarde, tom reflexivo e provocador — sem trilha, silêncio intencional nos momentos de pausa"
         }
       }
     },
     {
       "id": 6,
-      "titulo": "Autoestima em 2025: ela não mora na aparência — e isso muda tudo",
-      "resumo": "O conceito de autoestima feminina está passando por uma transformação: do foco na aparência para a maneira como a mulher enfrenta desafios com confiança e desenvoltura. Esse ângulo é central para o trabalho de Priscilla, que ajuda mulheres a construírem uma identidade sólida e independente da validação externa.",
-      "pilar": "Autoimagem & Identidade",
+      "titulo": "As tendências de bem-estar que as mulheres mais conscientes já estão adotando em 2026",
+      "resumo": "O autocuidado em 2026 ganhou uma nova dimensão: não é mais sobre estética, mas sobre interpretar os sinais internos do corpo e da mente. As tendências incluem sono como prioridade estratégica, movimento intencional e reconexão espiritual. Conteúdo aspiracional e prático.",
+      "pilar": "Estilo de Vida & Espiritualidade",
       "urgencia": "semana",
-      "formato_principal": "carrossel",
+      "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "reels-react",
         "post-estatico"
       ],
-      "fonte": "Estado de Minas / UAI Notícias / Telavita",
+      "fonte": "Accor Limitless / AFinaMenina Blog / Revista ABM",
       "copies": {
-        "carrossel": {
-          "ideia": "Desconstruir a ideia de que autoestima é sobre aparência e mostrar que ela vive na relação da mulher com seus desafios, escolhas e emoções.",
-          "cards": [
+        "reels-react": {
+          "ideia_central": "O autocuidado de 2026 não é luxo — é uma prática de sobrevivência emocional e espiritual.",
+          "gancho": "Autocuidado em 2026 não é banheira com pétalas. É algo muito mais profundo — e a maioria das mulheres ainda não chegou lá.",
+          "roteiro": [
             {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Autoestima não mora no espelho.",
-              "subtitulo": "E entender isso é o que vai mudar a sua vida."
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Autocuidado em 2026 não é banheira com pétalas. É algo muito mais profundo — e a maioria das mulheres ainda não chegou lá."
             },
             {
-              "numero": 2,
-              "tipo": "Desenvolvimento",
-              "titulo": "O erro que a maioria das mulheres comete.",
-              "texto": "A gente foi ensinada que autoestima é sobre aparência. Cabelo, corpo, pele. E aí fica numa corrida sem fim atrás de uma imagem que nunca parece suficiente."
+              "tempo": "3–15s",
+              "descricao": "Desenvolvimento",
+              "fala": "As tendências de bem-estar deste ano colocam o autocuidado como capacidade de interpretar seus sinais internos. Sono regular e prioritário. Alimentação como medicina. Movimento que você gosta, não que você odeia. E espiritualidade — seja meditação, oração, contato com a natureza — como parte da rotina, não como exceção."
             },
             {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "O que a ciência diz sobre autoestima de verdade.",
-              "texto": "Autoestima sólida é a maneira como você enfrenta seus desafios com confiança e desenvoltura. É sobre como você reage quando algo dá errado. É sobre o quanto você se permite ocupar espaço."
+              "tempo": "15–25s",
+              "descricao": "Virada",
+              "fala": "A mulher que chegou nesse nível de autocuidado não precisa de motivação externa porque ela se tornou a maior defensora de si mesma. Ela sabe que quando está bem, tudo ao redor melhora: relacionamento, trabalho, presença com os filhos, clareza nas decisões."
             },
             {
-              "numero": 4,
-              "tipo": "Desenvolvimento",
-              "titulo": "Por que isso importa para sua vida real?",
-              "texto": "Mulheres com autoestima real sentem menos ansiedade, constroem relacionamentos mais saudáveis, avançam mais na carreira e tomam decisões a partir dos seus valores — não do medo."
-            },
-            {
-              "numero": 5,
-              "tipo": "Pratica",
-              "titulo": "Como construir autoestima de verdade:",
-              "texto": "✔ Reduza a autocrítica (não elimine, reduza)\n✔ Aja em direção ao que você valoriza, mesmo com medo\n✔ Pare de pedir desculpa por existir\n✔ Busque apoio profissional quando necessário"
-            },
-            {
-              "numero": 6,
-              "tipo": "CTA",
-              "titulo": "Autoestima se constrói. Todos os dias.",
-              "texto": "Salva esse carrossel e me conta: em qual área da sua vida a autoestima mais te trava? Quero ler! 💛"
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Me conta: qual é a sua prática de autocuidado mais importante agora? Comenta aqui."
             }
           ],
-          "legenda": "Autoestima não mora no espelho. 🪞\n\nE enquanto a gente continuar acreditando que sim, vai ficar presa numa corrida sem fim.\n\nA autoestima real é sobre a forma como você enfrenta a vida — com confiança, com presença, sem se diminuir.\n\nEsse carrossel é para você que já cansou de buscar autoestima do lado de fora. 💛\n\nSalva e compartilha com uma amiga.\n\n#autoestima #identidadeFeminina #autoconhecimento #psicologia #priscillaandrade #mulheres #comportamentoFeminino #saudeMental"
+          "legenda": "Autocuidado real não é estética — é sobrevivência emocional. 🌿\n\nA mulher que cuida de si mesma muda tudo ao redor dela.\n\nQual é a sua prática favorita de bem-estar? Me conta! 👇\n\n#Autocuidado2026 #BemEstarFeminino #EstiloDeVida #PriscillaAndrade #SaudeMental #Espiritualidade #EquilibrioFeminino #MulherQueSeCuida"
+        },
+        "post-estatico": {
+          "ideia": "Arte minimalista com os 4 pilares do autocuidado feminino em 2026.",
+          "titulo_visual": "Os 4 pilares do autocuidado que a mulher consciente pratica em 2026",
+          "legenda": "Física. Emocional. Mental. Espiritual. 🌿\n\nAutocuidado não é vaidade — é prioridade.\n\nSalva esse post como lembrete para esta semana. 💛\n\n#Autocuidado #BemEstarFeminino #Espiritualidade #SaudeMental #PriscillaAndrade #MulherEquilibrada #EquilibrioFeminino",
+          "cta": "Salva esse post e escolhe um pilar para focar essa semana."
         }
       }
     },
     {
       "id": 7,
-      "titulo": "Empresas com mulheres na liderança são 25% mais lucrativas — e ainda assim elas são minoria",
-      "resumo": "Dados da McKinsey mostram que empresas com maior presença feminina em cargos de liderança têm até 25% mais rentabilidade. Mesmo assim, mulheres representam apenas 29% dos cargos de diretoria no Brasil. Esse paradoxo é um conteúdo poderoso para motivar e informar mulheres que buscam avançar em espaços de liderança.",
-      "pilar": "Posicionamento & Carreira",
+      "titulo": "ROI emocional: a nova lógica da mulher que não desperdiça energia",
+      "resumo": "O conceito de 'ROI emocional' — retorno emocional sobre investimento — está entre as principais tendências de comportamento feminino de 2026. Mulheres estão sendo mais seletivas com onde investem seu tempo, atenção e emoção. Tema que conecta autoimagem, relacionamentos e carreira.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "semana",
-      "formato_principal": "post-estatico",
+      "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "carrossel",
-        "stories"
+        "carrossel"
       ],
-      "fonte": "McKinsey & Company / SEGS",
+      "fonte": "Meio & Mensagem / Women to Watch 2026",
       "copies": {
-        "post-estatico": {
-          "ideia": "Usar o dado da McKinsey para provocar reflexão sobre a sub-representação feminina na liderança e motivar mulheres a ocuparem esses espaços com estratégia.",
-          "titulo_visual": "25% mais lucrativas. Mas só 29% dos cargos de liderança são femininos.",
-          "legenda": "Os números não mentem. 📊\n\nEmpresas com mais mulheres na liderança são 25% mais lucrativas — segundo a McKinsey.\n\nMas no Brasil, mulheres ocupam apenas 29% dos cargos de diretoria.\n\nIsso não é um problema de capacidade. É um problema de estrutura, de acesso e de uma cultura que ainda não aprendeu a deixar a mulher ocupar seu lugar.\n\nE enquanto a estrutura não muda, a gente ocupa espaço de qualquer jeito. Com estratégia. Com posicionamento. Com propósito.\n\nVocê está se preparando para isso? 💛\n\n#liderancaFeminina #carreira #mulheresNoMercado #posicionamento #priscillaandrade #empoderamento #trabalho",
-          "cta": "Salva esse post e me conta nos comentários: qual é o maior obstáculo que você enfrenta para avançar na sua carreira?"
+        "reels-react": {
+          "ideia_central": "A mulher que entendeu o ROI emocional parou de se desperdiçar — no trabalho, nos relacionamentos e nas amizades.",
+          "gancho": "Você investe energia, tempo e emoção. Mas já parou para perguntar: qual é o retorno que você está tendo?",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Você investe energia, tempo e emoção. Mas já parou para perguntar: qual é o retorno que você está tendo?"
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Desenvolvimento",
+              "fala": "O conceito que está dominando o comportamento feminino em 2026 se chama ROI emocional — retorno emocional sobre investimento. Mulheres estão deixando de gastar energia em relacionamentos que não evoluem, em trabalhos que não valorizam, em amizades que só drenam. E isso não é egoísmo."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada",
+              "fala": "É inteligência emocional aplicada à vida real. Quando você entende que sua energia é um recurso finito e precioso, você começa a ser mais seletiva. Você para de aceitar migalhas em qualquer área da sua vida. E essa mudança transforma tudo."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Consegue identificar onde você tem o maior ROI emocional na sua vida agora? Me conta nos comentários!"
+            }
+          ],
+          "legenda": "Sua energia é finita. Invista com inteligência. 💡\n\nROI emocional: o conceito que está mudando a forma como as mulheres mais conscientes vivem em 2026.\n\nComo você está investindo a sua energia? 👇\n\n#ROIEmocional #EnergiaPessoal #InteligenciaEmocional #PriscillaAndrade #MulherConsciente #AutoconhecimentoFeminino #ComportamentoFeminino2026"
+        },
+        "carrossel": {
+          "ideia": "Explica o conceito de ROI emocional com exemplos práticos nas 3 áreas da vida: relacionamentos, carreira e amizades.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "ROI Emocional: você está investindo sua energia no lugar certo?",
+              "subtitulo": "O conceito que está mudando a vida das mulheres em 2026"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O que é ROI emocional?",
+              "texto": "É a relação entre o que você investe (tempo, energia, emoção) e o que você recebe de volta (crescimento, paz, amor, oportunidade). Mulheres de 2026 estão aprendendo a auditar esse retorno — e o que descobrem muda tudo."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Onde seu ROI está negativo?",
+              "texto": "Relacionamento: você dá 100% e recebe ansiedade?\nCarreira: você entrega além da conta e não é reconhecida?\nAmizade: você só aparece quando o outro precisa?\n\nSe o investimento não tem retorno — é hora de redistribuir."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "Ser seletiva não é egoísmo",
+              "texto": "É preservação. A mulher que se esgota tentando dar tudo para todo mundo termina sem nada para dar a si mesma. ROI emocional positivo é o que sustenta uma vida plena — não o sacrifício constante."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "Onde você vai realocar sua energia?",
+              "texto": "Salva esse carrossel e faz uma auditoria emocional da sua semana. Comenta qual área precisa de mais atenção! 💛"
+            }
+          ],
+          "legenda": "Para de desperdiçar energia onde não tem retorno. 💡\n\nArrastinha e entende o conceito que está transformando a relação das mulheres com tempo, amor e trabalho.\n\n#ROIEmocional #EnergiaPessoal #PriscillaAndrade #MulherConsciente #InteligenciaEmocional #AutoconhecimentoFeminino"
         }
       }
     },
     {
       "id": 8,
-      "titulo": "46% das mulheres têm ansiedade — e o seu relacionamento pode estar te adoecendo",
-      "resumo": "Dados de 2025 revelam que 46,2% das mulheres apresentam sintomas de ansiedade generalizada, contra 31,2% dos homens. Entre os fatores identificados estão sobrecarga doméstica, desigualdade de gênero e a qualidade dos relacionamentos. Para o público de Priscilla, esse cruzamento entre saúde mental e vida amorosa é profundo, urgente e com alto potencial de identificação.",
-      "pilar": "Estilo de Vida & Espiritualidade",
-      "urgencia": "hoje",
+      "titulo": "Desconexão silenciosa: o maior perigo que está destruindo casamentos por dentro",
+      "resumo": "Estudos mostram que casais que se divorciam ignoram os chamados de conexão na maioria do tempo, enquanto casais estáveis respondem em 86% das vezes. O desgaste do casamento não começa em uma grande crise — começa no silêncio cotidiano. Tema profundo e de alta identificação para mulheres casadas.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "semana",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "lo-fi",
-        "carrossel"
+        "lo-fi"
       ],
-      "fonte": "INE HealthNews / USP / OMS",
+      "fonte": "Hoje Amazônia / Blog Casamento 2026 / Pesquisa Gottman Institute",
       "copies": {
         "reels-react": {
-          "ideia_central": "Provocar a mulher a identificar se seu relacionamento é uma fonte de paz ou de ansiedade — e o que isso diz sobre sua saúde mental.",
-          "gancho": "Quase metade das mulheres tem ansiedade. E o seu relacionamento pode ser parte do problema.",
+          "ideia_central": "O casamento não morre de uma traição. Morre do silêncio acumulado durante anos.",
+          "gancho": "O casamento não morre de traição. Ele morre de algo muito mais silencioso — e a maioria dos casais não percebe até ser tarde.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Quase metade das mulheres tem ansiedade. 46%. E eu preciso te perguntar uma coisa: o seu relacionamento está te dando paz ou te adoecendo?"
+              "fala": "O casamento não morre de traição. Ele morre de algo muito mais silencioso — e a maioria dos casais não percebe até ser tarde."
             },
             {
               "tempo": "3–15s",
               "descricao": "Desenvolvimento",
-              "fala": "Um levantamento de 2025 mostrou que 46% das mulheres apresentam sintomas de ansiedade generalizada. E entre os fatores apontados estão: sobrecarga doméstica, pressão para ser multitarefa e — olha que importante — a qualidade dos relacionamentos. Um relacionamento que te faz sentir insegura cronicamente, que te cobra demais e te dá pouco, que te faz sentir pequena... ele está contribuindo para a sua ansiedade."
+              "fala": "Pesquisas sobre relacionamentos de longo prazo mostram que o principal fator de separação não é a traição. É a desconexão gradual. Aquele 'tá bom' no lugar de uma conversa real. Aquela noite no celular em vez de olho no olho. Aquele 'hoje não' repetido por semanas."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada",
-              "fala": "Não estou dizendo que o relacionamento tem que ser perfeito. Estou dizendo que ele precisa ser um lugar seguro. Um relacionamento que te esgota mais do que te sustenta não é apenas ruim emocionalmente — é clinicamente prejudicial para sua saúde."
+              "fala": "O que diferencia os casais que ficam juntos dos que se separam? Casais estáveis respondem aos chamados de conexão do parceiro em 86% das vezes. Os que se separam ignoram esses chamados na maior parte do tempo. Conexão não é um evento — é um hábito diário que você escolhe ou abandona."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Me conta aqui: quando você pensa no seu relacionamento, você sente paz ou ansiedade? Sem julgamento — só honestidade. Isso pode ser o primeiro passo para mudar algo."
+              "fala": "Você está respondendo aos chamados de conexão do seu parceiro? Pensa nisso e me conta nos comentários."
             }
           ],
-          "legenda": "46% das mulheres têm ansiedade. E o relacionamento pode ser parte da causa. 💔\n\nNão é fraqueza. É dado científico.\n\nUm relacionamento que te esgota, que te cobra e te dá pouco, que faz você se sentir insegura constantemente... não é só emocionalmente ruim. É clinicamente prejudicial.\n\nSeu relacionamento é uma fonte de paz ou de ansiedade?\n\nMe conta aqui — sem julgamento. 👇\n\n#ansiedade #saudeMental #relacionamento #mulheres #priscillaandrade #saudeEmocional #comportamentoFeminino #bemestar"
+          "legenda": "O casamento não morre de uma vez. Ele vai morrendo pouquinho por dia. 💔\n\nA pergunta que você precisa se fazer: quando foi a última vez que você e seu parceiro tiveram uma conexão real?\n\nVamos falar sobre isso. 👇\n\n#Casamento #ConexaoConjugal #RelacionamentoSaudavel #PriscillaAndrade #SaudeConjugal #Psicologia #MatrimonioConsciente #VidaACois"
+        },
+        "lo-fi": {
+          "ideia": "Vídeo íntimo e honesto sobre como a desconexão silenciosa no casamento é mais perigosa do que grandes crises.",
+          "gancho": "Quero te fazer uma pergunta sobre o seu casamento. E ela pode ser desconfortável.",
+          "o_que_falar": [
+            "Apresentar o conceito de desconexão silenciosa: não é uma crise, é o cotidiano que vai se afastando.",
+            "Dar exemplos do dia a dia: jantares no silêncio, dormir sem tocar, reclamar em vez de pedir, se sentir sozinha mesmo ao lado do parceiro.",
+            "Apresentar o dado: casais estáveis respondem aos chamados de conexão em 86% das vezes — e explicar o que são esses 'chamados'.",
+            "Encerrar com uma pergunta reflexiva: 'Quando foi a última vez que vocês tiveram uma conversa de verdade?'"
+          ],
+          "legenda": "O silêncio no casamento pode ser mais destruidor do que qualquer briga. 🤍\n\nA conexão não acontece sozinha — ela precisa ser escolhida, todos os dias.\n\n#Casamento #SaudeConjugal #ConexaoConjugal #PriscillaAndrade #RelacionamentoSaudavel #VidaACois",
+          "vibe": "Câmera estática, ambiente doméstico (sala ou quarto), iluminação quente e aconchegante, tom íntimo e reflexivo — como se fosse uma conversa particular"
         }
       }
     },
     {
       "id": 9,
-      "titulo": "Os 6 pilares de um relacionamento que realmente dura",
-      "resumo": "A psicologia identifica comunicação respeitosa, intimidade emocional, alinhamento de valores, corresponsabilidade, perdão e crescimento pessoal como os pilares de relacionamentos duradouros e saudáveis. Conteúdo evergreen com alta taxa de salvamento e compartilhamento pelo valor prático e atemporal.",
-      "pilar": "Casamento & Relacionamento",
+      "titulo": "Autoconhecimento: o ativo mais valioso da mulher que quer crescer na carreira e nos negócios",
+      "resumo": "Em 2026, o empreendedorismo feminino cresce impulsionado pelo autoconhecimento como base. Antes de saber o que o cliente precisa, a empreendedora precisa saber quem ela é. Tema evergreen que conecta identidade, propósito e posicionamento profissional.",
+      "pilar": "Posicionamento & Carreira",
       "urgencia": "evergreen",
-      "formato_principal": "post-estatico",
+      "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "carrossel",
-        "lo-fi"
+        "post-estatico"
       ],
-      "fonte": "Casamento em Harmonia / Psicologia Clínica",
+      "fonte": "Sebrae PR / Comunidade Sebrae 2026",
       "copies": {
+        "reels-react": {
+          "ideia_central": "Antes de construir um negócio ou uma carreira sólida, você precisa construir a si mesma.",
+          "gancho": "A pergunta que separa as empreendedoras que têm sucesso das que ficam travadas não é sobre estratégia. É bem mais íntima que isso.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "A pergunta que separa as empreendedoras que têm sucesso das que ficam travadas não é sobre estratégia. É bem mais íntima que isso."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Desenvolvimento",
+              "fala": "Especialistas do Sebrae apontam que o maior ativo do empreendedorismo feminino em 2026 é o autoconhecimento. Porque antes de saber o que o seu cliente precisa, você precisa saber quem você é. Quais são seus valores. O que você não abre mão. Qual é a sua forma única de ver o mundo."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada",
+              "fala": "E isso vale para a carreira também. A mulher que se conhece não fica esperando que o chefe perceba seu valor. Ela sabe articular o que entrega, pede o que merece e não aceita posições que contradizem quem ela é. Autoconhecimento não é filosofia — é estratégia de carreira."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Você diria que se conhece bem o suficiente para saber o que quer na sua carreira? Me conta nos comentários."
+            }
+          ],
+          "legenda": "Antes do negócio, antes da promoção — vem o autoconhecimento. 🔑\n\nA mulher que sabe quem ela é não fica esperando que o mundo a descubra. Ela apresenta.\n\nVocê se conhece o suficiente para isso? 👇\n\n#Autoconhecimento #EmpreendedorismoFeminino #CarreiraFeminina #PriscillaAndrade #Proposito #MulherDeNegocios #LiderancaFeminina #IdentidadeProfissional"
+        },
         "post-estatico": {
-          "ideia": "Apresentar os 6 pilares de forma visual e direta, gerando salvamentos e compartilhamentos por ser conteúdo de alto valor prático e atemporal.",
-          "titulo_visual": "6 pilares de um relacionamento que dura de verdade.",
-          "legenda": "Relacionamentos duradouros não são sortudos. Eles são construídos. 🏗️\n\nA psicologia identificou 6 pilares que sustentam um casamento saudável ao longo do tempo:\n\n1️⃣ Comunicação respeitosa\n2️⃣ Intimidade emocional e física\n3️⃣ Alinhamento de valores\n4️⃣ Corresponsabilidade\n5️⃣ Capacidade de perdoar\n6️⃣ Crescimento pessoal — juntos e individual\n\nQual desses pilares você sente que precisa fortalecer no seu relacionamento?\n\nSalva esse post. Pode ser útil mais de uma vez. 💛\n\n#casamento #relacionamento #relacionamentoSaudavel #psicologia #priscillaandrade #pilaresDoRelacionamento #amor #comunicacao",
-          "cta": "Salva e compartilha com quem está construindo algo sólido ao lado de alguém."
+          "ideia": "Arte com frase de impacto sobre autoconhecimento como base do sucesso profissional feminino.",
+          "titulo_visual": "\"Se você não sabe quem você é, como vai saber o que o mundo precisa de você?\"",
+          "legenda": "Autoconhecimento é estratégia. 🔑\n\nAntes de qualquer meta de carreira ou negócio, existe uma pergunta que precisa ser respondida: quem sou eu?\n\nSalva esse post como lembrete. 💛\n\n#Autoconhecimento #CarreiraFeminina #EmpreendedorismoFeminino #PriscillaAndrade #MulherDeNegocios #Proposito",
+          "cta": "Salva e compartilha com a mulher que você admira na carreira."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "titulo": "Os 4 pilares do equilíbrio feminino: físico, emocional, mental e espiritual",
+      "resumo": "A abordagem holística do bem-estar feminino integra quatro dimensões essenciais que se retroalimentam. Quando um pilar é negligenciado, os outros sofrem. Este framework de equilíbrio é evergreen e central para o posicionamento de Priscilla como especialista em qualidade de vida feminina.",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "urgencia": "evergreen",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Accor Limitless / Revista ABM / Sete Pétalas",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Quando você negligencia um pilar do seu equilíbrio, os outros três começam a desmoronar — e a maioria das mulheres só percebe quando já está no limite.",
+          "gancho": "Você cuida do corpo mas ignora o emocional. Cuida do emocional mas não tem vida espiritual. É por isso que mesmo fazendo tudo certo, você ainda se sente incompleta.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Você cuida do corpo mas ignora o emocional. Cuida do emocional mas não tem vida espiritual. É por isso que mesmo fazendo tudo certo, você ainda se sente incompleta."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Desenvolvimento",
+              "fala": "O equilíbrio feminino real tem quatro pilares que precisam ser trabalhados juntos: o físico — sono, movimento, alimentação; o emocional — seus relacionamentos, seus limites, como você processa o que sente; o mental — sua clareza, suas crenças, como você toma decisões; e o espiritual — sua conexão com algo maior, seja fé, propósito ou natureza."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada",
+              "fala": "Quando um pilar vai abaixo, os outros são puxados junto. A mulher que está esgotada emocionalmente começa a dormir mal, a se alimentar mal, a perder conexão espiritual. Não é fraqueza — é biologia integrada. A solução não é esforço em um único ponto. É equilíbrio estratégico nos quatro."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Qual dos quatro pilares você está mais negligenciando agora? Comenta aqui — pode ser que mais gente esteja na mesma situação."
+            }
+          ],
+          "legenda": "Equilíbrio não é fazer tudo igual — é saber onde você precisa de mais atenção agora. 🌿\n\nOs 4 pilares do bem-estar feminino:\n🏃‍♀️ Físico\n💙 Emocional\n🧠 Mental\n✨ Espiritual\n\nQual está pedindo socorro? 👇\n\n#EquilibrioFeminino #BemEstar #Espiritualidade #SaudeMental #PriscillaAndrade #4Pilares #MulherCompleta #EstiloDeVidaFeminino"
+        },
+        "carrossel": {
+          "ideia": "Apresenta cada um dos 4 pilares com uma pergunta diagnóstica e uma ação prática para cada.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "Os 4 pilares do equilíbrio feminino",
+              "subtitulo": "Descubra qual está te puxando para baixo"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "🏃‍♀️ Pilar Físico",
+              "texto": "Pergunta diagnóstica: você está dormindo bem, se movimentando e se alimentando de forma que te sustente?\n\nAção prática: escolha UMA melhoria para essa semana — dormir 30 min mais cedo, uma caminhada, uma refeição mais consciente."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "💙 Pilar Emocional + 🧠 Pilar Mental",
+              "texto": "Emocional: Você está processando suas emoções ou acumulando? Seus relacionamentos te nutrem?\n\nMental: Suas crenças te servem ou te limitam? Você toma decisões com clareza?\n\nAção: identifique uma emoção que você está evitando e uma crença que precisa ser questionada."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "✨ Pilar Espiritual",
+              "texto": "Não precisa ser religião — pode ser meditação, gratidão, conexão com a natureza, propósito.\n\nPergunta: você sente que pertence a algo maior do que você mesma? Essa sensação sustenta tudo o mais.\n\nAção: reserve 10 minutos por dia para uma prática espiritual sua."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "Qual pilar precisa de você agora?",
+              "texto": "Salva esse carrossel como seu guia de equilíbrio. Compartilha com uma amiga que também está em busca do seu equilíbrio. 🌿💛"
+            }
+          ],
+          "legenda": "Você não está incompleta — você está desequilibrada. E isso tem solução. 🌿\n\nArrastinha e descobre qual dos 4 pilares precisa da sua atenção agora.\n\nSalva como guia da semana! 💛\n\n#EquilibrioFeminino #4Pilares #BemEstarFeminino #PriscillaAndrade #Espiritualidade #SaudeMental #EstiloDeVida #MulherCompleta"
         }
       }
     }
