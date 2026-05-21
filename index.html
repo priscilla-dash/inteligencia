@@ -95,9 +95,13 @@
       margin-top: 2px;
     }
 
-    .header-meta {
-      text-align: right;
+    .header-right {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
     }
+
+    .header-meta { text-align: right; }
 
     .header-meta .data {
       font-family: var(--font-display);
@@ -112,6 +116,52 @@
       letter-spacing: 0.12em;
       color: var(--champagne-gold);
       margin-top: 2px;
+    }
+
+    /* ── RELOAD BUTTON ───────────────────────────── */
+    .reload-btn {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      background: rgba(201,169,110,0.15);
+      border: 1px solid rgba(201,169,110,0.35);
+      border-radius: 8px;
+      padding: 8px 14px;
+      font-family: var(--font-body);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--champagne-gold);
+      cursor: pointer;
+      transition: background 0.2s, border-color 0.2s;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .reload-btn:hover:not(:disabled) {
+      background: rgba(201,169,110,0.25);
+      border-color: rgba(201,169,110,0.6);
+    }
+
+    .reload-btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .reload-icon {
+      font-size: 0.85rem;
+      display: inline-block;
+      transition: transform 0.3s;
+    }
+
+    .reload-btn.loading .reload-icon {
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to   { transform: rotate(360deg); }
     }
 
     .header-chips {
@@ -134,11 +184,11 @@
       letter-spacing: 0.06em;
     }
 
-    .chip-urgente { background: rgba(192,57,43,0.18); color: #F5A49A; border: 1px solid rgba(192,57,43,0.3); }
-    .chip-semana  { background: rgba(184,134,11,0.18); color: #E8C96A; border: 1px solid rgba(184,134,11,0.3); }
-    .chip-evergreen { background: rgba(46,125,79,0.18); color: #8ACFA8; border: 1px solid rgba(46,125,79,0.3); }
+    .chip-urgente   { background: rgba(192,57,43,0.18);  color: #F5A49A; border: 1px solid rgba(192,57,43,0.3); }
+    .chip-semana    { background: rgba(184,134,11,0.18); color: #E8C96A; border: 1px solid rgba(184,134,11,0.3); }
+    .chip-evergreen { background: rgba(46,125,79,0.18);  color: #8ACFA8; border: 1px solid rgba(46,125,79,0.3); }
 
-    /* ── FILTER BAR ──────────────────────────────── */
+    /* ── FILTER + SEARCH BAR ─────────────────────── */
     .filter-wrap {
       background: var(--cream-silk);
       border-bottom: 1px solid var(--parchment);
@@ -176,11 +226,81 @@
       white-space: nowrap;
     }
 
-    .filter-btn:hover { color: var(--aurora-forest); }
+    .filter-btn:hover  { color: var(--aurora-forest); }
 
     .filter-btn.active {
       color: var(--aurora-forest);
       border-bottom-color: var(--champagne-gold);
+    }
+
+    /* ── SEARCH BAR ──────────────────────────────── */
+    .search-wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 10px 24px 14px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      border-top: 1px solid var(--parchment);
+    }
+
+    .search-icon {
+      font-size: 0.85rem;
+      color: var(--muted);
+      flex-shrink: 0;
+    }
+
+    .search-input {
+      flex: 1;
+      background: #fff;
+      border: 1px solid var(--parchment);
+      border-radius: 8px;
+      padding: 8px 14px;
+      font-family: var(--font-body);
+      font-size: 0.78rem;
+      font-weight: 400;
+      color: var(--deep-navy);
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .search-input::placeholder { color: var(--muted); }
+
+    .search-input:focus {
+      border-color: var(--champagne-gold);
+      box-shadow: 0 0 0 3px rgba(201,169,110,0.12);
+    }
+
+    .search-clear {
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-size: 0.75rem;
+      color: var(--muted);
+      padding: 4px 8px;
+      border-radius: 6px;
+      transition: color 0.2s, background 0.2s;
+      display: none;
+    }
+
+    .search-clear.visible { display: block; }
+    .search-clear:hover { color: var(--deep-navy); background: var(--parchment); }
+
+    .search-count {
+      font-size: 0.68rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    /* ── SEARCH HIGHLIGHT ────────────────────────── */
+    mark {
+      background: rgba(201,169,110,0.3);
+      color: inherit;
+      border-radius: 2px;
+      padding: 0 1px;
     }
 
     /* ── MAIN CONTENT ────────────────────────────── */
@@ -190,9 +310,7 @@
       padding: 32px 24px 64px;
     }
 
-    .section {
-      margin-bottom: 48px;
-    }
+    .section { margin-bottom: 48px; }
 
     .section-header {
       display: flex;
@@ -216,20 +334,14 @@
       border-radius: 12px;
     }
 
-    .section-urgente .section-label { color: var(--urgente); }
-    .section-urgente .section-count { background: var(--urgente-bg); color: var(--urgente); }
-
-    .section-semana .section-label { color: var(--semana); }
-    .section-semana .section-count { background: var(--semana-bg); color: var(--semana); }
-
+    .section-urgente  .section-label { color: var(--urgente); }
+    .section-urgente  .section-count { background: var(--urgente-bg);   color: var(--urgente); }
+    .section-semana   .section-label { color: var(--semana); }
+    .section-semana   .section-count { background: var(--semana-bg);    color: var(--semana); }
     .section-evergreen .section-label { color: var(--evergreen); }
     .section-evergreen .section-count { background: var(--evergreen-bg); color: var(--evergreen); }
 
-    .section-divider {
-      height: 1px;
-      background: var(--parchment);
-      margin-bottom: 20px;
-    }
+    .section-divider { height: 1px; background: var(--parchment); margin-bottom: 20px; }
 
     /* ── CARDS GRID ──────────────────────────────── */
     .cards-grid {
@@ -250,13 +362,10 @@
       border-top: 3px solid transparent;
     }
 
-    .card:hover {
-      box-shadow: var(--shadow-hover);
-      transform: translateY(-2px);
-    }
+    .card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); }
 
-    .card.urgente { border-top-color: var(--urgente); }
-    .card.semana  { border-top-color: var(--semana); }
+    .card.urgente   { border-top-color: var(--urgente); }
+    .card.semana    { border-top-color: var(--semana); }
     .card.evergreen { border-top-color: var(--evergreen); }
 
     .card-head {
@@ -328,7 +437,6 @@
     }
 
     .gancho-box:hover { background: linear-gradient(135deg, #FAF0DC, #F7EACC); }
-
     .gancho-box:hover .copy-hint { opacity: 1; }
 
     .gancho-text {
@@ -368,13 +476,7 @@
     .copy-flash.show { opacity: 1; }
 
     /* ── FORMAT TAGS ─────────────────────────────── */
-    .format-tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-      margin-top: auto;
-      padding-top: 4px;
-    }
+    .format-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: auto; padding-top: 4px; }
 
     .format-tag {
       font-size: 0.63rem;
@@ -394,7 +496,7 @@
       font-weight: 600;
     }
 
-    /* ── EMPTY STATE ─────────────────────────────── */
+    /* ── STATES ──────────────────────────────────── */
     .empty-state {
       grid-column: 1 / -1;
       text-align: center;
@@ -404,12 +506,7 @@
       font-style: italic;
     }
 
-    /* ── LOADING ─────────────────────────────────── */
-    .loading-state {
-      text-align: center;
-      padding: 80px 24px;
-      color: var(--muted);
-    }
+    .loading-state { text-align: center; padding: 80px 24px; color: var(--muted); }
 
     .loading-crown {
       font-size: 2.5rem;
@@ -418,14 +515,20 @@
       animation: pulse 1.5s ease-in-out infinite;
     }
 
-    @keyframes pulse {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.4; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+
+    .card.hidden  { display: none; }
+    .section.all-hidden { display: none; }
+
+    /* ── NO RESULTS ──────────────────────────────── */
+    .no-results {
+      text-align: center;
+      padding: 60px 24px;
+      color: var(--muted);
     }
 
-    /* ── HIDDEN ──────────────────────────────────── */
-    .card.hidden { display: none; }
-    .section.all-hidden { display: none; }
+    .no-results-icon { font-size: 2rem; display: block; margin-bottom: 12px; }
+    .no-results p { font-size: 0.85rem; font-style: italic; }
 
     /* ── FOOTER ──────────────────────────────────── */
     footer {
@@ -443,12 +546,15 @@
     @media (max-width: 768px) {
       header { padding: 24px 16px 0; }
       .header-inner { flex-direction: column; gap: 12px; }
+      .header-right { flex-direction: row; align-items: center; justify-content: space-between; width: 100%; }
       .header-meta { text-align: left; }
       .header-chips { padding-bottom: 16px; }
       main { padding: 24px 16px 48px; }
       .cards-grid { grid-template-columns: 1fr; }
       .brand h1 { font-size: 1.35rem; }
       .filter-bar { padding: 0 16px; }
+      .search-wrap { padding: 10px 16px 14px; }
+      .reload-btn span.reload-label { display: none; }
     }
   </style>
 </head>
@@ -463,14 +569,20 @@
           <p>Priscilla Andrade</p>
         </div>
       </div>
-      <div class="header-meta">
-        <div class="data" id="data-display">—</div>
-        <div class="hora" id="hora-display">Carregando...</div>
+      <div class="header-right">
+        <div class="header-meta">
+          <div class="data" id="data-display">—</div>
+          <div class="hora" id="hora-display">Carregando...</div>
+        </div>
+        <button class="reload-btn" id="reload-btn" onclick="reloadBriefing()" title="Recarregar briefing">
+          <span class="reload-icon">↻</span>
+          <span class="reload-label">Atualizar</span>
+        </button>
       </div>
     </div>
     <div class="header-chips">
-      <span class="chip chip-urgente" id="chip-urgente">— urgentes hoje</span>
-      <span class="chip chip-semana"  id="chip-semana">— esta semana</span>
+      <span class="chip chip-urgente"   id="chip-urgente">— urgentes hoje</span>
+      <span class="chip chip-semana"    id="chip-semana">— esta semana</span>
       <span class="chip chip-evergreen" id="chip-evergreen">— evergreen</span>
     </div>
   </header>
@@ -482,6 +594,19 @@
       <button class="filter-btn" data-filter="autoimagem">Autoimagem & Identidade</button>
       <button class="filter-btn" data-filter="posicionamento">Posicionamento & Carreira</button>
       <button class="filter-btn" data-filter="estilo">Estilo de Vida</button>
+    </div>
+    <div class="search-wrap">
+      <span class="search-icon">🔍</span>
+      <input
+        type="text"
+        class="search-input"
+        id="search-input"
+        placeholder="Pesquisar por palavra, tema ou gancho..."
+        autocomplete="off"
+        spellcheck="false"
+      >
+      <button class="search-clear" id="search-clear" onclick="clearSearch()" title="Limpar">✕</button>
+      <span class="search-count" id="search-count"></span>
     </div>
   </div>
 
@@ -499,35 +624,61 @@
   <script>
     // ── MAPPINGS ────────────────────────────────────────
     const TIPO_LABELS = {
-      'reacao-celebridade':   '⭐ Reação Celebridade',
+      'reacao-celebridade':     '⭐ Reação Celebridade',
       'comportamento-feminino': '👗 Comportamento Feminino',
-      'casal-relacionamento': '💍 Casal & Relacionamento',
-      'trend-instagram':      '📱 Trend Instagram',
-      'noticia':              '📰 Notícia',
-      'evergreen-reativado':  '♻️ Evergreen Reativado',
+      'casal-relacionamento':   '💍 Casal & Relacionamento',
+      'trend-instagram':        '📱 Trend Instagram',
+      'noticia':                '📰 Notícia',
+      'evergreen-reativado':    '♻️ Evergreen Reativado',
     };
 
     const FORMATO_LABELS = {
-      'reels-react':  'Reels React',
-      'lo-fi':        'Lo-fi',
-      'carrossel':    'Carrossel',
-      'stories':      'Stories',
-      'post-estatico':'Post Estático',
+      'reels-react':   'Reels React',
+      'lo-fi':         'Lo-fi',
+      'carrossel':     'Carrossel',
+      'stories':       'Stories',
+      'post-estatico': 'Post Estático',
     };
 
     const PILAR_FILTER = {
-      'Casamento & Relacionamento': 'casamento',
-      'Autoimagem & Identidade':    'autoimagem',
-      'Posicionamento & Carreira':  'posicionamento',
+      'Casamento & Relacionamento':       'casamento',
+      'Autoimagem & Identidade':          'autoimagem',
+      'Posicionamento & Carreira':        'posicionamento',
       'Estilo de Vida & Espiritualidade': 'estilo',
     };
 
+    // ── STATE ───────────────────────────────────────────
+    let activeFilter = 'all';
+    let searchQuery  = '';
+    let currentData  = null;
+
+    // ── NORMALIZE (remove acentos para busca) ───────────
+    function norm(str) {
+      return (str || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+    }
+
+    // ── HIGHLIGHT ───────────────────────────────────────
+    function highlight(text, query) {
+      if (!query) return text;
+      const nq = norm(query);
+      const nt = norm(text);
+      let result = '', i = 0;
+      while (i < text.length) {
+        const idx = nt.indexOf(nq, i);
+        if (idx === -1) { result += text.slice(i); break; }
+        result += text.slice(i, idx) + '<mark>' + text.slice(idx, idx + nq.length) + '</mark>';
+        i = idx + nq.length;
+      }
+      return result;
+    }
+
     // ── BUILD CARD ──────────────────────────────────────
-    function buildCard(item) {
-      const urgClass = item.urgencia === 'hoje' ? 'urgente'
-                     : item.urgencia === 'semana' ? 'semana' : 'evergreen';
-      const pilarKey = PILAR_FILTER[item.pilar] || '';
+    function buildCard(item, query) {
+      const urgClass  = item.urgencia === 'hoje' ? 'urgente' : item.urgencia === 'semana' ? 'semana' : 'evergreen';
+      const pilarKey  = PILAR_FILTER[item.pilar] || '';
       const tipoLabel = TIPO_LABELS[item.tipo] || item.tipo;
+
+      const hl = t => highlight(t, query);
 
       const formatTagsHTML = item.formatos.map(f => {
         const isPrincipal = f === item.formato_principal;
@@ -536,23 +687,24 @@
       }).join('');
 
       return `
-        <article class="card ${urgClass}" data-pilar="${pilarKey}" data-id="${item.id}">
+        <article class="card ${urgClass}" data-pilar="${pilarKey}" data-id="${item.id}"
+          data-search="${norm(item.trend + ' ' + item.angulo + ' ' + item.gancho + ' ' + item.pilar)}">
           <div class="card-head">
             <span class="tipo-badge">${tipoLabel}</span>
             <span class="pilar-tag">${item.pilar}</span>
           </div>
           <div class="card-body">
-            <p class="card-trend">${item.trend}</p>
+            <p class="card-trend">${hl(item.trend)}</p>
 
             <div>
               <div class="card-label">Ângulo da Priscilla</div>
-              <p class="card-angulo">${item.angulo}</p>
+              <p class="card-angulo">${hl(item.angulo)}</p>
             </div>
 
             <div>
               <div class="card-label">Gancho Pronto — clique para copiar</div>
               <div class="gancho-box" onclick="copyGancho(this, '${escapeAttr(item.gancho)}')">
-                <p class="gancho-text">"${item.gancho}"</p>
+                <p class="gancho-text">"${hl(item.gancho)}"</p>
                 <p class="copy-hint">Clique para copiar</p>
                 <span class="copy-flash">Copiado ✓</span>
               </div>
@@ -566,23 +718,24 @@
         </article>`;
     }
 
-    // ── RENDER ALL ──────────────────────────────────────
+    // ── RENDER ──────────────────────────────────────────
     function renderDashboard(data) {
+      currentData = data;
+
       const hoje   = data.items.filter(i => i.urgencia === 'hoje');
       const semana = data.items.filter(i => i.urgencia === 'semana');
       const ever   = data.items.filter(i => i.urgencia === 'evergreen');
 
-      // Header meta
-      document.getElementById('data-display').textContent = data.data;
-      document.getElementById('hora-display').textContent = `Atualizado às ${data.atualizado}`;
-      document.getElementById('chip-urgente').textContent = `${hoje.length} urgente${hoje.length !== 1 ? 's' : ''} hoje`;
-      document.getElementById('chip-semana').textContent  = `${semana.length} esta semana`;
+      document.getElementById('data-display').textContent  = data.data;
+      document.getElementById('hora-display').textContent  = `Atualizado às ${data.atualizado}`;
+      document.getElementById('chip-urgente').textContent  = `${hoje.length} urgente${hoje.length !== 1 ? 's' : ''} hoje`;
+      document.getElementById('chip-semana').textContent   = `${semana.length} esta semana`;
       document.getElementById('chip-evergreen').textContent = `${ever.length} evergreen`;
 
       const sections = [
-        { items: hoje,   cls: 'urgente',  emoji: '🔴', label: 'Urgente Hoje' },
-        { items: semana, cls: 'semana',   emoji: '🟡', label: 'Esta Semana' },
-        { items: ever,   cls: 'evergreen',emoji: '🟢', label: 'Evergreen' },
+        { items: hoje,   cls: 'urgente',   emoji: '🔴', label: 'Urgente Hoje' },
+        { items: semana, cls: 'semana',    emoji: '🟡', label: 'Esta Semana' },
+        { items: ever,   cls: 'evergreen', emoji: '🟢', label: 'Evergreen' },
       ];
 
       const main = document.getElementById('main-content');
@@ -596,38 +749,87 @@
           <div class="section-divider"></div>
           <div class="cards-grid" id="grid-${s.cls}">
             ${s.items.length
-              ? s.items.map(buildCard).join('')
+              ? s.items.map(item => buildCard(item, searchQuery)).join('')
               : '<p class="empty-state">Nenhum item nesta categoria.</p>'}
           </div>
         </section>`
       ).join('');
+
+      applyFilters();
     }
 
-    // ── FILTER ──────────────────────────────────────────
-    let activeFilter = 'all';
+    // ── APPLY FILTERS (pilar + search) ──────────────────
+    function applyFilters() {
+      const nq = norm(searchQuery);
+      let visible = 0;
 
+      document.querySelectorAll('.card').forEach(card => {
+        const pilarMatch  = activeFilter === 'all' || card.dataset.pilar === activeFilter;
+        const searchMatch = !nq || card.dataset.search.includes(nq);
+        const show = pilarMatch && searchMatch;
+        card.classList.toggle('hidden', !show);
+        if (show) visible++;
+      });
+
+      document.querySelectorAll('.section').forEach(sec => {
+        const hasVisible = sec.querySelectorAll('.card:not(.hidden)').length > 0;
+        sec.classList.toggle('all-hidden', !hasVisible);
+      });
+
+      // Search count feedback
+      const countEl = document.getElementById('search-count');
+      if (nq && currentData) {
+        countEl.textContent = `${visible} resultado${visible !== 1 ? 's' : ''}`;
+      } else {
+        countEl.textContent = '';
+      }
+
+      // No results global
+      const noRes = document.getElementById('no-results-global');
+      if (visible === 0 && currentData) {
+        if (!noRes) {
+          const div = document.createElement('div');
+          div.id = 'no-results-global';
+          div.className = 'no-results';
+          div.innerHTML = `<span class="no-results-icon">🔍</span><p>Nenhum resultado encontrado para "<strong>${searchQuery}</strong>".</p>`;
+          document.getElementById('main-content').appendChild(div);
+        }
+      } else if (noRes) {
+        noRes.remove();
+      }
+    }
+
+    // ── PILAR FILTER ────────────────────────────────────
     document.querySelectorAll('.filter-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         activeFilter = btn.dataset.filter;
         document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
-        applyFilter();
+        applyFilters();
       });
     });
 
-    function applyFilter() {
-      document.querySelectorAll('.card').forEach(card => {
-        if (activeFilter === 'all' || card.dataset.pilar === activeFilter) {
-          card.classList.remove('hidden');
-        } else {
-          card.classList.add('hidden');
-        }
-      });
+    // ── SEARCH ──────────────────────────────────────────
+    const searchInput = document.getElementById('search-input');
+    const searchClear = document.getElementById('search-clear');
 
-      document.querySelectorAll('.section').forEach(sec => {
-        const visible = sec.querySelectorAll('.card:not(.hidden)').length;
-        sec.classList.toggle('all-hidden', visible === 0 && activeFilter !== 'all');
-      });
+    searchInput.addEventListener('input', () => {
+      searchQuery = searchInput.value.trim();
+      searchClear.classList.toggle('visible', searchQuery.length > 0);
+
+      if (currentData) {
+        // Re-render with highlight
+        renderDashboard(currentData);
+      }
+    });
+
+    function clearSearch() {
+      searchInput.value = '';
+      searchQuery = '';
+      searchClear.classList.remove('visible');
+      document.getElementById('search-count').textContent = '';
+      if (currentData) renderDashboard(currentData);
+      searchInput.focus();
     }
 
     // ── COPY GANCHO ─────────────────────────────────────
@@ -650,23 +852,52 @@
       return str.replace(/'/g, "\\'").replace(/"/g, '&quot;');
     }
 
-    // ── LOAD DATA ───────────────────────────────────────
-    fetch('briefing.json?v=' + Date.now())
-      .then(r => {
-        if (!r.ok) throw new Error('HTTP ' + r.status);
-        return r.json();
-      })
-      .then(data => renderDashboard(data))
-      .catch(err => {
+    // ── LOAD BRIEFING ───────────────────────────────────
+    function loadBriefing(showLoader) {
+      if (showLoader) {
         document.getElementById('main-content').innerHTML = `
           <div class="loading-state">
-            <span style="font-size:2rem;display:block;margin-bottom:12px">⚠️</span>
-            <p style="color:#8A8070;font-size:0.85rem">
-              Não foi possível carregar o briefing de hoje.<br>
-              Verifique se o arquivo <strong>briefing.json</strong> está no mesmo diretório.
-            </p>
+            <span class="loading-crown">♛</span>
+            <p>Carregando inteligência do dia...</p>
           </div>`;
-      });
+      }
+
+      fetch('briefing.json?v=' + Date.now())
+        .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+        .then(data => {
+          renderDashboard(data);
+          stopReloadAnim();
+        })
+        .catch(() => {
+          stopReloadAnim();
+          document.getElementById('main-content').innerHTML = `
+            <div class="loading-state">
+              <span style="font-size:2rem;display:block;margin-bottom:12px">⚠️</span>
+              <p style="color:#8A8070;font-size:0.85rem">
+                Não foi possível carregar o briefing de hoje.<br>
+                Tente novamente em alguns instantes.
+              </p>
+            </div>`;
+        });
+    }
+
+    // ── RELOAD BUTTON ───────────────────────────────────
+    function reloadBriefing() {
+      const btn = document.getElementById('reload-btn');
+      btn.classList.add('loading');
+      btn.disabled = true;
+      document.getElementById('hora-display').textContent = 'Atualizando...';
+      loadBriefing(false);
+    }
+
+    function stopReloadAnim() {
+      const btn = document.getElementById('reload-btn');
+      btn.classList.remove('loading');
+      btn.disabled = false;
+    }
+
+    // ── INIT ────────────────────────────────────────────
+    loadBriefing(true);
   </script>
 </body>
 </html>
