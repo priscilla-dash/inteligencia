@@ -65,17 +65,8 @@
       flex-wrap: wrap;
     }
 
-    .brand {
-      display: flex;
-      align-items: center;
-      gap: 14px;
-    }
-
-    .brand-crown {
-      font-size: 2rem;
-      color: var(--champagne-gold);
-      line-height: 1;
-    }
+    .brand { display: flex; align-items: center; gap: 14px; }
+    .brand-crown { font-size: 2rem; color: var(--champagne-gold); line-height: 1; }
 
     .brand h1 {
       font-family: var(--font-display);
@@ -95,30 +86,11 @@
       margin-top: 2px;
     }
 
-    .header-right {
-      display: flex;
-      align-items: flex-start;
-      gap: 14px;
-    }
-
+    .header-right { display: flex; align-items: flex-start; gap: 14px; }
     .header-meta { text-align: right; }
+    .header-meta .data { font-family: var(--font-display); font-size: 1.1rem; font-style: italic; color: var(--cream-silk); }
+    .header-meta .hora { font-size: 0.68rem; font-weight: 400; letter-spacing: 0.12em; color: var(--champagne-gold); margin-top: 2px; }
 
-    .header-meta .data {
-      font-family: var(--font-display);
-      font-size: 1.1rem;
-      font-style: italic;
-      color: var(--cream-silk);
-    }
-
-    .header-meta .hora {
-      font-size: 0.68rem;
-      font-weight: 400;
-      letter-spacing: 0.12em;
-      color: var(--champagne-gold);
-      margin-top: 2px;
-    }
-
-    /* ── RELOAD BUTTON ───────────────────────────── */
     .reload-btn {
       display: flex;
       align-items: center;
@@ -139,30 +111,12 @@
       flex-shrink: 0;
     }
 
-    .reload-btn:hover:not(:disabled) {
-      background: rgba(201,169,110,0.25);
-      border-color: rgba(201,169,110,0.6);
-    }
+    .reload-btn:hover:not(:disabled) { background: rgba(201,169,110,0.25); border-color: rgba(201,169,110,0.6); }
+    .reload-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    .reload-icon { font-size: 0.85rem; display: inline-block; transition: transform 0.3s; }
+    .reload-btn.loading .reload-icon { animation: spin 0.8s linear infinite; }
 
-    .reload-btn:disabled {
-      opacity: 0.5;
-      cursor: not-allowed;
-    }
-
-    .reload-icon {
-      font-size: 0.85rem;
-      display: inline-block;
-      transition: transform 0.3s;
-    }
-
-    .reload-btn.loading .reload-icon {
-      animation: spin 0.8s linear infinite;
-    }
-
-    @keyframes spin {
-      from { transform: rotate(0deg); }
-      to   { transform: rotate(360deg); }
-    }
+    @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
 
     .header-chips {
       max-width: 1200px;
@@ -188,7 +142,7 @@
     .chip-semana    { background: rgba(184,134,11,0.18); color: #E8C96A; border: 1px solid rgba(184,134,11,0.3); }
     .chip-evergreen { background: rgba(46,125,79,0.18);  color: #8ACFA8; border: 1px solid rgba(46,125,79,0.3); }
 
-    /* ── FILTER + SEARCH BAR ─────────────────────── */
+    /* ── FILTER BAR ──────────────────────────────── */
     .filter-wrap {
       background: var(--cream-silk);
       border-bottom: 1px solid var(--parchment);
@@ -226,12 +180,8 @@
       white-space: nowrap;
     }
 
-    .filter-btn:hover  { color: var(--aurora-forest); }
-
-    .filter-btn.active {
-      color: var(--aurora-forest);
-      border-bottom-color: var(--champagne-gold);
-    }
+    .filter-btn:hover { color: var(--aurora-forest); }
+    .filter-btn.active { color: var(--aurora-forest); border-bottom-color: var(--champagne-gold); }
 
     /* ── SEARCH BAR ──────────────────────────────── */
     .search-wrap {
@@ -244,11 +194,7 @@
       border-top: 1px solid var(--parchment);
     }
 
-    .search-icon {
-      font-size: 0.85rem;
-      color: var(--muted);
-      flex-shrink: 0;
-    }
+    .search-icon { font-size: 0.85rem; color: var(--muted); flex-shrink: 0; }
 
     .search-input {
       flex: 1;
@@ -265,11 +211,7 @@
     }
 
     .search-input::placeholder { color: var(--muted); }
-
-    .search-input:focus {
-      border-color: var(--champagne-gold);
-      box-shadow: 0 0 0 3px rgba(201,169,110,0.12);
-    }
+    .search-input:focus { border-color: var(--champagne-gold); box-shadow: 0 0 0 3px rgba(201,169,110,0.12); }
 
     .search-clear {
       background: none;
@@ -286,69 +228,28 @@
     .search-clear.visible { display: block; }
     .search-clear:hover { color: var(--deep-navy); background: var(--parchment); }
 
-    .search-count {
-      font-size: 0.68rem;
-      font-weight: 500;
-      letter-spacing: 0.06em;
-      color: var(--muted);
-      white-space: nowrap;
-      flex-shrink: 0;
-    }
+    .search-count { font-size: 0.68rem; font-weight: 500; letter-spacing: 0.06em; color: var(--muted); white-space: nowrap; flex-shrink: 0; }
 
-    /* ── SEARCH HIGHLIGHT ────────────────────────── */
-    mark {
-      background: rgba(201,169,110,0.3);
-      color: inherit;
-      border-radius: 2px;
-      padding: 0 1px;
-    }
+    mark { background: rgba(201,169,110,0.3); color: inherit; border-radius: 2px; padding: 0 1px; }
 
     /* ── MAIN CONTENT ────────────────────────────── */
-    main {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 32px 24px 64px;
-    }
-
+    main { max-width: 1200px; margin: 0 auto; padding: 32px 24px 64px; }
     .section { margin-bottom: 48px; }
+    .section-header { display: flex; align-items: center; gap: 10px; margin-bottom: 20px; }
 
-    .section-header {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      margin-bottom: 20px;
-    }
-
-    .section-label {
-      font-family: var(--font-display);
-      font-size: 1.35rem;
-      font-weight: 400;
-      letter-spacing: 0.03em;
-    }
-
-    .section-count {
-      font-size: 0.68rem;
-      font-weight: 600;
-      letter-spacing: 0.1em;
-      padding: 3px 10px;
-      border-radius: 12px;
-    }
+    .section-label { font-family: var(--font-display); font-size: 1.35rem; font-weight: 400; letter-spacing: 0.03em; }
+    .section-count { font-size: 0.68rem; font-weight: 600; letter-spacing: 0.1em; padding: 3px 10px; border-radius: 12px; }
 
     .section-urgente  .section-label { color: var(--urgente); }
-    .section-urgente  .section-count { background: var(--urgente-bg);   color: var(--urgente); }
+    .section-urgente  .section-count { background: var(--urgente-bg); color: var(--urgente); }
     .section-semana   .section-label { color: var(--semana); }
-    .section-semana   .section-count { background: var(--semana-bg);    color: var(--semana); }
+    .section-semana   .section-count { background: var(--semana-bg); color: var(--semana); }
     .section-evergreen .section-label { color: var(--evergreen); }
     .section-evergreen .section-count { background: var(--evergreen-bg); color: var(--evergreen); }
-
     .section-divider { height: 1px; background: var(--parchment); margin-bottom: 20px; }
 
     /* ── CARDS GRID ──────────────────────────────── */
-    .cards-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-      gap: 16px;
-    }
+    .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 16px; }
 
     /* ── CARD ────────────────────────────────────── */
     .card {
@@ -363,18 +264,11 @@
     }
 
     .card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); }
-
     .card.urgente   { border-top-color: var(--urgente); }
     .card.semana    { border-top-color: var(--semana); }
     .card.evergreen { border-top-color: var(--evergreen); }
 
-    .card-head {
-      padding: 14px 16px 10px;
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      gap: 8px;
-    }
+    .card-head { padding: 14px 16px 10px; display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
 
     .tipo-badge {
       font-size: 0.62rem;
@@ -401,30 +295,10 @@
     }
 
     .card-body { padding: 0 16px 14px; flex: 1; display: flex; flex-direction: column; gap: 12px; }
+    .card-trend { font-family: var(--font-display); font-size: 0.95rem; font-weight: 400; line-height: 1.45; color: var(--deep-navy); }
 
-    .card-trend {
-      font-family: var(--font-display);
-      font-size: 0.95rem;
-      font-weight: 400;
-      line-height: 1.45;
-      color: var(--deep-navy);
-    }
-
-    .card-label {
-      font-size: 0.6rem;
-      font-weight: 600;
-      letter-spacing: 0.15em;
-      text-transform: uppercase;
-      color: var(--muted);
-      margin-bottom: 3px;
-    }
-
-    .card-angulo {
-      font-size: 0.8rem;
-      line-height: 1.55;
-      color: #4A4035;
-      font-weight: 300;
-    }
+    .card-label { font-size: 0.6rem; font-weight: 600; letter-spacing: 0.15em; text-transform: uppercase; color: var(--muted); margin-bottom: 3px; }
+    .card-angulo { font-size: 0.8rem; line-height: 1.55; color: #4A4035; font-weight: 300; }
 
     .gancho-box {
       background: linear-gradient(135deg, #FDF8F0, #FAF4E8);
@@ -439,25 +313,8 @@
     .gancho-box:hover { background: linear-gradient(135deg, #FAF0DC, #F7EACC); }
     .gancho-box:hover .copy-hint { opacity: 1; }
 
-    .gancho-text {
-      font-family: var(--font-display);
-      font-size: 0.9rem;
-      font-style: italic;
-      font-weight: 400;
-      line-height: 1.5;
-      color: var(--aurora-forest);
-    }
-
-    .copy-hint {
-      font-size: 0.6rem;
-      font-weight: 500;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: var(--warm-gold);
-      margin-top: 4px;
-      opacity: 0;
-      transition: opacity 0.2s;
-    }
+    .gancho-text { font-family: var(--font-display); font-size: 0.9rem; font-style: italic; font-weight: 400; line-height: 1.5; color: var(--aurora-forest); }
+    .copy-hint { font-size: 0.6rem; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: var(--warm-gold); margin-top: 4px; opacity: 0; transition: opacity 0.2s; }
 
     .copy-flash {
       position: absolute;
@@ -475,14 +332,14 @@
 
     .copy-flash.show { opacity: 1; }
 
-    /* ── FORMAT TAGS (interactive) ───────────────── */
+    /* ── FORMAT TAGS ─────────────────────────────── */
     .format-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: auto; padding-top: 4px; }
 
     .format-tag {
       font-size: 0.63rem;
       font-weight: 500;
       letter-spacing: 0.06em;
-      padding: 3px 10px;
+      padding: 4px 12px;
       border-radius: 12px;
       border: 1px solid var(--parchment);
       color: var(--muted);
@@ -492,11 +349,7 @@
       font-family: var(--font-body);
     }
 
-    .format-tag:hover {
-      background: var(--cream-silk);
-      border-color: var(--champagne-gold);
-      color: var(--aurora-forest);
-    }
+    .format-tag:hover { background: var(--cream-silk); border-color: var(--champagne-gold); color: var(--aurora-forest); }
 
     .format-tag.active {
       background: var(--champagne-gold);
@@ -512,40 +365,22 @@
       font-weight: 600;
     }
 
-    .format-tag.principal:hover {
-      background: var(--forest-green);
-    }
+    .format-tag.principal:hover { background: var(--forest-green); }
+    .format-tag.principal.active { background: var(--champagne-gold); color: var(--aurora-forest); border-color: var(--champagne-gold); }
 
-    .format-tag.principal.active {
-      background: var(--champagne-gold);
-      color: var(--aurora-forest);
-      border-color: var(--champagne-gold);
-    }
-
-    /* ── FORMAT COPY PANEL ───────────────────────── */
-    .format-copy-panel {
-      display: none;
-      background: var(--off-white);
-      border-top: 1px solid var(--parchment);
-    }
-
+    /* ── COPY PANEL ──────────────────────────────── */
+    .format-copy-panel { display: none; background: var(--off-white); border-top: 1px solid var(--parchment); }
     .format-copy-panel.open { display: block; }
 
     .copy-panel-header {
       background: var(--aurora-forest);
-      padding: 8px 16px;
+      padding: 10px 16px;
       display: flex;
       align-items: center;
       justify-content: space-between;
     }
 
-    .copy-panel-format-name {
-      font-size: 0.68rem;
-      font-weight: 600;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: var(--champagne-gold);
-    }
+    .copy-panel-format-name { font-size: 0.68rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--champagne-gold); }
 
     .copy-panel-close {
       background: none;
@@ -560,27 +395,14 @@
       font-family: var(--font-body);
     }
 
-    .copy-panel-close:hover {
-      color: var(--champagne-gold);
-      background: rgba(255,255,255,0.1);
-    }
+    .copy-panel-close:hover { color: var(--champagne-gold); background: rgba(255,255,255,0.1); }
 
-    .copy-panel-body {
-      padding: 14px 16px;
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-    }
+    .copy-panel-body { padding: 14px 16px; display: flex; flex-direction: column; gap: 14px; }
 
+    /* ── COPY FIELD BASE ─────────────────────────── */
     .copy-field { display: flex; flex-direction: column; gap: 5px; }
 
-    .copy-field-label {
-      font-size: 0.58rem;
-      font-weight: 600;
-      letter-spacing: 0.15em;
-      text-transform: uppercase;
-      color: var(--muted);
-    }
+    .copy-field-label { font-size: 0.58rem; font-weight: 600; letter-spacing: 0.15em; text-transform: uppercase; color: var(--muted); }
 
     .copy-field-row {
       display: flex;
@@ -595,20 +417,14 @@
 
     .copy-field-row:hover { border-color: var(--champagne-gold); }
 
-    .copy-field-text {
-      font-family: var(--font-display);
-      font-size: 0.82rem;
-      font-style: italic;
-      line-height: 1.5;
-      color: var(--deep-navy);
-      flex: 1;
-    }
+    .copy-field-text { font-family: var(--font-display); font-size: 0.84rem; font-style: italic; line-height: 1.55; color: var(--deep-navy); flex: 1; }
+    .copy-field-text.plain { font-style: normal; font-family: var(--font-body); font-size: 0.78rem; font-weight: 300; }
 
     .copy-field-btn {
       background: none;
       border: none;
       cursor: pointer;
-      font-size: 0.7rem;
+      font-size: 0.72rem;
       color: var(--champagne-gold);
       flex-shrink: 0;
       padding: 2px 5px;
@@ -622,11 +438,57 @@
     .copy-field-btn:hover { background: var(--cream-silk); }
     .copy-field-btn.copied { color: var(--evergreen); font-weight: 700; }
 
-    .copy-slides-list { display: flex; flex-direction: column; gap: 6px; }
+    /* ── ROTEIRO STEPS ───────────────────────────── */
+    .copy-roteiro { display: flex; flex-direction: column; gap: 8px; }
 
-    .copy-slide-item { display: flex; align-items: flex-start; gap: 8px; }
+    .roteiro-step { display: flex; flex-direction: column; gap: 4px; }
 
-    .copy-slide-num {
+    .roteiro-step-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .roteiro-tempo {
+      font-size: 0.58rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      color: var(--champagne-gold);
+      background: var(--aurora-forest);
+      padding: 2px 7px;
+      border-radius: 4px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .roteiro-desc {
+      font-size: 0.6rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    /* ── CARROSSEL CARDS ─────────────────────────── */
+    .copy-cards-list { display: flex; flex-direction: column; gap: 10px; }
+
+    .copy-card-item {
+      background: #fff;
+      border: 1px solid var(--parchment);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .copy-card-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 10px;
+      background: var(--cream-silk);
+      border-bottom: 1px solid var(--parchment);
+    }
+
+    .copy-card-num {
       font-size: 0.58rem;
       font-weight: 700;
       color: var(--champagne-gold);
@@ -638,40 +500,101 @@
       align-items: center;
       justify-content: center;
       flex-shrink: 0;
-      margin-top: 6px;
     }
 
-    /* ── STATES ──────────────────────────────────── */
-    .empty-state {
-      grid-column: 1 / -1;
-      text-align: center;
-      padding: 40px;
+    .copy-card-tipo {
+      font-size: 0.58rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--aurora-forest);
+    }
+
+    .copy-card-fields { padding: 8px 10px; display: flex; flex-direction: column; gap: 6px; }
+
+    .copy-mini-label { font-size: 0.55rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin-bottom: 2px; }
+
+    /* ── STORIES SEQUENCE ────────────────────────── */
+    .copy-stories-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--aurora-forest);
+      color: var(--champagne-gold);
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 0.63rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      margin-bottom: 4px;
+      align-self: flex-start;
+    }
+
+    .copy-story-list { display: flex; flex-direction: column; gap: 10px; }
+
+    .copy-story-item { display: flex; flex-direction: column; gap: 4px; }
+
+    .copy-story-header { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+
+    .copy-story-num {
+      font-size: 0.58rem;
+      font-weight: 700;
+      color: var(--champagne-gold);
+      background: var(--aurora-forest);
+      border-radius: 50%;
+      width: 18px;
+      height: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .copy-story-tipo { font-size: 0.6rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--aurora-forest); }
+
+    .copy-story-recurso {
+      font-size: 0.58rem;
       color: var(--muted);
-      font-size: 0.85rem;
+      background: var(--parchment);
+      padding: 1px 6px;
+      border-radius: 4px;
       font-style: italic;
     }
 
-    .loading-state { text-align: center; padding: 80px 24px; color: var(--muted); }
-
-    .loading-crown {
-      font-size: 2.5rem;
-      display: block;
-      margin-bottom: 12px;
-      animation: pulse 1.5s ease-in-out infinite;
+    /* ── VIBE NOTE ───────────────────────────────── */
+    .copy-vibe {
+      background: linear-gradient(135deg, #FDF8F0, #FAF4E8);
+      border-left: 2px solid var(--champagne-gold);
+      border-radius: 0 6px 6px 0;
+      padding: 8px 12px;
+      font-size: 0.75rem;
+      font-style: italic;
+      color: #4A4035;
+      line-height: 1.5;
     }
+
+    /* ── LEGENDA BLOCK ───────────────────────────── */
+    .copy-legenda-text {
+      font-family: var(--font-body);
+      font-size: 0.75rem;
+      font-weight: 300;
+      line-height: 1.7;
+      color: var(--deep-navy);
+      white-space: pre-line;
+      flex: 1;
+    }
+
+    /* ── STATES ──────────────────────────────────── */
+    .empty-state { grid-column: 1 / -1; text-align: center; padding: 40px; color: var(--muted); font-size: 0.85rem; font-style: italic; }
+    .loading-state { text-align: center; padding: 80px 24px; color: var(--muted); }
+    .loading-crown { font-size: 2.5rem; display: block; margin-bottom: 12px; animation: pulse 1.5s ease-in-out infinite; }
 
     @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
 
-    .card.hidden  { display: none; }
+    .card.hidden { display: none; }
     .section.all-hidden { display: none; }
 
-    /* ── NO RESULTS ──────────────────────────────── */
-    .no-results {
-      text-align: center;
-      padding: 60px 24px;
-      color: var(--muted);
-    }
-
+    .no-results { text-align: center; padding: 60px 24px; color: var(--muted); }
     .no-results-icon { font-size: 2rem; display: block; margin-bottom: 12px; }
     .no-results p { font-size: 0.85rem; font-style: italic; }
 
@@ -693,7 +616,6 @@
       .header-inner { flex-direction: column; gap: 12px; }
       .header-right { flex-direction: row; align-items: center; justify-content: space-between; width: 100%; }
       .header-meta { text-align: left; }
-      .header-chips { padding-bottom: 16px; }
       main { padding: 24px 16px 48px; }
       .cards-grid { grid-template-columns: 1fr; }
       .brand h1 { font-size: 1.35rem; }
@@ -798,12 +720,11 @@
     let currentData  = null;
     let copiesData   = {};
 
-    // ── NORMALIZE (remove acentos para busca) ───────────
+    // ── UTILS ───────────────────────────────────────────
     function norm(str) {
       return (str || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
     }
 
-    // ── HIGHLIGHT ───────────────────────────────────────
     function highlight(text, query) {
       if (!query) return text;
       const nq = norm(query);
@@ -818,70 +739,272 @@
       return result;
     }
 
-    // ── ESCAPE ATTR ─────────────────────────────────────
     function escapeAttr(str) {
-      return (str || '').replace(/\\/g, '\\\\').replace(/'/g, "\\'").replace(/"/g, '&quot;');
+      return (str || '').replace(/\\/g, '\\\\').replace(/'/g, "\\'").replace(/"/g, '&quot;').replace(/\n/g, '\\n');
     }
 
-    // ── BUILD CARD ──────────────────────────────────────
-    function buildCard(item, query) {
-      const urgClass  = item.urgencia === 'hoje' ? 'urgente' : item.urgencia === 'semana' ? 'semana' : 'evergreen';
-      const pilarKey  = PILAR_FILTER[item.pilar] || '';
-      const tipoLabel = TIPO_LABELS[item.tipo] || item.tipo;
-      const hasCopies = item.copies && Object.keys(item.copies).length > 0;
+    function escapeHtml(str) {
+      return (str || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    }
 
-      const hl = t => highlight(t, query);
+    // ── COPY TO CLIPBOARD ───────────────────────────────
+    function copyFieldText(btn, text) {
+      const decoded = text.replace(/\\n/g, '\n').replace(/\\'/g, "'");
+      navigator.clipboard.writeText(decoded).then(() => {
+        const orig = btn.textContent;
+        btn.textContent = '✓';
+        btn.classList.add('copied');
+        setTimeout(() => { btn.textContent = orig; btn.classList.remove('copied'); }, 1500);
+      }).catch(() => {
+        const ta = document.createElement('textarea');
+        ta.value = decoded;
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+      });
+    }
 
-      const formatTagsHTML = item.formatos.map(f => {
-        const isPrincipal = f === item.formato_principal;
-        const label = FORMATO_LABELS[f] || f;
-        const hasCopyForFormat = hasCopies && item.copies[f];
-        const clickAttr = hasCopyForFormat
-          ? `onclick="toggleCopyPanel(this, ${item.id}, '${f}')" title="Ver sugestão de copy para ${label}"`
-          : `title="${label}"`;
-        return `<button class="format-tag ${isPrincipal ? 'principal' : ''}" ${clickAttr}>${label}</button>`;
-      }).join('');
+    function copyGancho(el, text) {
+      navigator.clipboard.writeText(text).then(() => {
+        const flash = el.querySelector('.copy-flash');
+        flash.classList.add('show');
+        setTimeout(() => flash.classList.remove('show'), 1800);
+      }).catch(() => {
+        const ta = document.createElement('textarea');
+        ta.value = text;
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+      });
+    }
 
-      return `
-        <article class="card ${urgClass}" data-pilar="${pilarKey}" data-id="${item.id}"
-          data-search="${norm(item.trend + ' ' + item.angulo + ' ' + item.gancho + ' ' + item.pilar)}">
-          <div class="card-head">
-            <span class="tipo-badge">${tipoLabel}</span>
-            <span class="pilar-tag">${item.pilar}</span>
+    // ── COPY PANEL BUILDERS ─────────────────────────────
+    function fieldRow(text, isPlain) {
+      const safe = escapeAttr(text);
+      const cls = isPlain ? 'copy-field-text plain' : 'copy-field-text';
+      return `<div class="copy-field-row">
+        <span class="${cls}">${escapeHtml(text)}</span>
+        <button class="copy-field-btn" onclick="copyFieldText(this,'${safe}')" title="Copiar">⎘</button>
+      </div>`;
+    }
+
+    function buildCopyField(label, text, isPlain) {
+      if (!text) return '';
+      return `<div class="copy-field"><div class="copy-field-label">${label}</div>${fieldRow(text, isPlain)}</div>`;
+    }
+
+    // ── FORMAT RENDERERS ────────────────────────────────
+    function renderReelsReact(c) {
+      let html = '';
+      if (c.ideia_central) html += buildCopyField('Ideia Central', c.ideia_central, true);
+      if (c.gancho) html += buildCopyField('Gancho (0–3s)', c.gancho);
+
+      if (c.roteiro && c.roteiro.length) {
+        const steps = c.roteiro.map(s => {
+          const safe = escapeAttr(s.fala);
+          return `<div class="roteiro-step">
+            <div class="roteiro-step-header">
+              <span class="roteiro-tempo">${escapeHtml(s.tempo)}</span>
+              <span class="roteiro-desc">${escapeHtml(s.descricao)}</span>
+            </div>
+            <div class="copy-field-row">
+              <span class="copy-field-text">"${escapeHtml(s.fala)}"</span>
+              <button class="copy-field-btn" onclick="copyFieldText(this,'${safe}')" title="Copiar">⎘</button>
+            </div>
+          </div>`;
+        }).join('');
+        html += `<div class="copy-field">
+          <div class="copy-field-label">Roteiro Completo</div>
+          <div class="copy-roteiro">${steps}</div>
+        </div>`;
+      }
+
+      if (c.legenda) {
+        const safe = escapeAttr(c.legenda);
+        html += `<div class="copy-field">
+          <div class="copy-field-label">Legenda do Post</div>
+          <div class="copy-field-row">
+            <span class="copy-legenda-text">${escapeHtml(c.legenda)}</span>
+            <button class="copy-field-btn" onclick="copyFieldText(this,'${safe}')" title="Copiar">⎘</button>
           </div>
-          <div class="card-body">
-            <p class="card-trend">${hl(item.trend)}</p>
+        </div>`;
+      }
+      return html;
+    }
 
-            <div>
-              <div class="card-label">Ângulo da Priscilla</div>
-              <p class="card-angulo">${hl(item.angulo)}</p>
-            </div>
+    function renderLoFi(c) {
+      let html = '';
+      if (c.ideia) html += buildCopyField('Ideia', c.ideia, true);
+      if (c.gancho) html += buildCopyField('Gancho / Thumbnail', c.gancho);
 
-            <div>
-              <div class="card-label">Gancho Pronto — clique para copiar</div>
-              <div class="gancho-box" onclick="copyGancho(this, '${escapeAttr(item.gancho)}')">
-                <p class="gancho-text">"${hl(item.gancho)}"</p>
-                <p class="copy-hint">Clique para copiar</p>
-                <span class="copy-flash">Copiado ✓</span>
-              </div>
+      if (c.o_que_falar && c.o_que_falar.length) {
+        const items = c.o_que_falar.map((pt, i) => {
+          const safe = escapeAttr(pt);
+          return `<div class="copy-story-item">
+            <div class="copy-story-header">
+              <span class="copy-story-num">${i + 1}</span>
             </div>
+            <div class="copy-field-row">
+              <span class="copy-field-text plain" style="font-style:normal">${escapeHtml(pt)}</span>
+              <button class="copy-field-btn" onclick="copyFieldText(this,'${safe}')" title="Copiar">⎘</button>
+            </div>
+          </div>`;
+        }).join('');
+        html += `<div class="copy-field">
+          <div class="copy-field-label">O Que Falar — ponto a ponto</div>
+          <div class="copy-story-list">${items}</div>
+        </div>`;
+      }
 
-            <div>
-              <div class="card-label">Formatos Sugeridos — clique para ver copy</div>
-              <div class="format-tags">${formatTagsHTML}</div>
-            </div>
+      if (c.legenda) {
+        const safe = escapeAttr(c.legenda);
+        html += `<div class="copy-field">
+          <div class="copy-field-label">Legenda</div>
+          <div class="copy-field-row">
+            <span class="copy-legenda-text">${escapeHtml(c.legenda)}</span>
+            <button class="copy-field-btn" onclick="copyFieldText(this,'${safe}')" title="Copiar">⎘</button>
           </div>
-          <div class="format-copy-panel" id="copy-panel-${item.id}"></div>
-        </article>`;
+        </div>`;
+      }
+
+      if (c.vibe) {
+        html += `<div class="copy-field">
+          <div class="copy-field-label">Vibe / Atmosfera de Gravação</div>
+          <div class="copy-vibe">${escapeHtml(c.vibe)}</div>
+        </div>`;
+      }
+      return html;
+    }
+
+    function renderCarrossel(c) {
+      let html = '';
+      if (c.ideia) html += buildCopyField('Ideia do Carrossel', c.ideia, true);
+
+      if (c.cards && c.cards.length) {
+        const cards = c.cards.map(card => {
+          let fields = '';
+          if (card.titulo) {
+            const safe = escapeAttr(card.titulo);
+            fields += `<div class="copy-field-row">
+              <div style="flex:1"><div class="copy-mini-label">Título</div>
+              <span class="copy-field-text">${escapeHtml(card.titulo)}</span></div>
+              <button class="copy-field-btn" onclick="copyFieldText(this,'${safe}')" title="Copiar">⎘</button>
+            </div>`;
+          }
+          if (card.subtitulo) {
+            const safe = escapeAttr(card.subtitulo);
+            fields += `<div class="copy-field-row" style="margin-top:4px">
+              <div style="flex:1"><div class="copy-mini-label">Subtítulo</div>
+              <span class="copy-field-text">${escapeHtml(card.subtitulo)}</span></div>
+              <button class="copy-field-btn" onclick="copyFieldText(this,'${safe}')" title="Copiar">⎘</button>
+            </div>`;
+          }
+          if (card.texto) {
+            const safe = escapeAttr(card.texto);
+            fields += `<div class="copy-field-row" style="margin-top:4px">
+              <div style="flex:1"><div class="copy-mini-label">Texto</div>
+              <span class="copy-field-text plain">${escapeHtml(card.texto)}</span></div>
+              <button class="copy-field-btn" onclick="copyFieldText(this,'${safe}')" title="Copiar">⎘</button>
+            </div>`;
+          }
+          return `<div class="copy-card-item">
+            <div class="copy-card-header">
+              <span class="copy-card-num">${card.numero}</span>
+              <span class="copy-card-tipo">${escapeHtml(card.tipo)}</span>
+            </div>
+            <div class="copy-card-fields">${fields}</div>
+          </div>`;
+        }).join('');
+        html += `<div class="copy-field">
+          <div class="copy-field-label">Cards — ${c.cards.length} cards</div>
+          <div class="copy-cards-list">${cards}</div>
+        </div>`;
+      }
+
+      if (c.legenda) {
+        const safe = escapeAttr(c.legenda);
+        html += `<div class="copy-field">
+          <div class="copy-field-label">Legenda do Post</div>
+          <div class="copy-field-row">
+            <span class="copy-legenda-text">${escapeHtml(c.legenda)}</span>
+            <button class="copy-field-btn" onclick="copyFieldText(this,'${safe}')" title="Copiar">⎘</button>
+          </div>
+        </div>`;
+      }
+      return html;
+    }
+
+    function renderStories(c) {
+      let html = '';
+
+      if (c.total) {
+        html += `<div class="copy-stories-badge">📱 ${c.total} Stories</div>`;
+      }
+
+      if (c.sequencia && c.sequencia.length) {
+        const items = c.sequencia.map(s => {
+          const safe = escapeAttr(s.texto);
+          return `<div class="copy-story-item">
+            <div class="copy-story-header">
+              <span class="copy-story-num">${s.numero}</span>
+              <span class="copy-story-tipo">${escapeHtml(s.tipo)}</span>
+              ${s.recurso ? `<span class="copy-story-recurso">${escapeHtml(s.recurso)}</span>` : ''}
+            </div>
+            <div class="copy-field-row">
+              <span class="copy-field-text">"${escapeHtml(s.texto)}"</span>
+              <button class="copy-field-btn" onclick="copyFieldText(this,'${safe}')" title="Copiar">⎘</button>
+            </div>
+          </div>`;
+        }).join('');
+        html += `<div class="copy-field">
+          <div class="copy-field-label">Sequência</div>
+          <div class="copy-story-list">${items}</div>
+        </div>`;
+      }
+
+      if (c.interacao) html += buildCopyField('Interação Sugerida', c.interacao);
+      if (c.conexao_feed) html += buildCopyField('Conexão com o Feed', c.conexao_feed, true);
+      return html;
+    }
+
+    function renderPostEstatico(c) {
+      let html = '';
+      if (c.ideia) html += buildCopyField('Ideia', c.ideia, true);
+      if (c.titulo_visual) html += buildCopyField('Título Visual (na imagem)', c.titulo_visual);
+      if (c.legenda) {
+        const safe = escapeAttr(c.legenda);
+        html += `<div class="copy-field">
+          <div class="copy-field-label">Legenda Completa</div>
+          <div class="copy-field-row">
+            <span class="copy-legenda-text">${escapeHtml(c.legenda)}</span>
+            <button class="copy-field-btn" onclick="copyFieldText(this,'${safe}')" title="Copiar">⎘</button>
+          </div>
+        </div>`;
+      }
+      if (c.cta) html += buildCopyField('CTA', c.cta);
+      return html;
+    }
+
+    function renderCopyContent(format, copies) {
+      if (!copies) return '<p style="color:var(--muted);font-size:0.78rem;font-style:italic;font-family:var(--font-display);padding:4px 0">Copy não disponível para este formato.</p>';
+      switch (format) {
+        case 'reels-react':   return renderReelsReact(copies)   || '<p style="color:var(--muted);font-size:0.78rem">—</p>';
+        case 'lo-fi':         return renderLoFi(copies)          || '<p style="color:var(--muted);font-size:0.78rem">—</p>';
+        case 'carrossel':     return renderCarrossel(copies)     || '<p style="color:var(--muted);font-size:0.78rem">—</p>';
+        case 'stories':       return renderStories(copies)       || '<p style="color:var(--muted);font-size:0.78rem">—</p>';
+        case 'post-estatico': return renderPostEstatico(copies)  || '<p style="color:var(--muted);font-size:0.78rem">—</p>';
+        default: return '<p style="color:var(--muted);font-size:0.78rem">Formato não reconhecido.</p>';
+      }
     }
 
     // ── TOGGLE FORMAT COPY PANEL ────────────────────────
     function toggleCopyPanel(tagEl, itemId, format) {
-      const card = tagEl.closest('.card');
-      const panel = card.querySelector('.format-copy-panel');
+      const card   = tagEl.closest('.card');
+      const panel  = card.querySelector('.format-copy-panel');
       const isActive = tagEl.classList.contains('active');
 
-      // Deactivate all tags in this card
       card.querySelectorAll('.format-tag').forEach(t => t.classList.remove('active'));
 
       if (isActive) {
@@ -893,146 +1016,90 @@
       tagEl.classList.add('active');
 
       const copies = (copiesData[itemId] || {})[format];
-      const formatLabel = FORMATO_LABELS[format] || format;
+      const label  = FORMATO_LABELS[format] || format;
 
       panel.innerHTML = `
         <div class="copy-panel-header">
-          <span class="copy-panel-format-name">✦ ${formatLabel}</span>
+          <span class="copy-panel-format-name">✦ ${label}</span>
           <button class="copy-panel-close" onclick="closeCopyPanel(this)" title="Fechar">✕</button>
         </div>
-        <div class="copy-panel-body">
-          ${renderCopyContent(format, copies)}
-        </div>`;
+        <div class="copy-panel-body">${renderCopyContent(format, copies)}</div>`;
 
       panel.classList.add('open');
     }
 
     function closeCopyPanel(btnEl) {
       const panel = btnEl.closest('.format-copy-panel');
-      const card = panel.closest('.card');
+      const card  = panel.closest('.card');
       card.querySelectorAll('.format-tag').forEach(t => t.classList.remove('active'));
       panel.classList.remove('open');
       panel.innerHTML = '';
     }
 
-    // ── RENDER COPY CONTENT ─────────────────────────────
-    function renderCopyContent(format, copies) {
-      if (!copies) {
-        return '<p style="color:var(--muted);font-size:0.78rem;font-style:italic;font-family:var(--font-display)">Copy não disponível para este formato.</p>';
-      }
+    // ── BUILD CARD ──────────────────────────────────────
+    function buildCard(item, query) {
+      const urgClass  = item.urgencia === 'hoje' ? 'urgente' : item.urgencia === 'semana' ? 'semana' : 'evergreen';
+      const pilarKey  = PILAR_FILTER[item.pilar] || '';
+      const tipoLabel = TIPO_LABELS[item.tipo] || item.tipo;
+      const hasCopies = item.copies && Object.keys(item.copies).length > 0;
 
-      if (format === 'reels-react') {
-        return [
-          buildCopyField('Abertura', copies.abertura),
-          buildCopyField('Roteiro', copies.roteiro),
-          buildCopyField('CTA', copies.cta),
-        ].filter(Boolean).join('');
-      }
+      const hl = t => highlight(t || '', query);
 
-      if (format === 'lo-fi') {
-        return [
-          buildCopyField('Abertura', copies.abertura),
-          buildCopyFieldList('Pontos', copies.pontos),
-          buildCopyField('CTA', copies.cta),
-        ].filter(Boolean).join('');
-      }
-
-      if (format === 'stories') {
-        return [
-          buildCopyFieldList('Sequência de Stories', copies.sequencia),
-          buildCopyField('Interação', copies.interacao),
-        ].filter(Boolean).join('');
-      }
-
-      if (format === 'carrossel') {
-        return [
-          buildCopyField('Capa', copies.capa),
-          buildCopyFieldList('Slides', copies.slides),
-          buildCopyField('CTA', copies.cta),
-        ].filter(Boolean).join('');
-      }
-
-      if (format === 'post-estatico') {
-        return [
-          buildCopyField('Título', copies.titulo),
-          buildCopyField('Legenda', copies.legenda),
-          buildCopyField('CTA', copies.cta),
-        ].filter(Boolean).join('');
-      }
-
-      return '<p style="color:var(--muted);font-size:0.78rem;font-style:italic">Formato não reconhecido.</p>';
-    }
-
-    function buildCopyField(label, text) {
-      if (!text) return '';
-      const safe = escapeAttr(text);
-      return `
-        <div class="copy-field">
-          <div class="copy-field-label">${label}</div>
-          <div class="copy-field-row">
-            <span class="copy-field-text">"${text}"</span>
-            <button class="copy-field-btn" onclick="copyFieldText(this, '${safe}')" title="Copiar">⎘</button>
-          </div>
-        </div>`;
-    }
-
-    function buildCopyFieldList(label, items) {
-      if (!items || !items.length) return '';
-      const slidesHTML = items.map((item, i) => {
-        const safe = escapeAttr(item);
-        return `
-          <div class="copy-slide-item">
-            <span class="copy-slide-num">${i + 1}</span>
-            <div class="copy-field-row" style="flex:1">
-              <span class="copy-field-text">${item}</span>
-              <button class="copy-field-btn" onclick="copyFieldText(this, '${safe}')" title="Copiar">⎘</button>
-            </div>
-          </div>`;
+      const formatTagsHTML = (item.formatos || []).map(f => {
+        const isPrincipal      = f === item.formato_principal;
+        const label            = FORMATO_LABELS[f] || f;
+        const hasCopyForFormat = hasCopies && item.copies[f];
+        const clickAttr        = hasCopyForFormat
+          ? `onclick="toggleCopyPanel(this, ${item.id}, '${f}')" title="Ver copy para ${label}"`
+          : `title="${label}" style="cursor:default"`;
+        return `<button class="format-tag ${isPrincipal ? 'principal' : ''}" ${clickAttr}>${label}</button>`;
       }).join('');
+
       return `
-        <div class="copy-field">
-          <div class="copy-field-label">${label}</div>
-          <div class="copy-slides-list">${slidesHTML}</div>
-        </div>`;
+        <article class="card ${urgClass}" data-pilar="${pilarKey}" data-id="${item.id}"
+          data-search="${norm((item.trend || '') + ' ' + (item.angulo || '') + ' ' + (item.gancho || '') + ' ' + (item.pilar || ''))}">
+          <div class="card-head">
+            <span class="tipo-badge">${tipoLabel}</span>
+            <span class="pilar-tag">${item.pilar}</span>
+          </div>
+          <div class="card-body">
+            <p class="card-trend">${hl(item.trend)}</p>
+            <div>
+              <div class="card-label">Ângulo da Priscilla</div>
+              <p class="card-angulo">${hl(item.angulo)}</p>
+            </div>
+            <div>
+              <div class="card-label">Gancho Pronto — clique para copiar</div>
+              <div class="gancho-box" onclick="copyGancho(this, '${escapeAttr(item.gancho)}')">
+                <p class="gancho-text">"${hl(item.gancho)}"</p>
+                <p class="copy-hint">Clique para copiar</p>
+                <span class="copy-flash">Copiado ✓</span>
+              </div>
+            </div>
+            <div>
+              <div class="card-label">Formatos — clique para ver copy completa</div>
+              <div class="format-tags">${formatTagsHTML}</div>
+            </div>
+          </div>
+          <div class="format-copy-panel" id="copy-panel-${item.id}"></div>
+        </article>`;
     }
 
-    function copyFieldText(btn, text) {
-      navigator.clipboard.writeText(text).then(() => {
-        const orig = btn.textContent;
-        btn.textContent = '✓';
-        btn.classList.add('copied');
-        setTimeout(() => {
-          btn.textContent = orig;
-          btn.classList.remove('copied');
-        }, 1500);
-      }).catch(() => {
-        const ta = document.createElement('textarea');
-        ta.value = text;
-        document.body.appendChild(ta);
-        ta.select();
-        document.execCommand('copy');
-        document.body.removeChild(ta);
-      });
-    }
-
-    // ── RENDER ──────────────────────────────────────────
+    // ── RENDER DASHBOARD ────────────────────────────────
     function renderDashboard(data) {
       currentData = data;
 
-      // Store copies globally for panel access
       copiesData = {};
-      data.items.forEach(item => {
-        if (item.copies) copiesData[item.id] = item.copies;
-      });
+      data.items.forEach(item => { if (item.copies) copiesData[item.id] = item.copies; });
 
       const hoje   = data.items.filter(i => i.urgencia === 'hoje');
       const semana = data.items.filter(i => i.urgencia === 'semana');
       const ever   = data.items.filter(i => i.urgencia === 'evergreen');
 
-      document.getElementById('data-display').textContent  = data.data;
-      document.getElementById('hora-display').textContent  = `Atualizado às ${data.atualizado}`;
-      document.getElementById('chip-urgente').textContent  = `${hoje.length} urgente${hoje.length !== 1 ? 's' : ''} hoje`;
-      document.getElementById('chip-semana').textContent   = `${semana.length} esta semana`;
+      document.getElementById('data-display').textContent   = data.data;
+      document.getElementById('hora-display').textContent   = `Atualizado às ${data.atualizado}`;
+      document.getElementById('chip-urgente').textContent   = `${hoje.length} urgente${hoje.length !== 1 ? 's' : ''} hoje`;
+      document.getElementById('chip-semana').textContent    = `${semana.length} esta semana`;
       document.getElementById('chip-evergreen').textContent = `${ever.length} evergreen`;
 
       const sections = [
@@ -1061,7 +1128,7 @@
       applyFilters();
     }
 
-    // ── APPLY FILTERS (pilar + search) ──────────────────
+    // ── FILTERS ─────────────────────────────────────────
     function applyFilters() {
       const nq = norm(searchQuery);
       let visible = 0;
@@ -1080,11 +1147,7 @@
       });
 
       const countEl = document.getElementById('search-count');
-      if (nq && currentData) {
-        countEl.textContent = `${visible} resultado${visible !== 1 ? 's' : ''}`;
-      } else {
-        countEl.textContent = '';
-      }
+      countEl.textContent = (nq && currentData) ? `${visible} resultado${visible !== 1 ? 's' : ''}` : '';
 
       const noRes = document.getElementById('no-results-global');
       if (visible === 0 && currentData) {
@@ -1092,7 +1155,7 @@
           const div = document.createElement('div');
           div.id = 'no-results-global';
           div.className = 'no-results';
-          div.innerHTML = `<span class="no-results-icon">🔍</span><p>Nenhum resultado encontrado para "<strong>${searchQuery}</strong>".</p>`;
+          div.innerHTML = `<span class="no-results-icon">🔍</span><p>Nenhum resultado para "<strong>${searchQuery}</strong>".</p>`;
           document.getElementById('main-content').appendChild(div);
         }
       } else if (noRes) {
@@ -1129,22 +1192,6 @@
       searchInput.focus();
     }
 
-    // ── COPY GANCHO ─────────────────────────────────────
-    function copyGancho(el, text) {
-      navigator.clipboard.writeText(text).then(() => {
-        const flash = el.querySelector('.copy-flash');
-        flash.classList.add('show');
-        setTimeout(() => flash.classList.remove('show'), 1800);
-      }).catch(() => {
-        const ta = document.createElement('textarea');
-        ta.value = text;
-        document.body.appendChild(ta);
-        ta.select();
-        document.execCommand('copy');
-        document.body.removeChild(ta);
-      });
-    }
-
     // ── LOAD BRIEFING ───────────────────────────────────
     function loadBriefing(showLoader) {
       if (showLoader) {
@@ -1154,13 +1201,9 @@
             <p>Carregando inteligência do dia...</p>
           </div>`;
       }
-
       fetch('briefing.json?v=' + Date.now())
         .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
-        .then(data => {
-          renderDashboard(data);
-          stopReloadAnim();
-        })
+        .then(data => { renderDashboard(data); stopReloadAnim(); })
         .catch(() => {
           stopReloadAnim();
           document.getElementById('main-content').innerHTML = `
@@ -1174,7 +1217,6 @@
         });
     }
 
-    // ── RELOAD BUTTON ───────────────────────────────────
     function reloadBriefing() {
       const btn = document.getElementById('reload-btn');
       btn.classList.add('loading');
@@ -1189,7 +1231,6 @@
       btn.disabled = false;
     }
 
-    // ── INIT ────────────────────────────────────────────
     loadBriefing(true);
   </script>
 </body>
