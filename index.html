@@ -475,7 +475,7 @@
 
     .copy-flash.show { opacity: 1; }
 
-    /* ── FORMAT TAGS ─────────────────────────────── */
+    /* ── FORMAT TAGS (interactive) ───────────────── */
     .format-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: auto; padding-top: 4px; }
 
     .format-tag {
@@ -487,6 +487,22 @@
       border: 1px solid var(--parchment);
       color: var(--muted);
       background: #fff;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s, border-color 0.15s;
+      font-family: var(--font-body);
+    }
+
+    .format-tag:hover {
+      background: var(--cream-silk);
+      border-color: var(--champagne-gold);
+      color: var(--aurora-forest);
+    }
+
+    .format-tag.active {
+      background: var(--champagne-gold);
+      border-color: var(--champagne-gold);
+      color: var(--aurora-forest);
+      font-weight: 600;
     }
 
     .format-tag.principal {
@@ -494,6 +510,135 @@
       color: var(--champagne-gold);
       border-color: var(--aurora-forest);
       font-weight: 600;
+    }
+
+    .format-tag.principal:hover {
+      background: var(--forest-green);
+    }
+
+    .format-tag.principal.active {
+      background: var(--champagne-gold);
+      color: var(--aurora-forest);
+      border-color: var(--champagne-gold);
+    }
+
+    /* ── FORMAT COPY PANEL ───────────────────────── */
+    .format-copy-panel {
+      display: none;
+      background: var(--off-white);
+      border-top: 1px solid var(--parchment);
+    }
+
+    .format-copy-panel.open { display: block; }
+
+    .copy-panel-header {
+      background: var(--aurora-forest);
+      padding: 8px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .copy-panel-format-name {
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--champagne-gold);
+    }
+
+    .copy-panel-close {
+      background: none;
+      border: none;
+      color: rgba(201,169,110,0.6);
+      cursor: pointer;
+      font-size: 0.78rem;
+      padding: 2px 6px;
+      border-radius: 4px;
+      transition: color 0.15s, background 0.15s;
+      line-height: 1;
+      font-family: var(--font-body);
+    }
+
+    .copy-panel-close:hover {
+      color: var(--champagne-gold);
+      background: rgba(255,255,255,0.1);
+    }
+
+    .copy-panel-body {
+      padding: 14px 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .copy-field { display: flex; flex-direction: column; gap: 5px; }
+
+    .copy-field-label {
+      font-size: 0.58rem;
+      font-weight: 600;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .copy-field-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      background: #fff;
+      border: 1px solid var(--parchment);
+      border-radius: 6px;
+      padding: 8px 10px;
+      transition: border-color 0.15s;
+    }
+
+    .copy-field-row:hover { border-color: var(--champagne-gold); }
+
+    .copy-field-text {
+      font-family: var(--font-display);
+      font-size: 0.82rem;
+      font-style: italic;
+      line-height: 1.5;
+      color: var(--deep-navy);
+      flex: 1;
+    }
+
+    .copy-field-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-size: 0.7rem;
+      color: var(--champagne-gold);
+      flex-shrink: 0;
+      padding: 2px 5px;
+      border-radius: 4px;
+      transition: background 0.15s, color 0.15s;
+      margin-top: 1px;
+      line-height: 1;
+      font-family: var(--font-body);
+    }
+
+    .copy-field-btn:hover { background: var(--cream-silk); }
+    .copy-field-btn.copied { color: var(--evergreen); font-weight: 700; }
+
+    .copy-slides-list { display: flex; flex-direction: column; gap: 6px; }
+
+    .copy-slide-item { display: flex; align-items: flex-start; gap: 8px; }
+
+    .copy-slide-num {
+      font-size: 0.58rem;
+      font-weight: 700;
+      color: var(--champagne-gold);
+      background: var(--aurora-forest);
+      border-radius: 50%;
+      width: 18px;
+      height: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      margin-top: 6px;
     }
 
     /* ── STATES ──────────────────────────────────── */
@@ -651,6 +796,7 @@
     let activeFilter = 'all';
     let searchQuery  = '';
     let currentData  = null;
+    let copiesData   = {};
 
     // ── NORMALIZE (remove acentos para busca) ───────────
     function norm(str) {
@@ -672,18 +818,28 @@
       return result;
     }
 
+    // ── ESCAPE ATTR ─────────────────────────────────────
+    function escapeAttr(str) {
+      return (str || '').replace(/\\/g, '\\\\').replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    }
+
     // ── BUILD CARD ──────────────────────────────────────
     function buildCard(item, query) {
       const urgClass  = item.urgencia === 'hoje' ? 'urgente' : item.urgencia === 'semana' ? 'semana' : 'evergreen';
       const pilarKey  = PILAR_FILTER[item.pilar] || '';
       const tipoLabel = TIPO_LABELS[item.tipo] || item.tipo;
+      const hasCopies = item.copies && Object.keys(item.copies).length > 0;
 
       const hl = t => highlight(t, query);
 
       const formatTagsHTML = item.formatos.map(f => {
         const isPrincipal = f === item.formato_principal;
         const label = FORMATO_LABELS[f] || f;
-        return `<span class="format-tag ${isPrincipal ? 'principal' : ''}">${label}</span>`;
+        const hasCopyForFormat = hasCopies && item.copies[f];
+        const clickAttr = hasCopyForFormat
+          ? `onclick="toggleCopyPanel(this, ${item.id}, '${f}')" title="Ver sugestão de copy para ${label}"`
+          : `title="${label}"`;
+        return `<button class="format-tag ${isPrincipal ? 'principal' : ''}" ${clickAttr}>${label}</button>`;
       }).join('');
 
       return `
@@ -711,16 +867,163 @@
             </div>
 
             <div>
-              <div class="card-label">Formatos Sugeridos</div>
+              <div class="card-label">Formatos Sugeridos — clique para ver copy</div>
               <div class="format-tags">${formatTagsHTML}</div>
             </div>
           </div>
+          <div class="format-copy-panel" id="copy-panel-${item.id}"></div>
         </article>`;
+    }
+
+    // ── TOGGLE FORMAT COPY PANEL ────────────────────────
+    function toggleCopyPanel(tagEl, itemId, format) {
+      const card = tagEl.closest('.card');
+      const panel = card.querySelector('.format-copy-panel');
+      const isActive = tagEl.classList.contains('active');
+
+      // Deactivate all tags in this card
+      card.querySelectorAll('.format-tag').forEach(t => t.classList.remove('active'));
+
+      if (isActive) {
+        panel.classList.remove('open');
+        panel.innerHTML = '';
+        return;
+      }
+
+      tagEl.classList.add('active');
+
+      const copies = (copiesData[itemId] || {})[format];
+      const formatLabel = FORMATO_LABELS[format] || format;
+
+      panel.innerHTML = `
+        <div class="copy-panel-header">
+          <span class="copy-panel-format-name">✦ ${formatLabel}</span>
+          <button class="copy-panel-close" onclick="closeCopyPanel(this)" title="Fechar">✕</button>
+        </div>
+        <div class="copy-panel-body">
+          ${renderCopyContent(format, copies)}
+        </div>`;
+
+      panel.classList.add('open');
+    }
+
+    function closeCopyPanel(btnEl) {
+      const panel = btnEl.closest('.format-copy-panel');
+      const card = panel.closest('.card');
+      card.querySelectorAll('.format-tag').forEach(t => t.classList.remove('active'));
+      panel.classList.remove('open');
+      panel.innerHTML = '';
+    }
+
+    // ── RENDER COPY CONTENT ─────────────────────────────
+    function renderCopyContent(format, copies) {
+      if (!copies) {
+        return '<p style="color:var(--muted);font-size:0.78rem;font-style:italic;font-family:var(--font-display)">Copy não disponível para este formato.</p>';
+      }
+
+      if (format === 'reels-react') {
+        return [
+          buildCopyField('Abertura', copies.abertura),
+          buildCopyField('Roteiro', copies.roteiro),
+          buildCopyField('CTA', copies.cta),
+        ].filter(Boolean).join('');
+      }
+
+      if (format === 'lo-fi') {
+        return [
+          buildCopyField('Abertura', copies.abertura),
+          buildCopyFieldList('Pontos', copies.pontos),
+          buildCopyField('CTA', copies.cta),
+        ].filter(Boolean).join('');
+      }
+
+      if (format === 'stories') {
+        return [
+          buildCopyFieldList('Sequência de Stories', copies.sequencia),
+          buildCopyField('Interação', copies.interacao),
+        ].filter(Boolean).join('');
+      }
+
+      if (format === 'carrossel') {
+        return [
+          buildCopyField('Capa', copies.capa),
+          buildCopyFieldList('Slides', copies.slides),
+          buildCopyField('CTA', copies.cta),
+        ].filter(Boolean).join('');
+      }
+
+      if (format === 'post-estatico') {
+        return [
+          buildCopyField('Título', copies.titulo),
+          buildCopyField('Legenda', copies.legenda),
+          buildCopyField('CTA', copies.cta),
+        ].filter(Boolean).join('');
+      }
+
+      return '<p style="color:var(--muted);font-size:0.78rem;font-style:italic">Formato não reconhecido.</p>';
+    }
+
+    function buildCopyField(label, text) {
+      if (!text) return '';
+      const safe = escapeAttr(text);
+      return `
+        <div class="copy-field">
+          <div class="copy-field-label">${label}</div>
+          <div class="copy-field-row">
+            <span class="copy-field-text">"${text}"</span>
+            <button class="copy-field-btn" onclick="copyFieldText(this, '${safe}')" title="Copiar">⎘</button>
+          </div>
+        </div>`;
+    }
+
+    function buildCopyFieldList(label, items) {
+      if (!items || !items.length) return '';
+      const slidesHTML = items.map((item, i) => {
+        const safe = escapeAttr(item);
+        return `
+          <div class="copy-slide-item">
+            <span class="copy-slide-num">${i + 1}</span>
+            <div class="copy-field-row" style="flex:1">
+              <span class="copy-field-text">${item}</span>
+              <button class="copy-field-btn" onclick="copyFieldText(this, '${safe}')" title="Copiar">⎘</button>
+            </div>
+          </div>`;
+      }).join('');
+      return `
+        <div class="copy-field">
+          <div class="copy-field-label">${label}</div>
+          <div class="copy-slides-list">${slidesHTML}</div>
+        </div>`;
+    }
+
+    function copyFieldText(btn, text) {
+      navigator.clipboard.writeText(text).then(() => {
+        const orig = btn.textContent;
+        btn.textContent = '✓';
+        btn.classList.add('copied');
+        setTimeout(() => {
+          btn.textContent = orig;
+          btn.classList.remove('copied');
+        }, 1500);
+      }).catch(() => {
+        const ta = document.createElement('textarea');
+        ta.value = text;
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+      });
     }
 
     // ── RENDER ──────────────────────────────────────────
     function renderDashboard(data) {
       currentData = data;
+
+      // Store copies globally for panel access
+      copiesData = {};
+      data.items.forEach(item => {
+        if (item.copies) copiesData[item.id] = item.copies;
+      });
 
       const hoje   = data.items.filter(i => i.urgencia === 'hoje');
       const semana = data.items.filter(i => i.urgencia === 'semana');
@@ -776,7 +1079,6 @@
         sec.classList.toggle('all-hidden', !hasVisible);
       });
 
-      // Search count feedback
       const countEl = document.getElementById('search-count');
       if (nq && currentData) {
         countEl.textContent = `${visible} resultado${visible !== 1 ? 's' : ''}`;
@@ -784,7 +1086,6 @@
         countEl.textContent = '';
       }
 
-      // No results global
       const noRes = document.getElementById('no-results-global');
       if (visible === 0 && currentData) {
         if (!noRes) {
@@ -816,11 +1117,7 @@
     searchInput.addEventListener('input', () => {
       searchQuery = searchInput.value.trim();
       searchClear.classList.toggle('visible', searchQuery.length > 0);
-
-      if (currentData) {
-        // Re-render with highlight
-        renderDashboard(currentData);
-      }
+      if (currentData) renderDashboard(currentData);
     });
 
     function clearSearch() {
@@ -846,10 +1143,6 @@
         document.execCommand('copy');
         document.body.removeChild(ta);
       });
-    }
-
-    function escapeAttr(str) {
-      return str.replace(/'/g, "\\'").replace(/"/g, '&quot;');
     }
 
     // ── LOAD BRIEFING ───────────────────────────────────
