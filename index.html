@@ -1040,13 +1040,26 @@
     function buildCard(item, query) {
       const urgClass  = item.urgencia === 'hoje' ? 'urgente' : item.urgencia === 'semana' ? 'semana' : 'evergreen';
       const pilarKey  = PILAR_FILTER[item.pilar] || '';
-      const tipoLabel = TIPO_LABELS[item.tipo] || item.tipo;
+
+      // suporta tanto campo legado (item.tipo) quanto novo (item.formato_principal)
+      const tipoKey   = item.formato_principal || item.tipo || '';
+      const tipoLabel = FORMATO_LABELS[tipoKey] || TIPO_LABELS[tipoKey] || tipoKey;
+
       const hasCopies = item.copies && Object.keys(item.copies).length > 0;
+
+      // suporta tanto campo legado (item.formatos) quanto novo (formato_principal + formatos_alternativos)
+      const todosFormatos = item.formatos
+        || [item.formato_principal, ...(item.formatos_alternativos || [])].filter(Boolean);
+
+      // suporta tanto campos legados quanto novos para título, resumo e gancho
+      const titulo  = item.titulo  || item.trend  || '';
+      const resumo  = item.resumo  || item.angulo || '';
+      const gancho  = item.gancho  || (hasCopies && item.copies[tipoKey] && item.copies[tipoKey].gancho) || '';
 
       const hl = t => highlight(t || '', query);
 
-      const formatTagsHTML = (item.formatos || []).map(f => {
-        const isPrincipal      = f === item.formato_principal;
+      const formatTagsHTML = todosFormatos.map(f => {
+        const isPrincipal      = f === (item.formato_principal || item.tipo);
         const label            = FORMATO_LABELS[f] || f;
         const hasCopyForFormat = hasCopies && item.copies[f];
         const clickAttr        = hasCopyForFormat
@@ -1057,21 +1070,21 @@
 
       return `
         <article class="card ${urgClass}" data-pilar="${pilarKey}" data-id="${item.id}"
-          data-search="${norm((item.trend || '') + ' ' + (item.angulo || '') + ' ' + (item.gancho || '') + ' ' + (item.pilar || ''))}">
+          data-search="${norm(titulo + ' ' + resumo + ' ' + gancho + ' ' + (item.pilar || ''))}">
           <div class="card-head">
             <span class="tipo-badge">${tipoLabel}</span>
             <span class="pilar-tag">${item.pilar}</span>
           </div>
           <div class="card-body">
-            <p class="card-trend">${hl(item.trend)}</p>
+            <p class="card-trend">${hl(titulo)}</p>
             <div>
               <div class="card-label">Ângulo da Priscilla</div>
-              <p class="card-angulo">${hl(item.angulo)}</p>
+              <p class="card-angulo">${hl(resumo)}</p>
             </div>
             <div>
               <div class="card-label">Gancho Pronto — clique para copiar</div>
-              <div class="gancho-box" onclick="copyGancho(this, '${escapeAttr(item.gancho)}')">
-                <p class="gancho-text">"${hl(item.gancho)}"</p>
+              <div class="gancho-box" onclick="copyGancho(this, '${escapeAttr(gancho)}')">
+                <p class="gancho-text">"${hl(gancho)}"</p>
                 <p class="copy-hint">Clique para copiar</p>
                 <span class="copy-flash">Copiado ✓</span>
               </div>
@@ -1096,8 +1109,12 @@
       const semana = data.items.filter(i => i.urgencia === 'semana');
       const ever   = data.items.filter(i => i.urgencia === 'evergreen');
 
-      document.getElementById('data-display').textContent   = data.data;
-      document.getElementById('hora-display').textContent   = `Atualizado às ${data.atualizado}`;
+      // suporta campos legados (data.data / data.atualizado) e novos (data.versao / data.gerado_em)
+      const dataLabel = data.data || data.versao || '';
+      const horaRaw   = data.atualizado || data.gerado_em || '';
+      const horaLabel = horaRaw ? horaRaw.replace('T', ' ').substring(0, 16) : 'undefined';
+      document.getElementById('data-display').textContent   = dataLabel;
+      document.getElementById('hora-display').textContent   = `Atualizado às ${horaLabel}`;
       document.getElementById('chip-urgente').textContent   = `${hoje.length} urgente${hoje.length !== 1 ? 's' : ''} hoje`;
       document.getElementById('chip-semana').textContent    = `${semana.length} esta semana`;
       document.getElementById('chip-evergreen').textContent = `${ever.length} evergreen`;
