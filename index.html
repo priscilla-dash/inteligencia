@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inteligência de Mercado — Priscilla Andrade</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --aurora-forest:  #053B21;
+      --forest-green:   #1C4A35;
+      --cream-silk:     #F5F0E8;
+      --champagne-gold: #C9A96E;
+      --warm-gold:      #B8955A;
+      --off-white:      #FAF7F2;
+      --parchment:      #EDE8DF;
+      --deep-navy:      #0A1628;
+      --muted:          #8A8070;
+
+      --urgente:        #C0392B;
+      --urgente-bg:     #FDF0EE;
+      --semana:         #B8860B;
+      --semana-bg:      #FDFBF0;
+      --evergreen:      #2E7D4F;
+      --evergreen-bg:   #F0FAF4;
+
+      --font-display:   'Cormorant Garamond', Georgia, serif;
+      --font-body:      'Montserrat', sans-serif;
+
+      --radius:         10px;
+      --shadow:         0 2px 16px rgba(5,59,33,0.07);
+      --shadow-hover:   0 6px 24px rgba(5,59,33,0.13);
+    }
+
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--off-white);
+      font-family: var(--font-body);
+      font-weight: 300;
+      color: var(--deep-navy);
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+    }
+
+    /* ── HEADER ─────────────────────────────────── */
+    header {
+      background: var(--aurora-forest);
+      color: var(--cream-silk);
+      padding: 32px 24px 0;
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .brand-crown {
+      font-size: 2rem;
+      color: var(--champagne-gold);
+      line-height: 1;
+    }
+
+    .brand h1 {
+      font-family: var(--font-display);
+      font-size: 1.7rem;
+      font-weight: 400;
+      letter-spacing: 0.04em;
+      color: var(--cream-silk);
+      line-height: 1.1;
+    }
+
+    .brand p {
+      font-size: 0.68rem;
+      font-weight: 500;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--champagne-gold);
+      margin-top: 2px;
+    }
+
+    .header-meta {
+      text-align: right;
+    }
+
+    .header-meta .data {
+      font-family: var(--font-display);
+      font-size: 1.1rem;
+      font-style: italic;
+      color: var(--cream-silk);
+    }
+
+    .header-meta .hora {
+      font-size: 0.68rem;
+      font-weight: 400;
+      letter-spacing: 0.12em;
+      color: var(--champagne-gold);
+      margin-top: 2px;
+    }
+
+    .header-chips {
+      max-width: 1200px;
+      margin: 20px auto 0;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      padding-bottom: 20px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 14px;
+      border-radius: 20px;
+      font-size: 0.72rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+    }
+
+    .chip-urgente { background: rgba(192,57,43,0.18); color: #F5A49A; border: 1px solid rgba(192,57,43,0.3); }
+    .chip-semana  { background: rgba(184,134,11,0.18); color: #E8C96A; border: 1px solid rgba(184,134,11,0.3); }
+    .chip-evergreen { background: rgba(46,125,79,0.18); color: #8ACFA8; border: 1px solid rgba(46,125,79,0.3); }
+
+    /* ── FILTER BAR ──────────────────────────────── */
+    .filter-wrap {
+      background: var(--cream-silk);
+      border-bottom: 1px solid var(--parchment);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .filter-bar {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+      display: flex;
+      gap: 4px;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+
+    .filter-bar::-webkit-scrollbar { display: none; }
+
+    .filter-btn {
+      flex-shrink: 0;
+      background: none;
+      border: none;
+      padding: 14px 16px;
+      font-family: var(--font-body);
+      font-size: 0.72rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      transition: color 0.2s, border-color 0.2s;
+      white-space: nowrap;
+    }
+
+    .filter-btn:hover { color: var(--aurora-forest); }
+
+    .filter-btn.active {
+      color: var(--aurora-forest);
+      border-bottom-color: var(--champagne-gold);
+    }
+
+    /* ── MAIN CONTENT ────────────────────────────── */
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 24px 64px;
+    }
+
+    .section {
+      margin-bottom: 48px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    .section-label {
+      font-family: var(--font-display);
+      font-size: 1.35rem;
+      font-weight: 400;
+      letter-spacing: 0.03em;
+    }
+
+    .section-count {
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      padding: 3px 10px;
+      border-radius: 12px;
+    }
+
+    .section-urgente .section-label { color: var(--urgente); }
+    .section-urgente .section-count { background: var(--urgente-bg); color: var(--urgente); }
+
+    .section-semana .section-label { color: var(--semana); }
+    .section-semana .section-count { background: var(--semana-bg); color: var(--semana); }
+
+    .section-evergreen .section-label { color: var(--evergreen); }
+    .section-evergreen .section-count { background: var(--evergreen-bg); color: var(--evergreen); }
+
+    .section-divider {
+      height: 1px;
+      background: var(--parchment);
+      margin-bottom: 20px;
+    }
+
+    /* ── CARDS GRID ──────────────────────────────── */
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 16px;
+    }
+
+    /* ── CARD ────────────────────────────────────── */
+    .card {
+      background: #fff;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      transition: box-shadow 0.25s, transform 0.25s;
+      display: flex;
+      flex-direction: column;
+      border-top: 3px solid transparent;
+    }
+
+    .card:hover {
+      box-shadow: var(--shadow-hover);
+      transform: translateY(-2px);
+    }
+
+    .card.urgente { border-top-color: var(--urgente); }
+    .card.semana  { border-top-color: var(--semana); }
+    .card.evergreen { border-top-color: var(--evergreen); }
+
+    .card-head {
+      padding: 14px 16px 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 8px;
+    }
+
+    .tipo-badge {
+      font-size: 0.62rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 3px 10px;
+      border-radius: 12px;
+      background: var(--parchment);
+      color: var(--muted);
+      white-space: nowrap;
+    }
+
+    .pilar-tag {
+      font-size: 0.62rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      color: var(--aurora-forest);
+      background: var(--cream-silk);
+      padding: 3px 10px;
+      border-radius: 12px;
+      text-align: right;
+      line-height: 1.3;
+    }
+
+    .card-body { padding: 0 16px 14px; flex: 1; display: flex; flex-direction: column; gap: 12px; }
+
+    .card-trend {
+      font-family: var(--font-display);
+      font-size: 0.95rem;
+      font-weight: 400;
+      line-height: 1.45;
+      color: var(--deep-navy);
+    }
+
+    .card-label {
+      font-size: 0.6rem;
+      font-weight: 600;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 3px;
+    }
+
+    .card-angulo {
+      font-size: 0.8rem;
+      line-height: 1.55;
+      color: #4A4035;
+      font-weight: 300;
+    }
+
+    .gancho-box {
+      background: linear-gradient(135deg, #FDF8F0, #FAF4E8);
+      border-left: 3px solid var(--champagne-gold);
+      border-radius: 0 6px 6px 0;
+      padding: 10px 14px;
+      cursor: pointer;
+      transition: background 0.2s;
+      position: relative;
+    }
+
+    .gancho-box:hover { background: linear-gradient(135deg, #FAF0DC, #F7EACC); }
+
+    .gancho-box:hover .copy-hint { opacity: 1; }
+
+    .gancho-text {
+      font-family: var(--font-display);
+      font-size: 0.9rem;
+      font-style: italic;
+      font-weight: 400;
+      line-height: 1.5;
+      color: var(--aurora-forest);
+    }
+
+    .copy-hint {
+      font-size: 0.6rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--warm-gold);
+      margin-top: 4px;
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+
+    .copy-flash {
+      position: absolute;
+      top: 8px;
+      right: 10px;
+      font-size: 0.62rem;
+      font-weight: 600;
+      color: var(--aurora-forest);
+      background: var(--champagne-gold);
+      padding: 2px 8px;
+      border-radius: 8px;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+    .copy-flash.show { opacity: 1; }
+
+    /* ── FORMAT TAGS ─────────────────────────────── */
+    .format-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: auto;
+      padding-top: 4px;
+    }
+
+    .format-tag {
+      font-size: 0.63rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      padding: 3px 10px;
+      border-radius: 12px;
+      border: 1px solid var(--parchment);
+      color: var(--muted);
+      background: #fff;
+    }
+
+    .format-tag.principal {
+      background: var(--aurora-forest);
+      color: var(--champagne-gold);
+      border-color: var(--aurora-forest);
+      font-weight: 600;
+    }
+
+    /* ── EMPTY STATE ─────────────────────────────── */
+    .empty-state {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 40px;
+      color: var(--muted);
+      font-size: 0.85rem;
+      font-style: italic;
+    }
+
+    /* ── LOADING ─────────────────────────────────── */
+    .loading-state {
+      text-align: center;
+      padding: 80px 24px;
+      color: var(--muted);
+    }
+
+    .loading-crown {
+      font-size: 2.5rem;
+      display: block;
+      margin-bottom: 12px;
+      animation: pulse 1.5s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    /* ── HIDDEN ──────────────────────────────────── */
+    .card.hidden { display: none; }
+    .section.all-hidden { display: none; }
+
+    /* ── FOOTER ──────────────────────────────────── */
+    footer {
+      background: var(--aurora-forest);
+      color: var(--champagne-gold);
+      text-align: center;
+      padding: 20px;
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+    }
+
+    /* ── RESPONSIVE ──────────────────────────────── */
+    @media (max-width: 768px) {
+      header { padding: 24px 16px 0; }
+      .header-inner { flex-direction: column; gap: 12px; }
+      .header-meta { text-align: left; }
+      .header-chips { padding-bottom: 16px; }
+      main { padding: 24px 16px 48px; }
+      .cards-grid { grid-template-columns: 1fr; }
+      .brand h1 { font-size: 1.35rem; }
+      .filter-bar { padding: 0 16px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-crown">♛</span>
+        <div>
+          <h1>Inteligência de Mercado</h1>
+          <p>Priscilla Andrade</p>
+        </div>
+      </div>
+      <div class="header-meta">
+        <div class="data" id="data-display">—</div>
+        <div class="hora" id="hora-display">Carregando...</div>
+      </div>
+    </div>
+    <div class="header-chips">
+      <span class="chip chip-urgente" id="chip-urgente">— urgentes hoje</span>
+      <span class="chip chip-semana"  id="chip-semana">— esta semana</span>
+      <span class="chip chip-evergreen" id="chip-evergreen">— evergreen</span>
+    </div>
+  </header>
+
+  <div class="filter-wrap">
+    <div class="filter-bar">
+      <button class="filter-btn active" data-filter="all">Todos</button>
+      <button class="filter-btn" data-filter="casamento">Casamento & Relacionamento</button>
+      <button class="filter-btn" data-filter="autoimagem">Autoimagem & Identidade</button>
+      <button class="filter-btn" data-filter="posicionamento">Posicionamento & Carreira</button>
+      <button class="filter-btn" data-filter="estilo">Estilo de Vida</button>
+    </div>
+  </div>
+
+  <main id="main-content">
+    <div class="loading-state">
+      <span class="loading-crown">♛</span>
+      <p>Carregando inteligência do dia...</p>
+    </div>
+  </main>
+
+  <footer>
+    ♛ &nbsp; Priscilla Andrade — Dashboard Interno &nbsp; ♛
+  </footer>
+
+  <script>
+    // ── MAPPINGS ────────────────────────────────────────
+    const TIPO_LABELS = {
+      'reacao-celebridade':   '⭐ Reação Celebridade',
+      'comportamento-feminino': '👗 Comportamento Feminino',
+      'casal-relacionamento': '💍 Casal & Relacionamento',
+      'trend-instagram':      '📱 Trend Instagram',
+      'noticia':              '📰 Notícia',
+      'evergreen-reativado':  '♻️ Evergreen Reativado',
+    };
+
+    const FORMATO_LABELS = {
+      'reels-react':  'Reels React',
+      'lo-fi':        'Lo-fi',
+      'carrossel':    'Carrossel',
+      'stories':      'Stories',
+      'post-estatico':'Post Estático',
+    };
+
+    const PILAR_FILTER = {
+      'Casamento & Relacionamento': 'casamento',
+      'Autoimagem & Identidade':    'autoimagem',
+      'Posicionamento & Carreira':  'posicionamento',
+      'Estilo de Vida & Espiritualidade': 'estilo',
+    };
+
+    // ── BUILD CARD ──────────────────────────────────────
+    function buildCard(item) {
+      const urgClass = item.urgencia === 'hoje' ? 'urgente'
+                     : item.urgencia === 'semana' ? 'semana' : 'evergreen';
+      const pilarKey = PILAR_FILTER[item.pilar] || '';
+      const tipoLabel = TIPO_LABELS[item.tipo] || item.tipo;
+
+      const formatTagsHTML = item.formatos.map(f => {
+        const isPrincipal = f === item.formato_principal;
+        const label = FORMATO_LABELS[f] || f;
+        return `<span class="format-tag ${isPrincipal ? 'principal' : ''}">${label}</span>`;
+      }).join('');
+
+      return `
+        <article class="card ${urgClass}" data-pilar="${pilarKey}" data-id="${item.id}">
+          <div class="card-head">
+            <span class="tipo-badge">${tipoLabel}</span>
+            <span class="pilar-tag">${item.pilar}</span>
+          </div>
+          <div class="card-body">
+            <p class="card-trend">${item.trend}</p>
+
+            <div>
+              <div class="card-label">Ângulo da Priscilla</div>
+              <p class="card-angulo">${item.angulo}</p>
+            </div>
+
+            <div>
+              <div class="card-label">Gancho Pronto — clique para copiar</div>
+              <div class="gancho-box" onclick="copyGancho(this, '${escapeAttr(item.gancho)}')">
+                <p class="gancho-text">"${item.gancho}"</p>
+                <p class="copy-hint">Clique para copiar</p>
+                <span class="copy-flash">Copiado ✓</span>
+              </div>
+            </div>
+
+            <div>
+              <div class="card-label">Formatos Sugeridos</div>
+              <div class="format-tags">${formatTagsHTML}</div>
+            </div>
+          </div>
+        </article>`;
+    }
+
+    // ── RENDER ALL ──────────────────────────────────────
+    function renderDashboard(data) {
+      const hoje   = data.items.filter(i => i.urgencia === 'hoje');
+      const semana = data.items.filter(i => i.urgencia === 'semana');
+      const ever   = data.items.filter(i => i.urgencia === 'evergreen');
+
+      // Header meta
+      document.getElementById('data-display').textContent = data.data;
+      document.getElementById('hora-display').textContent = `Atualizado às ${data.atualizado}`;
+      document.getElementById('chip-urgente').textContent = `${hoje.length} urgente${hoje.length !== 1 ? 's' : ''} hoje`;
+      document.getElementById('chip-semana').textContent  = `${semana.length} esta semana`;
+      document.getElementById('chip-evergreen').textContent = `${ever.length} evergreen`;
+
+      const sections = [
+        { items: hoje,   cls: 'urgente',  emoji: '🔴', label: 'Urgente Hoje' },
+        { items: semana, cls: 'semana',   emoji: '🟡', label: 'Esta Semana' },
+        { items: ever,   cls: 'evergreen',emoji: '🟢', label: 'Evergreen' },
+      ];
+
+      const main = document.getElementById('main-content');
+      main.innerHTML = sections.map(s => `
+        <section class="section section-${s.cls}" id="section-${s.cls}">
+          <div class="section-header">
+            <span>${s.emoji}</span>
+            <h2 class="section-label">${s.label}</h2>
+            <span class="section-count">${s.items.length}</span>
+          </div>
+          <div class="section-divider"></div>
+          <div class="cards-grid" id="grid-${s.cls}">
+            ${s.items.length
+              ? s.items.map(buildCard).join('')
+              : '<p class="empty-state">Nenhum item nesta categoria.</p>'}
+          </div>
+        </section>`
+      ).join('');
+    }
+
+    // ── FILTER ──────────────────────────────────────────
+    let activeFilter = 'all';
+
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        activeFilter = btn.dataset.filter;
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        applyFilter();
+      });
+    });
+
+    function applyFilter() {
+      document.querySelectorAll('.card').forEach(card => {
+        if (activeFilter === 'all' || card.dataset.pilar === activeFilter) {
+          card.classList.remove('hidden');
+        } else {
+          card.classList.add('hidden');
+        }
+      });
+
+      document.querySelectorAll('.section').forEach(sec => {
+        const visible = sec.querySelectorAll('.card:not(.hidden)').length;
+        sec.classList.toggle('all-hidden', visible === 0 && activeFilter !== 'all');
+      });
+    }
+
+    // ── COPY GANCHO ─────────────────────────────────────
+    function copyGancho(el, text) {
+      navigator.clipboard.writeText(text).then(() => {
+        const flash = el.querySelector('.copy-flash');
+        flash.classList.add('show');
+        setTimeout(() => flash.classList.remove('show'), 1800);
+      }).catch(() => {
+        const ta = document.createElement('textarea');
+        ta.value = text;
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+      });
+    }
+
+    function escapeAttr(str) {
+      return str.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    }
+
+    // ── LOAD DATA ───────────────────────────────────────
+    fetch('briefing.json?v=' + Date.now())
+      .then(r => {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
+      .then(data => renderDashboard(data))
+      .catch(err => {
+        document.getElementById('main-content').innerHTML = `
+          <div class="loading-state">
+            <span style="font-size:2rem;display:block;margin-bottom:12px">⚠️</span>
+            <p style="color:#8A8070;font-size:0.85rem">
+              Não foi possível carregar o briefing de hoje.<br>
+              Verifique se o arquivo <strong>briefing.json</strong> está no mesmo diretório.
+            </p>
+          </div>`;
+      });
+  </script>
+</body>
+</html>

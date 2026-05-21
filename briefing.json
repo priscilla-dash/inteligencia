@@ -1,0 +1,105 @@
+{
+  "data": "21/05/2026",
+  "atualizado": "07:00",
+  "items": [
+    {
+      "id": 1,
+      "urgencia": "hoje",
+      "tipo": "reacao-celebridade",
+      "trend": "Virginia Fonseca postou vídeo sendo interrompida pelo Zé Felipe ao vivo durante transmissão sobre negócios",
+      "pilar": "Casamento & Relacionamento",
+      "angulo": "Quando o marido te interrompe em público ele está comunicando o peso que ele dá à sua voz — e todas as mulheres que assistiram sentiram isso na pele.",
+      "gancho": "Quando seu marido te interrompe na frente de todos, ele não está brincando. Está te dizendo o lugar que você ocupa no reino dele.",
+      "formatos": ["reels-react", "lo-fi", "stories"],
+      "formato_principal": "reels-react"
+    },
+    {
+      "id": 2,
+      "urgencia": "hoje",
+      "tipo": "comportamento-feminino",
+      "trend": "Vídeo viral de mulher na academia com roupa considerada inapropriada gera debate sobre 'respeito' x 'liberdade'",
+      "pilar": "Autoimagem & Identidade",
+      "angulo": "A discussão não é sobre roupa. É sobre o que você comunica com sua imagem e se a mensagem que você envia é a que você quer enviar.",
+      "gancho": "Toda roupa é uma fala. A questão não é o que você veste — é o que você está dizendo sem abrir a boca.",
+      "formatos": ["reels-react", "carrossel", "lo-fi"],
+      "formato_principal": "reels-react"
+    },
+    {
+      "id": 3,
+      "urgencia": "hoje",
+      "tipo": "trend-instagram",
+      "trend": "Trend 'main character energy' voltou com força nos Reels — mulheres mostrando rotinas matinais de autocuidado",
+      "pilar": "Autoimagem & Identidade",
+      "angulo": "Priscilla pode mostrar que main character não é estética — é governança. Quem governa a própria vida não precisa de filtro para parecer protagonista.",
+      "gancho": "Main character não é uma estética. É uma decisão que você toma toda manhã antes de abrir qualquer rede social.",
+      "formatos": ["lo-fi", "stories", "reels-react"],
+      "formato_principal": "lo-fi"
+    },
+    {
+      "id": 4,
+      "urgencia": "semana",
+      "tipo": "casal-relacionamento",
+      "trend": "Separação de casal influencer famoso gera debate sobre 'aparência perfeita x realidade do casamento'",
+      "pilar": "Casamento & Relacionamento",
+      "angulo": "A imagem perfeita do casal nas redes não sustenta um casamento. Mas a imagem que você constrói dentro de casa — de mulher de alto valor — sustenta.",
+      "gancho": "O problema não foi a exposição. Foi que dentro de casa ela virou a mãe, a sócia, a amiga — mas nunca mais a rainha.",
+      "formatos": ["carrossel", "reels-react", "stories"],
+      "formato_principal": "carrossel"
+    },
+    {
+      "id": 5,
+      "urgencia": "semana",
+      "tipo": "noticia",
+      "trend": "Pesquisa aponta que mulheres acima de 40 anos são as que mais investem em imagem pessoal no Brasil em 2026",
+      "pilar": "Posicionamento & Carreira",
+      "angulo": "Não é vaidade. É estratégia. A mulher acima dos 40 descobriu que imagem é ativo — e está investindo como tal.",
+      "gancho": "Depois dos 40 você para de se arrumar para agradar. Começa a se arrumar para governar.",
+      "formatos": ["carrossel", "post-estatico", "stories"],
+      "formato_principal": "carrossel"
+    },
+    {
+      "id": 6,
+      "urgencia": "semana",
+      "tipo": "trend-instagram",
+      "trend": "Debate viral sobre mulheres que 'fazem demais' no relacionamento e recebem pouco em troca",
+      "pilar": "Casamento & Relacionamento",
+      "angulo": "Mulher que faz demais não tem problema de generosidade — tem problema de posicionamento. Você não ensinou o que você vale.",
+      "gancho": "Você não faz demais porque é boa demais. Você faz demais porque ainda não se posicionou como alguém que merece reciprocidade.",
+      "formatos": ["reels-react", "lo-fi", "carrossel"],
+      "formato_principal": "reels-react"
+    },
+    {
+      "id": 7,
+      "urgencia": "semana",
+      "tipo": "comportamento-feminino",
+      "trend": "Influencer compartilha rotina de 'quiet luxury' e gera discussão sobre elegância acessível",
+      "pilar": "Autoimagem & Identidade",
+      "angulo": "Quiet luxury não é sobre preço. É sobre presença. Priscilla pode mostrar que visagismo é o quiet luxury que qualquer mulher pode ter.",
+      "gancho": "Elegância não tem preço. Tem intenção. E intenção você aprende — não compra.",
+      "formatos": ["carrossel", "stories", "post-estatico"],
+      "formato_principal": "carrossel"
+    },
+    {
+      "id": 8,
+      "urgencia": "evergreen",
+      "tipo": "evergreen-reativado",
+      "trend": "Tema 'síndrome da impostora' voltou a circular com força após temporada de premiações femininas",
+      "pilar": "Posicionamento & Carreira",
+      "angulo": "A impostora não é quem você pensa que é. É a voz que te convenceu que o seu lugar é menor do que ele realmente é.",
+      "gancho": "Síndrome da impostora não é timidez. É o resultado de anos construindo imagem de amadora sendo o que você sabe ser de rainha.",
+      "formatos": ["carrossel", "reels-react", "post-estatico"],
+      "formato_principal": "carrossel"
+    },
+    {
+      "id": 9,
+      "urgencia": "evergreen",
+      "tipo": "evergreen-reativado",
+      "trend": "Discussão recorrente sobre mulheres cristãs e feminilidade volta ao topo dos comentários no Instagram",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "angulo": "Feminilidade não é fraqueza bíblica — é poder estratégico. Filha do Rei não precisa gritar para ser ouvida.",
+      "gancho": "Confundiram submissão com invisibilidade. Rainha se curva para Deus — não para quem não reconhece seu valor.",
+      "formatos": ["lo-fi", "stories", "carrossel"],
+      "formato_principal": "lo-fi"
+    }
+  ]
+}
