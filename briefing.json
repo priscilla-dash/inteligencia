@@ -1,670 +1,366 @@
 {
-  "data": "21/05/2026",
-  "atualizado": "07:00",
+  "versao": "2026-05-21",
+  "gerado_em": "2026-05-21T10:00:00-03:00",
+  "contexto_do_dia": "Mulheres em 2026 buscam relacionamentos mais estáveis e emocionalmente seguros, enquanto dados alarmantes apontam que quase metade delas sofre de ansiedade. O dia traz conteúdos urgentes sobre saúde emocional, identidade feminina no digital, maternidade e carreira — todos com alto potencial de identificação e engajamento.",
   "items": [
     {
       "id": 1,
-      "urgencia": "hoje",
-      "tipo": "reacao-celebridade",
-      "trend": "Virginia Fonseca interrompida pelo Zé Felipe ao vivo durante transmissão sobre negócios",
+      "titulo": "Estabilidade acima de tudo: o que as mulheres realmente querem num relacionamento",
+      "resumo": "Pesquisa de 2025 revela que 59% das mulheres priorizam parceiros emocionalmente consistentes e com propósito de vida definido. A busca por segurança emocional se intensificou num cenário de incertezas globais, tornando esse tema extremamente relevante para o público de Priscilla, que busca clareza sobre o que deseja nos relacionamentos.",
       "pilar": "Casamento & Relacionamento",
-      "angulo": "Quando o marido te interrompe em público, ele está comunicando o peso que dá à sua voz — e todas as mulheres que assistiram sentiram isso na pele.",
-      "gancho": "Quando seu marido te interrompe na frente de todos, ele não está brincando. Está te dizendo o lugar que você ocupa no reino dele.",
-      "formatos": ["reels-react", "lo-fi", "stories"],
+      "urgencia": "hoje",
       "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "lo-fi",
+        "carrossel"
+      ],
+      "fonte": "Instituto do Casal / CNN Brasil",
       "copies": {
         "reels-react": {
-          "ideia_central": "A mulher que não se posiciona como Rainha aceita qualquer tratamento — inclusive ser interrompida na frente de todos como se não estivesse falando.",
-          "gancho": "Você viu o vídeo da Virginia sendo interrompida? Isso não foi acidente.",
+          "ideia_central": "Mostrar que a mulher atual não quer intensidade — ela quer consistência.",
+          "gancho": "Se você ainda acha que parceiro bom é aquele que te faz sentir emoções intensas, você precisa ouvir isso.",
           "roteiro": [
-            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Você viu o vídeo da Virginia sendo interrompida enquanto falava de negócios? Isso não foi acidente."},
-            {"tempo": "3–15s", "descricao": "Contextualização", "fala": "Quando seu marido te interrompe em público, ele está comunicando — para você, para ele e para todos — qual é o peso que ele dá à sua voz. E isso não começa na frente da câmera. Começa dentro de casa."},
-            {"tempo": "15–25s", "descricao": "Posicionamento / Virada", "fala": "Rainha não pede licença para falar. Ela já ocupa o espaço. O posicionamento que você constrói no privado determina como você é tratada quando as câmeras aparecem."},
-            {"tempo": "25–30s", "descricao": "CTA", "fala": "Comente RAINHA se você já se sentiu invisível dentro do seu próprio relacionamento."}
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Se você ainda acha que parceiro bom é aquele que te faz sentir borboletas no estômago, eu preciso te contar uma coisa."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Desenvolvimento",
+              "fala": "Uma pesquisa de 2025 mostrou que 59% das mulheres hoje estão priorizando uma coisa completamente diferente nos relacionamentos. Elas não querem mais aquela montanha-russa emocional. Elas querem estabilidade. Querem um parceiro que aparece, que é consistente, que tem propósito."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada",
+              "fala": "E sabe o que é mais interessante? As mulheres que escolheram a estabilidade se sentem menos inseguras, menos ansiosas e muito mais realizadas. A borboleta no estômago pode ser sinal de ansiedade — não de amor."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Salva esse vídeo e manda pra uma amiga que ainda está confundindo intensidade com amor. Nos comentários me conta: você já viveu isso?"
+            }
           ],
-          "legenda": "Quando alguém te interrompe em público, não é falta de educação.\n\nÉ a exposição do posicionamento que você tem dentro do seu relacionamento.\n\nRainha não pede licença para ser ouvida — porque ela construiu esse espaço antes de qualquer câmera aparecer.\n\nSe você já se sentiu invisível onde deveria ser protagonista, me conta aqui nos comentários. ♛"
-        },
-        "lo-fi": {
-          "ideia": "Reagir ao vídeo da Virginia com posicionamento sobre o que esse comportamento comunica sobre a dinâmica do casal.",
-          "gancho": "Vi o vídeo da Virginia sendo interrompida e preciso falar sem rodeios.",
-          "o_que_falar": [
-            "O que esse comportamento comunica: o lugar que a mulher ocupa na percepção do marido",
-            "Diferença entre parceiro de vida e obstáculo para a sua voz",
-            "Como o posicionamento de Rainha muda o que as pessoas aceitam de você — dentro e fora de casa",
-            "Isso começa com o que você aceita no privado — antes de qualquer câmera aparecer"
-          ],
-          "legenda": "Não é sobre Virginia. É sobre o que você aceita dentro do seu relacionamento antes de qualquer câmera aparecer. ♛",
-          "vibe": "Ambiente intimista, iluminação natural, tom de conversa de amiga. Sem roteiro ensaiado — falar olhando para a câmera como se fosse uma amiga do outro lado."
-        },
-        "stories": {
-          "total": 5,
-          "sequencia": [
-            {"numero": 1, "tipo": "Gancho", "texto": "Você assistiu o vídeo da Virginia sendo interrompida ao vivo?", "recurso": "Texto em tela preta ou print do vídeo com destaque"},
-            {"numero": 2, "tipo": "Contextualização", "texto": "Quando seu marido te interrompe em público, o que ele está dizendo sobre o espaço que você ocupa?", "recurso": "Vídeo ou texto com fundo escuro"},
-            {"numero": 3, "tipo": "Posicionamento", "texto": "Uma Rainha não pede licença para falar. Ela já ocupa o espaço.", "recurso": "Frase em tela cheia — fonte elegante"},
-            {"numero": 4, "tipo": "Ensinamento", "texto": "Isso começa com o que você aceita dentro de casa — antes de qualquer câmera aparecer.", "recurso": "Texto com imagem de apoio ou vídeo falando"},
-            {"numero": 5, "tipo": "CTA + Interação", "texto": "Caixinha aberta: Seu marido te ouve ou te interrompe?", "recurso": "Caixinha de perguntas do Instagram"}
-          ],
-          "interacao": "Caixinha de perguntas: 'Seu marido te ouve ou te interrompe?'",
-          "conexao_feed": "Use os stories para provocar a reflexão e puxar para o Reels: 'Gravei um vídeo sobre isso — desliza para ver' ou 'Vai ter Reels hoje sobre isso — ativa o sininho'"
+          "legenda": "A borboleta no estômago pode ser ansiedade, não amor. 🦋\n\nUma pesquisa de 2025 revelou que 59% das mulheres estão priorizando estabilidade emocional acima de tudo nos relacionamentos. E faz todo sentido.\n\nQuando a gente cresce, para de romantizar o caos e começa a valorizar quem aparece. Quem é consistente. Quem tem propósito.\n\nVocê está buscando intensidade ou estabilidade no seu relacionamento? Me conta nos comentários. 👇\n\n#relacionamento #relacionamentoSaudavel #mulheres #psicologiaDoAmor #priscillaandrade #comportamentoFeminino #casamento #autoconhecimento"
         }
       }
     },
     {
       "id": 2,
-      "urgencia": "hoje",
-      "tipo": "comportamento-feminino",
-      "trend": "Vídeo viral de mulher na academia com roupa 'inapropriada' gera debate entre 'respeito' e 'liberdade'",
+      "titulo": "O TikTok está destruindo a sua autoestima (e você nem percebeu)",
+      "resumo": "Estudo publicado na revista PLOS One aponta o TikTok como a plataforma que mais afeta negativamente a autoestima de mulheres jovens adultas. Em um momento em que redes sociais dominam o cotidiano feminino, este conteúdo gera identificação imediata e abre espaço para a reflexão sobre consumo digital consciente.",
       "pilar": "Autoimagem & Identidade",
-      "angulo": "A discussão não é sobre roupa. É sobre o que você comunica com sua imagem e se a mensagem que você envia é a que você quer enviar.",
-      "gancho": "Toda roupa é uma fala. A questão não é o que você veste — é o que você está dizendo sem abrir a boca.",
-      "formatos": ["reels-react", "carrossel", "lo-fi"],
+      "urgencia": "hoje",
       "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "carrossel",
+        "stories"
+      ],
+      "fonte": "PLOS One (2024) / UAI Notícias",
       "copies": {
         "reels-react": {
-          "ideia_central": "Imagem é comunicação — mulher intencional sabe que cada escolha de vestuário é uma mensagem antes de abrir a boca.",
-          "gancho": "Toda roupa é uma fala. Antes de sair de casa, você sabe o que está dizendo?",
+          "ideia_central": "Provocar a mulher a refletir sobre o impacto silencioso do TikTok na sua percepção de si mesma.",
+          "gancho": "Você passa horas no TikTok e sai de lá se sentindo pior do que entrou. Não é coincidência.",
           "roteiro": [
-            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Toda roupa é uma fala. Antes de sair de casa, você sabe exatamente o que está dizendo?"},
-            {"tempo": "3–15s", "descricao": "Desenvolvimento", "fala": "Não é julgamento — é comunicação. Tudo que você veste emite uma mensagem antes de você abrir a boca. O debate da academia não é sobre liberdade vs. respeito. É sobre uma pergunta muito mais importante: a imagem que você está projetando é a que você quer projetar?"},
-            {"tempo": "15–25s", "descricao": "Posicionamento", "fala": "Mulher de alto valor cuida da mensagem que envia — não porque tem medo do julgamento alheio, mas porque entende que imagem é poder. E poder se escolhe com intenção."},
-            {"tempo": "25–30s", "descricao": "CTA", "fala": "Comente IMAGEM e eu te mando como sua roupa fala por você antes de você abrir a boca."}
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Você passa horas no TikTok e sai de lá se sentindo pior do que entrou. Isso não é coincidência — é ciência."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Desenvolvimento",
+              "fala": "Um estudo publicado em uma das revistas científicas mais respeitadas do mundo mostrou que o TikTok é a plataforma que mais afeta negativamente a autoestima de mulheres. Mais do que qualquer outra rede social. E não é só sobre padrões de beleza — é sobre a comparação constante, o consumo passivo, a sensação de que todo mundo está vivendo uma vida melhor que a sua."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada",
+              "fala": "O problema não é a rede social em si. O problema é quando você consome no piloto automático, sem perceber como seu cérebro está interpretando aquilo. Cada vídeo que você assiste está moldando, aos poucos, a imagem que você tem de si mesma."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Salva esse vídeo. Vou trazer dicas práticas de como usar as redes sociais sem deixar que elas te destruam por dentro. Qual rede você sente que mais te afeta?"
+            }
           ],
-          "legenda": "Não é sobre o que você veste.\n\nÉ sobre o que você está comunicando antes de abrir a boca.\n\nToda roupa é uma declaração. E mulher de alto valor faz essa declaração com intenção — não com descuido.\n\nVocê está comunicando o que quer comunicar?\n\nComente IMAGEM para receber o guia de como sua roupa fala por você. ♛"
-        },
-        "carrossel": {
-          "ideia": "Educar sobre imagem como comunicação usando o debate viral da academia como ponto de entrada.",
-          "cards": [
-            {"numero": 1, "tipo": "Capa", "titulo": "Sua roupa fala antes de você abrir a boca", "subtitulo": "E você está dizendo o que quer dizer?"},
-            {"numero": 2, "tipo": "Contextualização", "titulo": "O debate viral da academia", "texto": "Não é sobre a roupa ser certa ou errada. É sobre uma pergunta que toda mulher intencional deveria se fazer."},
-            {"numero": 3, "tipo": "Conceito", "titulo": "Toda peça é uma mensagem", "texto": "Antes de você abrir a boca, seu visual já comunicou: status, personalidade, intenção e o nível de atenção que você quer receber."},
-            {"numero": 4, "tipo": "Distinção", "titulo": "Liberdade não exclui consciência", "texto": "Você pode usar o que quiser. A questão é: a mensagem que você está enviando é a que você quer enviar?"},
-            {"numero": 5, "tipo": "Posicionamento", "titulo": "Mulher de alto valor escolhe com intenção", "texto": "Não por medo do julgamento alheio — mas porque entende que imagem é poder e poder se exerce com consciência."},
-            {"numero": 6, "tipo": "Aplicação", "titulo": "Visagismo: a ciência por trás disso", "texto": "Alinhar o que você é por dentro com o que você comunica por fora. Isso é visagismo — e é o que diferencia presença de simples aparência."},
-            {"numero": 7, "tipo": "CTA", "titulo": "Você está se comunicando ou se confundindo?", "texto": "Salva esse carrossel para rever quando for montar um look importante. ♛"}
-          ],
-          "legenda": "O debate da academia não é sobre roupa.\n\nÉ sobre imagem como comunicação — e se você está enviando a mensagem que quer enviar.\n\nSalva para rever quando for montar um look importante. ♛"
-        },
-        "lo-fi": {
-          "ideia": "Falar de forma direta e sem julgamento sobre o que o debate da academia revela sobre imagem e comunicação.",
-          "gancho": "Sobre esse debate da academia — tenho uma visão diferente e preciso compartilhar.",
-          "o_que_falar": [
-            "Não é sobre certo ou errado na roupa — cada um tem direito ao próprio estilo",
-            "Mas toda roupa é uma comunicação: você está dizendo algo antes de abrir a boca",
-            "Mulher intencional pensa: 'Essa é a mensagem que quero passar?' — não por medo do julgamento, mas por consciência de imagem",
-            "Visagismo é isso: alinhar o que você é com o que você comunica"
-          ],
-          "legenda": "Imagem é comunicação. E quem entende isso não escolhe roupa com medo — escolhe com intenção. ♛",
-          "vibe": "Tom calmo e sem julgamento. Não entrar no debate de quem está certo ou errado — focar no conceito de intenção de imagem. Pode filmar em casa, ambiente clean."
+          "legenda": "O TikTok pode estar te fazendo mal. E a ciência comprova. 📱\n\nUm estudo publicado na PLOS One apontou o TikTok como a plataforma com maior impacto negativo na autoestima feminina. O consumo passivo e a comparação constante moldam — silenciosamente — a forma como você se vê.\n\nNão é fraqueza. É biologia. Nosso cérebro foi feito para comparar.\n\nMas você pode escolher o que alimenta sua mente. 💡\n\nQual rede social você sente que mais afeta a sua autoestima? Comenta aqui. 👇\n\n#autoestima #identidadeFeminina #TikTok #saudeMental #priscillaandrade #autoconhecimento #comportamentoFeminino #redesSociais"
         }
       }
     },
     {
       "id": 3,
+      "titulo": "Maternidade e carreira: por que 59% das mães ainda são prejudicadas no mercado de trabalho",
+      "resumo": "No Brasil, 59,1% das mães afirmam que a maternidade impactou negativamente suas carreiras — número que revela uma estrutura que ainda pune a mulher pela sua biologia. Para o público de Priscilla, que lida frequentemente com a tensão entre ambição profissional e vida pessoal, esse é um tema que gera forte identificação e engajamento.",
+      "pilar": "Posicionamento & Carreira",
       "urgencia": "hoje",
-      "tipo": "trend-instagram",
-      "trend": "Trend 'main character energy' voltou com força nos Reels — mulheres mostrando rotinas matinais de autocuidado filtrado",
-      "pilar": "Autoimagem & Identidade",
-      "angulo": "Main character não é estética — é governança. Quem governa a própria vida não precisa de filtro para parecer protagonista.",
-      "gancho": "Main character não é uma estética. É uma decisão que você toma toda manhã antes de abrir qualquer rede social.",
-      "formatos": ["lo-fi", "stories", "reels-react"],
-      "formato_principal": "lo-fi",
+      "formato_principal": "carrossel",
+      "formatos_alternativos": [
+        "reels-react",
+        "lo-fi"
+      ],
+      "fonte": "ALAGEV / Solidariedade Mulher",
       "copies": {
-        "lo-fi": {
-          "ideia": "Desconstruir a trend 'main character energy' mostrando que protagonismo de verdade é governança, não estética.",
-          "gancho": "Main character energy tá em todo lugar. Mas ninguém tá falando o que realmente é.",
-          "o_que_falar": [
-            "Main character de verdade não é a rotina bonitinha com filtro do TikTok",
-            "É quem acorda e decide o tom do próprio dia — antes de abrir o celular",
-            "Governança: você decide antes de reagir. Protagonista não espera o dia te definir",
-            "A rotina matinal não é sobre o skincare — é sobre quem você é antes do mundo entrar"
+        "carrossel": {
+          "ideia": "Dados e reflexões sobre o impacto real da maternidade na carreira feminina no Brasil, com caminhos concretos para enfrentar essa realidade.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "59% das mães tiveram a carreira prejudicada pela maternidade.",
+              "subtitulo": "Esse número precisa ser discutido."
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O Brasil pune a mulher pela sua biologia.",
+              "texto": "Pesquisa recente mostra que mais da metade das mães brasileiras sente o impacto direto da maternidade na sua trajetória profissional. Promoções adiadas. Salários congelados. Demissões mascaradas."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Não é escolha — é estrutura.",
+              "texto": "A sobrecarga do cuidado recai quase exclusivamente sobre as mulheres. Enquanto a carreira do pai raramente é questionada, a da mãe é colocada sob suspeita desde a gravidez."
+            },
+            {
+              "numero": 4,
+              "tipo": "Desenvolvimento",
+              "titulo": "O que os números também revelam:",
+              "texto": "• Mulheres recebem em média 21% menos que homens\n• Apenas 29% dos cargos de diretoria são ocupados por mulheres\n• Maternidade é o principal ponto de inflexão na carreira feminina"
+            },
+            {
+              "numero": 5,
+              "tipo": "Virada",
+              "titulo": "Mas existe um caminho.",
+              "texto": "Conhecer seus direitos, construir uma rede de apoio sólida, ter clareza do seu posicionamento profissional e não se isolar. A maternidade não precisa ser o fim da sua ambição."
+            },
+            {
+              "numero": 6,
+              "tipo": "CTA",
+              "titulo": "Você já sentiu isso na pele?",
+              "texto": "Me conta nos comentários. E salva esse carrossel para compartilhar com quem precisa ouvir isso. 💛"
+            }
           ],
-          "legenda": "Main character não é estética. É uma decisão de governança que você toma toda manhã antes de qualquer filtro. ♛",
-          "vibe": "Filmar de manhã, ambiente real sem muito preparo visual — isso reforça a mensagem de que protagonismo não precisa de filtro. Tom provocativo mas acolhedor."
-        },
-        "stories": {
-          "total": 5,
-          "sequencia": [
-            {"numero": 1, "tipo": "Gancho", "texto": "Main character energy. Você tem? Ou só acha que tem?", "recurso": "Texto provocativo em tela cheia — fundo escuro, letra elegante"},
-            {"numero": 2, "tipo": "Desconstrução", "texto": "Não é filtro. Não é rotina bonitinha. Não é o skincare caro.", "recurso": "Texto listado ou vídeo falando"},
-            {"numero": 3, "tipo": "Conceito", "texto": "Protagonista decide antes de reagir. Acorda e define o dia — o dia não a define.", "recurso": "Frase de impacto em tela cheia"},
-            {"numero": 4, "tipo": "Pergunta reflexiva", "texto": "Como é a sua manhã antes de abrir o celular? Você tem uma?", "recurso": "Vídeo ou texto com fundo simples"},
-            {"numero": 5, "tipo": "CTA + Interação", "texto": "Me conta na caixinha: primeira coisa que você faz ao acordar?", "recurso": "Caixinha de perguntas"}
-          ],
-          "interacao": "Caixinha: 'Primeira coisa que você faz ao acordar?'",
-          "conexao_feed": "Usar os stories como provocação e direcionar para o Reels ou Lo-fi onde o conceito é aprofundado: 'Gravei um vídeo explicando o que é main character de verdade — vai no feed'"
-        },
-        "reels-react": {
-          "ideia_central": "A trend de main character energy é estética — mas protagonismo de verdade é uma decisão de governança.",
-          "gancho": "Main character energy não é estética. É uma decisão de governança.",
-          "roteiro": [
-            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Main character energy está em todo feed. Mas ninguém está falando o que realmente é."},
-            {"tempo": "3–15s", "descricao": "Desconstrução", "fala": "A trend mostra rotinas bonitas, filtros, produtos caros, skincare elaborado. Isso não é main character. Isso é estética de protagonismo."},
-            {"tempo": "15–25s", "descricao": "Posicionamento", "fala": "Main character de verdade é quem acorda e decide o tom do dia antes de qualquer notificação. Quem governa sua mente, seu tempo, sua manhã. Rainha não espera o dia chegar — ela o define."},
-            {"tempo": "25–30s", "descricao": "CTA", "fala": "Comente RAINHA se você quer começar a governar a sua manhã antes de qualquer rede social."}
-          ],
-          "legenda": "Main character energy não é a rotina com filtro.\n\nÉ acordar e decidir o tom do seu dia antes de qualquer notificação aparecer.\n\nRainha governa. Não reage.\n\nComente RAINHA se você quer começar a governar a sua manhã. ♛"
+          "legenda": "59% das mães brasileiras afirmam que a maternidade prejudicou sua carreira. 📊\n\nIsso não é estatística fria — é a realidade de milhões de mulheres que tiveram que escolher entre ser mãe e ser profissional.\n\nMas sabe o que ninguém te conta? Esse é um problema estrutural, não pessoal.\n\nSlide por slide, desmontei esse dado e trouxe o que você pode fazer para não se perder nessa estrutura que ainda não foi feita para nós.\n\nSalva e compartilha. 💛\n\n#maternidade #carreira #mulheresNoMercado #liderancaFeminina #priscillaandrade #posicionamento #empoderamento #trabalho"
         }
       }
     },
     {
       "id": 4,
-      "urgencia": "hoje",
-      "tipo": "casal-relacionamento",
-      "trend": "Influencer compartilha 'prova de amor' ao abrir mão de promoção no trabalho para acompanhar marido em mudança de cidade",
-      "pilar": "Posicionamento & Carreira",
-      "angulo": "Amor é real. Mas abrir mão da carreira não é prova de amor — é ausência de posicionamento. Rainha ama e governa ao mesmo tempo.",
-      "gancho": "Ela provou o amor largando a promoção. Daqui a cinco anos, ela vai se perguntar: e meu reino?",
-      "formatos": ["reels-react", "carrossel", "stories"],
-      "formato_principal": "reels-react",
+      "titulo": "Espiritualidade feminina: o autocuidado que vai além do espelho",
+      "resumo": "Cada vez mais mulheres estão descobrindo na espiritualidade um caminho para o autoconhecimento e a resiliência emocional — muito além das práticas de beleza convencionais. Para o público de Priscilla, que busca equilíbrio integral, esse conteúdo conecta espiritualidade com saúde mental e qualidade de vida de forma acessível e autêntica.",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "urgencia": "semana",
+      "formato_principal": "lo-fi",
+      "formatos_alternativos": [
+        "stories",
+        "post-estatico"
+      ],
+      "fonte": "Viva Saúde / Portal EdiCase",
       "copies": {
-        "reels-react": {
-          "ideia_central": "Amor verdadeiro não exige que uma mulher destrua seu próprio reino para provar que ama.",
-          "gancho": "Ela provou o amor largando a promoção. Daqui a cinco anos, ela vai se perguntar: e meu reino?",
-          "roteiro": [
-            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Vi a história da influencer que abriu mão da promoção por amor. E preciso trazer um olhar diferente."},
-            {"tempo": "3–15s", "descricao": "Distinção", "fala": "Amor é real. Sacrifício é real. Mas existe uma diferença enorme entre ajustar planos com o parceiro e destruir o seu próprio reino para provar que você ama."},
-            {"tempo": "15–25s", "descricao": "Posicionamento", "fala": "Mulher de alto valor ama — e governa ao mesmo tempo. Um relacionamento saudável não pede que você se apague para ele brilhar. Se pede, tem um problema de posicionamento em jogo."},
-            {"tempo": "25–30s", "descricao": "CTA", "fala": "Comente REINO se você quer entender como amar sem se perder."}
+        "lo-fi": {
+          "ideia": "Falar sobre como a espiritualidade é uma ferramenta prática de equilíbrio emocional para mulheres — não algo distante ou restrito a uma religião específica.",
+          "gancho": "Autocuidado não começa na skincare. Começa em outro lugar.",
+          "o_que_falar": [
+            "A espiritualidade feminina não precisa ter nome de religião — ela é qualquer prática que te reconecta com você mesma: meditação, oração, natureza, silêncio.",
+            "Estudos mostram que mulheres que praticam algum tipo de espiritualidade têm maior resiliência emocional — se recuperam mais rápido de situações difíceis e se adaptam melhor a mudanças.",
+            "O problema é que a gente foi ensinada a cuidar do corpo e esqueceu da alma. E quando a alma está esvaziada, nenhuma rotinha de beleza preenche.",
+            "O que te reconecta com você mesma? Isso é a sua espiritualidade. E ela precisa ter espaço garantido na sua semana."
           ],
-          "legenda": "Amor é real. Mas prova de amor não é destruir o próprio reino.\n\nRainha ama — e governa. As duas coisas ao mesmo tempo.\n\nSe o amor que você tem pede que você se apague para ele existir, o problema não é o amor.\n\nÉ o posicionamento.\n\nComente REINO se você quer entender como amar sem se perder. ♛"
-        },
-        "carrossel": {
-          "ideia": "Diferenciar amor real de ausência de posicionamento — e mostrar como Rainha ama e governa ao mesmo tempo.",
-          "cards": [
-            {"numero": 1, "tipo": "Capa", "titulo": "Ela provou o amor largando a promoção", "subtitulo": "Mas daqui a cinco anos, ela vai se perguntar: e meu reino?"},
-            {"numero": 2, "tipo": "Contextualização", "titulo": "A história que tomou as redes", "texto": "Influencer abre mão de promoção para acompanhar marido. Reações: metade achou lindo, metade ficou com aquela sensação estranha."},
-            {"numero": 3, "tipo": "Distinção", "titulo": "Amor e posicionamento são coisas diferentes", "texto": "Você pode amar profundamente e ainda ter clareza sobre o que você não está disposta a sacrificar. Uma coisa não exclui a outra."},
-            {"numero": 4, "tipo": "Alerta", "titulo": "Quando o amor pede que você se apague", "texto": "Se a prova de amor exigida é a destruição do seu reino, o problema não é o amor — é o que foi ensinado sobre o papel da mulher no relacionamento."},
-            {"numero": 5, "tipo": "Posicionamento", "titulo": "Rainha ama e governa — ao mesmo tempo", "texto": "Relacionamento saudável ajusta planos juntos. Não pede que um dos dois se apague para o outro brilhar."},
-            {"numero": 6, "tipo": "CTA", "titulo": "Você consegue amar sem se perder?", "texto": "Comente REINO se você quer entender como construir isso no seu relacionamento. ♛"}
-          ],
-          "legenda": "Amor real não pede que você destrua o seu reino para provar que existe.\n\nRainha ama — e governa. ♛"
-        },
-        "stories": {
-          "total": 5,
-          "sequencia": [
-            {"numero": 1, "tipo": "Gancho", "texto": "Você viu a história da influencer que largou a promoção por amor?", "recurso": "Print da notícia ou texto em tela"},
-            {"numero": 2, "tipo": "Reflexão", "texto": "Daqui a cinco anos, será que ela vai se perguntar: e meu reino?", "recurso": "Texto em fundo escuro — frase de impacto"},
-            {"numero": 3, "tipo": "Distinção", "texto": "Amor é real. Mas prova de amor não é abrir mão do seu reino.", "recurso": "Vídeo falando ou texto"},
-            {"numero": 4, "tipo": "Posicionamento", "texto": "Rainha ama e governa ao mesmo tempo. As duas coisas.", "recurso": "Frase de impacto em tela cheia"},
-            {"numero": 5, "tipo": "Interação", "texto": "Me conta: você já abriu mão de algo importante 'por amor'? Valeu a pena?", "recurso": "Caixinha de perguntas"}
-          ],
-          "interacao": "Caixinha: 'Você já abriu mão de algo importante por amor? Valeu a pena?'",
-          "conexao_feed": "Usar os stories para coletar respostas reais e depois usar como abertura do Reels: 'Pedi nas caixinhas e as respostas foram surpreendentes...'"
+          "legenda": "Autocuidado de verdade começa por dentro. ✨\n\nA espiritualidade feminina é um dos caminhos mais poderosos para o equilíbrio emocional — e não precisa ter um nome de religião específico.\n\nO que te silencia o barulho da cabeça e te reconecta com você mesma? Isso é espiritualidade.\n\nMe conta aqui: qual a sua prática? 👇\n\n#espiritualidade #autocuidado #estiloDeVida #mulheres #priscillaandrade #bemestar #autoconhecimento #saudeMental",
+          "vibe": "Câmera estática no rosto, luz natural suave de janela lateral, ambiente calmo — quarto ou sala arrumada. Tom de voz acolhedor e pausado. Sem edição pesada, máximo 1-2 cortes secos."
         }
       }
     },
     {
       "id": 5,
-      "urgencia": "hoje",
-      "tipo": "trend-instagram",
-      "trend": "Trend 'soft life' explode no Instagram Brasil — mulheres mostrando vida confortável e sem esforço visível",
-      "pilar": "Estilo de Vida & Espiritualidade",
-      "angulo": "Soft life não é preguiça — é quem construiu bem o suficiente para escolher como vive. Mas tem uma versão fake: a soft life de quem esconde o esforço, não de quem o superou.",
-      "gancho": "Soft life não é não trabalhar. É ter trabalhado bem o suficiente para escolher como você vive.",
-      "formatos": ["lo-fi", "carrossel", "stories"],
-      "formato_principal": "lo-fi",
+      "titulo": "Divórcio tardio: por que casais de mais de 50 anos estão se separando em massa",
+      "resumo": "O 'divórcio tardio' está crescendo globalmente — casais com décadas de relacionamento estão se separando após os 50 anos. Esse fenômeno revela mudanças profundas na forma como as mulheres encaram a segunda metade da vida e sua tolerância à insatisfação crônica no casamento.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "semana",
+      "formato_principal": "stories",
+      "formatos_alternativos": [
+        "reels-react",
+        "carrossel"
+      ],
+      "fonte": "Gizmodo Brasil / Psicologia IBGE",
       "copies": {
-        "lo-fi": {
-          "ideia": "Diferenciar soft life real (resultado de posicionamento e construção) de soft life performático (esconder esforço para parecer privilegiada).",
-          "gancho": "Soft life tá em todo feed. Mas tem uma versão que ninguém tá falando.",
-          "o_que_falar": [
-            "Soft life real: quem construiu bem o suficiente para ter liberdade de escolha na rotina",
-            "Soft life fake: quem esconde o esforço para parecer que chegou sem trabalhar",
-            "A diferença importa porque a segunda versão cria expectativas irreais e compara o seu bastidor com o palco dos outros",
-            "Como Rainha vive soft life: com gratidão pelo que construiu, não com performance de quem nunca precisou de esforço"
-          ],
-          "legenda": "Soft life real é fruto de posicionamento e construção. A versão fake é só palco. ♛",
-          "vibe": "Tom de conversa íntima, ambiente real. Pode ser em casa, sem produção exagerada — isso reforça a autenticidade da mensagem."
-        },
-        "carrossel": {
-          "ideia": "Educar sobre a diferença entre soft life real e performático, usando os valores da Priscilla como base.",
-          "cards": [
-            {"numero": 1, "tipo": "Capa", "titulo": "Soft life: o que ninguém tá falando", "subtitulo": "Tem duas versões. E você precisa saber a diferença."},
-            {"numero": 2, "tipo": "Definição", "titulo": "Soft life real", "texto": "Quem construiu — com trabalho, posicionamento e escolhas — o suficiente para ter liberdade de como vive. Isso é conquista, não sorte."},
-            {"numero": 3, "tipo": "Alerta", "titulo": "Soft life performático", "texto": "Quem esconde o esforço para parecer que chegou sem trabalhar. Compara o seu bastidor com o palco dos outros. Isso cria frustração, não inspiração."},
-            {"numero": 4, "tipo": "Impacto", "titulo": "Por que isso importa para você", "texto": "Quando você consome a versão falsa, começa a se comparar com um produto de marketing — não com realidade. Isso corrói sua auto-imagem sem você perceber."},
-            {"numero": 5, "tipo": "Posicionamento", "titulo": "Como Rainha vive soft life", "texto": "Com gratidão pelo que construiu, com esforço que não esconde e com a clareza de que conforto é resultado — não ponto de partida."},
-            {"numero": 6, "tipo": "CTA", "titulo": "Soft life começa com posicionamento", "texto": "Comente SOFT para entender como construir liberdade de forma real. ♛"}
-          ],
-          "legenda": "Soft life real é resultado de posicionamento e construção — não performance de quem nunca precisou de esforço.\n\nA diferença importa. ♛"
-        },
         "stories": {
           "total": 5,
           "sequencia": [
-            {"numero": 1, "tipo": "Gancho", "texto": "Soft life tá em todo feed. Mas tem uma versão que ninguém tá falando.", "recurso": "Texto em tela cheia ou print de feed"},
-            {"numero": 2, "tipo": "Distinção rápida", "texto": "Versão real: quem construiu liberdade de escolha. Versão fake: quem esconde esforço para parecer privilegiada.", "recurso": "Dois lados — texto listado"},
-            {"numero": 3, "tipo": "Impacto", "texto": "Quando você consome a versão fake, compara seu bastidor com o palco dos outros.", "recurso": "Frase de impacto em tela escura"},
-            {"numero": 4, "tipo": "Posicionamento", "texto": "Rainha não esconde o esforço — ela o transformou em liberdade.", "recurso": "Texto elegante ou vídeo"},
-            {"numero": 5, "tipo": "Interação", "texto": "Para você, soft life é conquista ou desculpa?", "recurso": "Enquete: CONQUISTA / DESCULPA"}
+            {
+              "numero": 1,
+              "tipo": "Gancho",
+              "texto": "Depois de 20, 30 anos juntos... eles se separaram. Por quê? 👀",
+              "recurso": "Texto em tela cheia com fundo escuro e letra grande"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualizacao",
+              "texto": "O 'divórcio tardio' está crescendo no mundo todo. Casais com mais de 50 anos — e décadas de relacionamento — estão se separando cada vez mais. O que está acontecendo?",
+              "recurso": "Caixa de texto com fundo neutro, fonte legível"
+            },
+            {
+              "numero": 3,
+              "tipo": "Dado",
+              "texto": "Em 2010, um casamento durava em média 16 anos no Brasil. Hoje: 13 anos e 8 meses. E o divórcio tardio é um dos fenômenos por trás dessa queda.",
+              "recurso": "Destaque visual no número — fundo colorido com tipografia em negrito"
+            },
+            {
+              "numero": 4,
+              "tipo": "Reflexao",
+              "texto": "A mulher que chega aos 50 hoje não é a mesma de gerações anteriores. Ela tem mais autonomia, mais autoconhecimento e menos tolerância a um relacionamento que não a faz crescer.",
+              "recurso": "Enquete: Você acredita que é possível reconstruir um casamento depois de décadas?"
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "texto": "Quer entender mais sobre saúde conjugal e como construir um relacionamento que dure com qualidade? Me segue — esse é meu tema. 💛",
+              "recurso": "Link na bio / Arrasta para cima"
+            }
           ],
-          "interacao": "Enquete: 'Soft life é: conquista ou desculpa?'",
-          "conexao_feed": "Usar a enquete para engajar e depois trazer o carrossel como aprofundamento: 'Fiz um carrossel explicando as duas versões — vai lá no feed'"
+          "interacao": "Enquete no story 4: 'Você acredita que é possível reconstruir um casamento depois de décadas?' — SIM / NÃO",
+          "conexao_feed": "Conecta com um reels sobre os pilares de um casamento saudável ou com carrossel sobre comunicação no relacionamento."
         }
       }
     },
     {
       "id": 6,
+      "titulo": "Autoestima em 2025: ela não mora na aparência — e isso muda tudo",
+      "resumo": "O conceito de autoestima feminina está passando por uma transformação: do foco na aparência para a maneira como a mulher enfrenta desafios com confiança e desenvoltura. Esse ângulo é central para o trabalho de Priscilla, que ajuda mulheres a construírem uma identidade sólida e independente da validação externa.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "semana",
-      "tipo": "casal-relacionamento",
-      "trend": "Separação de casal influencer famoso gera debate sobre 'aparência perfeita vs. realidade do casamento'",
-      "pilar": "Casamento & Relacionamento",
-      "angulo": "A imagem perfeita do casal nas redes não sustenta um casamento. Mas a imagem que você constrói dentro de casa — de mulher de alto valor — sustenta.",
-      "gancho": "O problema não foi a exposição. Foi que dentro de casa ela virou a mãe, a sócia, a amiga — mas nunca mais a rainha.",
-      "formatos": ["carrossel", "reels-react", "stories"],
       "formato_principal": "carrossel",
+      "formatos_alternativos": [
+        "reels-react",
+        "post-estatico"
+      ],
+      "fonte": "Estado de Minas / UAI Notícias / Telavita",
       "copies": {
         "carrossel": {
-          "ideia": "Usar a separação famosa como gancho para falar sobre o que realmente sustenta (ou destrói) um casamento.",
+          "ideia": "Desconstruir a ideia de que autoestima é sobre aparência e mostrar que ela vive na relação da mulher com seus desafios, escolhas e emoções.",
           "cards": [
-            {"numero": 1, "tipo": "Capa", "titulo": "Por que casamentos perfeitos no Instagram terminam na vida real", "subtitulo": "O que o feed não mostrou"},
-            {"numero": 2, "tipo": "Gancho", "titulo": "Mais um casal perfeito terminou", "texto": "E todo mundo chocado. Mas para quem entende de imagem e posicionamento, a separação era só uma questão de tempo."},
-            {"numero": 3, "tipo": "Diagnóstico", "titulo": "O que destrói o casamento não aparece nos stories", "texto": "Quando ela parou de ser Rainha dentro de casa e virou gestora, mãe, amiga, sócia — mas nunca mais a mulher que o encantou."},
-            {"numero": 4, "tipo": "Conceito", "titulo": "Imagem pública não sustenta dinâmica privada", "texto": "Ele amava a mulher que ela era. Quando ela perdeu o posicionamento de Rainha dentro do lar, perdeu também o desejo que mantinha o casamento vivo."},
-            {"numero": 5, "tipo": "Posicionamento", "titulo": "O que a mulher de alto valor mantém dentro de casa", "texto": "Mistério, postura, limites, feminilinidade. Não porque é estratégia fria — mas porque é quem ela é antes de ser esposa."},
-            {"numero": 6, "tipo": "Aplicação", "titulo": "Magnetismo no casamento não é sorte", "texto": "É posicionamento contínuo. É saber que ser Rainha dentro de casa é a base de qualquer relacionamento duradouro."},
-            {"numero": 7, "tipo": "CTA", "titulo": "Ainda dá tempo de resgatar", "texto": "Comente MAGNETISMO para entender como resgatar o desejo e o posicionamento dentro do seu casamento. ♛"}
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "Autoestima não mora no espelho.",
+              "subtitulo": "E entender isso é o que vai mudar a sua vida."
+            },
+            {
+              "numero": 2,
+              "tipo": "Desenvolvimento",
+              "titulo": "O erro que a maioria das mulheres comete.",
+              "texto": "A gente foi ensinada que autoestima é sobre aparência. Cabelo, corpo, pele. E aí fica numa corrida sem fim atrás de uma imagem que nunca parece suficiente."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "O que a ciência diz sobre autoestima de verdade.",
+              "texto": "Autoestima sólida é a maneira como você enfrenta seus desafios com confiança e desenvoltura. É sobre como você reage quando algo dá errado. É sobre o quanto você se permite ocupar espaço."
+            },
+            {
+              "numero": 4,
+              "tipo": "Desenvolvimento",
+              "titulo": "Por que isso importa para sua vida real?",
+              "texto": "Mulheres com autoestima real sentem menos ansiedade, constroem relacionamentos mais saudáveis, avançam mais na carreira e tomam decisões a partir dos seus valores — não do medo."
+            },
+            {
+              "numero": 5,
+              "tipo": "Pratica",
+              "titulo": "Como construir autoestima de verdade:",
+              "texto": "✔ Reduza a autocrítica (não elimine, reduza)\n✔ Aja em direção ao que você valoriza, mesmo com medo\n✔ Pare de pedir desculpa por existir\n✔ Busque apoio profissional quando necessário"
+            },
+            {
+              "numero": 6,
+              "tipo": "CTA",
+              "titulo": "Autoestima se constrói. Todos os dias.",
+              "texto": "Salva esse carrossel e me conta: em qual área da sua vida a autoestima mais te trava? Quero ler! 💛"
+            }
           ],
-          "legenda": "Casal perfeito no feed não garante nada dentro de casa.\n\nO que garante é a Rainha saber se posicionar no próprio reino — antes de qualquer câmera aparecer.\n\nComente MAGNETISMO para receber mais sobre isso. ♛"
-        },
-        "reels-react": {
-          "ideia_central": "A separação não foi causada pela exposição — foi causada pela perda de posicionamento feminino dentro do lar.",
-          "gancho": "Mais um casal perfeito do Instagram terminou. E ninguém está falando o que realmente aconteceu.",
-          "roteiro": [
-            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Mais um casal perfeito do Instagram terminou. E todo mundo chocado. Eu não estou."},
-            {"tempo": "3–15s", "descricao": "Análise", "fala": "A imagem pública de casal perfeito não sustenta a dinâmica privada. O que quebra o casamento é quando a mulher perde o posicionamento de Rainha dentro de casa: ela vira gestora, mãe, amiga — e o marido perde o desejo."},
-            {"tempo": "15–25s", "descricao": "Posicionamento", "fala": "A separação era só uma questão de tempo. Porque imagem não é só o que você mostra nas redes — é quem você é dentro do seu reino. E dentro de casa, ela havia parado de ser Rainha."},
-            {"tempo": "25–30s", "descricao": "CTA", "fala": "Comente DESEJO se você quer entender como não virar só a 'parceira de vida' dentro do seu casamento."}
-          ],
-          "legenda": "Feed perfeito não garante casamento real.\n\nO que garante é saber ser Rainha dentro do lar — antes de qualquer câmera aparecer.\n\nComente DESEJO para receber mais sobre isso no direct. ♛"
-        },
-        "stories": {
-          "total": 5,
-          "sequencia": [
-            {"numero": 1, "tipo": "Gancho", "texto": "Você viu que eles separaram?", "recurso": "Print ou menção ao casal — tom de conversa com a seguidora"},
-            {"numero": 2, "tipo": "Contextualização", "texto": "Todo mundo chocado. Mas para quem entende de imagem e posicionamento, não é surpresa.", "recurso": "Vídeo falando ou texto em tela"},
-            {"numero": 3, "tipo": "Conceito", "texto": "Casal perfeito no feed não garante nada dentro de casa.", "recurso": "Frase em tela cheia — elegante"},
-            {"numero": 4, "tipo": "Posicionamento", "texto": "O que garante é a Rainha saber se posicionar no reino dela.", "recurso": "Texto ou vídeo de posicionamento"},
-            {"numero": 5, "tipo": "Interação", "texto": "Você cuida da sua imagem dentro de casa tanto quanto cuida fora?", "recurso": "Enquete: SIM / PRECISAVA OUVIR ISSO"}
-          ],
-          "interacao": "Enquete: 'Você cuida da sua imagem dentro de casa tanto quanto fora?'",
-          "conexao_feed": "Após a enquete, direcionar para o carrossel no feed: 'Fiz um carrossel explicando os 6 motivos pelos quais casamentos perfeitos no Instagram terminam — vai no feed'"
+          "legenda": "Autoestima não mora no espelho. 🪞\n\nE enquanto a gente continuar acreditando que sim, vai ficar presa numa corrida sem fim.\n\nA autoestima real é sobre a forma como você enfrenta a vida — com confiança, com presença, sem se diminuir.\n\nEsse carrossel é para você que já cansou de buscar autoestima do lado de fora. 💛\n\nSalva e compartilha com uma amiga.\n\n#autoestima #identidadeFeminina #autoconhecimento #psicologia #priscillaandrade #mulheres #comportamentoFeminino #saudeMental"
         }
       }
     },
     {
       "id": 7,
-      "urgencia": "semana",
-      "tipo": "noticia",
-      "trend": "Pesquisa aponta que mulheres acima de 40 anos são as que mais investem em imagem pessoal no Brasil em 2026",
+      "titulo": "Empresas com mulheres na liderança são 25% mais lucrativas — e ainda assim elas são minoria",
+      "resumo": "Dados da McKinsey mostram que empresas com maior presença feminina em cargos de liderança têm até 25% mais rentabilidade. Mesmo assim, mulheres representam apenas 29% dos cargos de diretoria no Brasil. Esse paradoxo é um conteúdo poderoso para motivar e informar mulheres que buscam avançar em espaços de liderança.",
       "pilar": "Posicionamento & Carreira",
-      "angulo": "Não é vaidade. É estratégia. A mulher acima dos 40 descobriu que imagem é ativo — e está investindo como tal.",
-      "gancho": "Depois dos 40 você para de se arrumar para agradar. Começa a se arrumar para governar.",
-      "formatos": ["carrossel", "post-estatico", "stories"],
-      "formato_principal": "carrossel",
+      "urgencia": "semana",
+      "formato_principal": "post-estatico",
+      "formatos_alternativos": [
+        "carrossel",
+        "stories"
+      ],
+      "fonte": "McKinsey & Company / SEGS",
       "copies": {
-        "carrossel": {
-          "ideia": "Usar a pesquisa como validação de que imagem é ativo estratégico — especialmente após os 40.",
-          "cards": [
-            {"numero": 1, "tipo": "Capa", "titulo": "Depois dos 40 elas pararam de se arrumar para agradar", "subtitulo": "A pesquisa que ninguém esperava"},
-            {"numero": 2, "tipo": "Dado", "titulo": "Mulheres 40+ são quem mais investe em imagem no Brasil", "texto": "A pesquisa saiu e os números surpreenderam. Não porque é tendência — mas porque revela algo que mulheres inteligentes já sabiam."},
-            {"numero": 3, "tipo": "Insight", "titulo": "Elas entenderam o que as mais jovens ainda não sabem", "texto": "Imagem não é vaidade. É ativo estratégico. É a diferença entre ser levada a sério e ser subestimada no mesmo ambiente."},
-            {"numero": 4, "tipo": "Conceito", "titulo": "Quanto vale a percepção que as pessoas têm de você?", "texto": "Sua competência pode ser idêntica à do concorrente. O que define quem fecha o contrato, consegue o cliente e ocupa o espaço, muitas vezes, é a imagem."},
-            {"numero": 5, "tipo": "Aplicação", "titulo": "Visagismo: o investimento que mais retorna depois dos 40", "texto": "Porque quando você alinha imagem com essência, para de gastar energia tentando ser levada a sério — e começa a simplesmente ser."},
-            {"numero": 6, "tipo": "CTA", "titulo": "Com quantos anos você parou de se arrumar para agradar?", "texto": "Comente 40 se você quer entender como sua imagem pode ser o seu maior diferencial. ♛"}
-          ],
-          "legenda": "Mulheres acima dos 40 são as que mais investem em imagem pessoal no Brasil.\n\nNão porque ficaram vaidosas.\n\nPorque entenderam que imagem é ativo — e ativo se investe.\n\nComente 40 se você quer entender como isso se aplica a você. ♛"
-        },
         "post-estatico": {
-          "ideia": "Post de posicionamento sobre imagem como ativo estratégico — usando a pesquisa como pano de fundo.",
-          "titulo_visual": "Depois dos 40, imagem é estratégia — não vaidade.",
-          "legenda": "A pesquisa confirmou o que já sabíamos:\n\nMulheres acima dos 40 são as que mais investem em imagem pessoal no Brasil.\n\nNão porque ficaram vaidosas. Porque entenderam que imagem é ativo.\n\nQue a percepção que as pessoas têm de você vale tanto quanto o que você sabe.\n\nQue chegar aos 40 com presença, postura e visagismo alinhados é chegar com poder.\n\nSalva se você concorda. Marca uma amiga que precisa ouvir isso. ♛",
-          "cta": "Salva e marca uma amiga que precisa ouvir isso."
-        },
-        "stories": {
-          "total": 4,
-          "sequencia": [
-            {"numero": 1, "tipo": "Notícia", "texto": "Pesquisa nova sobre imagem pessoal no Brasil. E os números surpreenderam.", "recurso": "Print da pesquisa ou texto de destaque"},
-            {"numero": 2, "tipo": "Revelação", "texto": "Quem mais investe em imagem pessoal? Mulheres acima dos 40.", "recurso": "Dado em destaque — fonte grande"},
-            {"numero": 3, "tipo": "Insight", "texto": "Porque elas entenderam que imagem é ativo — não vaidade.", "recurso": "Frase em tela cheia"},
-            {"numero": 4, "tipo": "Pergunta reflexiva + Interação", "texto": "Com quantos anos você parou de se arrumar para agradar e começou a se arrumar para governar?", "recurso": "Caixinha de respostas"}
-          ],
-          "interacao": "Caixinha: 'Com quantos anos você parou de se arrumar para agradar?'",
-          "conexao_feed": "Compartilhar as respostas da caixinha no próximo story e direcionar para o carrossel no feed"
+          "ideia": "Usar o dado da McKinsey para provocar reflexão sobre a sub-representação feminina na liderança e motivar mulheres a ocuparem esses espaços com estratégia.",
+          "titulo_visual": "25% mais lucrativas. Mas só 29% dos cargos de liderança são femininos.",
+          "legenda": "Os números não mentem. 📊\n\nEmpresas com mais mulheres na liderança são 25% mais lucrativas — segundo a McKinsey.\n\nMas no Brasil, mulheres ocupam apenas 29% dos cargos de diretoria.\n\nIsso não é um problema de capacidade. É um problema de estrutura, de acesso e de uma cultura que ainda não aprendeu a deixar a mulher ocupar seu lugar.\n\nE enquanto a estrutura não muda, a gente ocupa espaço de qualquer jeito. Com estratégia. Com posicionamento. Com propósito.\n\nVocê está se preparando para isso? 💛\n\n#liderancaFeminina #carreira #mulheresNoMercado #posicionamento #priscillaandrade #empoderamento #trabalho",
+          "cta": "Salva esse post e me conta nos comentários: qual é o maior obstáculo que você enfrenta para avançar na sua carreira?"
         }
       }
     },
     {
       "id": 8,
-      "urgencia": "semana",
-      "tipo": "trend-instagram",
-      "trend": "Debate viral sobre mulheres que 'fazem demais' no relacionamento e recebem pouco em troca",
-      "pilar": "Casamento & Relacionamento",
-      "angulo": "Mulher que faz demais não tem problema de generosidade — tem problema de posicionamento. Você não ensinou o que você vale.",
-      "gancho": "Você não faz demais porque é boa demais. Você faz demais porque ainda não se posicionou como alguém que merece reciprocidade.",
-      "formatos": ["reels-react", "lo-fi", "carrossel"],
+      "titulo": "46% das mulheres têm ansiedade — e o seu relacionamento pode estar te adoecendo",
+      "resumo": "Dados de 2025 revelam que 46,2% das mulheres apresentam sintomas de ansiedade generalizada, contra 31,2% dos homens. Entre os fatores identificados estão sobrecarga doméstica, desigualdade de gênero e a qualidade dos relacionamentos. Para o público de Priscilla, esse cruzamento entre saúde mental e vida amorosa é profundo, urgente e com alto potencial de identificação.",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "urgencia": "hoje",
       "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "lo-fi",
+        "carrossel"
+      ],
+      "fonte": "INE HealthNews / USP / OMS",
       "copies": {
         "reels-react": {
-          "ideia_central": "Fazer demais no relacionamento não é virtude — é sintoma de posicionamento fraco. Rainha não implora por reciprocidade.",
-          "gancho": "Você não faz demais porque é boa. Você faz demais porque não se posicionou como alguém que merece reciprocidade.",
+          "ideia_central": "Provocar a mulher a identificar se seu relacionamento é uma fonte de paz ou de ansiedade — e o que isso diz sobre sua saúde mental.",
+          "gancho": "Quase metade das mulheres tem ansiedade. E o seu relacionamento pode ser parte do problema.",
           "roteiro": [
-            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Você faz demais e recebe pouco? Quero te falar algo que ninguém está dizendo."},
-            {"tempo": "3–15s", "descricao": "Diagnóstico real", "fala": "Fazer demais não é problema de generosidade. É problema de posicionamento. Você não ensinou ao outro o que você vale. E o tratamento que você recebe é o espelho do posicionamento que você estabeleceu desde o início."},
-            {"tempo": "15–25s", "descricao": "Posicionamento", "fala": "Rainha não implora por reciprocidade — ela deixa claro desde o início o que está disposta a oferecer e o que espera em troca. Não com agressividade. Com clareza. Com posicionamento."},
-            {"tempo": "25–30s", "descricao": "CTA", "fala": "Comente VALOR se você quer aprender a se posicionar sem precisar cobrar reciprocidade."}
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Quase metade das mulheres tem ansiedade. 46%. E eu preciso te perguntar uma coisa: o seu relacionamento está te dando paz ou te adoecendo?"
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Desenvolvimento",
+              "fala": "Um levantamento de 2025 mostrou que 46% das mulheres apresentam sintomas de ansiedade generalizada. E entre os fatores apontados estão: sobrecarga doméstica, pressão para ser multitarefa e — olha que importante — a qualidade dos relacionamentos. Um relacionamento que te faz sentir insegura cronicamente, que te cobra demais e te dá pouco, que te faz sentir pequena... ele está contribuindo para a sua ansiedade."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada",
+              "fala": "Não estou dizendo que o relacionamento tem que ser perfeito. Estou dizendo que ele precisa ser um lugar seguro. Um relacionamento que te esgota mais do que te sustenta não é apenas ruim emocionalmente — é clinicamente prejudicial para sua saúde."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Me conta aqui: quando você pensa no seu relacionamento, você sente paz ou ansiedade? Sem julgamento — só honestidade. Isso pode ser o primeiro passo para mudar algo."
+            }
           ],
-          "legenda": "Fazer demais não é virtude.\n\nÉ o resultado de não ter se posicionado como alguém que merece reciprocidade desde o início.\n\nNinguém trata mal quem deixou claro o que vale.\n\nComente VALOR se você quer entender como isso funciona na prática. ♛"
-        },
-        "lo-fi": {
-          "ideia": "Conversa direta e sem julgamento sobre o padrão de 'fazer demais e receber pouco' e o que está por trás disso.",
-          "gancho": "Esse debate de 'faço demais e recebo pouco' é real. Mas a maioria tá errando o diagnóstico.",
-          "o_que_falar": [
-            "Não é falta de amor — é ausência de posicionamento",
-            "Ninguém trata mal quem deixou claro o que vale desde o início",
-            "Como você entrou no relacionamento ensinou como seria tratada",
-            "Fazer demais não é generosidade — é sintoma de que você ainda não se posicionou como alguém que merece reciprocidade",
-            "Mudança começa com clareza, não com cobrança"
-          ],
-          "legenda": "O diagnóstico real do 'faço demais e recebo pouco'. Não é o que a maioria pensa. ♛",
-          "vibe": "Tom de conversa de amiga que fala a verdade sem julgamento. Ambiente casual, iluminação natural. Pode ser direto ao ponto — sem introdução longa."
-        },
-        "carrossel": {
-          "ideia": "Carrossel educativo sobre posicionamento em relacionamentos — usando o debate viral como gancho.",
-          "cards": [
-            {"numero": 1, "tipo": "Capa", "titulo": "Você não faz demais porque é boa", "subtitulo": "Faz demais porque não se posicionou"},
-            {"numero": 2, "tipo": "O debate", "titulo": "A discussão que tomou o Instagram essa semana", "texto": "Mulheres que fazem tudo pelo relacionamento e recebem pouco em troca. A maioria diagnosticou errado o problema."},
-            {"numero": 3, "tipo": "Diagnóstico real", "titulo": "Fazer demais não é virtude — é sinal de alerta", "texto": "É o resultado de não ter estabelecido desde o início o que você está disposta a oferecer e o que espera em troca."},
-            {"numero": 4, "tipo": "Conceito", "titulo": "O que você aceita no início ensina como será tratada", "texto": "Posicionamento não é o que você faz quando está insatisfeita. É o que você comunica antes mesmo de haver insatisfação."},
-            {"numero": 5, "tipo": "Aplicação", "titulo": "Como mulher de alto valor comunica limites", "texto": "Sem agressividade. Sem cobrança. Com clareza e consistência desde o primeiro momento."},
-            {"numero": 6, "tipo": "Conclusão", "titulo": "Reciprocidade começa com auto-respeito", "texto": "Não com cobrança ao parceiro — mas com a clareza de quem você é e o que você merece."},
-            {"numero": 7, "tipo": "CTA", "titulo": "Você reconhece esse padrão em você?", "texto": "Comente POSICIONAMENTO para receber mais sobre isso. ♛"}
-          ],
-          "legenda": "Fazendo demais e recebendo pouco?\n\nO problema não é a generosidade — é o posicionamento.\n\nComente POSICIONAMENTO para entender como mudar isso. ♛"
+          "legenda": "46% das mulheres têm ansiedade. E o relacionamento pode ser parte da causa. 💔\n\nNão é fraqueza. É dado científico.\n\nUm relacionamento que te esgota, que te cobra e te dá pouco, que faz você se sentir insegura constantemente... não é só emocionalmente ruim. É clinicamente prejudicial.\n\nSeu relacionamento é uma fonte de paz ou de ansiedade?\n\nMe conta aqui — sem julgamento. 👇\n\n#ansiedade #saudeMental #relacionamento #mulheres #priscillaandrade #saudeEmocional #comportamentoFeminino #bemestar"
         }
       }
     },
     {
       "id": 9,
-      "urgencia": "semana",
-      "tipo": "trend-instagram",
-      "trend": "Influencer compartilha rotina de 'quiet luxury' e gera discussão sobre elegância acessível vs. inacessível",
-      "pilar": "Autoimagem & Identidade",
-      "angulo": "Quiet luxury não é sobre preço. É sobre presença. Priscilla pode mostrar que visagismo é o quiet luxury que qualquer mulher pode ter.",
-      "gancho": "Elegância não tem preço. Tem intenção. E intenção você aprende — não compra.",
-      "formatos": ["carrossel", "stories", "post-estatico"],
-      "formato_principal": "carrossel",
+      "titulo": "Os 6 pilares de um relacionamento que realmente dura",
+      "resumo": "A psicologia identifica comunicação respeitosa, intimidade emocional, alinhamento de valores, corresponsabilidade, perdão e crescimento pessoal como os pilares de relacionamentos duradouros e saudáveis. Conteúdo evergreen com alta taxa de salvamento e compartilhamento pelo valor prático e atemporal.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "evergreen",
+      "formato_principal": "post-estatico",
+      "formatos_alternativos": [
+        "carrossel",
+        "lo-fi"
+      ],
+      "fonte": "Casamento em Harmonia / Psicologia Clínica",
       "copies": {
-        "carrossel": {
-          "ideia": "Desconstruir o mito de que quiet luxury é sobre dinheiro e mostrar que presença é o verdadeiro luxury acessível.",
-          "cards": [
-            {"numero": 1, "tipo": "Capa", "titulo": "Quiet luxury não é sobre dinheiro", "subtitulo": "É sobre presença. E presença você aprende."},
-            {"numero": 2, "tipo": "A trend", "titulo": "A trend que todo mundo está falando", "texto": "Quiet luxury: minimalismo, neutrals, logos discretos, peças caras mas discretas. A maioria entendeu como estética. Poucos entenderam o que é de verdade."},
-            {"numero": 3, "tipo": "Desconstrução", "titulo": "Não é a calça da Bottega", "texto": "É a forma como você entra no ambiente. A postura. O olhar que comunica segurança antes de você falar qualquer coisa."},
-            {"numero": 4, "tipo": "Insight", "titulo": "Por que mulheres ricas parecem simples", "texto": "Porque pararam de precisar gritar. A presença faz o trabalho. Isso não vem com dinheiro — vem com trabalho de imagem e identidade."},
-            {"numero": 5, "tipo": "Solução", "titulo": "Visagismo: o quiet luxury que cabe no seu bolso", "texto": "Alinhar quem você é por dentro com o que você comunica por fora. Isso é presença. Isso é real quiet luxury. E isso se aprende."},
-            {"numero": 6, "tipo": "CTA", "titulo": "Elegância não tem preço. Tem intenção.", "texto": "Comente ELEGÂNCIA para aprender como aplicar isso no seu estilo hoje. ♛"}
-          ],
-          "legenda": "Quiet luxury não é a bolsa de grife.\n\nÉ a forma como você entra no ambiente.\n\nIsso se aprende. Isso é visagismo.\n\nComente ELEGÂNCIA para entender como ter isso independente do orçamento. ♛"
-        },
-        "stories": {
-          "total": 5,
-          "sequencia": [
-            {"numero": 1, "tipo": "Gancho", "texto": "Quiet luxury tá em todo feed. Mas o que realmente é?", "recurso": "Print de feed ou referência visual da trend"},
-            {"numero": 2, "tipo": "Desconstrução", "texto": "Não é a calça da Bottega. É a forma como você entra no ambiente.", "recurso": "Contraste visual ou texto elegante"},
-            {"numero": 3, "tipo": "Conceito", "texto": "Presença é o luxury mais quiet que existe.", "recurso": "Frase de impacto — fonte elegante, fundo claro"},
-            {"numero": 4, "tipo": "Solução", "texto": "Visagismo é o atalho para isso — e cabe no seu bolso.", "recurso": "Vídeo falando ou texto com antes/depois de conceito"},
-            {"numero": 5, "tipo": "Interação", "texto": "Você se sente elegante no dia a dia ou só em ocasiões especiais?", "recurso": "Enquete: NO DIA A DIA / SÓ EM OCASIÕES"}
-          ],
-          "interacao": "Enquete: 'Você se sente elegante: no dia a dia / só em ocasiões especiais'",
-          "conexao_feed": "Usar o resultado da enquete para introduzir o carrossel: 'Maioria respondeu que se sente elegante só em ocasiões. Fiz um carrossel explicando como mudar isso — vai no feed'"
-        },
         "post-estatico": {
-          "ideia": "Post de frase impactante sobre elegância como presença, não como preço.",
-          "titulo_visual": "Elegância não tem preço. Tem intenção.",
-          "legenda": "Quiet luxury não é a bolsa que você carrega.\n\nÉ a forma como você entra no ambiente, a postura com que ocupa o espaço, o olhar que comunica segurança antes de você abrir a boca.\n\nIsso se aprende. Isso se constrói. Isso é visagismo.\n\nSalva. Manda para uma amiga que acha que elegância tem preço. ♛",
-          "cta": "Salva e manda para uma amiga que acha que elegância tem preço."
-        }
-      }
-    },
-    {
-      "id": 10,
-      "urgencia": "semana",
-      "tipo": "comportamento-feminino",
-      "trend": "Cantora Marina Sena declara publicamente que nunca dividirá bens em casamento — frase viraliza e acende debate",
-      "pilar": "Posicionamento & Carreira",
-      "angulo": "Proteger patrimônio é inteligência. Mas quando o medo de perder impede a mulher de construir junto, isso é bloqueio de magnetismo — não empoderamento.",
-      "gancho": "Proteger seu patrimônio é inteligência. Mas quando o medo de perder te impede de construir junto, isso tem nome: faturamento emocional travado.",
-      "formatos": ["reels-react", "carrossel", "stories"],
-      "formato_principal": "reels-react",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "Diferenciar proteção inteligente de patrimônio do bloqueio de construção conjunta por medo — e o que isso diz sobre o posicionamento da mulher.",
-          "gancho": "Proteger seu patrimônio é inteligência. Mas quando o medo de perder te impede de construir junto, isso tem nome.",
-          "roteiro": [
-            {"tempo": "0–3s", "descricao": "Abertura", "fala": "A frase da Marina Sena sobre não dividir bens viralizou. E eu tenho um olhar diferente sobre isso."},
-            {"tempo": "3–15s", "descricao": "Distinção", "fala": "Proteger patrimônio é inteligência. Isso não se discute. Mas tem uma diferença enorme entre proteção inteligente e o medo que impede você de construir algo com outra pessoa."},
-            {"tempo": "15–25s", "descricao": "Posicionamento", "fala": "Mulher de alto valor sabe o que quer proteger — e também sabe com quem ela está disposta a construir. Uma coisa não anula a outra. O problema é quando o medo vira a régua de todos os relacionamentos."},
-            {"tempo": "25–30s", "descricao": "CTA", "fala": "Me conta nos comentários: você acha que é possível proteger e construir ao mesmo tempo?"}
-          ],
-          "legenda": "Proteger patrimônio é inteligência.\n\nMas existe uma diferença entre proteção inteligente e o medo que impede de construir com alguém.\n\nUma coisa não anula a outra.\n\nMe conta: você consegue ver essa diferença no seu relacionamento? ♛"
-        },
-        "carrossel": {
-          "ideia": "Aprofundar o debate da Marina Sena como porta de entrada para falar sobre posicionamento financeiro e emocional no relacionamento.",
-          "cards": [
-            {"numero": 1, "tipo": "Capa", "titulo": "Marina Sena, divisão de bens e o que ninguém está falando", "subtitulo": "Há uma distinção importante aqui"},
-            {"numero": 2, "tipo": "O debate", "titulo": "A frase que viralizou", "texto": "'Lutei tanto para conquistar o que tenho, dá desespero de pensar em dividir.' A internet dividiu — e ambos os lados têm um ponto."},
-            {"numero": 3, "tipo": "Proteção inteligente", "titulo": "Proteger patrimônio é inteligência", "texto": "Mulher que constrói e sabe o valor do que tem faz bem em ter cuidado. Isso não é egoísmo — é consciência."},
-            {"numero": 4, "tipo": "O outro lado", "titulo": "Mas quando o medo vira régua", "texto": "Quando o medo de perder impede você de construir com alguém, isso não é proteção. É bloqueio de magnetismo — e às vezes, bloqueio de abundância."},
-            {"numero": 5, "tipo": "Distinção", "titulo": "Proteção vs. bloqueio de construção", "texto": "Uma coisa é ter contratos inteligentes, separação de bens, clareza jurídica. Outra é não conseguir imaginar construir com alguém por medo."},
-            {"numero": 6, "tipo": "Posicionamento", "titulo": "Mulher de alto valor sabe as duas coisas", "texto": "Protege o que é seu com inteligência — e escolhe com quem está disposta a construir. Sem medo, sem ingenuidade."},
-            {"numero": 7, "tipo": "CTA", "titulo": "Para você, qual é o limite?", "texto": "Me conta nos comentários o que você acha sobre isso. ♛"}
-          ],
-          "legenda": "A declaração da Marina Sena abriu um debate que vai muito além dos bens.\n\nÉ sobre o limite entre proteção inteligente e o medo que bloqueia a construção.\n\nMe conta o que você pensa. ♛"
-        },
-        "stories": {
-          "total": 5,
-          "sequencia": [
-            {"numero": 1, "tipo": "Gancho", "texto": "Você viu o que a Marina Sena disse sobre divisão de bens?", "recurso": "Print da declaração ou texto citando a frase"},
-            {"numero": 2, "tipo": "Apresentação do debate", "texto": "A internet dividiu. E os dois lados têm um ponto.", "recurso": "Texto com os dois lados do debate"},
-            {"numero": 3, "tipo": "Distinção", "texto": "Proteger patrimônio é inteligência. Mas existe diferença entre proteção e bloqueio por medo.", "recurso": "Texto ou vídeo explicando"},
-            {"numero": 4, "tipo": "Pergunta", "texto": "Para você, onde está o limite entre proteger e se fechar?", "recurso": "Enquete ou caixinha"},
-            {"numero": 5, "tipo": "Direcionamento", "texto": "Fiz um carrossel aprofundando esse tema — vai no feed", "recurso": "CTA para o feed"}
-          ],
-          "interacao": "Enquete: 'Divisão de bens: você é a favor ou contra?'",
-          "conexao_feed": "Usar o debate dos stories para introduzir o carrossel com a visão mais aprofundada"
-        }
-      }
-    },
-    {
-      "id": 11,
-      "urgencia": "semana",
-      "tipo": "trend-instagram",
-      "trend": "Policia Federal investiga trend viral no Instagram e TikTok onde homens simulam pedidos de namoro com insinuação de violência",
-      "pilar": "Autoimagem & Identidade",
-      "angulo": "Priscilla fala sobre a cultura que trata o 'não' da mulher como algo que precisa ser justificado — e como a filha de Eva que não construiu identidade vive em modo de sobrevivência.",
-      "gancho": "Quando a cultura exige que você justifique o seu 'não', é porque ainda não aprendeu que Rainha não precisa de aprovação para dizer onde é o limite do seu reino.",
-      "formatos": ["reels-react", "stories", "lo-fi"],
-      "formato_principal": "reels-react",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "A cultura que torna o 'não' feminino negociável é a mesma que não reconhece a mulher como soberana do próprio reino.",
-          "gancho": "A Polícia Federal investigando uma trend de 'pedido de namoro' diz muito sobre onde ainda estamos.",
-          "roteiro": [
-            {"tempo": "0–3s", "descricao": "Abertura", "fala": "A PF investigando uma trend de pedido de namoro nos diz algo importante sobre onde ainda estamos."},
-            {"tempo": "3–15s", "descricao": "Análise", "fala": "Existe uma cultura que trata o 'não' da mulher como algo provisório — como se fosse sempre negociável, como se precisasse de justificativa, como se o 'não' fosse uma ofensa, não uma resposta legítima."},
-            {"tempo": "15–25s", "descricao": "Posicionamento", "fala": "A mulher que não construiu sua identidade como Rainha vive em modo de sobrevivência — tentando dizer não sem provocar conflito. Mas Rainha não precisa justificar onde é o limite do seu reino. Ela simplesmente o define."},
-            {"tempo": "25–30s", "descricao": "CTA", "fala": "Comente LIMITE se você quer entender como construir essa soberania na sua vida."}
-          ],
-          "legenda": "O 'não' da mulher não precisa de justificativa.\n\nPrecisa de soberania.\n\nE soberania começa quando você para de pedir permissão para definir os limites do seu próprio reino.\n\nComente LIMITE para receber mais sobre isso. ♛"
-        },
-        "stories": {
-          "total": 5,
-          "sequencia": [
-            {"numero": 1, "tipo": "Gancho", "texto": "A PF investigando uma trend de 'pedido de namoro'. Você viu isso?", "recurso": "Print da notícia ou menção à investigação"},
-            {"numero": 2, "tipo": "Contextualização", "texto": "Existe uma cultura que trata o 'não' da mulher como negociável. Como se precisasse de justificativa.", "recurso": "Texto em tela ou vídeo falando"},
-            {"numero": 3, "tipo": "Posicionamento", "texto": "Rainha não precisa justificar onde é o limite do seu reino.", "recurso": "Frase de impacto — fonte elegante, fundo escuro"},
-            {"numero": 4, "tipo": "Ensinamento", "texto": "Soberania: a mulher que sabe quem é não negocia o próprio limite.", "recurso": "Texto ou vídeo falando"},
-            {"numero": 5, "tipo": "Interação", "texto": "Você já se sentiu pressionada a justificar um 'não'?", "recurso": "Caixinha de perguntas"}
-          ],
-          "interacao": "Caixinha: 'Você já se sentiu pressionada a justificar um não?'",
-          "conexao_feed": "Compartilhar algumas respostas da caixinha (sem identificação) e conectar com o Reels ou post onde o tema é aprofundado"
-        },
-        "lo-fi": {
-          "ideia": "Falar sobre o que a trend investigada pela PF revela sobre a cultura do 'não' feminino e como isso se relaciona com identidade e soberania.",
-          "gancho": "A PF investigando uma trend de pedido de namoro me diz algo importante sobre onde ainda estamos.",
-          "o_que_falar": [
-            "O que essa trend revela: a cultura que trata o 'não' da mulher como negociável",
-            "Como isso afeta mulheres que não têm identidade construída — elas vivem em modo de sobrevivência, sempre tentando dizer não sem provocar conflito",
-            "A diferença: Rainha não negocia o limite do reino. Ela o define — sem pedir desculpa, sem justificar",
-            "Como construir essa soberania começa com identidade, não com técnica de rejeição"
-          ],
-          "legenda": "Soberania não é técnica. É identidade. ♛",
-          "vibe": "Tom sério mas acolhedor. Não é raiva — é clareza. Pode ser mais editorial, mais direto. Fundo neutro ou escuro para reforçar a seriedade do tema."
-        }
-      }
-    },
-    {
-      "id": 12,
-      "urgencia": "evergreen",
-      "tipo": "evergreen-reativado",
-      "trend": "Tema 'síndrome da impostora' voltou a circular com força após temporada de premiações femininas",
-      "pilar": "Posicionamento & Carreira",
-      "angulo": "A impostora não é quem você pensa que é. É a voz que te convenceu de que o seu lugar é menor do que ele realmente é.",
-      "gancho": "Síndrome da impostora não é timidez. É o resultado de anos construindo imagem de amadora sendo o que você sabe ser de rainha.",
-      "formatos": ["carrossel", "reels-react", "post-estatico"],
-      "formato_principal": "carrossel",
-      "copies": {
-        "carrossel": {
-          "ideia": "Explicar a síndrome da impostora como problema de desalinhamento de imagem — e mostrar que a solução é estratégica, não psicológica.",
-          "cards": [
-            {"numero": 1, "tipo": "Capa", "titulo": "Síndrome da impostora não é timidez", "subtitulo": "É um problema de imagem — e tem solução estratégica"},
-            {"numero": 2, "tipo": "Diagnóstico", "titulo": "Por que mulheres competentes se sentem fraudulentas?", "texto": "Não é porque são fracas. É porque existe uma lacuna entre o que elas sabem que são e a imagem que projetam para o mundo."},
-            {"numero": 3, "tipo": "A raiz", "titulo": "A impostora não é você", "texto": "É a voz moldada por anos de imagem desalinhada — aparência que não confirma a competência, postura que não comunica a experiência, presença que não projeta o valor real."},
-            {"numero": 4, "tipo": "O ciclo", "titulo": "Como o ciclo funciona", "texto": "Imagem de amadora → tratada como amadora → começa a acreditar que é amadora. O mercado confirma o que sua imagem projeta — não o que você sabe."},
-            {"numero": 5, "tipo": "A solução", "titulo": "Quando imagem e essência se alinham", "texto": "A impostora some. Você não precisa provar mais nada — porque o que você projeta já comunica o que você é antes de abrir a boca."},
-            {"numero": 6, "tipo": "Posicionamento", "titulo": "A cura não é psicológica — é estratégica", "texto": "Não é autoestima. É visagismo e posicionamento. É construir a imagem que corresponde ao que você realmente sabe e é."},
-            {"numero": 7, "tipo": "CTA", "titulo": "Você já sentiu que não merecia o espaço que ocupava?", "texto": "Comente IMPOSTORA e eu te mando mais sobre como resolver isso. ♛"}
-          ],
-          "legenda": "Síndrome da impostora não é fraqueza.\n\nÉ o resultado de uma imagem que não corresponde ao que você sabe que é.\n\nA cura não é psicológica. É estratégica.\n\nComente IMPOSTORA se você já sentiu isso. ♛"
-        },
-        "reels-react": {
-          "ideia_central": "A síndrome da impostora tem raiz em desalinhamento de imagem — quando você alinha imagem e essência, a impostora desaparece.",
-          "gancho": "Síndrome da impostora não é falta de autoestima. É falta de alinhamento de imagem.",
-          "roteiro": [
-            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Síndrome da impostora não é timidez. Não é falta de autoestima. É um problema de imagem — e tem solução."},
-            {"tempo": "3–15s", "descricao": "Análise", "fala": "Existe uma lacuna entre o que você sabe que é e o que você projeta. O mercado, as pessoas ao redor e você mesma começam a duvidar — não porque você é impostora, mas porque sua imagem não confirma o que você sabe."},
-            {"tempo": "15–25s", "descricao": "Solução", "fala": "Quando você alinha imagem, postura e comunicação com o que você realmente sabe e é, a impostora desaparece. Não precisa de terapia. Precisa de visagismo e posicionamento."},
-            {"tempo": "25–30s", "descricao": "CTA", "fala": "Comente POSICIONAMENTO para entender como sua imagem pode encerrar a síndrome da impostora."}
-          ],
-          "legenda": "A impostora mora na lacuna entre o que você é e como você aparece.\n\nQuando você fecha essa lacuna, ela some.\n\nComente POSICIONAMENTO para entender como. ♛"
-        },
-        "post-estatico": {
-          "ideia": "Post de frase de impacto sobre a síndrome da impostora como problema de imagem.",
-          "titulo_visual": "A impostora mora na lacuna entre quem você é e como você aparece.",
-          "legenda": "Síndrome da impostora não é fraqueza.\n\nÉ o resultado de anos projetando uma imagem que não condiz com o que você realmente sabe e é.\n\nQuando sua embalagem não corresponde ao seu conteúdo, o mundo te trata como amadora — e você começa a acreditar nisso.\n\nA cura não é psicológica. É estratégica.\n\nSalva e compartilha com quem ainda acha que não merece o espaço que ocupa. ♛",
-          "cta": "Salva e compartilha com quem ainda acha que não merece o espaço que ocupa."
-        }
-      }
-    },
-    {
-      "id": 13,
-      "urgencia": "evergreen",
-      "tipo": "evergreen-reativado",
-      "trend": "Discussão recorrente sobre mulheres cristãs e feminilidade volta ao topo dos comentários no Instagram",
-      "pilar": "Estilo de Vida & Espiritualidade",
-      "angulo": "Feminilidade não é fraqueza bíblica — é poder estratégico. Filha do Rei não precisa gritar para ser ouvida.",
-      "gancho": "Confundiram submissão com invisibilidade. Rainha se curva para Deus — não para quem não reconhece seu valor.",
-      "formatos": ["lo-fi", "stories", "carrossel"],
-      "formato_principal": "lo-fi",
-      "copies": {
-        "lo-fi": {
-          "ideia": "Falar sobre a confusão entre submissão bíblica e apagamento feminino — e mostrar que a Bíblia é cheia de mulheres de alto posicionamento.",
-          "gancho": "Precisamos falar sobre o que chamam de 'feminilidade bíblica' — porque confundiram demais.",
-          "o_que_falar": [
-            "Submissão não é invisibilidade — são coisas completamente diferentes",
-            "Ester não pediu licença para entrar — ela se preparou, se posicionou e foi",
-            "Débora liderou um exército. Rute foi leal com soberania. Priscila foi apóstola",
-            "A Bíblia não pede que a mulher se apague — pede que ela se posicione com sabedoria",
-            "Filha do Rei não precisa diminuir para ser aceita — ela já tem o maior respaldo possível"
-          ],
-          "legenda": "Submissão não é invisibilidade. A Bíblia está cheia de Rainhas. ♛",
-          "vibe": "Tom de conversa íntima, como uma amiga falando de fé. Pode ser em ambiente com luz natural, uma Bíblia à mão se quiser referência visual. Sem sermonizar — falar de igual para igual."
-        },
-        "stories": {
-          "total": 5,
-          "sequencia": [
-            {"numero": 1, "tipo": "Gancho", "texto": "Esse debate de mulher cristã e feminilidade voltou.", "recurso": "Print de debate ou texto em tela"},
-            {"numero": 2, "tipo": "O problema", "texto": "Muita gente ainda confunde submissão com apagamento. São coisas completamente diferentes.", "recurso": "Texto destacando a diferença"},
-            {"numero": 3, "tipo": "Referência bíblica", "texto": "Ester. Débora. Rute. Priscila. A Bíblia está cheia de mulheres de alto posicionamento.", "recurso": "Texto com nomes em destaque"},
-            {"numero": 4, "tipo": "Posicionamento", "texto": "Rainha se curva para Deus — não para quem não reconhece seu valor.", "recurso": "Frase de impacto — fonte elegante"},
-            {"numero": 5, "tipo": "Interação", "texto": "Para você, o que feminilidade cristã significa?", "recurso": "Caixinha de perguntas"}
-          ],
-          "interacao": "Caixinha: 'O que feminilidade cristã significa para você?'",
-          "conexao_feed": "Usar as respostas da caixinha para enriquecer o Lo-fi ou carrossel — mostrar que as seguidoras têm visões diversas sobre isso"
-        },
-        "carrossel": {
-          "ideia": "Carrossel bíblico sobre feminilidade e posicionamento — desconstruindo o mito de que ser cristã exige invisibilidade.",
-          "cards": [
-            {"numero": 1, "tipo": "Capa", "titulo": "Confundiram submissão bíblica com invisibilidade feminina", "subtitulo": "Mas a Bíblia conta outra história"},
-            {"numero": 2, "tipo": "O debate", "titulo": "O debate que nunca termina", "texto": "Mulher cristã pode ser poderosa? Pode ter presença, posicionamento, carreira, voz? Spoiler: a resposta está no próprio texto sagrado."},
-            {"numero": 3, "tipo": "Referência 1", "titulo": "Ester: posicionamento estratégico", "texto": "Não pediu licença para entrar. Estudou o terreno, preparou-se, posicionou-se — e salvou um povo. Isso é poder feminino com sabedoria."},
-            {"numero": 4, "tipo": "Referência 2", "titulo": "Débora: liderança sem pedir desculpa", "texto": "Liderou um exército em um tempo em que mulheres não lideravam. Deus não achou que ela deveria ficar quieta."},
-            {"numero": 5, "tipo": "Conceito", "titulo": "Feminilidade não é fraqueza aceita", "texto": "É força exercida com sabedoria. A Bíblia não pede que a mulher se apague — pede que ela se posicione com discernimento."},
-            {"numero": 6, "tipo": "Conclusão", "titulo": "Filha do Rei não precisa diminuir", "texto": "Ela já tem o maior respaldo possível. Rainha se curva para Deus — não para quem não reconhece seu valor."},
-            {"numero": 7, "tipo": "CTA", "titulo": "Você consegue ser Rainha e Filha do Rei ao mesmo tempo?", "texto": "Comente RAINHA se você quer entender como isso funciona na prática. ♛"}
-          ],
-          "legenda": "A Bíblia não pede que a mulher se apague.\n\nPede que ela se posicione com sabedoria.\n\nEster, Débora, Rute — todas Rainhas.\n\nComente RAINHA se você quer entender como ser poderosa sem perder a essência. ♛"
-        }
-      }
-    },
-    {
-      "id": 14,
-      "urgencia": "evergreen",
-      "tipo": "evergreen-reativado",
-      "trend": "Debate permanente sobre como se posicionar profissionalmente sem perder a feminilidade ou ser vista como 'grossa'",
-      "pilar": "Posicionamento & Carreira",
-      "angulo": "Posicionamento não é agressividade. É clareza. E clareza com feminilidade é a combinação mais poderosa que existe no mercado.",
-      "gancho": "Posicionar não é ser grossa. É ser clara. E clareza com elegância é a combinação mais rara e poderosa do mercado.",
-      "formatos": ["carrossel", "reels-react", "lo-fi"],
-      "formato_principal": "carrossel",
-      "copies": {
-        "carrossel": {
-          "ideia": "Ensinar a diferença entre posicionamento e agressividade, mostrando como a mulher pode ser firme, clara e feminina ao mesmo tempo.",
-          "cards": [
-            {"numero": 1, "tipo": "Capa", "titulo": "Posicionar não é ser grossa", "subtitulo": "É ser clara. E tem uma diferença enorme."},
-            {"numero": 2, "tipo": "O mito", "titulo": "O mito que paralisa mulheres", "texto": "Medo de ser vista como 'difícil', 'grossa', 'agressiva'. Esse medo faz com que ela ceda, recue e perca espaço sem precisar."},
-            {"numero": 3, "tipo": "Distinção", "titulo": "Agressividade vs. clareza", "texto": "Agressividade é emoção descontrolada. Clareza é comunicação intencional. São opostos — e mulher de alto valor sabe a diferença."},
-            {"numero": 4, "tipo": "A combinação", "titulo": "Firmeza + Feminilidade = poder raro", "texto": "A mulher que consegue ser clara, firme e elegante ao mesmo tempo é rara. E o mercado — e os relacionamentos — respondem diferente para ela."},
-            {"numero": 5, "tipo": "Prática", "titulo": "Como posicionar sem agredir", "texto": "Tom calmo. Palavras precisas. Sem necessidade de aprovação. Sem desculpa pelo espaço que ocupa. Com elegância que não cede por pressão social."},
-            {"numero": 6, "tipo": "Imagem", "titulo": "Visagismo entra aqui", "texto": "Porque sua imagem reforça ou contradiz o seu posicionamento. Mulher que se comunica com clareza e aparência alinhada tem presença dobrada."},
-            {"numero": 7, "tipo": "CTA", "titulo": "Você consegue ser firme sem ser grossa?", "texto": "Comente CLAREZA para receber mais sobre isso. ♛"}
-          ],
-          "legenda": "Posicionar não é ser grossa.\n\nÉ ser clara — com elegância, com intenção, sem pedir desculpa pelo espaço que você ocupa.\n\nComente CLAREZA se você quer aprender isso. ♛"
-        },
-        "reels-react": {
-          "ideia_central": "Desconstruir o medo de parecer 'grossa' ao se posicionar — mostrando que clareza + feminilidade é a combinação mais poderosa.",
-          "gancho": "Posicionar não é ser grossa. É ser clara. E isso muda tudo.",
-          "roteiro": [
-            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Você tem medo de ser vista como grossa quando tenta se posicionar? Eu preciso te dizer algo."},
-            {"tempo": "3–15s", "descricao": "Distinção", "fala": "Existe uma diferença enorme entre agressividade e clareza. Agressividade é emoção descontrolada. Clareza é comunicação intencional. Uma assusta. A outra inspira respeito."},
-            {"tempo": "15–25s", "descricao": "O poder da combinação", "fala": "Mulher que consegue ser firme, clara e elegante ao mesmo tempo é a mais rara no mercado — e nos relacionamentos. Não porque tem uma técnica especial. Porque sabe quem ela é e não pede desculpa pelo espaço que ocupa."},
-            {"tempo": "25–30s", "descricao": "CTA", "fala": "Comente CLAREZA se você quer aprender a se posicionar sem medo de parecer agressiva."}
-          ],
-          "legenda": "Clareza não é agressividade.\n\nÉ o que acontece quando você sabe quem você é e não precisa de aprovação para ocupar seu espaço.\n\nComente CLAREZA para receber mais sobre isso. ♛"
-        },
-        "lo-fi": {
-          "ideia": "Falar diretamente sobre o medo de se posicionar e como superar isso com clareza e feminilidade.",
-          "gancho": "Você já deixou de falar o que precisava falar com medo de parecer grossa?",
-          "o_que_falar": [
-            "O medo de parecer grossa é real — e paralisa mulheres competentes todos os dias",
-            "A diferença entre agressividade (emoção descontrolada) e clareza (comunicação intencional)",
-            "Posicionamento não é sobre tom de voz — é sobre saber quem você é antes de abrir a boca",
-            "Como feminilidade e firmeza somam: a mulher elegante que é clara é a mais respeitada em qualquer ambiente"
-          ],
-          "legenda": "Clareza + elegância = a combinação mais rara e poderosa que existe. ♛",
-          "vibe": "Tom de conversa direta, como mentora. Pode ser mais séria e editorial. Luz neutra, roupa que transmita autoridade sem ser formal demais."
+          "ideia": "Apresentar os 6 pilares de forma visual e direta, gerando salvamentos e compartilhamentos por ser conteúdo de alto valor prático e atemporal.",
+          "titulo_visual": "6 pilares de um relacionamento que dura de verdade.",
+          "legenda": "Relacionamentos duradouros não são sortudos. Eles são construídos. 🏗️\n\nA psicologia identificou 6 pilares que sustentam um casamento saudável ao longo do tempo:\n\n1️⃣ Comunicação respeitosa\n2️⃣ Intimidade emocional e física\n3️⃣ Alinhamento de valores\n4️⃣ Corresponsabilidade\n5️⃣ Capacidade de perdoar\n6️⃣ Crescimento pessoal — juntos e individual\n\nQual desses pilares você sente que precisa fortalecer no seu relacionamento?\n\nSalva esse post. Pode ser útil mais de uma vez. 💛\n\n#casamento #relacionamento #relacionamentoSaudavel #psicologia #priscillaandrade #pilaresDoRelacionamento #amor #comunicacao",
+          "cta": "Salva e compartilha com quem está construindo algo sólido ao lado de alguém."
         }
       }
     }
