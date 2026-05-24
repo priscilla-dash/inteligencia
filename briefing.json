@@ -1,613 +1,613 @@
 {
-  "versao": "2026-05-23",
-  "gerado_em": "2026-05-23T07:00:00Z",
-  "contexto_do_dia": "Esta semana domina o caso de Matheus (da dupla com Kauan) e Paula Aires: reataram o casamento 15 dias após separação pública marcada por prints de traição — a internet reagiu com 'Traiu pouco' e 'Negociou o inegociável', confirmado por Leo Dias em 19/05. Em paralelo, dado publicado nas últimas horas revela que pela primeira vez no Brasil a ansiedade em meninas e adolescentes superou a de adultos (68% das meninas ansiosas), e a Agência Brasil divulgou pesquisa do IBGE mostrando que mulheres trabalham em 'escala 7x0' com 10h semanais a mais de trabalho de cuidado não remunerado.",
+  "versao": "2026-05-24",
+  "gerado_em": "2026-05-24T10:00:00Z",
+  "contexto_do_dia": "Esta semana o caso do cantor Matheus (dupla com Kauan) domina as redes: reatou com Paula Aires 15 dias após separação por suposta traição — confirmado por Leo Dias em 19/05 — e a web explodiu com 'traiu pouco'. A Agência Brasil publicou pesquisa do IBGE revelando que mulheres trabalham 10h a mais por semana em cuidados domésticos ('escala 7x0'). O Brasil de Fato trouxe reportagem (17/05) sobre o 'efeito tesoura' que corta mães da carreira acadêmica. O debate sobre pressão estética de influencers e dismorfia corporal voltou com força em artigo do Estado de Minas de maio 2026.",
   "items": [
     {
       "id": 1,
-      "titulo": "Matheus e Paula reataram 15 dias após traição — e a internet explodiu com 'Traiu pouco'",
-      "resumo": "O cantor Matheus (da dupla com Kauan) e a influenciadora Paula Aires voltaram após 15 dias de separação pública marcada por prints de traição vazados, confirmado por Leo Dias em 19/05. A internet reagiu com 'Traiu pouco', 'Negociou o inegociável'. Para o público de Priscilla, o caso é espelho de um padrão psicológico que milhares de mulheres vivem em silêncio: o retorno após traição raramente é sobre perdão — quase sempre é sobre âncora emocional e medo do vazio identitário.",
+      "titulo": "Paula Aires voltou pro Matheus 15 dias após traição — e a raiva da internet diz mais sobre você do que sobre ela",
+      "resumo": "O cantor Matheus (dupla com Kauan) reatou com Paula Aires quinze dias após separação por suposta traição — confirmado pelo jornalista Leo Dias em 19/05. A web reagiu com ironia e raiva ('traiu pouco'). Ângulo de Priscilla: o julgamento que fazemos de outra mulher que 'volta' revela padrões emocionais nossos que nunca elaboramos.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "Leo Dias / Contigo!, 19 mai 2026",
+      "fonte": "Contigo / Leo Dias no Melhor da Tarde, 19/05/2026 — contigo.com.br",
       "copies": {
         "reels-react": {
-          "ideia_central": "O retorno de Paula Aires após traição de Matheus não é fraqueza — é um padrão psicológico que precisa ser nomeado sem julgamento.",
-          "gancho": "Matheus e Paula voltaram 15 dias após traição. A internet chamou ela de fraca. Mas eu preciso te dizer o que ninguém está falando sobre esse caso.",
+          "ideia_central": "A raiva coletiva sobre o retorno de Paula Aires ao Matheus é projeção das nossas próprias histórias não resolvidas com perdão e autoestima.",
+          "gancho": "Paula Aires voltou pro Matheus 15 dias depois que ele a traiu. E eu preciso te falar o que a raiva que você sentiu diz sobre VOCÊ.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Matheus e Paula voltaram 15 dias após traição — e todo mundo está julgando ela. Mas calma. Deixa eu te explicar o que está acontecendo de verdade."
+              "fala": "A Paula Aires voltou pro Matheus. Quinze dias. A internet explodiu com 'traiu pouco'. E eu tô aqui pra te fazer uma pergunta incômoda."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "O Leo Dias confirmou: eles estão dormindo na mesma casa de novo. A internet explodiu com 'Traiu pouco', 'Negociou o inegociável'. Mas 14 anos de relacionamento, identidade construída juntos, medo do vazio — isso não se desfaz em 15 dias. E isso não é fraqueza. Isso é o ciclo."
+              "fala": "O jornalista Leo Dias confirmou na terça passada: o cantor Matheus, da dupla com Kauan, já voltou pra casa. Quatorze anos de relacionamento, separação, suposta traição — e quinze dias depois: reataram. A web foi ao chão. Mas de onde vem essa raiva toda?"
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Existe algo que eu chamo de âncora emocional — quando você passa tanto tempo com uma pessoa que ela vira referência de quem você É. Quando ela vai embora, você não sente só saudade do parceiro. Você sente que perdeu um pedaço de você mesma. E o retorno é uma tentativa de se reencontrar — não necessariamente de perdoar a traição."
+              "fala": "Quando a gente julga outra mulher por voltar pra quem a traiu, na maioria das vezes a gente tá acessando a própria história. A vez que ficou. A vez que quase voltou. A dor que ficou sem nome. Isso se chama projeção — e não tem nada a ver com a Paula."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já voltou pra alguém que te traiu — ou considerou isso? Me conta nos comentários. Sem julgamento aqui."
+              "fala": "Você já ficou ou quis ficar com alguém que te traiu? Me conta aqui embaixo — sem julgamento."
             }
           ],
-          "legenda": "Matheus e Paula voltaram 15 dias após traição. A internet chama ela de fraca. Eu chamo de humana. 🧵\n\nDepois de 14 anos juntos, prints de traição vazados e uma separação pública — eles estão dormindo na mesma casa de novo, segundo Leo Dias.\n\nAntes de julgar Paula: você já sentiu que terminar um relacionamento longo era como perder uma parte de você mesma? Isso se chama âncora emocional — e é um dos padrões mais comuns e menos falados em relacionamentos duradouros.\n\nO retorno após traição não é sempre fraqueza. Às vezes é confusão. Às vezes é medo. Às vezes é um padrão que precisa ser trabalhado — e não julgado nas redes.\n\nAntes de julgar Paula, olha pra você. Qual padrão VOCÊ repete?\n\n👇 Você já voltou pra alguém que te traiu?\n\n#MatheusEPaula #Traição #Relacionamento #PsicologiaFeminina #PriscillaAndrade #ComportamentoFeminino #CasamentoSaudavel #RedFlags #VidaReal"
+          "legenda": "A internet explodiu quando o Matheus, da dupla com Kauan, voltou pra Paula Aires 15 dias após a separação por suposta traição. 'Traiu pouco', disseram. E eu entendo a raiva.\n\nMas deixa eu te perguntar uma coisa:\n\nQuando você julgou a Paula — o que você tava sentindo de verdade?\n\nPsicologicamente, a raiva que sentimos pelo retorno de outra mulher quase sempre toca em algo nosso. Uma escolha que fizemos. Uma que quase fizemos. Uma dor que nunca ganhou nome.\n\nVoltar ou não pra quem te traiu é uma decisão complexa — que tem a ver com padrões de vínculo, medo de abandono e o quanto cada mulher acredita que merece.\n\nO problema não é a Paula. O problema é quando a gente vive num padrão que nunca questionamos.\n\nSe quiser entender os seus, começa aqui nos comentários.\n\n#PaulaAires #MatheusEKauan #Traição #Relacionamentos #PsicologiaDosRelacionamentos #ComportamentoFeminino #AutoestimaNosRelacionamentos #PriscillaAndrade #PsicologaOnline"
         },
         "carrossel": {
-          "ideia": "Os 5 motivos psicológicos pelos quais mulheres voltam após uma traição — usando o caso de Paula Aires como ponto de partida.",
+          "ideia": "5 verdades psicológicas sobre por que mulheres voltam pra quem as traiu — ancorado no caso Paula Aires e Matheus.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "Por que mulheres voltam após a traição?",
-              "subtitulo": "O caso de Paula Aires explica mais do que você imagina"
+              "titulo": "Por que mulheres voltam pra quem as traiu",
+              "subtitulo": "(O caso Paula Aires explica)"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
               "titulo": "O que aconteceu",
-              "texto": "Matheus e Paula: 14 anos juntos, prints de traição, separação pública — e reunificação em 15 dias. A internet julgou. Mas a psicologia explica."
+              "texto": "O cantor Matheus (dupla com Kauan) e Paula Aires anunciaram separação após 14 anos juntos. 15 dias depois, Leo Dias confirmou: reataram. A internet reagiu com raiva. Mas a discussão vai muito além da Paula."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "5 razões reais (não frescura)",
-              "texto": "1. Âncora emocional: ele virou parte da sua identidade\n2. Medo do vazio: você não sabe quem é sem ele\n3. Vínculo traumático: dor e amor se misturaram\n4. Pressão social: 'família', 'anos investidos'\n5. Esperança real: o cérebro repete o que conhece"
+              "titulo": "O que a psicologia diz",
+              "texto": "Mulheres que voltam pra quem as traiu geralmente não fazem isso por fraqueza. Fazem por vínculos de apego formados na infância, por medo de abandono e por uma crença — muitas vezes inconsciente — de que não merecem mais do que isso."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "Voltar não é sempre fraqueza. Às vezes é o primeiro movimento de um ciclo que ainda vai levar tempo para romper. O problema é quando você fica — sem trabalhar o que está por baixo."
+              "titulo": "O que ninguém tá falando",
+              "texto": "A raiva coletiva pela volta da Paula revela mais sobre quem julga do que sobre ela. Quando projetamos nas escolhas de outra mulher, geralmente estamos evitando olhar para as nossas próprias histórias não resolvidas."
             },
             {
               "numero": 5,
               "tipo": "CTA",
               "titulo": "E você?",
-              "texto": "Você voltaria — ou já voltou? Sem julgamento aqui. Salva esse carrossel e manda pra uma amiga que precisa."
+              "texto": "Você já ficou com alguém que não merecia? Ou ficou com raiva de outra mulher que ficou? Comenta aqui — esse espaço é seguro."
             }
           ],
-          "legenda": "Paula Aires voltou pra Matheus em 15 dias. Você julgou? Eu entendo. Mas espera — deixa eu te mostrar o que está por trás desse padrão. 💛\n\nVocê já se pegou racionalizando a volta? 'Mas foi só uma vez', 'Já é tanto tempo juntos', 'Ele vai mudar'?\n\nIssos são os sinais mais claros de que não é fraqueza — é um padrão que precisa de atenção.\n\nSalva esse carrossel. Compartilha com quem precisa.\n\n#Traição #VoltarOuNãoVoltar #PsicologiaDoAmor #PriscillaAndrade #RelacionamentoSaudavel #MatheusEPaula #ComportamentoFeminino"
+          "legenda": "💔 Paula Aires voltou pro Matheus. E a internet julgou. Mas a psicologia tem uma perspectiva diferente — salva esse carrossel.\n\nArrastra pra entender por que mulheres voltam pra quem as traiu — e o que a raiva coletiva revela sobre a gente.\n\n🔁 Manda pra aquela amiga que precisa ler isso.\n\n#PaulaAires #Traição #Relacionamentos #ComportamentoFeminino #PsicologiaDosRelacionamentos #PriscillaAndrade #AutoestimaNosRelacionamentos #MatheusEKauan"
         }
       }
     },
     {
       "id": 2,
-      "titulo": "Trend viral do TikTok 'meu sistema nervoso pensando X' está descrevendo ansiedade sem saber",
-      "resumo": "A trend 'meu sistema nervoso pensando ___, quando na realidade ___' explodiu no TikTok esta semana com criadores mostrando reações emocionais desproporcionais a situações cotidianas. É uma abertura rara para falar de desregulação do sistema nervoso autônomo com um público que nunca pisou num consultório — humor como porta de entrada para saúde mental real.",
+      "titulo": "A trend do TikTok 'meu sistema nervoso' viralizou — e como psicóloga, ela me preocupa e me anima ao mesmo tempo",
+      "resumo": "A trend 'meu sistema nervoso pensando ___, quando na realidade ___' domina o TikTok em maio 2026, mostrando pessoas em colapso por situações cotidianas banais. É relevante porque nomeia com humor uma realidade clínica séria: hiperativação do sistema nervoso como resultado do estresse crônico feminino. Priscilla pode reagir como especialista ao fenômeno viral.",
       "pilar": "Autoimagem & Identidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "lo-fi"
       ],
-      "fonte": "Clipchamp Blog / TikTok Trends, mai 2026",
+      "fonte": "Clipchamp Blog — TikTok's biggest trends right now (2026) / TikTok Discover maio 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "A trend viral do TikTok 'meu sistema nervoso' está descrevendo hiperativação do sistema nervoso autônomo sem saber — e isso muda como entendemos a ansiedade feminina.",
-          "gancho": "Essa trend do TikTok que todo mundo está fazendo? Ela está descrevendo exatamente o que acontece na ansiedade — e ninguém está percebendo.",
+          "ideia_central": "A trend do TikTok sobre sistema nervoso é engraçada, mas está normalizando algo sério: o estado de alerta crônico que virou a realidade de muitas mulheres.",
+          "gancho": "Essa trend do TikTok que tá bombando sobre o sistema nervoso? Como psicóloga, ela me preocupa E me anima ao mesmo tempo.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Tá vendo essa trend do TikTok: 'meu sistema nervoso pensando que minha vida acabou, quando na realidade recebi um e-mail genérico'? Isso tem nome. E é sério."
+              "fala": "Você viu a trend do TikTok 'meu sistema nervoso pensando que tô em guerra, quando na realidade tô só esperando a resposta de uma mensagem'? Vou reagir a isso como psicóloga."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Essa trend viralizou porque toda mulher se identificou. Você vê uma mensagem em tom diferente e já começa a tremer. Alguém demora a responder e você constrói o funeral do relacionamento na cabeça. Não é fraqueza — é o seu sistema nervoso desregulado."
+              "fala": "A trend tá bombando porque é engraçada e todo mundo se identifica. A pessoa tá visivelmente em colapso — mas a situação é completamente banal. Reunião de trabalho. Notificação no celular. Silêncio de alguém que você ama. E isso virou meme porque é a realidade de muitas mulheres."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "A psicologia chama isso de hiperativação do sistema nervoso autônomo. Seu cérebro aprendeu — provavelmente na infância ou em algum relacionamento passado — que precisa estar em alerta máximo o tempo todo. E aí qualquer coisa pequena vira ameaça existencial. O TikTok fez piada. Mas o que está por trás disso precisa de cuidado de verdade."
+              "fala": "Aqui está o que a psicologia chama: hiperativação do sistema nervoso autônomo. Quando você vive em estado de alerta constante, seu cérebro trata o banal como ameaça. Não é frescura. É o resultado de anos de sobrecarga, cobranças e aprender a antecipar tudo para sobreviver."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você se identificou? Me fala nos comentários qual a sua versão dessa trend. Vou responder as primeiras."
+              "fala": "Você se identificou com essa trend? Me conta nos comentários qual situação banal dispara o seu sistema nervoso."
             }
           ],
-          "legenda": "Essa trend do TikTok está descrevendo ansiedade sem saber. E isso me diz muito sobre o que as mulheres estão sentindo agora. 🧠\n\n'Meu sistema nervoso achando que vou morrer quando na realidade é só uma notificação de banco'\n\nParece engraçado. Mas não é.\n\nQuando seu sistema nervoso está desregulado, qualquer estímulo pequeno vira sinal de perigo. Seu corpo entra em modo de sobrevivência por um e-mail, por um 'a gente precisa conversar', por um silêncio no WhatsApp.\n\nIsso tem causa. E tem tratamento.\n\nO primeiro passo é parar de se chamar de 'dramática' e começar a entender o que está acontecendo de verdade no seu corpo.\n\n👇 Qual é a sua versão dessa trend? Me conta nos comentários.\n\n#SistemaNervoso #AnsiedadeReal #TikTokTrend #PsicologiaFeminina #PriscillaAndrade #SaudeMental #DesregulaçãoEmocional #Ansiedade2026"
+          "legenda": "Essa trend do TikTok me fez rir E me fez refletir como psicóloga. 😅\n\n'Meu sistema nervoso pensando que estou sobrevivendo a uma guerra… quando na realidade estou só esperando alguém me responder.'\n\nÉ engraçado. E também é um dado clínico.\n\nHiperativação do sistema nervoso não é frescura. É o estado em que muitas mulheres vivem — treinadas para antecipar, gerenciar, se preocupar e nunca deixar nada escapar.\n\nO humor é uma forma de nomear. E nomear é o primeiro passo para entender.\n\nSe você viu essa trend e pensou 'sou exatamente assim' — o seu sistema nervoso está me dizendo algo importante sobre você.\n\n⬇️ Me conta: qual situação banal dispara o seu?\n\n#SistemaNervoso #Ansiedade #TikTokViral #TrendTikTok #SaúdeMental #ComportamentoFeminino #Psicologia #PriscillaAndrade #AnsiedadeFeminina"
         },
         "lo-fi": {
-          "ideia": "Priscilla fala de forma íntima sobre por que a trend viral do TikTok sobre sistema nervoso é mais do que humor — é um grito de socorro coletivo.",
-          "gancho": "Essa trend do TikTok me quebrou. Deixa eu te explicar o porquê.",
+          "ideia": "Priscilla falando de forma íntima sobre a trend, como se estivesse conversando com uma amiga que ela viu virando meme.",
+          "gancho": "Eu vi essa trend e travei — porque ela tá normalizando algo que a gente precisa levar a sério.",
           "o_que_falar": [
-            "Contextualiza a trend: 'meu sistema nervoso pensando X quando na realidade Y' — viralizou porque todas se viram ali",
-            "Insight psicológico: desregulação do sistema nervoso não é frescura, é o resultado de anos aprendendo que o mundo é perigoso",
-            "Conexão com a vida das seguidoras: a mulher que se chama de dramática é frequentemente a mulher que mais precisou estar em alerta na vida",
-            "CTA: salva esse vídeo, manda pra quem precisa. E me conta: você vive no modo alerta?"
+            "Contextualiza a trend: 'meu sistema nervoso pensando ___ quando na realidade ___' — tá em todo lugar no TikTok essa semana.",
+            "Insight psicológico: hiperativação do sistema nervoso autônomo, estado de alerta crônico, como o estresse de longo prazo muda o limiar de resposta emocional das mulheres.",
+            "Conexão pessoal: 'Quantas de vocês se identificaram? Isso não é característica de personalidade ansiosa — é resultado de como fomos criadas e do quanto carregamos.'",
+            "CTA: 'Salva esse vídeo e manda pra uma amiga que também vira meme de si mesma mas nunca fala sério sobre como tá.'"
           ],
-          "legenda": "Essa trend me fez parar tudo e gravar esse vídeo. 💛\n\nVocê conhece a trend 'meu sistema nervoso achando que o mundo acabou quando na realidade...'?\n\nParece piada. Mas quando você para e olha, é a descrição exata da ansiedade feminina em 2026.\n\nE o pior: a maioria das mulheres nem sabe que está vivendo assim.\n\nSe você se identificou, salva esse vídeo. E me conta nos comentários: qual é a sua versão dessa trend?\n\n#Ansiedade #SistemaNervosoDesregulado #PsicologiaFeminina #PriscillaAndrade #SaudeMentalFeminina #TikTokTrend",
-          "vibe": "Câmera estática, luz natural, tom íntimo e direto. Priscilla sentada ou encostada, sem produção excessiva. Fala como se estivesse contando para uma amiga próxima."
+          "legenda": "Essa trend do TikTok me parou no feed essa semana. 😅\n\n'Meu sistema nervoso pensando que é o fim do mundo quando na realidade é só uma notificação.'\n\nFunny. Mas também sério.\n\nÉ o estado de alerta crônico que virou o modo padrão de muitas mulheres — e isso tem nome na psicologia.\n\n⬇️ Você se viu nessa trend?\n\n#TrendTikTok #SaúdeMental #Ansiedade #PriscillaAndrade #ComportamentoFeminino #Psicologia",
+          "vibe": "Câmera estática, luz natural, tom íntimo e próximo — como se estivesse falando com uma amiga. Pode ser casual e reflexivo, sem roteiro decorado."
         }
       }
     },
     {
       "id": 3,
-      "titulo": "Novo artigo: 7 em 10 mulheres sentem pressão para estar sempre 'apresentáveis' por causa de influencers",
-      "resumo": "Artigo publicado esta semana no Estado de Minas expõe como influencers alimentam insatisfação corporal e baixa autoestima feminina em 2026. O dado de que 7 em 10 jovens mulheres sentem pressão constante cria oportunidade para Priscilla posicionar o olhar psicológico: o Instagram não criou a insegurança — ele encontrou o terreno que já estava plantado desde a infância.",
-      "pilar": "Autoimagem & Identidade",
+      "titulo": "IBGE confirmou: mulheres têm 'escala 7x0' em cuidados domésticos — 10 horas a mais por semana que homens",
+      "resumo": "Pesquisa publicada pela Agência Brasil em maio 2026 confirma dado alarmante do IBGE: mulheres dedicam quase dez horas a mais por semana a cuidar de pessoas e da casa, sem remuneração, sem folga, sem reconhecimento. Ângulo de Priscilla: como essa sobrecarga invisível sabota silenciosamente o crescimento profissional e o bem-estar psicológico das mulheres.",
+      "pilar": "Posicionamento & Carreira",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "post-estatico"
       ],
-      "fonte": "Estado de Minas, mai 2026 — 'A pressão estética nas redes: o impacto de influencers na autoestima'",
+      "fonte": "Agência Brasil EBC, maio 2026 — agenciabrasil.ebc.com.br/economia/noticia/2026-05",
       "copies": {
         "reels-react": {
-          "ideia_central": "O dado que 7 em 10 mulheres se sentem pressionadas por influencers não é surpresa — é o reflexo de um sistema que lucra com a insegurança feminina.",
-          "gancho": "7 em 10 mulheres sentem pressão para estar arranjadas o tempo todo por causa de influencers. Esse dado saiu essa semana. E ele me assusta — mas não pelo motivo que você pensa.",
+          "ideia_central": "O IBGE colocou número no que toda mulher já sente: a jornada dupla não é mito — e ela cobra uma conta psicológica que ninguém vê.",
+          "gancho": "O IBGE confirmou essa semana: mulheres trabalham 10 horas a mais por semana que homens. E ninguém tá contando o custo real disso.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "7 em 10 mulheres sentem pressão para estar sempre apresentáveis por causa de influencers. Esse dado saiu essa semana — e eu preciso falar sobre o que está por baixo desse número."
+              "fala": "A pesquisadora disse na Agência Brasil essa semana: 'Mulheres têm escala 7x0.' E eu preciso que você entenda o que isso significa pra sua vida."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A pesquisa mostra que a exposição contínua a corpos e rostos idealizados nas redes está aumentando ansiedade, dismorfia corporal e insatisfação. E não estamos falando só de adolescentes — estamos falando de mulheres adultas, mães, profissionais, que abrem o Instagram e em 30 segundos já se sentem menos."
+              "fala": "O IBGE levantou: mulheres dedicam quase dez horas a mais por semana a cuidados domésticos e de pessoas. Isso é mais de um dia inteiro de trabalho a mais — toda semana. Sem folga. Sem remuneração. Sem reconhecimento."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Mas aqui está o que ninguém fala: o problema não é a influencer. O problema é que você foi ensinada a se comparar como forma de se medir. Desde pequena. Você aprendeu que seu valor depende da sua aparência. E as redes sociais não criaram isso — elas turbinaram o que já estava plantado."
+              "fala": "E aqui está o que poucos falam: essa sobrecarga não fica só em casa. Ela vai com você pro trabalho. Chega antes da reunião. Entra na sua cabeça durante a apresentação. É a razão pela qual muitas mulheres brilhantes se sentem sempre um passo atrás — não por falta de capacidade, mas por falta de tempo mental livre."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Quanto tempo você passa nas redes e sai se sentindo pior do que entrou? Me conta aqui embaixo — honestamente."
+              "fala": "Você sente essa divisão desigual no seu dia a dia? Me conta aqui embaixo."
             }
           ],
-          "legenda": "7 em 10 mulheres sentem pressão para estar sempre arranjadas por causa de influencers. Novo dado, velha ferida. 💔\n\nSe você abre o Instagram e em 2 minutos já está se sentindo menos do que, você não está sozinha.\n\nMas aqui está a virada que ninguém te conta:\n\n📌 O Instagram não criou sua insegurança. Ele só encontrou o terreno que já estava preparado.\n\nDesde criança você aprendeu que precisava ser bonita, arrumada, presentável para ser amada. As redes só aceleraram esse mecanismo.\n\nA pergunta real não é 'por que os influencers me afetam?' — é 'por que eu ainda busco meu valor fora de mim?'\n\nEssa resposta muda tudo.\n\n👇 Você já percebeu que sai das redes pior do que entrou?\n\n#AutoimagemFeminina #PressãoEstética #Influencers #PriscillaAndrade #PsicologiaFeminina #Autoestima #BodyImage #SaudeMentalFeminina"
+          "legenda": "O IBGE colocou número naquilo que toda mulher já sente no corpo. 📊\n\nMulheres trabalham quase 10 horas a mais por semana em cuidados domésticos e de pessoas. A pesquisadora chamou de 'escala 7x0' — sem folga, sem salário, sem reconhecimento.\n\nMas o que a pesquisa não diz:\n\nEssa sobrecarga não fica em casa. Ela entra com você no trabalho. Fica na sua cabeça durante reuniões. É a fadiga que você não consegue nomear.\n\nMuitas mulheres brilhantes se sentem um passo atrás — não por falta de competência, mas porque chegam exaustas antes de qualquer reunião começar.\n\nIsso não é fraqueza. É estrutura. E precisa ser falado.\n\n⬇️ Você sente isso no seu dia a dia?\n\n#IBGE #TrabalhoFeminino #JornadaDupla #MulherNaCarreira #Psicologia #PriscillaAndrade #ComportamentoFeminino #DesigualdadeDeGênero"
         },
         "post-estatico": {
-          "ideia": "Dado impactante transformado em arte reflexiva sobre a relação mulher-comparação-redes sociais.",
-          "titulo_visual": "7 em 10 mulheres saem das redes se sentindo menos do que entraram.",
-          "legenda": "Esse dado saiu essa semana — e não me surpreendeu. Me entristeceu. 💛\n\nVocê não é fraca por se comparar. Você foi ensinada a se medir assim.\n\nMas esse padrão pode ser quebrado. E começa com uma pergunta: de onde vem o valor que você se dá?\n\n👇 Salva esse post. Manda para quem precisa ler.\n\n#Autoestima #AutoimagemFeminina #PriscillaAndrade #PressãoEstética #PsicologiaFeminina #MulherReal",
-          "cta": "Salva e manda pra uma amiga que precisa ver isso."
+          "ideia": "Dado do IBGE transformado em arte impactante — o número que choca em forma visual.",
+          "titulo_visual": "Mulheres trabalham +10h por semana a mais que homens. Sem salário. Sem folga. Sem reconhecimento.",
+          "legenda": "📊 O IBGE confirmou o que toda mulher já sente no corpo.\n\nQuase 10 horas a mais por semana dedicadas a cuidar de pessoas e da casa — além do trabalho remunerado.\n\nIsso não é coincidência. É uma estrutura que drena o tempo, a energia e a capacidade de crescimento profissional das mulheres.\n\nE é sobre isso que precisamos falar.\n\n⬇️ Você reconhece essa realidade?\n\n#IBGE #JornadaDupla #TrabalhoFeminino #MulherNaCarreira #PriscillaAndrade #Psicologia #ComportamentoFeminino",
+          "cta": "Salva e manda pra alguém que precisa ver esse dado."
         }
       }
     },
     {
       "id": 4,
-      "titulo": "'Escala 7x0': pesquisa do IBGE revela que mulheres trabalham 10h a mais por semana — e ninguém paga por isso",
-      "resumo": "A Agência Brasil divulgou esta semana dados do IBGE mostrando que mulheres dedicam quase 10 horas a mais semanais em trabalho doméstico e de cuidado não remunerado, vivendo em 'escala 7x0'. A pesquisadora conecta diretamente esse ciclo à permanência de mulheres em relacionamentos violentos por dependência financeira — cruzamento direto com o nicho de Priscilla.",
-      "pilar": "Posicionamento & Carreira",
+      "titulo": "Tudo virou red flag — e esse paradoxo viral tá destruindo relacionamentos reais",
+      "resumo": "O termo 'red flag' viralizou a ponto de jogar videogame, ser próximo da mãe e ter amigos do sexo oposto serem considerados alertas de relacionamento abusivo. O debate explodiu nas redes em 2026. Ângulo de Priscilla: quando a psicologia vira trend sem contexto, ela cria mais ansiedade do que proteção — e pode afastar mulheres de relacionamentos saudáveis.",
+      "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "Agência Brasil, mai 2026 — 'Trabalho de cuidado: mulheres têm escala 7x0'",
+      "fonte": "Metrópoles / Revista Esquinas Casper Líbero — 'Terapia em dia: quais as novas Red Flags para o séc. XXI'",
       "copies": {
         "reels-react": {
-          "ideia_central": "A 'escala 7x0' das mulheres não é só exaustão — é o mecanismo que mantém mulheres presas em relacionamentos abusivos por falta de autonomia financeira.",
-          "gancho": "Pesquisa nova do IBGE confirmou: mulheres trabalham em 'escala 7x0'. E não recebem nada por isso. Mas o pior não é a exaustão — é o que esse dado diz sobre relacionamentos.",
+          "ideia_central": "Quando tudo vira red flag, nada mais é red flag — e essa confusão tá fazendo mulheres desconfiarem de relacionamentos saudáveis.",
+          "gancho": "Ser próximo da mãe é red flag. Ter amiga mulher é red flag. Jogar videogame é red flag. Como psicóloga, isso me preocupa muito.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Acabou de sair: mulheres trabalham quase 10 horas a mais por semana que homens — em tarefas domésticas e de cuidado, sem receber um centavo. A pesquisadora chamou de 'escala 7x0'. E eu preciso falar sobre o que isso tem a ver com relacionamentos."
+              "fala": "Ser próximo da mãe é red flag. Ter amiga mulher é red flag. Jogar videogame é red flag. Beber água de manhã provavelmente vai virar em breve."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A Agência Brasil publicou: mulheres cuidam da casa, dos filhos, dos pais, do marido — sem folga, sem salário, sem reconhecimento. E a pesquisa vai além: esse ciclo de trabalho não remunerado é um dos principais fatores que mantém mulheres em relacionamentos violentos. Porque ela não tem renda própria. Porque ela não tem como sair."
+              "fala": "O conceito de red flag surgiu para ajudar mulheres a identificar comportamentos realmente abusivos. Faz sentido. É importante. Mas quando tudo vira red flag — e esse paradoxo tá viralizando agora — a palavra perde significado. E pior: começa a criar ansiedade onde não deveria existir."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Independência financeira não é capricho feminista. É proteção. É a diferença entre 'eu fico porque quero' e 'eu fico porque não tenho para onde ir'. A mulher que trabalha em 'escala 7x0' — cuidando de todo mundo, mas sem construir a própria segurança — fica vulnerável não por fraqueza, mas por uma estrutura feita assim."
+              "fala": "Quando você aprende a ver perigo em tudo, seu sistema de alarme fica sempre ligado. Isso se chama hipervigilância. E a hipervigilância num relacionamento não protege você — ela te impede de criar vínculos reais. Você começa a testar em vez de se conectar."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já fez as contas de quanto valeria o seu trabalho em casa se fosse pago? Me fala nos comentários."
+              "fala": "Qual é a red flag mais absurda que você já viu nas redes? Me conta — estou curiosa."
             }
           ],
-          "legenda": "Mulheres trabalham em 'escala 7x0' — e ninguém paga por isso. Dado novo do IBGE, publicado esta semana. 🧵\n\nQuase 10 horas a mais por semana em trabalho doméstico e de cuidado. Sem salário. Sem folga. Sem reconhecimento.\n\nMas o dado que me impactou mais é esse: esse trabalho não remunerado é um dos maiores fatores que mantém mulheres em relacionamentos violentos.\n\nPorque quando você não tem renda própria, a 'escolha' de ficar deixa de ser escolha.\n\nIndependência financeira não é sobre ter muito dinheiro. É sobre ter opções. É sobre poder dizer não.\n\n📌 Salva esse vídeo. Manda pra quem precisa ouvir isso.\n\n#Escala7x0 #MulherECarreira #IndependênciaFinanceira #PriscillaAndrade #PsicologiaFeminina #TrabalhoDeCuidado #EmpoderaFeminino #RelacionamentoSaudavel"
+          "legenda": "O conceito de red flag surgiu para proteger. E ele importa.\n\nMas quando 'jogar videogame', 'ser próximo da mãe' e 'ter amigas mulheres' viram alertas de relacionamento abusivo — algo deu errado.\n\nAí tá o paradoxo viral de 2026:\n\nQuando tudo é red flag, nada mais é red flag. E o que a gente treina é o medo — não o discernimento real.\n\nPsicologicamente, isso cria hipervigilância. E mulheres hipervigilantes não entram em relacionamentos ruins: elas às vezes não entram em nenhum relacionamento.\n\nVocê merece aprender a diferença entre um sinal real de alerta e ansiedade disfarçada de autocuidado.\n\n⬇️ Qual é a red flag mais absurda que você já viu? Me conta aqui.\n\n#RedFlag #Relacionamentos #TikTokViral #PsicologiaDosRelacionamentos #ComportamentoFeminino #PriscillaAndrade #Ansiedade #Hipervigilância"
         },
         "carrossel": {
-          "ideia": "Como a 'escala 7x0' cria armadilhas invisíveis em relacionamentos — usando o dado do IBGE como ancoragem.",
+          "ideia": "Como diferenciar um red flag real de ansiedade disfarçada de autocuidado — ancorado no paradoxo viral de 2026.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "Mulheres trabalham em 'escala 7x0'",
-              "subtitulo": "E esse dado explica muito sobre relacionamentos abusivos"
+              "titulo": "Quando tudo vira red flag, nada mais é red flag.",
+              "subtitulo": "E esse paradoxo tá te prejudicando"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
-              "titulo": "O dado que saiu esta semana",
-              "texto": "IBGE via Agência Brasil: mulheres dedicam quase 10 horas a mais por semana em tarefas domésticas e de cuidado — sem remuneração. A pesquisadora chamou de 'escala 7x0'."
+              "titulo": "O que tá acontecendo",
+              "texto": "Nas redes, jogar videogame, ser próximo da mãe e ter amigas mulheres viraram 'red flags'. O conceito nasceu para identificar comportamentos abusivos reais — mas virou uma lista infinita de medos disfarçados de autoconhecimento."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "A armadilha invisível",
-              "texto": "Quando você não tem renda própria, 'escolher ficar' num relacionamento deixa de ser escolha. A dependência financeira é um dos maiores fatores de permanência em situações violentas."
+              "titulo": "O custo psicológico",
+              "texto": "Quando você treina para ver perigo em tudo, desenvolve hipervigilância. Seu sistema nervoso fica sempre em alerta. E aí você não sai de relacionamentos ruins — você sai de todos os relacionamentos."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "O que precisamos nomear",
-              "texto": "Construir independência financeira não é sobre ambição. É sobre ter a liberdade de dizer não. É a diferença entre ficar por amor e ficar por não ter saída."
+              "titulo": "Como diferenciar",
+              "texto": "Red flag real: padrão repetido de desrespeito, controle, humilhação ou violência. Ansiedade disfarçada: desconforto com algo diferente do que você conhece. Um te faz mal. O outro te pede crescimento."
             },
             {
               "numero": 5,
               "tipo": "CTA",
               "titulo": "E você?",
-              "texto": "Você já parou pra pensar em quanto valeria seu trabalho em casa se fosse remunerado? Salva esse carrossel e compartilha."
+              "texto": "Já descartou alguém por uma 'red flag' que, olhando atrás, era mais ansiedade do que sinal real? Me conta nos comentários — esse espaço é seguro."
             }
           ],
-          "legenda": "O IBGE confirma o que muitas mulheres já sentem no corpo: você trabalha sem parar — e sem receber nada. 💛\n\nMas o dado mais sério vai além da exaustão. Ele fala sobre poder, autonomia e liberdade de escolha.\n\nSalva e compartilha. Esse dado precisa circular.\n\n#MulherETrabalho #IndependênciaFinanceira #PriscillaAndrade #PsicologiaFeminina #Escala7x0 #IBGE #EmpoderaFeminino"
+          "legenda": "🚩 Tudo virou red flag. E isso tá te prejudicando mais do que protegendo.\n\nArrastra pra entender a diferença entre um sinal real de alerta e ansiedade que aprendeu a se chamar de autoconhecimento.\n\n💾 Salva esse carrossel — você vai querer mostrar pra uma amiga.\n\n#RedFlag #Relacionamentos #PsicologiaDosRelacionamentos #ComportamentoFeminino #PriscillaAndrade #TikTokViral #Hipervigilância"
         }
       }
     },
     {
       "id": 5,
-      "titulo": "Pela primeira vez no Brasil, ansiedade em meninas supera a de adultos — dado publicado hoje",
-      "resumo": "Pesquisa publicada nas últimas horas revela que registros de ansiedade em crianças e adolescentes superaram os de adultos no Brasil pela primeira vez, com 68% das meninas ansiosas. Dado urgente que abre janela para Priscilla conectar a formação emocional na infância com os padrões que ela trata em mulheres adultas — fechando o ciclo de origem.",
+      "titulo": "Artigo viral de maio 2026: exposição a influencers de estética está criando dismorfia corporal — 7 em 10 jovens mulheres sentem pressão para estar sempre perfeitas",
+      "resumo": "Artigo do Estado de Minas de maio 2026 revelou que a exposição constante a procedimentos estéticos nas redes está associada clinicamente a quadros de ansiedade e dismorfia corporal em jovens mulheres. 7 em 10 sentem pressão para estar sempre apresentáveis. Ângulo de Priscilla: quando a insatisfação com o corpo deixa de ser passageira e vira constante — isso tem nome clínico.",
       "pilar": "Autoimagem & Identidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "post-estatico"
+        "carrossel"
       ],
-      "fonte": "Meio & Mensagem, 22-23 mai 2026 — 'O que está por trás da crise de saúde mental das meninas'",
+      "fonte": "Estado de Minas, maio 2026 — em.com.br/trends/2026/05/7411932",
       "copies": {
         "reels-react": {
-          "ideia_central": "O dado de que 68% das meninas brasileiras estão ansiosas não é sobre a geração Z — é sobre o que ensinamos às mulheres desde pequenas.",
-          "gancho": "Saiu hoje: pela primeira vez no Brasil, mais adolescentes do que adultos têm ansiedade. E 68% são meninas. Esse número me parte o coração — e eu preciso te explicar o porquê.",
+          "ideia_central": "7 em 10 jovens mulheres sentem pressão para estar sempre perfeitas — e o feed de procedimentos estéticos do Instagram tem responsabilidade clínica nisso.",
+          "gancho": "7 em cada 10 jovens mulheres sentem pressão pra estar sempre perfeitas. Esse dado saiu essa semana — e como psicóloga, me assusta.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Dado de hoje: pela primeira vez no Brasil, ansiedade em crianças e adolescentes superou a de adultos. 68% das meninas disseram que se sentem ansiosas e inseguras. Isso não é coincidência."
+              "fala": "Sete em cada dez jovens mulheres sentem pressão pra estar sempre apresentáveis. Esse dado veio de artigo viral dessa semana — e eu preciso falar sobre o que está por trás disso."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A pesquisa aponta pressão por sucesso, redes sociais e comparação constante. Mas como psicóloga, eu vejo além: meninas são ensinadas desde bebês que precisam agradar, performar, serem boazinhas. A ansiedade não começou com o TikTok — começou com o 'não chora', 'senta direito', 'o que vão pensar?'"
+              "fala": "O artigo aponta: a exposição contínua a procedimentos estéticos nas redes está criando distorção de autoimagem em mulheres. Não é vaidade. Isso está sendo associado clinicamente a quadros de ansiedade e dismorfia corporal — quando você olha pro espelho e não vê o que de fato existe."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Quando uma menina cresce aprendendo que ela precisa ser perfeita para ser amada, o mundo inteiro vira ameaça. Cada nota, cada olhar, cada post vira um teste. E o corpo responde com ansiedade — porque ele aprendeu que errar tem consequências. Essa menina ansiosa de hoje vai virar a mulher que você atende. Ou que você é."
+              "fala": "O problema não é se maquiar ou fazer procedimento. O problema é quando o seu senso de valor pessoal começa a depender da sua aparência. Quando você não consegue sair de casa sem filtro. Quando você evita situações sociais por causa do corpo. Isso não é insegurança passageira — é um quadro clínico real."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você se lembra quando começou a se sentir assim? Me conta. Esse dado precisa de conversa."
+              "fala": "Você já se sentiu assim? Me conta — sem filtro — nos comentários."
             }
           ],
-          "legenda": "68% das meninas brasileiras estão ansiosas. Dado publicado hoje. 💔\n\nE pela primeira vez, a ansiedade juvenil superou a de adultos no Brasil.\n\nIsso não é culpa do TikTok. Não é fraqueza da geração. É o resultado de décadas ensinando meninas que precisam ser perfeitas para ser amadas.\n\n'Não chora.' 'Senta direito.' 'O que vão pensar?'\n\nEssa menina aprende que o mundo é um teste — e que ela pode reprovar. E o corpo responde com ansiedade.\n\nA mulher ansiosa de 30 anos foi a menina ansiosa de 10. Isso tem origem. E tem cura.\n\nVocê se lembra quando começou a se sentir assim? 👇\n\n#AnsiedadeFeminina #SaudeMentalFeminina #Meninas #PriscillaAndrade #PsicologiaFeminina #SaudeMental2026 #CriseDeSaudeMental"
+          "legenda": "📱 7 em 10 jovens mulheres sentem pressão para estar sempre perfeitas e apresentáveis. Esse dado veio de artigo publicado essa semana.\n\nE eu preciso falar sobre o que está acontecendo.\n\nO feed cheio de procedimentos, filtros e antes-e-depois não é neutro. Ele cria um padrão de comparação que o cérebro trata como referência real.\n\nO resultado? Mulheres que olham pro espelho e veem algo que não existe. Que evitam sair em fotos. Que nunca se sentem suficientes.\n\nIsso tem nome: dismorfia corporal. E é um quadro clínico — não frescura, não insegurança passageira.\n\nO primeiro passo é perceber quando a insatisfação com o corpo deixa de ser passageira e vira constante.\n\nSe você se identificou, cuida. Você merece olhar pra você mesma com bondade.\n\n⬇️ Você já sentiu isso?\n\n#AutoimagemCorporal #Dismorfia #PressãoEstética #Autoestima #ComportamentoFeminino #PriscillaAndrade #Psicologia #SaúdeMental #InstagramEAutoestima"
         },
-        "post-estatico": {
-          "ideia": "Dado impactante em arte — 68% das meninas ansiosas como ponto de reflexão sobre a formação emocional feminina.",
-          "titulo_visual": "68% das meninas brasileiras estão ansiosas. Dado de hoje. Não é sobre elas — é sobre o que ensinamos.",
-          "legenda": "Esse número me tirou o chão. 💛\n\nPela primeira vez no Brasil, crianças e adolescentes são mais ansiosos que adultos. E as meninas lideram com 68%.\n\nAntes de culpar o celular: o que você aprendeu sobre ser menina?\n\n#AnsiedadeFeminina #PriscillaAndrade #SaudeMentalFeminina #Meninas2026 #PsicologiaFeminina",
-          "cta": "Salva e manda para uma mãe, professora ou profissional de saúde que precisa ver esse dado."
+        "carrossel": {
+          "ideia": "5 sinais de que a pressão estética das redes está te afetando além da conta — baseado no debate viral de maio 2026.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "5 sinais de que o Instagram está te fazendo mal",
+              "subtitulo": "(E não é sobre vaidade)"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O dado dessa semana",
+              "texto": "Artigo viral de maio 2026 revelou: 7 em 10 jovens mulheres sentem pressão constante para estar sempre apresentáveis. A exposição a procedimentos estéticos nas redes está associada clinicamente a ansiedade e dismorfia corporal."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "O que é dismorfia corporal",
+              "texto": "Não é vaidade excessiva. É quando você olha pro espelho e não vê o que está lá de fato. Quando a insatisfação com o corpo vira constante, invasiva e começa a limitar sua vida social e emocional."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "Os 5 sinais",
+              "texto": "1. Você evita sair em fotos sem edição. 2. Você compara seu corpo ao de influencers diariamente. 3. Você sente vergonha do corpo em situações sociais. 4. Você faz procedimentos mas a insatisfação nunca passa. 5. Você se sente pior depois de usar as redes."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "E você?",
+              "texto": "Quantos desses sinais você reconheceu? Me conta aqui — sem julgamento. E se precisar conversar, é só me chamar."
+            }
+          ],
+          "legenda": "📱 O Instagram tá te fazendo mal — e muitas vezes você não percebe até ver os sinais.\n\nArrastra pra entender quando a pressão estética das redes vira um problema clínico real.\n\n💾 Salva esse carrossel — e manda pra alguém que você acha que precisa ler.\n\n#Autoestima #Dismorfia #PressãoEstética #InstagramEAutoestima #ComportamentoFeminino #PriscillaAndrade #Psicologia #SaúdeMental"
         }
       }
     },
     {
       "id": 6,
-      "titulo": "Maio Furta-Cor: 1 em cada 5 mães vai adoecer mentalmente — e quase nenhuma está recebendo ajuda",
-      "resumo": "A campanha Maio Furta-Cor está em alta esta semana ampliando o debate sobre saúde mental materna. Dado atual: 1 em cada 5 mulheres desenvolve transtorno mental na gestação ou pós-parto. Priscilla pode usar o momentum da campanha para nomear a matrescence — transformação identitária de mulher em mãe — e normalizar pedir ajuda sem vergonha.",
-      "pilar": "Estilo de Vida & Espiritualidade",
-      "urgencia": "hoje",
+      "titulo": "49% das mulheres desconfiam do 'homem feministo' — e a pesquisa de 2026 explica por quê a intuição feminina acerta",
+      "resumo": "Pesquisa recente revelou que 49% das mulheres desconfiam de discursos feministas performáticos em parceiros. No Brasil, 60% dos solteiros valorizam a opinião do pretendente sobre feminismo, mas 47% ficam em alerta quando ele monopoliza a conversa. Ângulo de Priscilla: como diferenciar o aliado real do 'feministo de fachada' — e por que a intuição feminina aprendeu isso da forma mais difícil.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "semana",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "lo-fi"
+        "carrossel"
       ],
-      "fonte": "Portal AZ / OMS, mai 2026 — Campanha Maio Furta-Cor",
+      "fonte": "CNN Brasil / Meio & Mensagem — 'O comportamento feminino diante das tendências para 2026'",
       "copies": {
         "reels-react": {
-          "ideia_central": "Maio Furta-Cor escancarou o que muitas mães ainda têm vergonha de nomear: a maternidade pode adoecer — e o silêncio em torno disso é parte do problema.",
-          "gancho": "Maio Furta-Cor está acontecendo agora. E o dado que mais me assustou esse ano: 1 em cada 5 mães desenvolve transtorno mental na gestação ou no pós-parto. Mas quantas estão recebendo ajuda?",
+          "ideia_central": "A pesquisa confirmou o que muitas mulheres já intuíam: discurso feminista em homem que não pratica na vida real virou um red flag real.",
+          "gancho": "Pesquisa de 2026: 49% das mulheres desconfiam de homens que se dizem feministas. E como psicóloga, eu entendo exatamente por quê.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "É Maio Furta-Cor — o mês de conscientização sobre saúde mental materna. E esse dado de hoje me parou: 1 em cada 5 mulheres desenvolve transtorno mental durante ou após a gravidez."
+              "fala": "49% das mulheres desconfiam do homem que se diz feminista. Esse dado saiu em 2026 — e ele precisa de contexto."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A campanha traz à tona os sinais que as mães ignoram: tristeza persistente, irritabilidade intensa, ansiedade, isolamento, dificuldade de se conectar com o bebê. E o problema não é a mãe — é que a gente ensina mulheres que maternidade precisa ser perfeita e feliz. Então quando ela sofre, ela acha que está falhando."
+              "fala": "A pesquisa mostrou que a maioria das mulheres brasileiras valoriza ter um parceiro que entenda o feminismo. Mas quase metade fica em alerta quando esse homem usa o discurso pra se destacar — em vez de simplesmente agir de forma respeitosa no dia a dia."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Não é falha. É adoecimento. A maternidade é uma das maiores transições identitárias que uma mulher pode viver. O nome disso é matrescence — a transformação de mulher em mãe. Essa transformação pode doer muito. Reconhecer isso não é fraqueza. É o começo do cuidado."
+              "fala": "Psicologicamente, isso faz todo sentido. Mulheres aprenderam a desconfiar de comportamentos que não se sustentam. O 'feministo' perfeito no primeiro jantar mas que não lava a louça, que interrompe, que some nos momentos difíceis — esse homem existe. E a intuição feminina já reconhece esse padrão antes de qualquer dado."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Se você é mãe ou conhece uma — esse vídeo é pra você. Compartilha. Pode ser o que alguém precisa ver hoje."
+              "fala": "Você já conheceu um feministo de fachada? Me conta como você percebeu."
             }
           ],
-          "legenda": "Maio Furta-Cor: e se a maternidade mais honesta que você viu esse mês for esse vídeo? 💛\n\n1 em cada 5 mulheres desenvolve algum transtorno mental durante a gestação ou no pós-parto.\n\nMas a maioria não recebe ajuda. Por vergonha. Por medo de ser julgada. Por acreditar que não está 'ruim o suficiente'.\n\nSinais que precisam de atenção:\n🔸 Tristeza que não passa\n🔸 Irritabilidade intensa\n🔸 Ansiedade fora do normal\n🔸 Isolamento\n🔸 Dificuldade de se sentir conectada ao bebê\n\nVocê não está falhando como mãe. Você pode estar adoecendo. E adoecer pede cuidado — não silêncio.\n\n💛 Compartilha esse vídeo. Pode chegar a quem precisa.\n\n#MaioFurtaCor #SaudeMentalMaterna #Maternidade #PriscillaAndrade #PosPartoDificil #DepressaoPosparto #MaeSaudavel #PsicologiaFeminina"
+          "legenda": "📊 Nova pesquisa de 2026 confirmou: 49% das mulheres desconfiam de homens que se dizem feministas.\n\nNão é ironia. É aprendizado.\n\nAs mulheres sabem — na prática — que discurso não é comportamento. Que falar em igualdade no jantar e depois não dividir a carga mental é um padrão real que muitas já viveram.\n\nO 'homem feministo' usa o vocabulário certo. Aparece nos debates. Sabe todas as palavras.\n\nMas não divide as tarefas sem que você peça. Não aparece quando dói. Não muda de fato.\n\nE a intuição feminina aprendeu — da forma mais difícil — a reconhecer essa diferença.\n\nValorize o homem que age. Não o que discursa.\n\n⬇️ Você já encontrou um assim?\n\n#HomemFeministo #Relacionamentos #Feminismo #PesquisaDeRelacionamento #ComportamentoFeminino #PriscillaAndrade #Psicologia #CasalSaudável"
         },
-        "lo-fi": {
-          "ideia": "Priscilla fala de forma íntima sobre Maio Furta-Cor — como psicóloga que vê mães silenciosas sofrendo e quer normalizar pedir ajuda.",
-          "gancho": "Se você é mãe e está sofrendo em silêncio — esse vídeo é pra você.",
-          "o_que_falar": [
-            "Contextualiza: estamos em Maio Furta-Cor, mês de conscientização sobre saúde mental materna — 1 em 5 mães vai desenvolver algum transtorno",
-            "Insight: fala sobre matrescence — a transformação de mulher em mãe é uma das maiores rupturas identitárias que existem, e pode doer muito",
-            "Conexão: a mãe que sofre em silêncio não é fraca — ela foi ensinada que maternidade precisa ser perfeita e feliz",
-            "CTA: se você está passando por isso, manda mensagem. E compartilha esse vídeo pra uma mãe que você ama."
+        "carrossel": {
+          "ideia": "Como diferenciar um aliado real de um feministo de fachada — baseado no dado viral de 2026.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "O 'homem feministo': como reconhecer o de verdade",
+              "subtitulo": "49% das mulheres já desconfiam. Saiba por quê."
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O dado de 2026",
+              "texto": "Pesquisa revelou: 49% das mulheres desconfiam de homens com discurso feminista. Não por antipatia ao feminismo — mas porque aprenderam que discurso e comportamento são coisas muito diferentes."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "O feministo de fachada",
+              "texto": "Sabe todas as palavras certas. Aparece nos debates. Concorda em público. Mas não divide a carga mental em casa, interrompe sua fala, some quando você precisa de apoio, e usa o discurso para se destacar — não para agir."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "O aliado real",
+              "texto": "Não precisa anunciar que é feminista. Simplesmente divide as tarefas sem que você peça. Ouve sem interromper. Aparece nas partes difíceis. Respeita suas escolhas mesmo quando discorda. Ação, não palavras."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "E você?",
+              "texto": "Seu parceiro atual (ou ex) era aliado de verdade ou feministo de fachada? Comenta aqui — ou salva esse carrossel e reflete."
+            }
           ],
-          "legenda": "Pra todas as mães que estão sofrendo em silêncio esse mês. Você não está sozinha. 💛\n\n#MaioFurtaCor #SaudeMentalMaterna #PriscillaAndrade #Maternidade #Matrescence #PsicologiaFeminina",
-          "vibe": "Câmera estática ou levemente próxima. Tom suave, intimista, sem trilha sonora pesada. Luz natural difusa. Fala com gentileza e sem julgamento."
+          "legenda": "🚩 49% das mulheres desconfiam do homem que se diz feminista. Esse dado faz todo sentido — e esse carrossel explica por quê.\n\nArrastra pra aprender a diferença entre aliado real e discurso vazio.\n\n💾 Salva e manda pra quem precisa ver isso.\n\n#HomemFeministo #Relacionamentos #Feminismo #ComportamentoFeminino #PriscillaAndrade #Psicologia #CasalSaudável #RelacionamentoSaudável"
         }
       }
     },
     {
       "id": 7,
-      "titulo": "Beige flags viralizou essa semana — e o que isso diz sobre como as mulheres estão julgando relacionamentos",
-      "resumo": "A discussão sobre 'beige flags' — comportamentos estranhos mas inofensivos nos parceiros — está viralizando no Brasil como contraponto à cultura de red flags. Abre espaço para Priscilla falar sobre a diferença entre discernimento saudável e hipervigilância ansiosa, tema que ressoa diretamente com mulheres que 'veem red flag em tudo'.",
-      "pilar": "Casamento & Relacionamento",
-      "urgencia": "hoje",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "Terra Brasil / Metrópoles — 'Nem red flag, nem green flag: as beige flags no amor', mai 2026",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "A viralização das 'beige flags' mostra que a geração que aprendeu a ver red flag em tudo está, com humor, aprendendo que nem tudo é sinal de perigo.",
-          "gancho": "Já ouviu falar em 'beige flags'? Está viralando agora. E esse conceito diz mais sobre saúde emocional do que parece à primeira vista.",
-          "roteiro": [
-            {
-              "tempo": "0–3s",
-              "descricao": "Abertura",
-              "fala": "Beige flags estão dominando o feed essa semana. Sabe o que é? Aquela coisa estranha que seu parceiro faz que não chega a ser red flag, mas te deixa tipo 'meu Deus'. E tem algo muito importante aqui."
-            },
-            {
-              "tempo": "3–15s",
-              "descricao": "Contexto",
-              "fala": "A internet passou anos catalogando red flags — e isso foi necessário. Mas criou um efeito colateral: muita mulher virou detectora de ameaças 24 horas por dia. Ele demorou pra responder? Red flag. É muito próximo da mãe? Red flag. Gosta de videogame? Red flag. Em algum momento, tudo virou perigo."
-            },
-            {
-              "tempo": "15–25s",
-              "descricao": "Virada psicológica",
-              "fala": "As beige flags são o jeito bem-humorado da internet de dizer: nem tudo precisa ser diagnóstico. A hipervigilância em relacionamentos — ver ameaça em tudo — muitas vezes é ansiedade de apego disfarçada de discernimento. E isso é completamente diferente."
-            },
-            {
-              "tempo": "25–30s",
-              "descricao": "CTA",
-              "fala": "Qual é a beige flag do seu parceiro — ou a sua? Me conta nos comentários. Prometo que vai ser engraçado."
-            }
-          ],
-          "legenda": "Beige flags estão dominando o feed essa semana. E eu precisava comentar isso. 🤎\n\nA definição: comportamentos estranhos, neutros, levemente malucos — que não chegam a ser red flag, mas fazem você pensar 'como assim?'\n\nMas tem algo mais profundo aqui:\n\n📌 Quando tudo é red flag, nada é. A hipervigilância em relacionamentos pode ser o sinal de que você está mais ansiosamente apegada do que criticamente discernente.\n\nSaber a diferença é fundamental.\n\n👇 Qual é a beige flag do seu parceiro (ou a sua)? Me conta!\n\n#BeigeFlags #RedFlags #Relacionamento #PriscillaAndrade #PsicologiaFeminina #RelacionamentoSaudavel #Viral2026"
-        },
-        "carrossel": {
-          "ideia": "Red flag x beige flag x green flag: um guia prático e bem-humorado ancorado na tendência viral da semana.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Red flag, green flag... e agora beige flag?",
-              "subtitulo": "O que a tendência viral da semana diz sobre os seus relacionamentos"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O que é beige flag",
-              "texto": "Beige flag = aquele comportamento estranho, levemente bizarro, mas inofensivo do seu parceiro. Não é sinal de perigo. Não é sinal ótimo. É só... humano."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Por que isso importa agora",
-              "texto": "A geração que aprendeu a detectar red flags criou um efeito colateral: hipervigilância. Quando você vê perigo em tudo, você não está sendo criteriosa — pode estar sendo ansiosa."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "A diferença que salva relacionamentos",
-              "texto": "Red flag real = comportamento que te machuca, controla ou diminui. Beige flag = mania estranha que não te prejudica. Saber distinguir é sinal de saúde emocional."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Qual é a beige flag do seu parceiro — ou a sua? Conta nos comentários! Salva esse carrossel pra não confundir mais."
-            }
-          ],
-          "legenda": "A internet criou as red flags. Agora criou as beige flags. E eu precisava falar sobre isso. 🤎\n\nSaber distinguir o que é sinal de perigo real do que é só 'mania estranha de humano' é uma das habilidades mais importantes em relacionamentos.\n\nE honestamente? Muito do que chamamos de red flag é ansiedade de apego disfarçada de discernimento.\n\nSalva esse carrossel. Te ajuda a calibrar.\n\n#BeigeFlags #PriscillaAndrade #Relacionamento #PsicologiaFeminina #RedFlags #Viral2026"
-        }
-      }
-    },
-    {
-      "id": 8,
-      "titulo": "'Efeito tesoura': Brasil forma mais doutoras que doutores há 20 anos — mas mulheres somem quando a carreira avança",
-      "resumo": "Reportagem publicada esta semana na Agência Brasil revela o paradoxo do 'efeito tesoura': o Brasil produz mais doutoras que doutores há duas décadas, mas elas são minoria entre professores universitários e recebem apenas 1/3 das bolsas de pesquisa de maior prestígio. A maternidade como fator agravante é apontado como novo e urgente — e a metáfora se aplica a todas as áreas profissionais.",
-      "pilar": "Posicionamento & Carreira",
+      "titulo": "67% dos brasileiros querem priorizar saúde mental em 2026 — mas as mulheres ainda chegam por último quando se trata de cuidar de si",
+      "resumo": "Estudo divulgado pela CNN Brasil mostra que 67% da população pretende investir mais em saúde mental em 2026. Ansiedade lidera motivos de busca por psicólogo. Mulheres são 2 a 3 vezes mais vulneráveis a transtornos mentais do que homens. Ângulo de Priscilla: por que, mesmo com a pauta em alta, as mulheres ainda adiam o próprio cuidado.",
+      "pilar": "Estilo de Vida & Espiritualidade",
       "urgencia": "semana",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "lo-fi"
       ],
-      "fonte": "Agência Brasil / Brasil de Fato, 17 mai 2026 — 'Iniciativas tentam facilitar acesso e permanência de mães na ciência'",
+      "fonte": "CNN Brasil — 'Saúde mental é prioridade para brasileiros em 2026, aponta estudo' — cnnbrasil.com.br",
       "copies": {
         "reels-react": {
-          "ideia_central": "O 'efeito tesoura' na ciência brasileira é a metáfora perfeita do que acontece com mulheres em todas as carreiras: quanto mais alto, menos espaço.",
-          "gancho": "O Brasil forma mais doutoras que doutores há 20 anos. Mas quando olhamos quem está no topo das carreiras — as mulheres somem. Tem nome pra isso. E acontece em todo lugar.",
+          "ideia_central": "67% querem investir em saúde mental — mas o padrão feminino de cuidar de todos antes de si mesma ainda é a barreira real.",
+          "gancho": "67% dos brasileiros disseram que saúde mental é prioridade em 2026. Mas você tá nesse grupo — ou ainda tá esperando que todo mundo ao redor esteja bem primeiro?",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Reportagem dessa semana revelou: o Brasil forma mais doutoras que doutores há duas décadas. Mas nas posições de topo — elas somem. Isso tem nome: efeito tesoura. E acontece em todo lugar."
+              "fala": "Pesquisa da CNN Brasil revelou: 67% dos brasileiros querem investir mais em saúde mental esse ano. Ótima notícia. Mas aqui está o que o dado não mostra."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Na entrada, as mulheres são maioria. No meio, empatam. No topo, somem. Na academia isso fica visível: elas recebem apenas um terço das bolsas de maior prestígio. E o fator que a pesquisa acabou de nomear como agravante é a maternidade — mãe que quer construir carreira enfrenta um sistema que nunca foi feito pra ela."
+              "fala": "A ansiedade lidera os motivos de procura por ajuda psicológica. E as mulheres são duas a três vezes mais vulneráveis a transtornos de ansiedade e depressão do que os homens. Mas mesmo com tudo isso em pauta, existe um padrão que ainda repete: a mulher é a última a pedir ajuda."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "E isso não é só na academia. Você vê no banco, na medicina, no direito, nas empresas. As mulheres entram em igualdade — e vão sendo cortadas conforme sobem. Não porque são menos capazes. Porque o topo foi construído por homens, para homens, em cima da suposição de que há uma mulher cuidando de tudo em casa. Enquanto isso não mudar estruturalmente, cada mulher que chega ao topo está vencendo um sistema — não só uma concorrência."
+              "fala": "Isso não é acidente. Fomos criadas para cuidar. Para garantir que todo mundo ao redor está bem antes de olhar para nós mesmas. Então mesmo quando há permissão cultural pra pedir ajuda — a mulher ainda espera. Ainda adia. Ainda minimiza."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já sentiu o 'efeito tesoura' na sua carreira? Me conta nos comentários."
+              "fala": "Você faz parte dos 67% ou ainda tá colocando todo mundo na frente? Me conta nos comentários."
             }
           ],
-          "legenda": "Brasil forma mais doutoras que doutores há 20 anos. No topo das carreiras? Elas somem. Isso tem nome: efeito tesoura. 🧵\n\nNova reportagem da Agência Brasil mostrou essa semana como a maternidade agrava esse corte — porque o sistema foi construído para pessoas sem responsabilidades de cuidado.\n\nE enquanto a gente debate 'empoderamento' nas redes, as estruturas que cortam as mulheres antes que elas cheguem ao topo continuam intactas.\n\nVocê já sentiu isso na sua carreira? 👇\n\n#EfeitoTesoura #MulherNaCiencia #MulherNaCarreira #PriscillaAndrade #PsicologiaFeminina #Maternidade #Carreira #EmpoderaFeminino"
+          "legenda": "📊 67% dos brasileiros declararam saúde mental como prioridade em 2026. Isso é lindo de ver.\n\nMas tem uma pergunta que eu preciso fazer:\n\nVocê tá incluída nesse número?\n\nOu você ainda tá esperando que o filho, o marido, a mãe, o trabalho, a casa — que tudo esteja resolvido — pra então cuidar de você?\n\nExiste um padrão feminino que vai além da escolha individual: fomos ensinadas a cuidar de todos antes de nós mesmas. E esse padrão não desaparece só porque a saúde mental entrou na moda.\n\nA ansiedade lidera as buscas por psicólogo. Mulheres são 2 a 3 vezes mais vulneráveis. E mesmo assim, ainda chegam por último.\n\nCuidar de você primeiro não é egoísmo. É a condição pra você cuidar de tudo mais.\n\n⬇️ Você já está cuidando de você?\n\n#SaúdeMental #Ansiedade #AutocuidadoFeminino #PriscillaAndrade #Psicologia #ComportamentoFeminino #CuidarDeSi #SaúdeMentalEmPauta"
         },
         "lo-fi": {
-          "ideia": "Priscilla fala diretamente sobre o efeito tesoura como padrão sistêmico — e o que isso significa emocionalmente para mulheres que chegam perto do topo e encontram obstáculos invisíveis.",
-          "gancho": "Sabia que o Brasil forma mais doutoras que doutores? Mas no topo das carreiras, elas somem. Isso diz tudo.",
+          "ideia": "Priscilla falando de forma direta e íntima sobre o dado — e fazendo uma pergunta incômoda mas necessária.",
+          "gancho": "67% dos brasileiros querem cuidar da saúde mental em 2026. E eu quero saber: você tá nesse grupo ou tá esperando sua vez?",
           "o_que_falar": [
-            "Apresenta o dado da semana: Brasil forma mais doutoras há 20 anos, mas elas são minoria no topo e recebem 1/3 das bolsas de prestígio",
-            "Insight: o efeito tesoura não é falta de competência — é um sistema construído para excluir mulheres nas posições de maior poder",
-            "Conexão emocional: a mulher que se sente sabotada na carreira muitas vezes internaliza esse bloqueio como fracasso pessoal — quando é estrutural",
-            "CTA: você já viveu o efeito tesoura? Manda mensagem ou comenta. Quero saber."
+            "Contextualiza o dado da CNN Brasil: 67% querem investir em saúde mental, ansiedade lidera busca por psicólogo.",
+            "Insight psicológico: mulheres são 2-3x mais vulneráveis mas chegam por último — porque foram ensinadas que cuidar de si é egoísmo.",
+            "Conexão pessoal: 'Quantas de vocês já estão em terapia? Quantas ainda estão esperando o momento certo? Não existe momento certo.'",
+            "CTA: 'Se você tá adiando cuidar de você, eu quero saber por quê. Me conta nos comentários.'"
           ],
-          "legenda": "O dado que me parou essa semana: mais doutoras que doutores no Brasil há 20 anos. Mas no topo? Elas somem. Não é coincidência. 💛\n\n#EfeitoTesoura #MulherNaCarreira #PriscillaAndrade #PsicologiaFeminina #MulheresNaCiencia",
-          "vibe": "Câmera estática, fundo simples, tom direto e reflexivo. Pode caminhar levemente enquanto fala para dar energia. Sem trilha. Foco na voz e nos dados."
+          "legenda": "📊 67% dos brasileiros querem priorizar saúde mental esse ano. Mas a pergunta que importa: você tá incluída nesse número?\n\nOu você ainda tá esperando que todo mundo ao redor esteja bem primeiro?\n\nÉ sobre isso que precisamos falar. 💜\n\n⬇️ Me conta aqui.\n\n#SaúdeMental #Ansiedade #AutocuidadoFeminino #PriscillaAndrade #Psicologia",
+          "vibe": "Câmera estática, tom íntimo e direto, olho no olho. Em casa, com luz natural. Como uma conversa sincera entre amigas."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "titulo": "Mães na ciência: reportagem de 17/05 expõe o 'efeito tesoura' que corta mulheres conforme a carreira avança",
+      "resumo": "Reportagem do Brasil de Fato de 17/05/2026 revelou que o Brasil forma mais doutoras do que doutores, mas mulheres são minoria entre professores universitários. O 'efeito tesoura' — corte progressivo de mulheres conforme avançam — é ainda mais severo para mães. Ângulo de Priscilla: o custo psicológico invisível de ser mãe em ambientes que não foram construídos para você.",
+      "pilar": "Posicionamento & Carreira",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "Brasil de Fato, 17/05/2026 — brasildefato.com.br/2026/05/17",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "O Brasil forma mais doutoras do que doutores — mas as mães somem conforme a carreira avança. Esse paradoxo é sistêmico, não pessoal.",
+          "gancho": "O Brasil forma mais doutoras do que doutores. E mesmo assim mulheres são minoria entre professores universitários. Reportagem dessa semana explica — e é sobre você.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Reportagem de segunda-feira revelou: o Brasil forma mais doutoras do que doutores. Mas as mulheres somem conforme a carreira avança. Isso tem nome."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "O Brasil de Fato reportou em 17 de maio: o fenômeno se chama 'efeito tesoura'. Mulheres entram em maioria na academia. Mas conforme as posições ficam mais altas, elas vão desaparecendo. E para as mães, esse corte é ainda mais acentuado — porque o sistema foi construído em cima de uma figura que não tem filhos, ou tem alguém em casa pra cuidar deles."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "O que a psicologia vê aqui não é falta de ambição. É o custo de carregar a culpa de ser mãe num ambiente que trata maternidade como desvantagem competitiva. É a exaustão de ter que provar, sempre, que você merece o espaço que a sua capacidade já conquistou."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Se você já sentiu que sua maternidade foi tratada como obstáculo profissional, me conta aqui embaixo."
+            }
+          ],
+          "legenda": "✂️ 'Efeito tesoura': o Brasil forma mais doutoras do que doutores — mas as mulheres somem conforme a carreira avança.\n\nEsse dado veio de reportagem publicada essa semana. E ele não tá falando só de academia — tá falando de um padrão que se repete em toda carreira.\n\nO que o sistema trata como 'escolha pessoal' — largar a carreira ao virar mãe, aceitar posições menores, desacelerar — é, na verdade, a resposta a um ambiente que nunca foi construído para elas.\n\nO custo psicológico disso é invisível. É a culpa de não conseguir fazer tudo. É a vergonha de precisar pedir ajuda. É a sensação de que você deveria agradecer por estar lá — em vez de simplesmente pertencer.\n\nSe você já sentiu isso: não é fraqueza. É estrutura.\n\n⬇️ Você já viveu esse corte na sua carreira?\n\n#MãeNaCarreira #EfeitoTesoura #MulherNaCiência #MaternidadeECarreira #PriscillaAndrade #Psicologia #ComportamentoFeminino"
+        },
+        "post-estatico": {
+          "ideia": "Dado paradoxal transformado em arte — o choque entre entrar em maioria e sair em minoria.",
+          "titulo_visual": "O Brasil forma mais doutoras do que doutores. Mas as mães somem antes de chegar ao topo.",
+          "legenda": "✂️ Efeito tesoura: o fenômeno que corta progressivamente as mulheres conforme avançam na carreira — e que é ainda mais severo para mães.\n\nEsse dado saiu essa semana. E ele não fala só de academia.\n\nFala de todo ambiente que foi construído sem pensar em você.\n\n⬇️ Você já sentiu esse corte?\n\n#EfeitoTesoura #MulherNaCarreira #MaternidadeECarreira #PriscillaAndrade #Psicologia #ComportamentoFeminino",
+          "cta": "Salva e manda pra uma mãe que você admira na carreira."
         }
       }
     },
     {
       "id": 9,
-      "titulo": "Adeus joguinhos: pesquisas confirmam que mulheres em 2026 querem autenticidade — e desconfiam de quem performa demais",
-      "resumo": "Múltiplas pesquisas sobre tendências de relacionamento em 2026 convergem: autenticidade, intencionalidade e fim dos joguinhos estão em alta. O dado mais revelador: 49% das mulheres desconfiam do homem 'feminista demais'. Priscilla pode aprofundar a diferença entre discernimento maduro e hiperdefesa — um dos temas mais pedidos pelo público dela.",
-      "pilar": "Casamento & Relacionamento",
+      "titulo": "Slow living domina 2026: quando a tendência de desacelerar é, na verdade, o sistema nervoso coletivo pedindo socorro",
+      "resumo": "Pesquisas de 2026 mostram que mulheres estão buscando desacelerar em massa: tempo offline, descanso, prazer simples. Na superfície parece estética de lifestyle, mas ângulo de Priscilla revela: quando uma geração inteira de mulheres busca parar ao mesmo tempo, isso sinaliza esgotamento sistêmico que vai além da moda.",
+      "pilar": "Estilo de Vida & Espiritualidade",
       "urgencia": "semana",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "carrossel"
+        "lo-fi"
       ],
-      "fonte": "CNN Brasil / Terra Brasil — 'Adeus, joguinhos: solteiros vão namorar assim em 2026'",
+      "fonte": "Estado de Minas — 'A tendência de autocuidado que vai dominar 2026 com descanso e tempo offline' / CNN Brasil",
       "copies": {
         "reels-react": {
-          "ideia_central": "A tendência de 'relacionamentos sem joguinhos' em 2026 revela que as mulheres pararam de aceitar performance e estão exigindo presença real — mas há um cuidado necessário.",
-          "gancho": "Em 2026, as pesquisas confirmam: os joguinhos acabaram. As mulheres querem autenticidade. E 49% desconfiam do homem que é 'feminista demais'. Deixa eu te explicar o que isso revela.",
+          "ideia_central": "Quando milhões de mulheres ao mesmo tempo buscam desacelerar, isso não é trend de lifestyle — é sintoma coletivo de esgotamento que precisa ser nomeado.",
+          "gancho": "Slow living virou a tendência feminina de 2026. E como psicóloga, eu preciso te dizer que isso não é só estética — é um sinal de alerta coletivo.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Pesquisa nova confirmou: em 2026, os joguinhos acabaram. Mulheres querem relacionamentos honestos, diretos, sem enrolação. E tem um dado específico que me chamou muito a atenção."
+              "fala": "Slow living virou a tendência do ano. Desacelerar, tempo offline, prazer simples. Mas como psicóloga, eu vejo isso de um ângulo completamente diferente."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "49% das mulheres brasileiras desconfiam do homem que é 'feminista demais' — o que elas chamam de 'feministo'. Parece contradição? Não é. As mulheres estão cada vez mais calibradas para distinguir comprometimento real de discurso de vitrine. Elas querem exemplos, não slogans."
+              "fala": "As pesquisas de 2026 mostram que as mulheres estão buscando desacelerar em massa. Sair das redes. Priorizar o descanso. Cultivar momentos simples. Na superfície, parece escolha de estilo de vida. Mas quando esse desejo aparece de forma coletiva, ele está revelando algo muito maior."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Isso é maturidade emocional coletiva. A mulher que passou anos se machucando com homens que falavam bem mas agiam diferente desenvolveu um radar muito sensível para autenticidade. E esse radar é saudável. O cuidado é quando ele vira paranoia — quando nenhum gesto bom é suficiente porque 'pode ser manipulação'. Discernimento é diferente de hiperdefesa."
+              "fala": "Quando uma geração inteira de mulheres busca parar ao mesmo tempo, isso é sintoma. É o sinal de que o ritmo imposto — produtividade constante, presença total, dar conta de tudo — chegou no limite. Slow living não é moda. É o sistema nervoso coletivo pedindo socorro."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já viveu isso — o homem que falava muito e fazia pouco? Me conta nos comentários."
+              "fala": "Você também tá sentindo esse chamado pra desacelerar? Me conta o que você já mudou ou quer mudar."
             }
           ],
-          "legenda": "2026 matou os joguinhos. E as mulheres estão liderando essa mudança. 🧵\n\nPesquisas mostram: autenticidade e intencionalidade viraram prioridade. Sem enrolação, sem ghosting, sem 'deixa rolar'.\n\nMas tem um dado que me chamou atenção: 49% das mulheres desconfiam do homem 'feminista demais'. E isso não é incoerência — é discernimento.\n\nA mulher que já foi enganada por discurso bonito desenvolveu um radar pra autenticidade. Isso é crescimento.\n\nO único cuidado é não deixar esse radar virar armadura — porque aí ninguém passa.\n\nVocê já viveu a experiência do homem que falava bem mas agia diferente? 👇\n\n#RelacionamentosEmAlta #AdeuJoguinhos #Autenticidade #PriscillaAndrade #PsicologiaFeminina #RelacionamentoSaudavel #Tendencias2026 #DiscernimentoEmocional"
+          "legenda": "🌿 Slow living virou a tendência feminina de 2026. Desacelerar, tempo offline, prazer simples.\n\nMas eu preciso te dizer uma coisa:\n\nQuando milhões de mulheres ao mesmo tempo querem parar, isso não é estética. É sintoma.\n\nÉ o sinal de que o ritmo imposto — trabalhar mais, produzir mais, dar conta de tudo, estar sempre disponível — chegou no limite do suportável.\n\nO sistema nervoso coletivo tá pedindo socorro. E 'slow living' é a forma como ele pede.\n\nDescansar não é preguiça. Desacelerar não é fracasso. É resistência.\n\nE o mais importante: você não precisa esperar um colapso pra dar a si mesma permissão de parar.\n\n⬇️ Você tá sentindo esse chamado pra desacelerar?\n\n#SlowLiving #Desacelerar #AutocuidadoFeminino #SaúdeMental #PriscillaAndrade #Psicologia #ComportamentoFeminino #TempoOffline #Esgotamento"
         },
-        "carrossel": {
-          "ideia": "5 sinais de que você está num relacionamento autêntico vs. numa performance — usando as tendências de 2026 como contexto.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Você está num relacionamento real — ou numa performance?",
-              "subtitulo": "O que as tendências de 2026 revelam sobre autenticidade no amor"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O que mudou em 2026",
-              "texto": "Pesquisas apontam: mulheres pararam de aceitar joguinhos. A demanda é por presença real, intencionalidade e transparência desde o primeiro encontro."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "5 sinais de presença real",
-              "texto": "1. Faz, não só fala\n2. É consistente sem audiência\n3. Tolera sua imperfeição\n4. Resolve conflitos, não some\n5. Mostra vulnerabilidade sem exagero"
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O sinal mais importante",
-              "texto": "Presença real não precisa ser proclamada. Ela aparece nas escolhas pequenas, no dia a dia, quando não tem ninguém olhando."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Seu relacionamento passa nesses critérios? Salva esse carrossel e compartilha com alguém que está em dúvida."
-            }
+        "lo-fi": {
+          "ideia": "Priscilla falando de forma suave e reflexiva sobre o próprio desejo de desacelerar — conectando com a tendência sem ser panfletária.",
+          "gancho": "Eu também sinto esse chamado pra desacelerar. E quero te contar o que a psicologia diz sobre por que tantas mulheres estão sentindo isso ao mesmo tempo.",
+          "o_que_falar": [
+            "Contextualiza a tendência slow living de 2026 — pesquisas apontam que mulheres estão buscando desacelerar em massa, tempo offline, prazer simples.",
+            "Insight psicológico: quando uma tendência surge de forma coletiva em um grupo específico, ela revela algo sistêmico — o esgotamento feminino é real, cumulativo e invisível.",
+            "Conexão pessoal e íntima: 'O que você faz quando sente esse esgotamento? Você escuta ele ou você empurra mais um pouco?'",
+            "CTA: 'Me conta uma coisa que você faz ou quer começar a fazer pra desacelerar. Vou ler tudo.'"
           ],
-          "legenda": "Em 2026, as mulheres pararam de aceitar performance. Querem presença real. E eu estou aqui pra isso. 💛\n\nSalva esse carrossel. Manda pra quem está em dúvida sobre o relacionamento.\n\n#Autenticidade #RelacionamentoReal #PriscillaAndrade #PsicologiaFeminina #Tendencias2026 #AdeuJoguinhos"
+          "legenda": "🌿 Slow living é a tendência do ano. Mas pra mim como psicóloga, é mais do que estética.\n\nÉ um sintoma coletivo que precisa ser nomeado.\n\n⬇️ Você também sente esse chamado pra desacelerar?\n\n#SlowLiving #AutocuidadoFeminino #Esgotamento #PriscillaAndrade #Psicologia",
+          "vibe": "Vídeo em movimento suave — andando em varanda, jardim ou espaço calmo. Luz natural. Tom baixo e reflexivo, como um sussurro de conversa íntima."
         }
       }
     },
     {
       "id": 10,
-      "titulo": "Descansar virou tendência em 2026 — e isso revela algo profundo sobre o que as mulheres estão cansadas de ser",
-      "resumo": "O movimento slow living e a busca por descanso como autocuidado estão crescendo organicamente nas redes como contraponto à produtividade tóxica. Permite que Priscilla conecte psicologia, identidade e propósito — posicionamento estratégico para mulheres que já superaram a fase do 'empoderamento de performance' e buscam autoconhecimento real.",
-      "pilar": "Estilo de Vida & Espiritualidade",
+      "titulo": "Venus Dressing: o conceito viral de 2026 que transforma a roupa em espelho da sua autoestima",
+      "resumo": "O conceito 'Venus Dressing' — escolher roupas como expressão de identidade e autoconhecimento, não apenas como tendência — está crescendo nos espaços de espiritualidade e moda feminina em 2026. Ângulo de Priscilla: o que você veste todo dia é um reflexo inconsciente do que você acredita que merece — e por que tantas mulheres se vestem para desaparecer.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "evergreen",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "post-estatico"
       ],
-      "fonte": "Estado de Minas / Terra Brasil / Afinamenina.com.br — tendências de autocuidado 2026",
+      "fonte": "Steal The Look / Terra Vida & Estilo — espiritualidade feminina e autoconhecimento 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O slow living não é tendência estética — é um ato de resistência de mulheres que perceberam que a produtividade tóxica estava destruindo quem elas eram.",
-          "gancho": "Descansar está virando tendência. E isso me diz algo muito específico sobre o que as mulheres estão cansadas de ser.",
+          "ideia_central": "O que você veste todo dia é um reflexo do que você acredita que merece — e muitas mulheres se vestem para desaparecer sem perceber.",
+          "gancho": "O que você escolheu vestir hoje diz algo sobre o que você acredita que merece. E eu não tô falando de moda.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Descansar está virando tendência em 2026. E antes de você achar que isso é superficial — deixa eu te mostrar o que está por baixo disso."
+              "fala": "Existe um conceito chamado Venus Dressing que tá crescendo na moda e na espiritualidade feminina em 2026 — e como psicóloga, ele me diz muito sobre autoestima."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "O movimento slow living — viver devagar, intencional, com presença — está crescendo no Brasil entre mulheres. Depois de anos sendo vendida a ideia de que você precisa ser produtiva 24 horas, ser empreendedora, ser mãe, ser parceira, ser amiga — e ser tudo isso com excelência — as mulheres estão dizendo: chega."
+              "fala": "A ideia é simples: a roupa que você escolhe não é só estética. É uma mensagem que você manda pra si mesma sobre quem você é e quanto espaço você acha que merece ocupar. Mulheres que vivem em relacionamentos onde foram diminuídas geralmente começam a se vestir para desaparecer. Cores neutras, roupas que escondem, nada que chame atenção."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Mas aqui está o que eu quero que você entenda: descanso não é preguiça. É um ato de autoconhecimento. Quando você para, você encontra quem você é sem a performance. Sem a agenda. Sem os papéis que você aprendeu a jogar. E muitas mulheres descobrem, nesse silêncio, que passaram a vida inteira vivendo a vida que os outros esperavam delas — não a que elas escolheriam."
+              "fala": "Isso não é frescura de psicóloga. A forma como você se apresenta externamente costuma ser um reflexo do seu diálogo interno. Quando você começa a se curar, começa a querer cor. Volume. Presença. E quando você ainda não se curou, você se veste para não ser vista."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Quando foi a última vez que você fez algo só porque queria — sem justificativa e sem utilidade? Me conta."
+              "fala": "Dá uma olhada no seu guarda-roupa. O que ele tá te dizendo? Me conta nos comentários."
             }
           ],
-          "legenda": "Descansar está virando resistência. E eu sei exatamente por quê. 🌿\n\nO slow living não é moda de gente privilegiada. É uma geração inteira de mulheres dizendo que não aguenta mais o ritmo que foi imposto a elas.\n\nProdutiva. Presente. Arrumada. Empoderada. Saudável. Espiritualizada. Realizada.\n\nUm dia desses você para e se pergunta: mas quando é que foi o MEU dia?\n\nDescansar é o ato mais radical de autoconhecimento que uma mulher pode ter. Porque no silêncio, você encontra quem você é — sem os papéis, sem a agenda, sem a performance.\n\nE muitas mulheres descobrem, com surpresa, que nunca tinham se encontrado antes.\n\n👇 Quando foi a última vez que você fez algo só porque quis?\n\n#SlowLiving #Autocuidado #PriscillaAndrade #PsicologiaFeminina #EstiloDeVida #Espiritualidade #DescansoEhResistencia #AutoconhecimentoFeminino"
+          "legenda": "👗 O que você veste todo dia diz algo sobre o que você acredita que merece.\n\nExiste um conceito chamado Venus Dressing — a ideia de que a moda pode ser uma ferramenta de autoconhecimento e não só de estética.\n\nE como psicóloga, eu vejo isso acontecer o tempo todo:\n\nMulheres que foram diminuídas em relacionamentos começam a se vestir para desaparecer. Roupas que escondem. Cores que não chamam atenção. Nada que exija presença.\n\nE quando elas começam a se curar — algo muda. Elas querem cor. Querem volume. Querem ser vistas.\n\nO guarda-roupa não é só um armário. É um espelho.\n\n⬇️ O que o seu guarda-roupa tá dizendo sobre você hoje?\n\n#VenusDressing #AutoimagemFeminina #Autoconhecimento #Moda #PriscillaAndrade #Psicologia #ComportamentoFeminino #EstiloDeVida #IdentidadeFeminina"
         },
         "post-estatico": {
-          "ideia": "Frase reflexiva sobre descanso como autoconhecimento — convite ao slow living em formato visual limpo.",
-          "titulo_visual": "Descansar não é preguiça. É quando você finalmente se encontra.",
-          "legenda": "Em 2026, o ato mais corajoso de uma mulher é parar. 🌿\n\nNão parar para recuperar energia e voltar a produzir.\n\nParar para se perguntar: quem sou eu quando não estou performando?\n\nSalva esse post. E descansa hoje — sem culpa.\n\n#SlowLiving #Autocuidado #PriscillaAndrade #PsicologiaFeminina #Descanso #Autoconhecimento #EstiloDeVida",
-          "cta": "Salva e manda pra uma amiga que precisa parar hoje."
+          "ideia": "Frase impactante sobre a relação entre o que vestimos e o que acreditamos merecer — transformada em arte.",
+          "titulo_visual": "A forma como você se veste é a forma como você acredita que merece ser vista.",
+          "legenda": "👗 Venus Dressing: o conceito que está transformando a moda em ferramenta de autoconhecimento feminino em 2026.\n\nO que está no seu armário não é só roupa. É a história do que você acredita que merece.\n\n⬇️ O que o seu guarda-roupa tá dizendo sobre você?\n\n#VenusDressing #Autoconhecimento #AutoimagemFeminina #PriscillaAndrade #Psicologia #EstiloDeVida #IdentidadeFeminina",
+          "cta": "Salva esse post e olha pro seu armário com novos olhos."
         }
       }
     }
