@@ -1,613 +1,613 @@
 {
-  "versao": "2026-05-29",
-  "gerado_em": "2026-05-29T08:00:00Z",
-  "contexto_do_dia": "Carol Celico quebrou o silêncio em 28/05 contra fake news de que se separou de Kaká por ele ser 'perfeito demais', revelando que sofre ataques misóginos — caso que virou discussão nacional sobre o direito da mulher de encerrar um casamento sem justificativa. Camila Coelho anunciou separação de 21 anos com Icaro Brenner em 13/05, e Matheus (da dupla com Kauan) reatou com Paula Aires em apenas 15 dias, com o comentário 'traiu pouco' dominando os comentários. Pesquisa da Agência Brasil publicada esta semana confirmou que mulheres dedicam quase 10h a mais por semana a trabalho de cuidado não remunerado — a pesquisadora chamou de 'escala 7x0'.",
+  "versao": "2026-05-30",
+  "gerado_em": "2026-05-30T12:00:00Z",
+  "contexto_do_dia": "Esta semana dominou: a separação de Virginia Fonseca e Vinícius Jr. com rumores de traição agitou a imprensa internacional; Carol Celico rompeu o silêncio em 28/05 sobre ataques misóginos que sofreu grávida de 9 meses por causa de uma fake news sobre o divórcio de Kaká; e o cantor sertanejo Matheus reatou com Paula Aires 15 dias após separação, dividindo a web entre 'perdão' e revolta com a expressão 'traiu pouco'.",
   "items": [
     {
       "id": 1,
-      "titulo": "Carol Celico Desmentiu a Fake News e o Brasil a Atacou — Isso Revela o Quanto a Mulher Ainda Precisa Provar Que Foi Suficientemente Machucada",
-      "resumo": "Carol Celico veio a público em 28/05 desmentir que se separou de Kaká por ele ser 'perfeito demais', revelando que sofre ataques misóginos por ter pedido divórcio sem traição, sem agressão, sem um 'motivo visível'. O caso expõe a crença social de que a mulher precisa de uma razão catastrófica para encerrar um casamento. O ângulo de Priscilla: a dificuldade psicológica de confiar na própria percepção quando o parceiro não fez nada 'objetivamente errado'.",
+      "titulo": "O fim de Virginia e Vini Jr.: o que a traição de um ídolo revela sobre apagamento identitário",
+      "resumo": "A separação de Virginia Fonseca e Vinícius Jr. com rumores de traição explodiu na imprensa internacional em maio de 2026. O caso expõe um padrão clássico: a mulher bem-sucedida que reduz sua presença para caber no espaço do parceiro. Priscilla pode falar sobre identidade própria dentro de relacionamentos com figuras de alta visibilidade — e sobre o custo invisível desse apagamento.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "Correio Braziliense / Agência GBC — 28/05/2026",
+      "fonte": "UAI Entretenimento - uai.com.br/app/entretenimento/famosos/2026/05/15/not-famosos,383004",
       "copies": {
         "reels-react": {
-          "ideia_central": "Mulheres não precisam de um motivo 'grande o suficiente' para sair de um relacionamento — e o caso de Carol Celico escancarou o quanto esse julgamento ainda existe.",
-          "gancho": "Carol Celico desmentiu a fake news. Mas o que veio depois — os ataques que ela está recebendo por pedir divórcio 'sem motivo' — é muito mais sério.",
+          "ideia_central": "O fim de Virginia e Vini Jr. é um case de como mulheres fortes perdem a si mesmas quando o relacionamento vira prioridade máxima.",
+          "gancho": "Sobre o fim de Virginia e Vinícius Jr.: o que ninguém está falando é isso aqui.",
           "roteiro": [
             {
-              "tempo": "0–3s",
+              "tempo": "0-3s",
               "descricao": "Abertura",
-              "fala": "Carol Celico veio desmentir a história de que se separou de Kaká porque ele era perfeito demais. Mas o que está acontecendo com ela agora é muito mais sério do que a fake news."
+              "fala": "Você viu que Virginia Fonseca e Vinícius Jr. terminaram — com rumores de traição. Mas vou te contar o que está por baixo dessa história."
             },
             {
-              "tempo": "3–15s",
+              "tempo": "3-15s",
               "descricao": "Contexto",
-              "fala": "Ela disse claramente: não fui traída, não fui agredida, nada de ruim estava acontecendo. E por isso está recebendo ataques misóginos até hoje. A pergunta que todo mundo faz é: 'Mas então por que você saiu?' Como se o sofrimento precisasse ser visível pra ser válido."
+              "fala": "Virginia é uma das maiores influenciadoras do Brasil. Mas desde que o relacionamento com Vini ganhou repercussão internacional, ela começou a aparecer nos bastidores dele. Como coadjuvante da própria vida."
             },
             {
-              "tempo": "15–25s",
+              "tempo": "15-25s",
               "descricao": "Virada psicológica",
-              "fala": "Isso tem um nome na psicologia: é a dificuldade de confiar na própria percepção quando não há um evento traumático que justifique a decisão. E não é só julgamento externo — muitas mulheres fazem isso com elas mesmas. Ficam num relacionamento que não faz mais sentido esperando um motivo grande o suficiente pra sair."
+              "fala": "Isso tem nome na psicologia: é o apagamento identitário dentro do relacionamento. A mulher vai cedendo espaço, vai se tornando suporte, e esquece que ela também tinha um projeto de vida antes daquele homem."
             },
             {
-              "tempo": "25–30s",
+              "tempo": "25-30s",
               "descricao": "CTA",
-              "fala": "Você já sentiu que precisava de uma justificativa maior pra tomar uma decisão sobre a sua própria vida? Me conta nos comentários."
+              "fala": "Você já sentiu que estava desaparecendo dentro de um relacionamento? Comenta aqui."
             }
           ],
-          "legenda": "Carol Celico está sendo atacada por ter pedido divórcio sem traição, sem agressão, sem motivo 'grande o suficiente'.\n\nE isso revela algo que precisa urgentemente ser discutido:\n\nA crença de que a mulher precisa provar que foi suficientemente machucada pra ter direito de sair.\n\nNa psicologia, quando uma mulher não reconhece sua própria insatisfação como motivo válido, ela tende a permanecer em relacionamentos que já se esvaziaram — esperando que algo 'de verdade' aconteça pra justificar a saída.\n\nO esvaziamento emocional, o vazio, o distanciamento gradual — tudo isso é motivo. Nenhuma mulher precisa provar dor pra ter direito à própria vida.\n\n💬 Você já julgou a decisão de alguém porque 'não tinha um motivo sério'?\n\n#CarolCelico #Kaka #Divórcio #PsicologiaFeminina #RelacionamentoSaudável #Autoconhecimento #ComportamentoFeminino #PriscillaAndrade"
+          "legenda": "O fim de Virginia Fonseca e Vinícius Jr. está em todo lugar. Mas ninguém está falando sobre o padrão psicológico que esse relacionamento revela.\n\nQuando uma mulher inteligente, bem-sucedida e independente começa a reduzir sua presença para caber no espaço do parceiro — isso não é amor. É apagamento.\n\nNa psicologia chamamos de identidade fundida: a pessoa para de ter desejos, sonhos e limites próprios e passa a existir em função do outro.\n\nE o mais doloroso? Ela faz isso achando que está sendo uma boa parceira.\n\nSe você já sentiu isso, deixa um 💛 aqui nos comentários.\n\n#VirginiaFonseca #ViniciusJr #Relacionamento #PsicologiaFeminina #PriscillaAndrade #IdentidadePropriaNoAmor #RelacionamentoSaudavel #MulherEmpoderada"
         },
         "carrossel": {
-          "ideia": "5 crenças que fazem mulheres ficarem em relacionamentos vazios esperando um 'motivo grande o suficiente' para sair — ancorado no caso Carol Celico.",
+          "ideia": "Os 5 sinais de que você está se apagando dentro do relacionamento — usando o caso Virginia/Vini como gancho.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "'Mas ele não fez nada errado'",
-              "subtitulo": "O caso de Carol Celico e o que ninguém está falando"
+              "titulo": "O fim de Virginia e Vini revelou algo sobre você",
+              "subtitulo": "5 sinais de que você está desaparecendo dentro do seu relacionamento"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
               "titulo": "O que aconteceu",
-              "texto": "Carol Celico desmentiu em 28/05 a fake news sobre Kaká. Revelou que está sofrendo ataques misóginos por ter pedido divórcio sem traição, sem agressão, sem evento dramático. A pergunta que recebe: 'Mas então por que você saiu?'"
+              "texto": "Virginia e Vini Jr. terminaram em maio de 2026 com rumores de traição. Mas antes do fim, algo já estava acontecendo: uma das mulheres mais poderosas do digital começou a aparecer como coadjuvante da própria vida."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "A crença que prende mulheres",
-              "texto": "Muitas mulheres acreditam que precisam de uma razão catastrófica pra encerrar um relacionamento. Traição, agressão, vício. Sem isso, sentem que não têm 'direito' de sair. Resultado: ficam anos num casamento vazio esperando o drama aparecer."
+              "titulo": "Isso tem nome",
+              "texto": "Na psicologia, chama-se apagamento identitário. Você vai cedendo seu espaço, suas vontades, seus planos — e um dia acorda sem saber quem você é fora daquela relação."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "O esvaziamento emocional, a falta de propósito conjunto, o distanciamento gradual — tudo isso é motivo. A psicologia chama de incompatibilidade evolutiva: duas pessoas que cresceram em direções diferentes. Não precisa de drama pra ser real."
+              "titulo": "Os 5 sinais de alerta",
+              "texto": "1. Você cancelou sonhos para acompanhar os dele\n2. Suas opiniões passaram a depender da aprovação dele\n3. Você evita conflito a qualquer custo\n4. Suas amizades sumiram\n5. Você não sabe mais o que quer — só o que ele quer"
             },
             {
               "numero": 5,
               "tipo": "CTA",
               "titulo": "E você?",
-              "texto": "Já ficou num relacionamento esperando que algo 'grande' acontecesse pra justificar sua saída? Salva e manda pra quem precisa ouvir isso."
+              "texto": "Quantos desses sinais você reconheceu em você mesma? Salva esse carrossel e compartilha com aquela amiga que precisa ouvir isso hoje."
             }
           ],
-          "legenda": "Carol Celico está sendo atacada por ter feito o que pouquíssimas mulheres têm coragem: saiu quando sentiu que era hora, mesmo sem um drama visível pra mostrar.\n\nE isso diz mais sobre a sociedade do que sobre ela.\n\n➡️ Desliza e vê o padrão psicológico que mantém mulheres presas em relacionamentos vazios.\n\n#CarolCelico #Separação #RelacionamentoFeminino #Psicologia #AutoconhecimentoFeminino #PriscillaAndrade #ComportamentoFeminino"
+          "legenda": "O caso Virginia e Vini Jr. está em todo lugar — mas a discussão mais importante não está sendo feita 🧠\n\nFiz esse carrossel pra você identificar se está vivendo um apagamento identitário dentro do seu relacionamento.\n\nSalva 💾 e manda pra quem precisa ver isso.\n\n#PsicologiaFeminina #RelacionamentoSaudavel #IdentidadeFeminina #VirginiaFonseca #PriscillaAndrade #MulherEmpoderada #AmorProprioEmPrimeiro"
         }
       }
     },
     {
       "id": 2,
-      "titulo": "Camila Coelho Terminou 21 Anos de Casamento — E o Luto Coletivo da Internet Diz Mais Sobre Nós Do Que Sobre Ela",
-      "resumo": "Em 13/05, a influenciadora Camila Coelho anunciou separação de Icaro Brenner após 21 anos juntos, chocando milhões de seguidores que a viam como referência de relacionamento estável. A discussão abre espaço para Priscilla explorar a projeção emocional: por que o término de um casal público abala a crença pessoal de tantas mulheres no amor.",
+      "titulo": "Carol Celico: grávida, atacada e em silêncio — o custo emocional de ser a ex de um ídolo",
+      "resumo": "Carol Celico rompeu o silêncio em 28/05/2026 sobre os ataques misóginos que recebeu por anos por causa de uma fake news sobre sua separação de Kaká. Ela estava grávida de 9 meses quando os ataques começaram. O caso é uma abertura poderosa para Priscilla falar sobre como mulheres são punidas publicamente quando saem de relacionamentos com homens amados pelo público.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "lo-fi"
       ],
-      "fonte": "Contigo! — 13/05/2026",
+      "fonte": "TV Prime/Correio Braziliense 28/05/2026 - tvprime.correiobraziliense.com.br/noticia/388881",
       "copies": {
         "reels-react": {
-          "ideia_central": "A separação de Camila Coelho depois de 21 anos revela o peso da projeção emocional: usamos casais públicos como prova de que o amor dura — e quando terminam, parece que nossa esperança vai junto.",
-          "gancho": "Camila Coelho anunciou separação de 21 anos. E o que mais me chamou atenção não foi o término — foi o que as pessoas nos comentários estavam sentindo.",
+          "ideia_central": "O caso Carol Celico expõe como a internet pune mulheres que ousam sair de relacionamentos com homens admirados — e como o silêncio forçado é uma forma de violência.",
+          "gancho": "Carol Celico ficou em silêncio por anos sendo atacada. E o motivo vai te deixar com raiva.",
           "roteiro": [
             {
-              "tempo": "0–3s",
+              "tempo": "0-3s",
               "descricao": "Abertura",
-              "fala": "Camila Coelho anunciou o fim do casamento de 21 anos com Icaro Brenner. E eu quero falar sobre algo que está passando despercebido nessa história."
+              "fala": "Carol Celico rompeu o silêncio agora em maio de 2026 — e o que ela contou é de partir o coração."
             },
             {
-              "tempo": "3–15s",
+              "tempo": "3-15s",
               "descricao": "Contexto",
-              "fala": "Nos comentários, além do choque, tinha algo estranho: um luto coletivo. Pessoas que nunca conheceram Camila pessoalmente sentindo como se um pedaço da própria esperança tivesse terminado. 'Se eles se separaram, não tem mais esperança.' Você viu isso?"
+              "fala": "Uma fake news distorceu uma fala dela sobre o divórcio com Kaká. A notícia mentirosa viralizou. Carol estava grávida de 9 meses quando começou a receber ataques misóginos e violentos. E ela ficou em silêncio. Por muito tempo."
             },
             {
-              "tempo": "15–25s",
+              "tempo": "15-25s",
               "descricao": "Virada psicológica",
-              "fala": "Isso se chama projeção emocional. A gente usa casais públicos como prova de que o amor dura — e quando terminam, parece que nossa crença foi invalidada. Só que o relacionamento deles nunca foi sua história. E o fim deles não diz nada sobre o que é possível pra você."
+              "fala": "Isso tem um nome: é a punição social que mulheres recebem quando saem de relacionamentos com homens amados pelo público. Você não termina com o homem — você termina com a narrativa que o público criou sobre ele. E aí você vira a vilã."
             },
             {
-              "tempo": "25–30s",
+              "tempo": "25-30s",
               "descricao": "CTA",
-              "fala": "Você já se sentiu assim? Como se o término de um casal famoso afetasse sua crença no amor? Me conta."
+              "fala": "Você já foi punida por sair de um relacionamento? Me conta nos comentários."
             }
           ],
-          "legenda": "Camila Coelho e Icaro Brenner anunciaram separação após 21 anos juntos.\n\nAntes de qualquer análise sobre o relacionamento deles, eu preciso falar sobre o que aconteceu nos comentários:\n\nUm luto coletivo.\n\nPessoas que nunca os conheceram sentindo como se uma esperança própria tivesse acabado.\n\nIsso se chama projeção emocional — e é muito mais comum do que a gente imagina.\n\nA gente escolhe casais públicos como 'prova' de que o amor dura. Quando eles terminam, parece que nossa crença foi invalidada.\n\nMas o relacionamento deles nunca foi sobre você.\n\nE o fim deles não diz nada sobre o que é possível na sua história.\n\n💙 Salva se você já se sentiu assim.\n\n#CamilaCoelho #Separação #ProjeçãoEmocional #Psicologia #RelacionamentoFeminino #PriscillaAndrade #ComportamentoFeminino"
+          "legenda": "Carol Celico ficou em silêncio por anos — grávida de 9 meses — recebendo ataques misóginos por causa de uma notícia falsa sobre seu divórcio com Kaká. Agora ela falou.\n\nE o que ela revelou me fez pensar em quantas mulheres vivem isso em silêncio — não com famosos, mas no seu bairro, na sua família, na sua roda.\n\nQuando uma mulher sai de um relacionamento com um homem admirado, ela não perde só o relacionamento. Ela perde a narrativa. E aí vira a vilã da história que nunca foi dela.\n\nIsso é violência simbólica. E precisa ser nomeado.\n\n💛 Se isso tocou em você, compartilha.\n\n#CarolCelico #Kaka #PsicologiaFeminina #ViolenciaSimbólica #PriscillaAndrade #MulherForte #AutoestimaFeminina #RelacionamentoSaudavel"
         },
         "lo-fi": {
-          "ideia": "Reflexão íntima sobre o luto coletivo gerado pelo término de Camila Coelho — e o que isso diz sobre como mulheres usam casais públicos como espelhos das próprias esperanças.",
-          "gancho": "Fiquei olhando os comentários no anúncio da separação de Camila Coelho e precisei parar pra processar o que estava vendo.",
+          "ideia": "Priscilla fala olho no olho, de forma íntima, como psicóloga e como mulher, sobre o caso Carol Celico.",
+          "gancho": "Carol Celico ficou em silêncio por anos. Eu precisava falar sobre isso hoje.",
           "o_que_falar": [
-            "Contextualiza: Camila Coelho, 21 anos juntos, separação em maio. A comoção foi desproporcional ao nível de intimidade que as pessoas tinham com ela.",
-            "Insight psicológico: A gente projetou neles o que quer pra si mesma. Quando terminam, parece que a nossa prova de que o amor dura vai junto.",
-            "Conexão com a seguidora: Isso acontece porque muitas mulheres não se sentem seguras sobre o próprio futuro amoroso — e buscam validação em histórias externas.",
-            "CTA: Que relação você tem com casais públicos? Você usa eles como espelho ou consegue separar a história deles da sua?"
+            "Contextualiza: a fake news, os ataques violentos, a gravidez de 9 meses, o silêncio de anos — e o depoimento de 28/05",
+            "Insight psicológico: mulheres que saem de relacionamentos com homens admirados são punidas publicamente — isso é violência simbólica real e tem impacto na saúde mental",
+            "Conexão com a audiência: 'Quantas de vocês já foram chamadas de vilã por simplesmente sair de algo que não estava funcionando?'",
+            "CTA acolhedor: 'Me conta aqui — esse espaço é seguro'"
           ],
-          "legenda": "Senta aqui comigo um segundo.\n\nCamila Coelho anunciou separação de 21 anos e a internet entrou em luto.\n\nE antes de julgar o relacionamento deles, eu quero falar sobre o que esse luto coletivo revela sobre a gente.\n\nA gente usa histórias de amor de outras pessoas pra sustentar a própria esperança.\n\nE quando elas terminam, parece que é a prova que precisávamos de que o amor não dura.\n\nNão é assim. A história deles não é a sua.\n\n💙\n\n#CamilaCoelho #Separação #Projeção #Psicologia #PriscillaAndrade",
-          "vibe": "Câmera estática, luz natural suave, tom íntimo e reflexivo. Fala pausada, olhando direto pra câmera. Sem cortes bruscos."
+          "legenda": "Assisti ao depoimento de Carol Celico e não consegui ficar quieta 🤍\n\nO que ela viveu tem nome. E é mais comum do que a gente imagina.\n\nVocê já foi punida por sair de um relacionamento? Me conta nos comentários.\n\n#CarolCelico #PsicologiaFeminina #MulherForte #PriscillaAndrade #ViolenciaSimbólica",
+          "vibe": "Câmera estática, luz natural, tom íntimo e acolhedor — como uma conversa entre amigas. Sem edição pesada."
         }
       }
     },
     {
       "id": 3,
-      "titulo": "Matheus Reatou em 15 Dias e a Web Disse 'Traiu Pouco' — A Psicologia do Ciclo de Ruptura e Reunificação",
-      "resumo": "O cantor Matheus voltou para Paula Aires apenas 15 dias após separação confirmada pelo jornalista Leo Dias. O comentário viral 'traiu pouco' na web revela a normalização de reatar sem processo de cura. Priscilla pode desconstruir o ciclo de ruptura e reunificação e o que ele faz com a autoestima da mulher envolvida.",
+      "titulo": "Matheus sertanejo reatou 15 dias depois: 'traiu pouco' — o que a internet não entende sobre perdão",
+      "resumo": "O cantor Matheus (dupla com Kauan) reatou o casamento de 14 anos com Paula Aires apenas 15 dias após a separação. A web reagiu com 'traiu pouco', abrindo debate explosivo sobre perdão e autoestima. Priscilla pode posicionar o ângulo psicológico real: existe uma diferença enorme entre perdoar com intenção consciente e voltar por medo.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "post-estatico"
       ],
-      "fonte": "Contigo! / Leo Dias — 19/05/2026",
+      "fonte": "Contigo! / Leo Dias 19/05/2026 - contigo.com.br/noticias/famosos/cantor-reata-com-a-esposa-15-dias-apos-separacao",
       "copies": {
         "reels-react": {
-          "ideia_central": "Reatar em 15 dias sem mudança real não é amor — é um ciclo. E o 'traiu pouco' nos comentários mostra que a gente normalizou isso.",
-          "gancho": "Matheus e Paula Aires: separaram, reataram em 15 dias. E nos comentários? 'Traiu pouco.' Isso precisa ser dito.",
+          "ideia_central": "O retorno de Paula Aires não é simples de julgar — mas há uma diferença enorme entre perdão consciente e repetição de padrão movida pelo medo.",
+          "gancho": "A web disse que Paula voltou porque o Matheus 'traiu pouco'. Vou te explicar o que realmente está acontecendo aqui.",
           "roteiro": [
             {
-              "tempo": "0–3s",
+              "tempo": "0-3s",
               "descricao": "Abertura",
-              "fala": "Matheus reatou com Paula Aires 15 dias após a separação. E o comentário que viralizou foi: 'traiu pouco'. Isso não é engraçado — é um diagnóstico."
+              "fala": "O cantor Matheus terminou o casamento de 14 anos — e reatou 15 dias depois. A internet disse: 'traiu pouco'. Mas a psicologia diz outra coisa."
             },
             {
-              "tempo": "3–15s",
+              "tempo": "3-15s",
               "descricao": "Contexto",
-              "fala": "Quando um casal termina e reata em menos de três semanas sem nenhuma mudança visível — sem terapia, sem conversa profunda, sem tempo — o que está acontecendo não é reconciliação. É o que a psicologia chama de ciclo de ruptura e reunificação: separa, sente o desconforto, reata pra acabar com a dor. Mas o problema que causou a separação ainda está lá."
+              "fala": "Paula Aires voltou pro Matheus rapidinho. E todo mundo opinou. Mas ninguém está fazendo a pergunta certa: ela voltou de onde? De uma decisão consciente, ou de um padrão que ela não consegue romper?"
             },
             {
-              "tempo": "15–25s",
+              "tempo": "15-25s",
               "descricao": "Virada psicológica",
-              "fala": "O mais preocupante não é o que Matheus e Paula escolheram fazer. É o 'traiu pouco' nos comentários. Porque isso mostra que a gente aprendeu a medir o quanto de traição é aceitável — em vez de perguntar: que crença ela tem sobre si mesma pra achar que isso é o que merece?"
+              "fala": "Existe uma diferença enorme entre perdoar com intenção — onde você negocia mudanças reais, coloca limites novos — e voltar por medo. Medo de ficar só. Medo do que vem depois. Medo de desfazer uma história de 14 anos. Só ela sabe o que foi."
             },
             {
-              "tempo": "25–30s",
+              "tempo": "25-30s",
               "descricao": "CTA",
-              "fala": "Já esteve num ciclo assim — de separar e reatar sem que nada mude de verdade? Me conta."
+              "fala": "Você já voltou pra alguém por medo, não por amor? Me conta — sem julgamento aqui."
             }
           ],
-          "legenda": "Matheus e Paula Aires: separação no começo de maio, reconciliação confirmada em 19/05. 15 dias.\n\nE o comentário que dominou a internet: 'traiu pouco'.\n\nIsso não é piada. É um reflexo do quanto a gente normalizou ciclos relacionais que não curam.\n\nCiclo de ruptura e reunificação: separa, sente desconforto, reata — sem que o problema original seja resolvido. O que muda em 15 dias? Nada. A próxima crise vem.\n\nE o mais urgente não é julgar o casal — é perguntar:\n\nQuantas vezes você voltou pra uma situação porque o desconforto da saída era maior do que o sofrimento de ficar?\n\n💬 Me conta nos comentários.\n\n#MatheusEKauan #Relacionamento #CicloRelacional #PsicologiaFeminina #Traição #RedFlag #PriscillaAndrade"
+          "legenda": "Matheus e Paula Aires reataram 15 dias depois da separação. A internet gritou: 'traiu pouco'.\n\nMas eu preciso fazer a pergunta que ninguém quer fazer:\n\nQuando uma mulher volta rápido assim, ela está perdoando — ou está com medo?\n\nMedo de ficar só.\nMedo de começar do zero.\nMedo de perder o que construiu em 14 anos.\n\nNão existe resposta certa aqui. Mas existe uma diferença enorme entre voltar com intenção consciente e voltar no piloto automático do padrão.\n\nSem julgamento — com psicologia.\n\n💛 Salva se isso tocou em você.\n\n#MatheusEKauan #PaulaAires #Relacionamento #PerdaoNoAmor #PsicologiaFeminina #PriscillaAndrade #Traicao #RelacionamentoConsciente"
         },
         "post-estatico": {
-          "ideia": "Frase de impacto sobre o ciclo de ruptura e reunificação, ancorada no caso Matheus/Paula Aires.",
-          "titulo_visual": "Reatar em 15 dias não é amor. É o medo de sentir a dor.",
-          "legenda": "O caso Matheus e Paula Aires: separação anunciada, reunificação em 15 dias.\n\nE o 'traiu pouco' que viralizou revela um padrão perigoso: a normalização do ciclo de ruptura e reunificação.\n\nSepara. Sente desconforto. Reata. Sem curar. Sem mudar. Sem resolver.\n\nAté a próxima vez.\n\nSe você já esteve nesse ciclo, salva esse post.\n\n#Relacionamento #CicloRelacional #PsicologiaFeminina #PriscillaAndrade #ComportamentoFeminino",
-          "cta": "Compartilha com quem precisa ouvir isso."
+          "ideia": "Frase de impacto sobre a diferença entre perdoar com intenção e voltar por medo — ancorada no caso.",
+          "titulo_visual": "Perdoar é um ato de força.\nVoltar por medo é um ato de desespero.\nSó você sabe qual está fazendo.",
+          "legenda": "O caso de Paula Aires e Matheus reacendeu o debate: quando uma mulher volta, ela está perdoando ou com medo?\n\nNão existe resposta universal. Mas existe uma pergunta que você precisa fazer pra si mesma. 💛\n\nSalva e compartilha se isso ressoou.\n\n#PsicologiaFeminina #Relacionamento #Perdao #PriscillaAndrade #AutoestimaFeminina #AmorConsciente",
+          "cta": "Você já voltou por medo, não por amor? Comenta aqui 👇"
         }
       }
     },
     {
       "id": 4,
-      "titulo": "Brasil Forma Mais Doutoras do Que Doutores Há 20 Anos — E Elas Somem das Posições de Poder: o 'Efeito Tesoura'",
-      "resumo": "Agência Brasil revelou em maio 2026 o 'efeito tesoura': mulheres são maioria entre doutores brasileiros há mais de duas décadas, mas continuam sendo minoria entre professores sêniores e pesquisadores de referência. O dado ancora uma discussão sobre estruturas invisíveis de bloqueio e o impacto psicológico de avançar menos do que o esforço justificaria.",
-      "pilar": "Posicionamento & Carreira",
-      "urgencia": "hoje",
+      "titulo": "Beige flags: o novo conceito viral que está mudando como analisamos relacionamentos",
+      "resumo": "O termo 'beige flag' viralizou como evolução das red e green flags — representa comportamentos estranhos ou peculiares do parceiro que não são problemáticos, mas revelam personalidade real. Relevante para Priscilla por abrir um ângulo mais leve e bem-humorado sobre relacionamentos, conectando com o público jovem sem perder profundidade psicológica.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "semana",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "Agência Brasil — maio 2026",
+      "fonte": "Terra.com.br / TikTok trends 2026 - terra.com.br/vida-e-estilo/comportamento/nem-red-flag-nem-green-flag",
       "copies": {
         "reels-react": {
-          "ideia_central": "O 'efeito tesoura' não é falta de competência — é estrutura. E entender isso muda a forma como uma mulher enxerga a própria trajetória profissional.",
-          "gancho": "O Brasil forma mais doutoras do que doutores há 20 anos. E mesmo assim as mulheres são minoria nas posições mais altas da carreira. Isso tem um nome — e você precisa conhecer.",
+          "ideia_central": "As beige flags mostram que relacionamentos saudáveis têm espaço para o inusitado — e conseguir amar o esquisito do outro é sinal de maturidade afetiva real.",
+          "gancho": "Você já ouviu falar em beige flag? É o novo viral dos relacionamentos — e eu preciso comentar isso.",
           "roteiro": [
             {
-              "tempo": "0–3s",
+              "tempo": "0-3s",
               "descricao": "Abertura",
-              "fala": "Saiu uma pesquisa essa semana que me deixou com muita coisa pra dizer. O Brasil forma mais doutoras do que doutores há mais de 20 anos. E mesmo assim as mulheres continuam sendo minoria nas posições mais altas da academia. Como?"
+              "fala": "Beige flag é o novo conceito que está tomando o TikTok e o Instagram. Todo mundo está testando — e eu vou te explicar o que a psicologia pensa sobre isso."
             },
             {
-              "tempo": "3–15s",
+              "tempo": "3-15s",
               "descricao": "Contexto",
-              "fala": "Isso tem um nome: efeito tesoura. Quanto mais alta a posição na carreira, menos mulheres chegam lá. Não porque elas são menos competentes — comprovadamente não são. Mas porque as estruturas foram construídas pra funcionar com quem não tem filhos, não tem jornada dupla, não precisa escolher entre uma reunião e buscar criança na escola."
+              "fala": "Você já conhecia red flag — sinal de alerta. Green flag — sinal positivo. A beige flag é aquele comportamento estranho, peculiar, meio bizarro do seu parceiro — mas que não machuca ninguém. Tipo: ele dorme com o pé pra fora do edredom. Ela conta histórias que não terminam. Ele faz rituais esquisitos antes de dormir."
             },
             {
-              "tempo": "15–25s",
+              "tempo": "15-25s",
               "descricao": "Virada psicológica",
-              "fala": "E o impacto psicológico é brutal. Quando uma mulher estagna na carreira sem entender por quê, ela frequentemente culpa a si mesma. Acha que falta competência, que falta confiança. Não faltou nada. O jogo foi desenhado pra ser mais difícil pra ela."
+              "fala": "Na psicologia, conseguir notar e até celebrar as idiossincrasias do outro sem querer mudá-las é um dos maiores sinais de maturidade afetiva. Significa que você está com a pessoa real — não com uma projeção de quem você quer que ela seja."
             },
             {
-              "tempo": "25–30s",
+              "tempo": "25-30s",
               "descricao": "CTA",
-              "fala": "Você já sentiu que estava fazendo tudo certo mas avançando menos do que esperava? Me conta."
+              "fala": "Qual é a beige flag do seu parceiro — ou a sua? Comenta aqui que eu quero ler todos."
             }
           ],
-          "legenda": "Nova pesquisa da Agência Brasil confirmou o que muitas de nós já sentimos na pele:\n\nO Brasil forma mais doutoras do que doutores há mais de 20 anos.\n\nE ainda assim as mulheres são minoria entre professores e pesquisadores sêniores.\n\nIsso se chama efeito tesoura — quanto mais alta a posição, menos mulheres chegam lá.\n\nNão é falta de capacidade. É estrutura.\n\nE entender isso é urgente — porque muitas mulheres estão carregando culpa por uma estagnação que não é falha delas.\n\n📌 Salva pra mostrar pra quem ainda acha que é 'falta de ambição'.\n\n#EfeitoTesoura #CarreiraFeminina #Psicologia #EmpoderandoMulheres #MulherNaCiência #PriscillaAndrade"
+          "legenda": "Beige flags: o novo viral dos relacionamentos chegou e eu preciso falar sobre isso com vocês 🤎\n\nVocê já conhecia as red flags (sinais de alerta) e as green flags (sinais positivos).\n\nMas a beige flag é aquele comportamento estranho, esquisito, levemente irritante do seu parceiro — que não é problemático, só... peculiar.\n\nE sabe o que a psicologia diz sobre conseguir notar isso e ainda assim escolher ficar?\n\nÉ maturidade afetiva real. Significa que você está amando a pessoa — não a versão editada dela que você criou na cabeça.\n\n💬 Me conta: qual é a beige flag do seu parceiro (ou a sua)?\n\n#BeigeFlag #RelacionamentoSaudavel #PsicologiaFeminina #PriscillaAndrade #MaturidadeAfetiva #Relacionamento #TikTokTrends"
         },
         "carrossel": {
-          "ideia": "Explicar o efeito tesoura e seu impacto psicológico nas mulheres que vivem a estagnação sem entender por quê.",
+          "ideia": "Guia visual: red flag, green flag e beige flag — o que cada uma significa na prática, com exemplos reais.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "O 'Efeito Tesoura'",
-              "subtitulo": "Por que mulheres somem das posições de poder mesmo sendo maioria entre os mais qualificados"
+              "titulo": "Red, Green e Beige Flag",
+              "subtitulo": "O guia que vai mudar como você lê seu relacionamento"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
-              "titulo": "O dado desta semana",
-              "texto": "Pesquisa da Agência Brasil (maio 2026): o Brasil forma mais doutoras do que doutores há mais de 20 anos. E ainda assim as mulheres são minoria entre professores sêniores. O 'efeito tesoura' nomeia esse corte progressivo conforme a carreira avança."
+              "titulo": "Red Flag 🚩",
+              "texto": "Sinais de alerta reais: ciúme controlador, isolamento de amigos, humilhações disfarçadas de brincadeira, inconsistência entre fala e ação. Essas merecem atenção séria."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "Por que isso acontece",
-              "texto": "As estruturas de trabalho foram construídas pra quem não tem jornada dupla, não tem filhos pra buscar na escola, não precisa provar o tempo todo que merece estar ali. Não é falta de competência — é um sistema que não foi feito pra elas."
+              "titulo": "Green Flag 💚",
+              "texto": "Sinais saudáveis: respeito nos conflitos, incentivo aos seus projetos, presença consistente, capacidade de pedir desculpa e mudar. Isso é o que você merece."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "O impacto que ninguém fala",
-              "texto": "Quando uma mulher estagna sem entender por quê, ela culpa a si mesma. Acha que faltou confiança, que fez escolhas erradas. O efeito psicológico mais devastador do efeito tesoura é exatamente esse: fazer a mulher acreditar que o problema é ela."
+              "titulo": "Beige Flag 🤎 (o novo viral)",
+              "texto": "Comportamentos estranhos, mas inofensivos. Conseguir ver isso com carinho — não com irritação — é sinal de maturidade afetiva real. Você está amando a pessoa inteira, não a versão perfeita."
             },
             {
               "numero": 5,
               "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Já sentiu que estava dando seu melhor mas avançando menos do que merecia? Salva e manda pra uma amiga."
+              "titulo": "Qual é a sua?",
+              "texto": "Comenta aqui qual é a beige flag do seu parceiro — ou a sua! E salva esse carrossel pra mandar pra quem precisa reler o relacionamento com outros olhos."
             }
           ],
-          "legenda": "Mais qualificada. Menos reconhecida.\n\nEsse é o efeito tesoura — e uma pesquisa de maio 2026 voltou a provar que ele existe.\n\nDesliza e entende por que o problema não é você.\n\n#EfeitoTesoura #MulherNaCarreira #Psicologia #PriscillaAndrade #EmpoderandoMulheres"
+          "legenda": "Red, green e beige flags — o guia completo que a internet não te deu 🤎🚩💚\n\nSalva esse carrossel e manda pra uma amiga que precisa reler seu relacionamento com outros olhos.\n\n#BeigeFlag #RedFlag #GreenFlag #PsicologiaFeminina #PriscillaAndrade #RelacionamentoSaudavel #MaturidadeAfetiva"
         }
       }
     },
     {
       "id": 5,
-      "titulo": "Pesquisa do IBGE Esta Semana: Mulheres Trabalham 10 Horas a Mais por Semana Sem Receber Nada Por Isso",
-      "resumo": "Dados divulgados pela Agência Brasil em maio 2026 mostram que mulheres dedicam quase 10 horas a mais por semana ao trabalho de cuidado não remunerado. A pesquisadora chamou de 'escala 7x0'. O dado ancora discussão sobre sobrecarga invisível, erosão da identidade e a culpa que aparece quando a mulher finalmente coloca a si mesma em primeiro lugar.",
+      "titulo": "7 em 10 mulheres sentem pressão estética constante — o dado de maio 2026 que confirma tudo",
+      "resumo": "Um artigo do Estado de Minas de maio de 2026 reacendeu o debate sobre o impacto de influencers na autoestima feminina. Dados da Dove mostram que 7 em 10 jovens mulheres sentem pressão para estar sempre 'apresentáveis'. Priscilla entra como autoridade de psicóloga especialista em autoimagem feminina para nomear o mecanismo psicológico por trás disso.",
       "pilar": "Autoimagem & Identidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "Agência Brasil — maio 2026",
+      "fonte": "Estado de Minas / Pesquisa Dove - em.com.br/trends/2026/05/7411932-a-pressao-estetica-nas-redes-o-impacto-de-influencers-na-autoestima.html",
       "copies": {
         "reels-react": {
-          "ideia_central": "A exaustão feminina não é fraqueza — é matemática. São 10 horas a mais por semana de trabalho invisível, e isso corrói identidade.",
-          "gancho": "Uma pesquisadora do IBGE disse algo que preciso que você ouça: mulheres trabalham em escala 7x0. Sete dias por semana. Zero folgas. Zero remuneração.",
+          "ideia_central": "A pressão estética de influencers não é sobre beleza — é sobre quanto espaço você ocupa (ou deixa de ocupar) na sua própria vida.",
+          "gancho": "7 em 10 mulheres sentem pressão pra estar sempre apresentáveis. Um dado que saiu essa semana — e que tem tudo a ver com o seu feed.",
           "roteiro": [
             {
-              "tempo": "0–3s",
+              "tempo": "0-3s",
               "descricao": "Abertura",
-              "fala": "Uma pesquisadora chamou de escala 7x0 o trabalho que as mulheres fazem. Sete dias, zero folgas, zero remuneração. E os dados do IBGE confirmaram isso essa semana."
+              "fala": "Um dado saiu essa semana e me deixou de queixo caído: 7 em 10 jovens mulheres sentem pressão constante pra estar apresentáveis. Sempre. Em todo lugar."
             },
             {
-              "tempo": "3–15s",
+              "tempo": "3-15s",
               "descricao": "Contexto",
-              "fala": "A pesquisa mostrou que mulheres dedicam quase dez horas a mais por semana aos cuidados da família e da casa do que os homens. Dez horas que não aparecem no currículo, não geram renda, não têm reconhecimento. E que coexistem com uma jornada profissional cobrada em tempo integral."
+              "fala": "A pesquisa da Dove mostra o que eu vejo no consultório todo dia: as redes sociais criaram um ambiente onde a mulher acorda, pega o celular, vê corpos editados, procedimentos estéticos, antes e depois — e a primeira coisa que pensa sobre si mesma é: o que eu preciso mudar?"
             },
             {
-              "tempo": "15–25s",
+              "tempo": "15-25s",
               "descricao": "Virada psicológica",
-              "fala": "O impacto psicológico vai muito além do cansaço físico. Quando uma mulher vive nessa sobrecarga por anos, ela começa a perder o senso de quem ela é fora do papel de cuidadora. A identidade se apaga. E a culpa aparece quando ela finalmente decide colocar a si mesma em primeiro lugar — como se isso fosse egoísmo."
+              "fala": "Na psicologia, isso chama-se comparação social ascendente — você se compara com alguém que parece estar acima de você. E quando isso acontece diariamente, em loops, o resultado não é motivação. É exaustão e vergonha."
             },
             {
-              "tempo": "25–30s",
+              "tempo": "25-30s",
               "descricao": "CTA",
-              "fala": "Você consegue nomear quando foi a última vez que fez algo só pra você — sem culpa? Me conta."
+              "fala": "Você consegue passar um dia sem se comparar com alguém que viu nas redes? Me conta nos comentários."
             }
           ],
-          "legenda": "Dados do IBGE divulgados nesta semana confirmaram:\n\nMulheres trabalham quase 10 horas a mais por semana em cuidados não remunerados.\n\nDez horas que não aparecem em lugar nenhum. Sem salário. Sem folga.\n\nA pesquisadora chamou isso de escala 7x0.\n\nE o impacto psicológico é devastador e invisível: a identidade da mulher se apaga nos cuidados. Até ela esquecer quem é quando não está servindo alguém.\n\nSe você se reconhece nisso, salva esse vídeo.\n\n💙\n\n#SobrecargoFeminina #TrabalhoDeCuidado #IBGE #IdentidadeFeminina #Psicologia #PriscillaAndrade #ComportamentoFeminino"
+          "legenda": "7 em 10 jovens mulheres sentem pressão pra estar sempre apresentáveis. Esse dado saiu essa semana — e ele tem a ver com o que você vê no seu feed todos os dias.\n\nAs redes sociais não são neutras. Elas foram construídas para te fazer sentir que falta alguma coisa — e então vender a solução.\n\nNa psicologia, quando você se compara diariamente com imagens idealizadas, o resultado não é inspiração. É comparação social ascendente — e ela corrói a autoestima de dentro pra fora.\n\n💛 Se você se identificou, salva esse vídeo.\n\n#AutoestimaFeminina #ImagemCorporal #PsicologiaFeminina #PriscillaAndrade #RedesSociais #PressaoEstetica #Dove #MulherReal #Autoconhecimento"
         },
         "carrossel": {
-          "ideia": "A sobrecarga invisível feminina em números — e o que ela faz com a identidade e autoestima.",
+          "ideia": "Como as redes sociais atacam a autoestima feminina — e 4 formas práticas de se proteger, baseadas em psicologia.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "Escala 7x0",
-              "subtitulo": "O trabalho que a mulher faz que ninguém vê — e o que isso faz com ela"
+              "titulo": "O que o seu feed está fazendo com a sua autoestima",
+              "subtitulo": "A pesquisa de maio 2026 que confirmou o que você já sentia"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
-              "titulo": "Os números desta semana",
-              "texto": "Pesquisa do IBGE (Agência Brasil, maio 2026): mulheres dedicam quase 10 horas a mais por semana ao trabalho de cuidado não remunerado. Filhos, casa, idosos, família. Sete dias por semana. Zero remuneração."
+              "titulo": "Os números",
+              "texto": "Pesquisa da Dove: 7 em 10 jovens mulheres sentem pressão para estar sempre apresentáveis. Um artigo de maio 2026 vinculou isso ao impacto de influencers que expõem procedimentos estéticos no Instagram diariamente."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "O que esse trabalho invisível faz",
-              "texto": "Não é só cansaço. É a sensação de que seu tempo nunca é seu. Que você não tem direito a descanso real. Que colocar a si mesma em primeiro lugar é egoísmo. A culpa faz parte do pacote — e é o mecanismo que mantém tudo funcionando."
+              "titulo": "O mecanismo psicológico",
+              "texto": "Chama-se comparação social ascendente. Quando você se compara diariamente com versões editadas e filtradas de outras mulheres, seu cérebro interpreta como: 'Eu estou abaixo. Eu preciso melhorar.' Esse loop corrói a autoestima silenciosamente."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "O custo que ninguém contabiliza",
-              "texto": "A identidade da mulher se apaga quando ela vive anos no papel de cuidadora sem espaço pra si mesma. Ela esquece o que gosta. O que a anima. Quem ela é quando não está cuidando de alguém. Isso não é frescura — é um processo psicológico documentado."
+              "titulo": "4 formas de se proteger",
+              "texto": "1. Audite seu feed — quem te faz sentir menos?\n2. Observe o contexto de cada imagem (patrocínio, edição, iluminação)\n3. Cultive referências reais e diversas\n4. Perceba como você se sente ao abrir cada app — isso é dado"
             },
             {
               "numero": 5,
               "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Quando foi a última vez que fez algo só pra você — sem culpa? Salva esse carrossel."
+              "titulo": "Comece hoje",
+              "texto": "Salva esse carrossel e faz a auditoria do seu feed hoje. Me conta o que você vai encontrar 👇"
             }
           ],
-          "legenda": "10 horas a mais por semana.\n\nSem pagamento. Sem reconhecimento. Sem folga.\n\nÉ a escala 7x0 que o IBGE colocou em números esta semana.\n\nDesliza e entende o que essa sobrecarga faz com a identidade feminina.\n\n#SobrecargoFeminina #IBGE #IdentidadeFeminina #PriscillaAndrade #Psicologia #AutocuidadoFeminino"
+          "legenda": "O que o seu feed está fazendo com a sua autoestima? A ciência respondeu — e o resultado é pesado 📱\n\nSalva esse carrossel pra lembrar de fazer a auditoria do seu feed.\n\n#AutoestimaFeminina #ImagemCorporal #PressaoEstetica #PsicologiaFeminina #PriscillaAndrade #MulherReal #Autoconhecimento"
         }
       }
     },
     {
       "id": 6,
-      "titulo": "Ciência Provou: 8 Minutos no TikTok Já Mudam Como Você Se Vê no Espelho",
-      "resumo": "Pesquisa publicada na PLOS One, repercutida pelo Estado de Minas em maio 2026, mostra que apenas 8 minutos de scroll no TikTok impactam negativamente a autopercepção feminina. O dado é específico, científico e altamente conversacional — ideal para Priscilla abrir debate sobre pressão estética digital e comparação social automática.",
+      "titulo": "Mães com deficiência e a pressão de ser supermulher — reportagem de 28/05 que abre uma ferida universal",
+      "resumo": "Reportagem publicada em 28/05/2026 expôs como mães com deficiência enfrentam culpa, isolamento e pressão para ser 'supermulheres', desenvolvendo ansiedade e depressão. Priscilla pode ampliar esse caso para o mito da supermulher que afeta todas as mulheres, tornando a discussão relevante para toda a audiência.",
       "pilar": "Autoimagem & Identidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "post-estatico"
+        "lo-fi"
       ],
-      "fonte": "Estado de Minas / PLOS One — maio 2026",
+      "fonte": "O Tempo 28/05/2026 - otempo.com.br/interessa/2026/5/28/maes-com-deficiencia-enfrentam-culpa-e-pressao-para-serem-supermulheres",
       "copies": {
         "reels-react": {
-          "ideia_central": "8 minutos de TikTok já mudam a forma como você se vê — e isso não é fraqueza, é o algoritmo funcionando exatamente como foi projetado.",
-          "gancho": "Uma pesquisa científica provou: são só 8 minutos no TikTok pra sua autopercepção piorar. Oito minutos.",
+          "ideia_central": "O mito da supermulher não poupa ninguém — e a reportagem de ontem sobre mães com deficiência escancara uma ferida que é de todas as mulheres.",
+          "gancho": "Uma reportagem de ontem revelou: mães com deficiência estão adoecendo pela pressão de ser supermulher. Mas isso não é só sobre elas.",
           "roteiro": [
             {
-              "tempo": "0–3s",
+              "tempo": "0-3s",
               "descricao": "Abertura",
-              "fala": "Um estudo publicado essa semana provou algo que muitas de nós já sentimos mas não conseguíamos explicar: oito minutos no TikTok são suficientes pra mudar a forma como você se vê no espelho. Oito."
+              "fala": "Saiu ontem uma reportagem sobre mães com deficiência sendo pressionadas a ser supermulheres — e a maioria está desenvolvendo ansiedade e depressão. Isso tocou fundo em mim."
             },
             {
-              "tempo": "3–15s",
+              "tempo": "3-15s",
               "descricao": "Contexto",
-              "fala": "A pesquisa foi publicada na PLOS One, uma das revistas científicas mais respeitadas do mundo. Mediram a autopercepção de mulheres antes e depois de 8 minutos de scroll. Resultado: a satisfação com o próprio corpo caiu. A comparação com imagens idealizadas acontece de forma automática — sem que a gente escolha."
+              "fala": "A reportagem mostra que essas mães passam a duvidar de si mesmas, se isolam e adoecem tentando provar que são suficientes. Mas vou te dizer uma coisa: isso não é um problema só de mães com deficiência. É o problema de quase toda mulher que eu conheço."
             },
             {
-              "tempo": "15–25s",
+              "tempo": "15-25s",
               "descricao": "Virada psicológica",
-              "fala": "Não é fraqueza. Não é vaidade. É o funcionamento natural do cérebro sendo explorado por um algoritmo que sabe exatamente o que vai te fazer parar de rolar. E enquanto você para, você compara. E enquanto você compara, você se diminui. Isso está acontecendo com bilhões de mulheres todos os dias."
+              "fala": "O mito da supermulher diz que você precisa ser boa mãe, boa profissional, boa parceira, boa filha, boa amiga — ao mesmo tempo, sem reclamar, sem descansar, sem pedir ajuda. E quando você falha em qualquer uma dessas frentes, a culpa aparece pra te dizer que você não é suficiente. Isso adoece."
             },
             {
-              "tempo": "25–30s",
+              "tempo": "25-30s",
               "descricao": "CTA",
-              "fala": "Como você cuida da sua autoestima no meio disso tudo? Me conta."
+              "fala": "Em qual dessas frentes você tem sentido mais culpa? Me conta — sem julgamento aqui."
             }
           ],
-          "legenda": "8 minutos no TikTok.\n\nEsse é o tempo que a ciência provou ser suficiente pra sua autopercepção piorar.\n\nUm estudo da PLOS One, repercutido essa semana, mediu a satisfação corporal de mulheres antes e depois de 8 minutos de scroll — e a queda foi significativa.\n\nNão é fraqueza. É neurociência.\n\nO algoritmo foi desenhado pra te fazer parar. E quando você para, você compara. E quando compara, você se diminui.\n\nIsso está acontecendo com bilhões de mulheres todos os dias, de forma automática.\n\nSaber disso não resolve tudo — mas é o primeiro passo.\n\n📌 Salva esse vídeo.\n\n#TikTok #Autoestima #AutoimagemCorporal #PressãoEstética #Psicologia #PriscillaAndrade #SaúdeMental"
+          "legenda": "Uma reportagem de 28/05 mostrou mães com deficiência adoecendo pela pressão de ser supermulher.\n\nMas esse mito não poupa ninguém.\n\nEle diz que você precisa ser tudo, pra todos, o tempo todo — sem falhar, sem reclamar, sem pedir ajuda.\n\nE quando você não consegue (porque ninguém consegue), a culpa aparece.\n\nIsso não é frescura. Isso é um sistema que adoece mulheres.\n\n💛 Se você se reconheceu nisso, esse vídeo é pra você.\n\n#Supermulher #Maternidade #SaudeMental #PsicologiaFeminina #PriscillaAndrade #MulherReal #CulpaMaterna #Ansiedade"
         },
-        "post-estatico": {
-          "ideia": "Dado científico impactante transformado em arte — o número 8 como elemento visual central.",
-          "titulo_visual": "8 minutos de TikTok já mudam como você se vê.",
-          "legenda": "Não é frescura. Não é fraqueza.\n\nÉ ciência: um estudo da PLOS One provou que apenas 8 minutos de scroll no TikTok são suficientes pra impactar negativamente a autopercepção feminina.\n\nO algoritmo sabe o que faz.\n\nE agora você também sabe.\n\n📌 Salva e manda pra uma amiga.\n\n#Autoestima #TikTok #AutoimagemCorporal #Psicologia #PriscillaAndrade #SaúdeMental",
-          "cta": "Salva e manda pra uma amiga."
+        "lo-fi": {
+          "ideia": "Priscilla fala com intimidade sobre o mito da supermulher — conectando a reportagem com a experiência real das seguidoras.",
+          "gancho": "Li uma reportagem ontem que me fez querer vir aqui falar com você agora.",
+          "o_que_falar": [
+            "Apresenta a reportagem de 28/05: mães com deficiência adoecendo pela pressão de ser supermulheres — culpa, isolamento, ansiedade",
+            "Expansão: o mito da supermulher afeta todas as mulheres — dar conta de tudo ao mesmo tempo é uma armadilha cultural, não uma meta realista",
+            "Conexão pessoal: 'Quantas de vocês acordam já com a lista de cobranças na cabeça? Eu vejo isso no consultório toda semana'",
+            "CTA suave: 'Me conta uma coisa que você parou de fazer por você porque estava ocupada demais sendo tudo pra todo mundo'"
+          ],
+          "legenda": "O mito da supermulher está adoecendo muita gente — e eu precisava falar sobre isso com vocês hoje 🤍\n\nMe conta nos comentários: o que você parou de fazer por você por estar ocupada demais sendo tudo pra todos?\n\n#Supermulher #SaudeMental #PsicologiaFeminina #PriscillaAndrade #Maternidade #MulherReal",
+          "vibe": "Câmera estática, luz natural, tom acolhedor e direto. Sentada, olhando pra câmera com cuidado genuíno."
         }
       }
     },
     {
       "id": 7,
-      "titulo": "SUS Vai Oferecer Psicólogo Online Para Mulheres em Situação de Violência — O Que Isso Representa",
-      "resumo": "O governo anunciou em maio 2026 que o SUS oferecerá teleatendimento em saúde mental para mulheres em situação de violência, com previsão de 4,7 milhões de atendimentos psicológicos por ano. A notícia abre espaço para Priscilla se posicionar como referência em saúde mental feminina e derrubar o tabu de buscar ajuda psicológica.",
+      "titulo": "Escala 7x0: pesquisa do IBGE mostra mulheres com 10h extras de trabalho invisível por semana",
+      "resumo": "Pesquisadora entrevistada pela Agência Brasil em maio de 2026 revelou que mulheres dedicam quase 10 horas a mais por semana do que homens ao trabalho de cuidado. A expressão 'escala 7x0' viralizou. Priscilla conecta esse dado ao esgotamento emocional feminino e ao impacto direto na carreira, nos relacionamentos e na saúde mental.",
+      "pilar": "Posicionamento & Carreira",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "Agência Brasil / IBGE maio 2026 - agenciabrasil.ebc.com.br/economia/noticia/2026-05/trabalho-de-cuidado-mulheres-tem-escala-7x0-diz-pesquisadora",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "A 'escala 7x0' das mulheres não é só questão trabalhista — é a raiz psicológica do esgotamento feminino nos relacionamentos e na carreira.",
+          "gancho": "Uma pesquisadora chamou de escala 7x0 o trabalho das mulheres. E quando eu li o dado, entendi tudo.",
+          "roteiro": [
+            {
+              "tempo": "0-3s",
+              "descricao": "Abertura",
+              "fala": "Uma pesquisadora chamou de escala 7x0 o trabalho das mulheres. Essa expressão saiu essa semana — e quando eu li, entendi tudo."
+            },
+            {
+              "tempo": "3-15s",
+              "descricao": "Contexto",
+              "fala": "São quase 10 horas a mais por semana que as mulheres dedicam ao trabalho de cuidado: cuidar dos filhos, da casa, dos pais idosos, da organização familiar. Tudo isso além do trabalho fora. Todos os dias. Sem folga. Escala 7x0."
+            },
+            {
+              "tempo": "15-25s",
+              "descricao": "Virada psicológica",
+              "fala": "Na psicologia, isso tem um nome: sobrecarga cognitiva. Não é só o tempo físico — é o peso mental de ser a responsável por tudo. E isso corrói os sonhos, a carreira, o relacionamento — e principalmente, o desejo de existir pra si mesma."
+            },
+            {
+              "tempo": "25-30s",
+              "descricao": "CTA",
+              "fala": "Você está na escala 7x0? Me conta aqui como está sendo."
+            }
+          ],
+          "legenda": "Escala 7x0 — essa foi a expressão que uma pesquisadora usou pra descrever o trabalho das mulheres. Saiu essa semana e confirmou: mulheres trabalham quase 10 horas A MAIS por semana do que homens.\n\nSó que esse trabalho não aparece no currículo.\nNão gera renda.\nNão recebe reconhecimento.\n\nE psicologicamente? Ele corrói a energia que você precisaria pra cuidar de si mesma, sonhar com sua carreira, estar presente no seu relacionamento.\n\nIsso não é só uma questão social. É uma questão de saúde mental feminina.\n\n💛 Você está na escala 7x0? Me conta aqui.\n\n#Escala7x0 #TrabalhoDeCuidado #MulherBrasileira #PsicologiaFeminina #PriscillaAndrade #SobrecarrgaCognitiva #MulherEmpoderada #IBGE"
+        },
+        "post-estatico": {
+          "ideia": "Dado do IBGE transformado em arte de impacto — a 'escala 7x0' como frase visual forte.",
+          "titulo_visual": "Mulheres trabalham\n+10 horas por semana\na mais que homens.\nSem nome.\nSem salário.\nSem folga.\n\nIsso chama escala 7×0.",
+          "legenda": "A pesquisa saiu essa semana e os números são pesados demais pra ignorar 💛\n\nSe você está exausta, não é frescura. É matemática.\n\nSalva e manda pra quem precisa ver isso.\n\n#Escala7x0 #MulherBrasileira #TrabalhoDeCuidado #PsicologiaFeminina #PriscillaAndrade #IBGE",
+          "cta": "Você se reconhece nesses números? Comenta aqui 👇"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "titulo": "Brasil forma mais doutoras que doutores há 20 anos — e elas ainda recebem 1/3 das bolsas de prestígio",
+      "resumo": "Dados de maio de 2026 mostram o paradoxo brasileiro: mais mulheres doutoras do que homens há duas décadas, mas elas são minoria entre professores universitários e recebem apenas um terço das bolsas de produtividade. Priscilla conecta esse paradoxo à síndrome da impostora — o bloqueio psicológico que impede mulheres competentes de se posicionarem como tal.",
+      "pilar": "Posicionamento & Carreira",
+      "urgencia": "semana",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Agência Brasil maio 2026 - agenciabrasil.ebc.com.br/educacao/noticia/2026-05/iniciativas-tentam-facilitar-acesso-e-permanencia-de-maes-na-ciencia",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "O problema não é competência — é que mulheres altamente qualificadas ainda carregam o bloqueio psicológico que as impede de se posicionarem como merecem.",
+          "gancho": "O Brasil forma mais doutoras que doutores há 20 anos. Mas elas recebem só 1/3 das bolsas de prestígio. Isso é sobre competência — ou sobre outra coisa?",
+          "roteiro": [
+            {
+              "tempo": "0-3s",
+              "descricao": "Abertura",
+              "fala": "Um dado novo me deixou sem chão: o Brasil forma mais mulheres doutoras do que homens há mais de 20 anos. E mesmo assim, elas recebem apenas um terço das bolsas de produtividade científica."
+            },
+            {
+              "tempo": "3-15s",
+              "descricao": "Contexto",
+              "fala": "Não é falta de capacidade. Não é falta de esforço. Então o que é? Os estudos apontam para três fatores: viés de gênero nas bancas, sobrecarga doméstica que reduz tempo de produção, e — aqui entra a psicologia — a síndrome da impostora que faz mulheres se candidatarem menos."
+            },
+            {
+              "tempo": "15-25s",
+              "descricao": "Virada psicológica",
+              "fala": "Síndrome da impostora é quando você minimiza suas conquistas, sente que não merece o reconhecimento e tem medo de ser descoberta como incompetente — mesmo sendo altamente qualificada. E ela afeta mulheres de forma desproporcional."
+            },
+            {
+              "tempo": "25-30s",
+              "descricao": "CTA",
+              "fala": "Você já sentiu que precisava se provar mais do que os homens ao seu redor? Me conta."
+            }
+          ],
+          "legenda": "O Brasil forma mais doutoras que doutores há 20 anos.\nMas as mulheres recebem só 1/3 das bolsas de prestígio.\nE são minoria entre professores universitários.\n\nNão é falta de capacidade.\n\nÉ síndrome da impostora.\nÉ sobrecarga doméstica.\nÉ viés estrutural.\n\nE é sobre isso que eu preciso falar com você hoje.\n\n💛 Você já se sentiu menos do que era em ambientes profissionais?\n\n#SindromeImpostora #MulherNaCiencia #CarreiraMulher #PsicologiaFeminina #PriscillaAndrade #TetoDeCristal #MulherEmpoderada #Posicionamento"
+        },
+        "carrossel": {
+          "ideia": "Síndrome da impostora: o que é, como ela afeta mulheres qualificadas e 5 sinais para identificar em você mesma.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "Por que mulheres mais qualificadas ainda ganham menos?",
+              "subtitulo": "A psicologia responde com dados reais de 2026"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O paradoxo brasileiro",
+              "texto": "O Brasil forma mais doutoras que doutores há mais de 20 anos. Mas as mulheres são minoria entre professores universitários e recebem apenas 1/3 das bolsas de produtividade. Não é competência — é outra coisa."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Síndrome da impostora",
+              "texto": "É quando você minimiza suas conquistas, sente que não merece estar onde está e tem medo de ser 'descoberta' como incompetente — mesmo sendo altamente qualificada. Afeta mulheres de forma desproporcional."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "5 sinais de que você tem",
+              "texto": "1. Você subestima suas realizações\n2. Você atribui seu sucesso à sorte\n3. Você tem medo desproporcional de errar\n4. Você se candidata menos a oportunidades\n5. Você aceita menos reconhecimento do que merece"
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "Você se reconheceu?",
+              "texto": "Salva esse carrossel — isso é o começo de uma conversa importante. E comenta quantos dos 5 sinais você se identificou 👇"
+            }
+          ],
+          "legenda": "Se você é qualificada e ainda sente que precisa se provar mais — isso tem nome na psicologia 🧠\n\nSalva esse carrossel e compartilha com aquela amiga brilhante que vive se subestimando.\n\n#SindromeImpostora #CarreiraMulher #PsicologiaFeminina #PriscillaAndrade #MulherEmpoderada #Posicionamento #TetoDeCristal"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "titulo": "Campanha de maio 2026: 'chega de romantizar a maternidade' — e o que isso tem a ver com saúde mental",
+      "resumo": "Uma campanha lançada em 29/05/2026 quer romper com a romantização da maternidade e abrir espaço honesto para o sofrimento emocional materno. Com mulheres representando a maioria dos casos globais de transtornos mentais, Priscilla tem material denso para conexão genuína com mães da audiência.",
       "pilar": "Estilo de Vida & Espiritualidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "lo-fi"
       ],
-      "fonte": "Gov.br / Secom — maio 2026",
+      "fonte": "Universo Cooperativo 29/05/2026 - universocooperativo5.wordpress.com/2026/05/29/cuidar-da-saude-mental-materna-e-cuidar-do-futuro",
       "copies": {
         "reels-react": {
-          "ideia_central": "O anúncio do SUS é o reconhecimento oficial de que saúde mental feminina é emergência nacional — e isso muda o significado de pedir ajuda.",
-          "gancho": "O governo acabou de anunciar que o SUS vai oferecer psicólogo online pra mulheres em situação de violência. 4,7 milhões de atendimentos por ano. Isso é histórico — e eu preciso falar sobre o que representa.",
+          "ideia_central": "Romantizar a maternidade não protege as mães — ao contrário, isola as que sofrem, porque elas acham que são as únicas que não estão dando conta.",
+          "gancho": "Uma campanha saiu essa semana com uma mensagem que as mães precisavam ouvir há anos: chega de romantizar a maternidade.",
           "roteiro": [
             {
-              "tempo": "0–3s",
+              "tempo": "0-3s",
               "descricao": "Abertura",
-              "fala": "O governo anunciou neste mês que o SUS vai oferecer teleatendimento em saúde mental especialmente para mulheres em situação de violência. Como psicóloga, preciso dizer: isso é histórico."
+              "fala": "Uma campanha de saúde mental lançada essa semana disse algo que eu repito no consultório toda semana: chega de romantizar a maternidade."
             },
             {
-              "tempo": "3–15s",
+              "tempo": "3-15s",
               "descricao": "Contexto",
-              "fala": "São 4,7 milhões de atendimentos psicológicos previstos por ano. Já começou em Recife e Rio de Janeiro e vai se expandir pra todo o Brasil em junho. Isso significa que mulheres que antes não tinham como pagar uma psicóloga, ou que não se sentiam seguras pra sair de casa, agora têm acesso a suporte."
+              "fala": "Os dados são pesados: as mulheres são a maioria entre as pessoas com transtornos mentais no mundo. E uma das causas é exatamente a pressão da maternidade idealizada — aquela que não mostra a exaustão, a ambivalência, a solidão de criar outro ser humano."
             },
             {
-              "tempo": "15–25s",
+              "tempo": "15-25s",
               "descricao": "Virada psicológica",
-              "fala": "O que me interessa dizer como psicóloga vai além da política pública: isso é o reconhecimento oficial de que a saúde mental da mulher é uma emergência. E se você ainda tem vergonha de buscar ajuda — no SUS ou em qualquer outra forma — quero que você saiba: pedir ajuda é o ato de maior coragem e autocuidado que existe."
+              "fala": "Romantizar a maternidade não protege as mães. Ao contrário, isola aquelas que estão sofrendo — porque elas acham que são as únicas que não dão conta. O silêncio em torno do sofrimento materno é o que adoece. E é esse silêncio que precisa acabar."
             },
             {
-              "tempo": "25–30s",
+              "tempo": "25-30s",
               "descricao": "CTA",
-              "fala": "Você já buscou ajuda psicológica ou ainda tem resistência a isso? Me conta sem julgamento."
+              "fala": "Mães, o que você nunca falou sobre maternidade porque tinha medo de julgamento? Me conta aqui — esse é um espaço seguro."
             }
           ],
-          "legenda": "Notícia de maio 2026:\n\nO SUS vai oferecer teleatendimento em saúde mental para mulheres em situação de violência.\n\n4,7 milhões de atendimentos por ano previstos.\n\nIsso é histórico. E vai muito além de uma política pública.\n\nÉ o reconhecimento de que a saúde mental da mulher é uma urgência nacional.\n\nSe você ainda carrega vergonha de buscar ajuda, eu quero te dizer com toda a certeza da minha prática clínica:\n\nPedir ajuda é o maior ato de coragem que existe.\n\nNão é fraqueza. É autocuidado.\n\n💙 Compartilha com quem precisa.\n\n#SaúdeMentalFeminina #SUS #PsicologiaFeminina #AutocuidadoFeminino #ViolênciaDoméstica #PriscillaAndrade"
+          "legenda": "Uma campanha lançada essa semana diz o que eu repito há anos no consultório: chega de romantizar a maternidade.\n\nA maternidade real inclui exaustão.\nInclui dúvida.\nInclui momentos de querer fugir.\nInclui amor imenso e sofrimento ao mesmo tempo.\n\nE quando a sociedade só mostra o lado bonito, as mães que estão sofrendo ficam em silêncio — achando que são as únicas que não dão conta.\n\nEsse silêncio adoece.\n\n💛 Mães: o que você nunca falou sobre maternidade porque tinha medo de ser julgada?\n\n#MaternidadeReal #SaudeMentalMaterna #PsicologiaFeminina #PriscillaAndrade #Mae #MaternidadeConsciente #RomantizarNao"
         },
         "lo-fi": {
-          "ideia": "Fala íntima sobre o anúncio do SUS e o tabu de pedir ajuda psicológica — a voz de quem é psicóloga derrubando a vergonha.",
-          "gancho": "Hoje eu acordei com uma notícia que me tocou muito como psicóloga.",
+          "ideia": "Priscilla fala de forma íntima para mães — validando o sofrimento e quebrando o mito da mãe perfeita.",
+          "gancho": "Preciso falar com as mães aqui. Uma campanha dessa semana me deu coragem de dizer algo que guardo há tempo.",
           "o_que_falar": [
-            "Contextualiza: SUS anuncia teleatendimento em saúde mental pra mulheres em situação de violência — 4,7 milhões de atendimentos/ano previstos, já começando em maio.",
-            "Insight: Isso não é só política pública — é o Estado reconhecendo que a saúde mental feminina é emergência. Algo que quem trabalha com psicologia feminina sabe há anos.",
-            "Conexão: O tabu de pedir ajuda ainda é enorme. Muitas mulheres chegam ao consultório depois de anos sofrendo sozinhas porque achavam que precisavam aguentar, que era fraqueza, que era luxo.",
-            "CTA: Se você ainda tem resistência a buscar suporte emocional, o que te impede? Me conta nos comentários."
+            "Apresenta a campanha de 29/05/2026 sobre saúde mental materna e o fim da romantização",
+            "Dado psicológico: mulheres são maioria entre pessoas com transtornos mentais no mundo — e a pressão da maternidade idealizada é uma das causas apontadas pela ciência",
+            "Acolhimento direto: 'Se você já pensou que era a única mãe que não estava dando conta — você não é. Isso é o sistema te dizendo que você precisa ser perfeita'",
+            "CTA: 'Me conta uma coisa real sobre a sua maternidade que você nunca postou nas redes'"
           ],
-          "legenda": "O SUS anuncia psicólogo online pra mulheres em situação de violência.\n\nEu precisava falar sobre o que isso representa.\n\nPorque pedir ajuda ainda é um tabu — e não deveria ser.\n\n💙 #SaúdeMentalFeminina #SUS #PriscillaAndrade #PsicologiaFeminina",
-          "vibe": "Câmera estática, luz suave, ambiente acolhedor. Tom íntimo, como psicóloga compartilhando algo que a tocou. Sem maquiagem pesada, fala natural."
-        }
-      }
-    },
-    {
-      "id": 8,
-      "titulo": "Depois das Red Flags, Chegaram as 'Beige Flags' — E o Que Esse Conceito Viral Revela Sobre Você",
-      "resumo": "A tendência das 'beige flags' — manias neutras do parceiro que causam estranhamento mas não são prejudiciais — viralizou como evolução do debate das red flags. Priscilla pode explorar a diferença entre incompatibilidade real e intolerância emocional disfarçada de critério, um tema que gera enorme engajamento.",
-      "pilar": "Casamento & Relacionamento",
-      "urgencia": "semana",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "post-estatico"
-      ],
-      "fonte": "Terra / tendência viral redes sociais — 2026",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "Antes de chamar de beige flag, pergunte: é incompatibilidade real ou é você com medo de intimidade procurando um motivo pra ir embora?",
-          "gancho": "Red flag você já conhece. Mas sabe o que é uma beige flag? E por que esse conceito viral pode estar te fazendo eliminar parceiros que seriam ótimos pra você?",
-          "roteiro": [
-            {
-              "tempo": "0–3s",
-              "descricao": "Abertura",
-              "fala": "Depois das red flags, chegaram as beige flags. E esse conceito que viraliza nas redes tem um efeito colateral que precisa ser discutido."
-            },
-            {
-              "tempo": "3–15s",
-              "descricao": "Contexto",
-              "fala": "Beige flags são comportamentos do parceiro que não são ruins nem bons — são só estranhos. Ele faz sorvete com sal. Ela dorme com meias. Ele manda áudio de 8 minutos sem assunto nenhum. São aquelas manias que causam estranhamento no início mas que com o tempo podem virar algo que você ama nessa pessoa."
-            },
-            {
-              "tempo": "15–25s",
-              "descricao": "Virada psicológica",
-              "fala": "O problema não é o conceito — é quando a gente usa beige flag como filtro de eliminação. Porque quando você está com medo de se aproximar de alguém, qualquer diferença vira motivo pra ir embora. A pergunta real não é 'isso é estranho?' É 'isso me prejudica de alguma forma?'"
-            },
-            {
-              "tempo": "25–30s",
-              "descricao": "CTA",
-              "fala": "Você tem uma beige flag? Conta nos comentários — quero ver."
-            }
-          ],
-          "legenda": "Beige flag: a nova tendência das redes que eu precisava comentar como psicóloga.\n\nSão as manias neutras do parceiro que não são red flags — mas causam estranhamento.\n\nO conceito é fofo. O problema é quando vira instrumento de eliminação.\n\nQuando você usa 'beige flag' pra sair de um relacionamento que assusta pela intimidade — não pela incompatibilidade real.\n\nHá uma diferença enorme entre 'isso me incomoda de verdade' e 'estou procurando um motivo pra ir embora porque me aproximar dá medo'.\n\nA pergunta certa não é 'isso é estranho?' É 'isso me prejudica?'\n\n💬 Conta a beige flag mais inusitada que você já viu.\n\n#BeigeFlag #RedFlag #RelacionamentoFeminino #PsicologiaFeminina #Autoconhecimento #PriscillaAndrade"
-        },
-        "post-estatico": {
-          "ideia": "Distinção visual impactante entre red flag e beige flag — com o ângulo psicológico de Priscilla.",
-          "titulo_visual": "Red flag: sinal de perigo. Beige flag: sinal de humanidade.",
-          "legenda": "A tendência das beige flags viraliza nas redes — e como psicóloga preciso fazer uma distinção importante:\n\nRed flag = comportamento que te prejudica.\nBeige flag = mania que te estranha.\n\nSão coisas muito diferentes.\n\nAntes de eliminar alguém pela beige flag, pergunte:\n'Isso me prejudica — ou só me desafia a aceitar uma diferença?'\n\n💬 Qual a sua beige flag favorita?\n\n#BeigeFlag #RelacionamentoFeminino #Psicologia #PriscillaAndrade #Autoconhecimento",
-          "cta": "Salva e manda pro seu grupo."
-        }
-      }
-    },
-    {
-      "id": 9,
-      "titulo": "A Maior Tendência Feminina de 2026 Não É de Produtividade — É de Desaceleração Intencional",
-      "resumo": "O movimento 'slow living' se consolidou como tendência dominante de 2026, com mulheres buscando descanso intencional, tempo offline e prazer simples como forma de autocuidado. Para Priscilla, o ângulo psicológico é rico: desacelerar não é preguiça — é resposta saudável a anos de produtividade tóxica, e a culpa do descanso é uma crença aprendida.",
-      "pilar": "Estilo de Vida & Espiritualidade",
-      "urgencia": "semana",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "lo-fi"
-      ],
-      "fonte": "Estado de Minas / Joie de Vivre Monde — 2026",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "Desacelerar de propósito não é preguiça — é um dos atos mais radicais de autocuidado que uma mulher pode fazer em 2026.",
-          "gancho": "A maior tendência de 2026 não é uma dieta nova nem uma rotina de produtividade. É mulheres escolhendo desacelerar de propósito. E a psicologia explica por que isso é saudável.",
-          "roteiro": [
-            {
-              "tempo": "0–3s",
-              "descricao": "Abertura",
-              "fala": "A tendência que mais cresceu entre mulheres em 2026 não é de produtividade. É de desaceleração. E eu, como psicóloga, preciso dizer: finalmente."
-            },
-            {
-              "tempo": "3–15s",
-              "descricao": "Contexto",
-              "fala": "O movimento slow living — viver devagar de propósito — ganhou força enorme esse ano. Mulheres escolhendo priorizar descanso real, tempo offline, prazer simples. É uma reação: depois de anos de produtividade tóxica, do mito de que você precisa estar sempre ocupada pra ter valor, o corpo e a mente estão pedindo pra parar."
-            },
-            {
-              "tempo": "15–25s",
-              "descricao": "Virada psicológica",
-              "fala": "Desacelerar não é preguiça. Não é fracasso. É uma resposta saudável de um sistema nervoso que foi superestimulado por tempo demais. E a culpa que muitas mulheres sentem quando param — essa culpa vem de uma crença aprendida: que você só tem valor quando está produzindo."
-            },
-            {
-              "tempo": "25–30s",
-              "descricao": "CTA",
-              "fala": "Você consegue descansar sem culpa? Honestamente?"
-            }
-          ],
-          "legenda": "A maior tendência feminina de 2026 é desacelerar de propósito.\n\nNão é uma dieta. Não é uma nova rotina. É o slow living — escolher deliberadamente tempo offline, descanso real, prazer simples.\n\nE como psicóloga, vejo isso como uma das reações mais saudáveis que as mulheres poderiam ter depois de anos de produtividade tóxica.\n\nO problema é que descansar sem culpa ainda é um desafio enorme.\n\nPorque a gente aprendeu que valor e ocupação andam juntos.\n\nMas não andam.\n\n💙 Salva esse vídeo.\n\n#SlowLiving #Autocuidado #ProdutividadeTóxica #PsicologiaFeminina #PriscillaAndrade #AutoconhecimentoFeminino"
-        },
-        "lo-fi": {
-          "ideia": "Fala íntima sobre a permissão de desacelerar — sem jargão, como conversa de cuidado sobre o que significa parar de verdade.",
-          "gancho": "Vou te fazer uma pergunta e quero que você pense de verdade antes de responder: você consegue descansar sem sentir culpa?",
-          "o_que_falar": [
-            "Contextualiza: 2026 trouxe o slow living como tendência dominante entre mulheres — uma reação a anos de hiperatividade e produtividade tóxica.",
-            "Insight psicológico: A culpa de descansar não é frescura. É uma crença aprendida — você só tem valor quando está produzindo. Essa crença cobra um preço enorme no corpo e na saúde mental.",
-            "Conexão com a prática clínica: Quantas mulheres chegam exaustas porque nunca aprenderam que parar é permitido — que não é abandono, não é fraqueza, é necessidade.",
-            "CTA: O que você precisaria fazer hoje pra desacelerar pelo menos 10%? Conta nos comentários."
-          ],
-          "legenda": "Você consegue descansar sem culpa?\n\nSe a resposta foi 'não' — esse vídeo é pra você.\n\n💙 #SlowLiving #Autocuidado #PriscillaAndrade #SaúdeMentalFeminina",
-          "vibe": "Câmera bem próxima, luz natural, ambiente doméstico ou ao ar livre. Tom muito íntimo, sem pressa. Como conversa entre duas pessoas que confiam uma na outra."
+          "legenda": "Essa semana saiu uma campanha que eu precisava que existisse há anos 🤍\n\nChega de romantizar a maternidade.\n\nMe conta aqui: o que é real na sua maternidade que você nunca mostrou?\n\n#MaternidadeReal #SaudeMentalMaterna #PriscillaAndrade #PsicologiaFeminina #Mae",
+          "vibe": "Câmera no rosto, luz quente, tom suave e acolhedor — como se falasse só pra aquela mãe que está ouvindo sozinha no quarto."
         }
       }
     },
     {
       "id": 10,
-      "titulo": "49% das Mulheres Desconfiam do Homem Que Se Diz Feminista — E a Psicologia Explica Por Que Elas Têm Razão",
-      "resumo": "Pesquisa de 2026 publicada em Meio & Mensagem mostra que quase metade das mulheres brasileiras fica desconfiada de homens com discurso feminista muito intenso, suspeitando que seja performático. O dado é polêmico, gera debate e tem ângulo psicológico rico: a detecção de incongruência entre valores declarados e valores vividos — e o que isso revela sobre escolha de parceiros.",
-      "pilar": "Casamento & Relacionamento",
-      "urgencia": "semana",
+      "titulo": "A espiritualidade como nova psicologia: por que mulheres estão migrando para abordagens integrativas",
+      "resumo": "Múltiplos portais identificaram em 2026 crescimento expressivo de mulheres buscando abordagens que combinam terapia, espiritualidade e autoconhecimento. A tendência reflete insatisfação com soluções parciais — as mulheres querem cura completa. Priscilla, por atuar exatamente nessa intersecção, pode se posicionar como referência nesse movimento crescente.",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "urgencia": "evergreen",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "carrossel"
+        "post-estatico"
       ],
-      "fonte": "Meio & Mensagem / Women to Watch — 2026",
+      "fonte": "Joie de Vivre Monde / AN9 2026 - monde.joiedevivremag.fr/saude-emocional-feminina-impulsiona-crescimento-de-abordagens-integrativas-no-brasil",
       "copies": {
         "reels-react": {
-          "ideia_central": "A desconfiança no 'feministo' não é ironia — é intuição apurada. Mulheres aprenderam, muitas vezes na dor, a distinguir valores declarados de valores vividos.",
-          "gancho": "Uma pesquisa de 2026 descobriu que 49% das mulheres ficam desconfiadas de homens que se declaram feministas. Por quê? E o que isso revela sobre como escolhemos parceiros?",
+          "ideia_central": "O crescimento das abordagens integrativas mostra que as mulheres estão exigindo cura que vai além do sintoma — elas querem se entender por inteiro.",
+          "gancho": "Dados de 2026 mostram que mulheres estão buscando algo que vai além da terapia tradicional. E isso não é acaso.",
           "roteiro": [
             {
-              "tempo": "0–3s",
+              "tempo": "0-3s",
               "descricao": "Abertura",
-              "fala": "Uma pesquisa de 2026 mostrou que quase metade das mulheres brasileiras desconfia quando um homem se declara feminista. Esse dado é polêmico — e muito mais revelador do que parece."
+              "fala": "Dados de 2026 mostram um crescimento sem precedentes de mulheres buscando abordagens que combinam psicologia, espiritualidade e autoconhecimento. Não é moda. É uma revolução silenciosa."
             },
             {
-              "tempo": "3–15s",
+              "tempo": "3-15s",
               "descricao": "Contexto",
-              "fala": "A pesquisa mostra que 49% das mulheres ficam atentas ao discurso 'feministo exagerado', suspeitando que seja performático. Isso não quer dizer que essas mulheres são contra o feminismo. Elas aprenderam a distinguir entre quem diz e quem faz."
+              "fala": "Estamos vivendo um momento em que mulheres estão dizendo: só controlar a ansiedade não é suficiente. Eu quero me entender. Quero saber de onde vêm meus padrões, meus medos, minhas escolhas. Quero me reconhecer no espelho de novo."
             },
             {
-              "tempo": "15–25s",
+              "tempo": "15-25s",
               "descricao": "Virada psicológica",
-              "fala": "Isso tem um nome na psicologia comportamental: detecção de incongruência entre valores declarados e valores vividos. A mulher que já viveu com alguém que dizia apoiá-la mas não lavava um prato treina esse sensor. E ele está funcionando bem. O problema não é o homem que se diz feminista — é o que ele faz quando a câmera apaga."
+              "fala": "Isso é o que chamamos de psicologia integrativa — uma abordagem que reconhece que você não é só sintoma. Você tem história, tem corpo, tem espiritualidade, tem crenças formadas antes de você ter consciência de que estava sendo formada. E tudo isso importa."
             },
             {
-              "tempo": "25–30s",
+              "tempo": "25-30s",
               "descricao": "CTA",
-              "fala": "Você já viveu isso? Me conta sem censura."
+              "fala": "O que você está buscando agora — controle dos sintomas ou transformação real? Me conta."
             }
           ],
-          "legenda": "49% das mulheres brasileiras desconfiam do homem que se diz feminista.\n\nEsse dado de 2026 é muito mais sofisticado do que parece.\n\nNão é ironia. Não é contradição.\n\nÉ uma mulher que aprendeu, muitas vezes na dor, a distinguir entre quem declara valores e quem os vive.\n\nO 'feministo' que em público aplaude a igualdade e em casa não divide as tarefas. Que apoia a carreira dela publicamente e em privado fica incomodado quando ela ganha mais.\n\nA desconfiança não é injusta. É leitura legítima de um padrão.\n\nO que importa não é o discurso — é o comportamento quando ninguém está olhando.\n\n💬 Você já viveu essa experiência? Conta nos comentários.\n\n#Feminismo #RelacionamentoFeminino #ValoresNoRelacionamento #PsicologiaFeminina #PriscillaAndrade #ComportamentoFeminino"
+          "legenda": "Em 2026, mulheres estão exigindo mais das ferramentas de autoconhecimento — e os dados confirmam esse movimento 🌿\n\nNão é só sobre parar de ter ansiedade.\nÉ sobre entender por que você tem os padrões que tem.\nPor que você escolhe o que escolhe.\nPor que você ainda carrega o que já deveria ter largado.\n\nIsso é psicologia integrativa. Isso é o que eu faço.\n\n💛 O que você está buscando agora — controle ou transformação?\n\n#PsicologiaIntegrativa #Autoconhecimento #Espiritualidade #PsicologiaFeminina #PriscillaAndrade #SaudeEmocionalFeminina #TransformacaoFeminina"
         },
-        "carrossel": {
-          "ideia": "A diferença entre valores declarados e valores vividos em um relacionamento — com o dado da pesquisa como âncora.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "49% das mulheres desconfiam do 'feministo'",
-              "subtitulo": "E a psicologia explica por que elas têm razão"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O dado de 2026",
-              "texto": "Pesquisa publicada em Meio & Mensagem revelou: 49% das mulheres brasileiras ficam desconfiadas quando um homem tem discurso feminista muito intenso, suspeitando que seja performático. Não é contradição — é leitura de padrão apurada na experiência."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "O que essa desconfiança revela",
-              "texto": "Mulheres aprenderam — muitas vezes na dor — a distinguir valores declarados de valores vividos. O homem que apoia publicamente mas em casa não divide as tarefas. Que celebra a carreira dela em público e fica incomodado em privado. A incongruência é real."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que a psicologia chama isso",
-              "texto": "Detecção de incongruência comportamental — e é um mecanismo legítimo, não paranoia. A mulher que já viveu com alguém assim treinou esse sensor. O parceiro certo não precisa de discurso — ele tem comportamento."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Já viveu a experiência do 'feministo de vitrine'? Salva esse carrossel e manda pra uma amiga."
-            }
-          ],
-          "legenda": "49% das mulheres desconfiam do homem que se diz feminista.\n\nE elas não estão erradas.\n\nDesliza e entende o que a psicologia diz sobre isso.\n\n#Feminismo #RelacionamentoFeminino #PriscillaAndrade #PsicologiaFeminina #Autoconhecimento #ValoresNoRelacionamento"
+        "post-estatico": {
+          "ideia": "Frase filosófica sobre a diferença entre controlar sintomas e se transformar — conectada à tendência de 2026.",
+          "titulo_visual": "Você não precisa\nde mais controle.\nVocê precisa de\nmais de você mesma.",
+          "legenda": "Em 2026, mulheres estão buscando algo maior do que alívio de sintomas — estão buscando se entender por inteiro 🌿\n\nSalva essa frase se ela disse algo que você precisava ouvir.\n\n#Autoconhecimento #PsicologiaIntegrativa #PriscillaAndrade #PsicologiaFeminina #Espiritualidade #TransformacaoFeminina",
+          "cta": "O que você está buscando nesse momento da sua vida? Comenta aqui 👇"
         }
       }
     }
