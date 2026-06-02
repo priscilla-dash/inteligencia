@@ -1,613 +1,599 @@
 {
-  "versao": "2026-06-01",
-  "gerado_em": "2026-06-01T09:00:00Z",
-  "contexto_do_dia": "Semana marcada pelo caso de Carol Celico, que denunciou ataques misóginos após negar a frase distorcida 'me separei de Kaká porque ele era perfeito demais' (28/05/2026); pelos rumores de reconciliação de Zé Felipe e Virgínia Fonseca a 11 dias do Dia dos Namorados (12/6); e pelo viral das 'beige flags', nova tendência que divide opiniões sobre o que realmente importa num parceiro. Em paralelo, a Campanha Maio Furta-Cor encerrou revelando que 34,2% das mulheres brasileiras têm ansiedade diagnosticada — dado que reacende o debate sobre saúde mental feminina.",
+  "versao": "2026-06-02",
+  "gerado_em": "2026-06-02T09:00:00Z",
+  "contexto_do_dia": "Esta semana: artigo de 31/05 reacendeu o debate sobre a separação de Gracyanne Barbosa e Belo (traição mútua após 16 anos); Carol Celico viralizou rebatendo fake news de que se separou de Kaká por ele ser 'perfeito demais', denunciando ataques misóginos; estudo PlosOne comprovou que 8 minutos no TikTok já destroem a autoimagem feminina; e dados de 2025 apontam 143% de aumento nos afastamentos por saúde mental no Brasil, com mulheres liderando os diagnósticos.",
   "items": [
     {
       "id": 1,
-      "titulo": "Carol Celico é destruída nas redes por 'ousar' sair de um casamento 'bom demais'",
-      "resumo": "Em 28/05, Carol Celico negou publicamente ter dito que se separou de Kaká porque ele era 'perfeito demais', denunciando receber ataques misóginos e violentos por uma frase que nunca disse. O caso expõe o padrão social que cobra da mulher uma justificativa aceitável para sair de um relacionamento — e a pune quando ela simplesmente escolhe a si mesma.",
-      "pilar": "Autoimagem & Identidade",
+      "titulo": "Gracyanne e Belo: quando os dois traem, quem é a vítima do relacionamento?",
+      "resumo": "Artigo de 31/05/2026 reacendeu o debate sobre a separação de Gracyanne Barbosa e Belo após 16 anos, com traição dos dois lados. Para o público de Priscilla, o caso abre discussão poderosa: quando há traição mútua, a narrativa de vítima e vilão colapsa — e o que fica é a pergunta real sobre o vínculo que já estava rompido muito antes.",
+      "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "Metrópoles — metropoles.com/celebridades/quem-e-carol-celico-que-abriu-o-jogo-sobre-divorcio-com-jogador (28/05/2026)",
+      "formatos_alternativos": ["carrossel"],
+      "fonte": "Estrelando.com.br — 31/05/2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O ódio que Carol Celico está recebendo não é sobre ela — é sobre a punição social que toda mulher enfrenta quando sai de um relacionamento sem dar uma justificativa 'boa o suficiente'.",
-          "gancho": "Carol Celico está sendo destruída nas redes. E o motivo diz muito mais sobre nós do que sobre ela.",
+          "ideia_central": "No caso Gracyanne e Belo, a traição dos dois lados revela que havia um vínculo rompido muito antes do ato físico.",
+          "gancho": "No caso Gracyanne e Belo, a pergunta não é quem traiu quem — é o que esse relacionamento já tinha quebrado antes.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Carol Celico está recebendo ataques violentos e misóginos. E tudo isso por uma frase que ela nunca disse."
+              "fala": "Sabe o caso de Gracyanne e Belo? Traição dos dois lados, 16 anos de relacionamento. E todo mundo escolheu um lado. Eu não vou escolher."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Uma entrevista antiga foi distorcida e gerou o boato de que ela teria terminado o casamento com Kaká porque ele era 'perfeito demais'. A frase era falsa. Ela negou. Mesmo assim, os ataques continuam — e ela mesma chamou de misóginos e violentos."
+              "fala": "Quando a traição vem dos dois, a narrativa de vítima e vilão colapsa. E é exatamente aí que começa a análise real: o que estava acontecendo dentro desse vínculo que fez os dois buscarem fora o que não encontravam dentro?"
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Como psicóloga, eu te digo: esse ódio não é sobre a Carol. É sobre o que acontece quando uma mulher sai de um relacionamento sem uma justificativa que a sociedade considera boa o suficiente. Sofrimento? Aceitamos. Traição? Entendemos. Mas ela simplesmente quis ir? Isso não passa. Porque no fundo ainda acreditamos que a mulher precisa merecer o direito de sair."
+              "fala": "Como psicóloga, eu te digo: traição mútua quase sempre é sinal de um contrato emocional quebrado há muito tempo. Ninguém fala disso porque é mais fácil eleger um culpado. Mas o relacionamento já tinha morrido antes do ato."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já sentiu que precisou justificar demais uma escolha sua para os outros te 'liberarem'? Me conta aqui."
+              "fala": "Você já esteve num relacionamento onde o vínculo tinha acabado muito antes da separação oficial? Me conta nos comentários."
             }
           ],
-          "legenda": "Carol Celico virou alvo de ataques depois de negar uma frase que nunca disse. E enquanto todo mundo discutia se ela era ingrata ou não, eu fiquei pensando: por que uma mulher precisa provar que sofreu o suficiente para ter o direito de sair?\n\nIsso se chama punição por autonomia. E acontece o tempo todo — não só com famosas.\n\nNa clínica, vejo mulheres que ficaram anos em relacionamentos que não as faziam bem, com medo exatamente disso: do julgamento quando não existe 'motivo suficiente'.\n\nVocê não precisa de permissão social para escolher a si mesma.\n\n💬 Você já viveu isso? Me conta nos comentários.\n\n#CarolCelico #Kaká #AutoestimaFeminina #PsicologiaFeminina #Relacionamentos #Empoderamento #PriscilaAndrade #ComportamentoFeminino"
+          "legenda": "Sobre o caso Gracyanne e Belo — não vou escolher lado.\n\nQuando os dois traem, a narrativa de vítima e vilão desaparece. E o que sobra é a pergunta real: o que esse vínculo já tinha quebrado antes?\n\nComo psicóloga especialista em comportamento feminino, eu vejo isso com frequência: a traição é o sintoma, não a doença. O relacionamento já tinha morrido — emocionalmente, intimamente, na conexão diária.\n\nNinguém quer ouvir isso porque é mais confortável eleger um culpado e seguir em frente.\n\nMas se você quiser entender de verdade o que acontece nesses relacionamentos, precisa ir além do ato.\n\n💬 O que você acha? Traição mútua — alguém ainda é vítima?\n\n#GracyanneBarbosa #Belo #Traicao #PsicologiaDoRelacionamento #ComportamentoFeminino #PriscillaAndrade #Relacionamento"
         },
         "carrossel": {
-          "ideia": "Os 5 tipos de julgamento que a mulher enfrenta quando decide sair de um relacionamento — usando o caso Carol Celico como ponto de partida.",
+          "ideia": "5 sinais de que um relacionamento já morreu emocionalmente — antes de qualquer traição.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "Por que destruímos mulheres que saem de relacionamentos 'bons'?",
-              "subtitulo": "O caso Carol Celico revela algo que vai além das celebridades"
+              "titulo": "Quando os dois traem: o que o caso Gracyanne & Belo revela de verdade",
+              "subtitulo": "A análise que ninguém está fazendo"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
               "titulo": "O que aconteceu",
-              "texto": "Carol Celico denunciou ataques misóginos após negar ter dito que terminou o casamento com Kaká porque ele era 'perfeito demais'. A frase era falsa — mas os ataques são reais."
+              "texto": "Gracyanne Barbosa e Belo se separaram após 16 anos. O debate voltou esta semana com a revelação de traição dos dois lados. Todo mundo elegeu um vilão. Mas a psicologia vê diferente."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "O que esse ódio revela",
-              "texto": "A sociedade aceita que a mulher saia quando há traição, violência ou sofrimento visível. Mas quando ela simplesmente escolhe ir — por autopreservação, por crescimento, por mudança de desejo — o julgamento é brutal."
+              "titulo": "Traição mútua não é acidente",
+              "texto": "Quando os dois buscam fora o que o relacionamento não entrega, é porque o vínculo emocional já estava rompido há muito tempo. A traição física é apenas o último sintoma de uma morte mais lenta."
             },
             {
               "numero": 4,
               "tipo": "Virada",
               "titulo": "O que poucos percebem",
-              "texto": "Esse padrão faz com que mulheres fiquem em relacionamentos ruins mais tempo do que deveriam — esperando acumular 'justificativas suficientes' para sair sem ser julgadas. O medo do julgamento vira prisão."
+              "texto": "O relacionamento terminou muito antes da separação oficial. O que sustentava ainda era hábito, imagem pública, conforto ou medo. Nenhum desses é vínculo real — e o corpo cobra o que a mente ignora."
             },
             {
               "numero": 5,
               "tipo": "CTA",
               "titulo": "E você?",
-              "texto": "Já ficou em algum lugar por medo do que diriam se você fosse? Salva esse carrossel e marca uma amiga que precisa ouvir isso."
+              "texto": "Você consegue reconhecer quando um relacionamento já morreu por dentro, mesmo que ainda esteja de pé por fora? Salva esse carrossel e me conta nos comentários. 👇"
             }
           ],
-          "legenda": "O caso Carol Celico é sobre muito mais do que uma celebridade 🎯\n\nÉ sobre a lógica invisível que pune mulheres que escolhem a si mesmas sem ter uma 'razão aceitável'.\n\nDesliza para entender o que está por trás desse ódio — e como isso afeta mulheres comuns todos os dias.\n\n💬 Salva e compartilha com quem precisa ver isso.\n\n#CarolCelico #Kaká #Relacionamentos #PsicologiaFeminina #AutoestimaMulher #ComportamentoFeminino #PriscilaAndrade #MulherQueEscolhe"
+          "legenda": "O caso Gracyanne & Belo voltou a viralizar — e eu preciso falar sobre o que ninguém está dizendo 🧵\n\nTraição mútua não é só uma história de escolhas ruins. É sinal de que o vínculo estava rompido muito antes do ato.\n\nArrasta pra entender a análise completa 👉\n\n#GracyanneBarbosa #Relacionamento #Traicao #PsicologiaFeminina #PriscillaAndrade #VinculoEmocional"
         }
       }
     },
     {
       "id": 2,
-      "titulo": "Zé Felipe e Virgínia: voltam ou não voltam? O que a psicologia diz sobre reconciliações pré-Dia dos Namorados",
-      "resumo": "Com o Dia dos Namorados (12/6) se aproximando, Zé Felipe revelou 'medo' após o fim do casamento com Virgínia Fonseca, enquanto os dois aparecem juntos em festas de família. O timing é psicologicamente significativo: datas comemorativas são gatilhos poderosos que podem confundir saudade real com solidão temporária.",
-      "pilar": "Casamento & Relacionamento",
+      "titulo": "Carol Celico é atacada por frase que nunca disse — e a misoginia aparece nua",
+      "resumo": "Carol Celico usou as redes esta semana para rebater a fake news de que se separou de Kaká porque ele era 'perfeito demais', afirmando que nunca disse isso e que vem sofrendo ataques misóginos e violentos. O caso é perfeito para Priscilla explorar como a sociedade pune mulheres por escolhas amorosas — mesmo quando essas escolhas foram inventadas.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "lo-fi"
-      ],
-      "fonte": "PurePeople — purepeople.com.br/noticia/ze-felipe-expoe-medo-apos-fim-de-casamento-com-virginia-fonseca (junho 2026)",
+      "formatos_alternativos": ["lo-fi"],
+      "fonte": "Metrópoles e Terra.com.br — semana 02/06/2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "A possível volta de Zé Felipe e Virgínia a 11 dias do Dia dos Namorados levanta uma pergunta clínica: é amor real ou o calendário está mandando no coração?",
-          "gancho": "Zé Felipe e Virgínia aparecem juntos 11 dias antes do Dia dos Namorados. Coincidência? A psicologia diz que não.",
+          "ideia_central": "O caso Carol Celico revela que a sociedade não pune escolhas amorosas — pune mulheres que existem fora do roteiro escrito para elas.",
+          "gancho": "Carol Celico está sendo atacada por uma frase que ela nunca disse. E isso diz tudo sobre como tratamos mulheres que se separam.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Zé Felipe disse que tem 'medo' após o fim do casamento com Virgínia — e os dois apareceram juntos na festa da filha. A 11 dias do Dia dos Namorados. Isso não é coincidência."
+              "fala": "Carol Celico está sendo massacrada nas redes por uma frase que ela nunca disse. E eu preciso falar sobre o que isso revela."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Desde o anúncio da separação, os dois têm aparecido juntos em eventos de família e os rumores de reconciliação não param. O Dia dos Namorados é dia 12 de junho — estamos exatamente na janela em que essas coisas acontecem."
+              "fala": "Circulou que ela teria se separado de Kaká porque ele era 'perfeito demais'. Ela saiu a público para desmentir — disse que nunca falou isso, que foi uma interpretação distorcida de uma entrevista de 2022. E mesmo assim continua recebendo ataques que ela chamou de misóginos e violentos."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Como psicóloga, vejo isso toda semana no consultório: datas comemorativas ativam a saudade de um jeito que não é necessariamente real. O problema não é voltar — é voltar por causa do calendário, não por causa de uma mudança real. Saudade de data não é saudade de pessoa."
+              "fala": "O detalhe mais revelador: mesmo depois do desmentido, os ataques não pararam. Porque a raiva não era pela frase. Era pela separação. A sociedade ainda não aceita que uma mulher escolha sair de um casamento 'perfeito' — seja qual for o motivo real."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já voltou para alguém por causa de uma data? Dia dos Namorados, Natal, aniversário? Me conta aqui."
+              "fala": "Você já foi julgada por uma escolha amorosa que era sua e só sua? Me fala aqui embaixo."
             }
           ],
-          "legenda": "Zé Felipe e Virgínia aparecem juntos — e o Dia dos Namorados está chegando 🗓️\n\nE isso me fez pensar em algo que vejo muito no consultório: a 'janela das datas comemorativas'.\n\nÉ quando o coração resolve dar um sinal justamente nos dias que o calendário marca como 'dia de amor'. E aí fica a dúvida: é saudade real ou é a data mandando?\n\nDiferença importante:\n✅ Saudade real: você sente falta da pessoa nos momentos comuns do dia\n❌ Saudade de data: você só sente falta quando o calendário lembra que 'deveria' estar com alguém\n\n💬 Já viveu isso? Me conta.\n\n#ZéFelipe #Virgínia #DiaDoNamorados #Reconciliação #PsicologiaDoAmor #Relacionamentos #PriscilaAndrade #ComportamentoFeminino"
+          "legenda": "Carol Celico está sendo atacada. Por uma frase que ela nunca disse. 🔴\n\nA fake news de que ela se separou de Kaká porque ele era 'perfeito demais' voltou a circular — e mesmo depois do desmentido dela, os ataques continuam.\n\nComo psicóloga, eu te digo: a raiva não é pela frase. É pela escolha.\n\nA sociedade ainda julga mulheres que se separam. Que constroem uma nova vida. Que não ficam em algo que não funciona — mesmo que esse algo pareça perfeito por fora.\n\nE quando não tem frase real para atacar, a internet inventa uma.\n\nIsso é misoginia estrutural. E ela aparece no comentário da Carol Celico tanto quanto aparece no dia a dia de cada uma de nós.\n\n💬 Você já foi julgada por uma escolha sua que não cabia no roteiro que os outros escreveram pra você?\n\n#CarolCelico #Kaka #Misoginia #PsicologiaFeminina #AutoimagemFeminina #PriscillaAndrade #MulherQueEscolhe"
         },
         "lo-fi": {
-          "ideia": "Conversa íntima sobre o fenômeno das 'reconciliações de data' — usando o caso Zé Felipe e Virgínia como ponto de partida mas conectando com a realidade das seguidoras.",
-          "gancho": "Eu preciso falar sobre o que o Dia dos Namorados faz com a gente quando estamos separadas...",
+          "ideia": "Conversa íntima sobre o peso de ser julgada por escolhas amorosas — usando o caso Carol Celico como ponto de entrada.",
+          "gancho": "Eu fiquei olhando pro caso da Carol Celico e pensei: quantas de nós já fomos atacadas por uma escolha que era só nossa?",
           "o_que_falar": [
-            "Ponto 1 — Contextualiza o caso: 'Zé Felipe e Virgínia aparecem juntos a 11 dias do Dia dos Namorados. Será que é amor ou é o calendário falando mais alto?'",
-            "Ponto 2 — Insight psicológico: 'Datas comemorativas ativam um tipo de solidão muito específico. Não é necessariamente saudade da pessoa — é saudade do que você imaginava que aquela data seria.'",
-            "Ponto 3 — Conexão com a vida das seguidoras: 'Quantas de vocês já receberam mensagem de ex justamente no Dia dos Namorados, Natal ou aniversário? Isso tem nome: é o efeito calendário.'",
-            "Ponto 4 — CTA: 'Antes de tomar qualquer decisão nessas datas, se pergunte: eu sentiria falta dela/dele numa terça-feira comum? Se a resposta for não, você tem sua resposta.'"
+            "Contextualiza o caso: Carol Celico desmentiu a fake news, mas continua sendo atacada — e por quê isso acontece mesmo depois do desmentido?",
+            "Insight psicológico: a raiva da internet não é pela frase. É pelo ato de uma mulher escolher sair de um casamento que parecia perfeito. A sociedade não perdoa isso.",
+            "Conexão com a vida delas: quantas vezes você tomou uma decisão que era certa pra você e precisou se explicar, pedir permissão, justificar para todo mundo?",
+            "CTA: me conta um momento em que você foi julgada por uma escolha sua nos comentários — vou responder todas."
           ],
-          "legenda": "O Dia dos Namorados está chegando... e junto com ele, os ex's 👀\n\nFalei aqui sobre o que chamo de 'efeito calendário' — e como ele pode nos fazer confundir solidão com amor real.\n\nSe você está em dúvida sobre alguém agora, assiste esse vídeo antes de mandar mensagem 😅\n\n💬 Você tem uma história de mensagem de ex em data comemorativa? Me conta!\n\n#DiaDoNamorados #VoltaOuNãoVolta #PsicologiaDoAmor #PriscilaAndrade #Relacionamentos #ComportamentoFeminino",
-          "vibe": "Câmera estática, luz natural, tom de papo íntimo com amiga. Sentada no sofá ou na cama, sem produção excessiva. Olhando direto para a câmera com leveza."
+          "legenda": "Falando sobre o caso da Carol Celico — e sobre todas as vezes que a gente é julgada por existir fora do roteiro 🤍\n\nNão é só sobre ela. É sobre todas nós.\n\n#CarolCelico #MulheresPoderoSas #PsicologiaFeminina #PriscillaAndrade #AutoConhecimento #Relacionamento",
+          "vibe": "Câmera estática, tom íntimo, luz natural, como se estivesse conversando com uma amiga próxima. Falar com pausas naturais, sem roteiro decorado."
         }
       }
     },
     {
       "id": 3,
-      "titulo": "Gracyanne Barbosa traiu Belo: a infidelidade feminina que ninguém quer discutir",
-      "resumo": "Após 16 anos juntos, a separação de Gracyanne Barbosa e Belo foi marcada pela revelação de que foi ela quem traiu. O caso inverteu o script habitual e gerou polarização nas redes. É o momento ideal para quebrar o tabu da infidelidade feminina — seus gatilhos psicológicos, seus padrões e seus silêncios.",
-      "pilar": "Casamento & Relacionamento",
+      "titulo": "Estudo choca: 8 minutos no TikTok já destroem a autoimagem feminina",
+      "resumo": "Pesquisa publicada na revista PlosOne revelou que apenas 8 minutos assistindo a vídeos com padrões de beleza no TikTok são suficientes para diminuir significativamente a satisfação corporal e aumentar a internalização de padrões irreais em mulheres. Dado bombástico e urgente para Priscilla criar conteúdo sobre consumo consciente e autoimagem real.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "Estrelando.com.br / Terra.com.br (2026)",
+      "formatos_alternativos": ["post-estatico"],
+      "fonte": "Estudo PlosOne citado em Estado de Minas — maio/junho 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "A traição de Gracyanne abre a janela para discutir o que ninguém quer falar: por que mulheres traem, e por que isso ainda parece mais 'chocante' do que quando homens fazem o mesmo.",
-          "gancho": "Gracyanne Barbosa traiu Belo após 16 anos juntos. E a reação das pessoas diz mais sobre nós do que sobre ela.",
+          "ideia_central": "8 minutos de TikTok são suficientes para alterar a percepção que uma mulher tem do próprio corpo — e ninguém está falando sobre isso.",
+          "gancho": "Um estudo científico provou: 8 minutos no TikTok já são suficientes pra destruir a sua autoimagem. 8 minutos.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Gracyanne Barbosa e Belo terminaram depois de 16 anos — e foi ela quem traiu. E o choque que isso causou precisa ser analisado."
+              "fala": "Pesquisadores provaram: são só 8 minutos no TikTok pra sua autoimagem despencar. Não 8 horas. 8 minutos."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A separação veio com a revelação de que a musa fitness traiu o cantor. O que se seguiu foi uma onda de julgamentos muito mais intensa do que o habitual — e isso não é por acaso."
+              "fala": "O estudo, publicado na revista PlosOne, analisou mulheres que assistiram a vídeos com padrões de beleza. Resultado: aumento imediato na internalização de padrões irreais, queda na satisfação corporal e aumento de ansiedade com a própria aparência. Tudo em menos de 10 minutos."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Como psicóloga, o que me chama atenção não é a traição em si — é a surpresa coletiva. Por que traição feminina ainda parece mais chocante? Porque ainda carregamos a ideia inconsciente de que a mulher é a guardiã do relacionamento. Quando ela trai, viola um papel que nunca deveria ter sido exclusivamente dela."
+              "fala": "O que o estudo revela não é que o TikTok é o vilão. É que o nosso sistema de comparação está sempre ligado. A plataforma só ativa o que já estava lá: a crença de que você precisa ser diferente do que é para ser suficiente. Isso é o que precisamos tratar — não o app."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você acha que a sociedade julga diferente quando é a mulher que trai? Quero ler sua opinião."
+              "fala": "Você percebe quando as redes afetam como você se enxerga? Preciso saber."
             }
           ],
-          "legenda": "Gracyanne Barbosa e Belo: 16 anos, e foi ela quem traiu. 💔\n\nO caso está em todo lugar — mas o que mais me interessa como psicóloga é a reação das pessoas.\n\nPor que traição feminina ainda causa mais espanto? Por que existe uma sensação de 'traição dupla' quando é a mulher que sai do script?\n\nA resposta está em como ainda enxergamos os papéis de gênero. A mulher como guardiã, como a que deve preservar. Quando ela falha nisso, o julgamento é mais intenso.\n\nIsso não justifica a traição — mas explica muito sobre como ainda estamos presos em padrões muito antigos.\n\n💬 Você já percebeu esse duplo padrão? Me conta.\n\n#GracyanneBarbosa #Belo #Traição #InfidelidadeFeminina #PsicologiaDoAmor #DuploParadrão #PriscilaAndrade #ComportamentoFeminino"
+          "legenda": "8 minutos. É quanto tempo você precisa no TikTok pra sua autoimagem ir pro chão. 📲\n\nUm estudo publicado na revista científica PlosOne testou e comprovou: mulheres que assistiram a vídeos com padrões de beleza — por apenas 8 minutos — apresentaram queda significativa na satisfação com o próprio corpo.\n\nIsso não é fraqueza. É neurociência.\n\nO nosso cérebro foi programado para comparar. As redes amplificam isso com algoritmos que entregam o que mais nos desestabiliza.\n\nMas a notícia boa: consciência sobre o mecanismo já muda a resposta dele.\n\n🔖 Salva esse vídeo — você vai querer rever quando estiver scrollando no automático.\n\n#TikTok #Autoimagem #AutoestimaFeminina #PlosOne #PriscillaAndrade #PsicologiaFeminina #ImagemCorporal #SaudeMental"
         },
-        "carrossel": {
-          "ideia": "Os 4 gatilhos psicológicos mais comuns por trás da infidelidade feminina — usando o caso Gracyanne como âncora.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Por que mulheres traem? (O que a psicologia explica)",
-              "subtitulo": "O caso Gracyanne Barbosa levanta uma conversa necessária"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "A surpresa que não deveria ser surpresa",
-              "texto": "Gracyanne traiu Belo após 16 anos juntos — e o choque coletivo foi enorme. Mas infidelidade feminina é mais comum do que os dados mostram. Mulheres simplesmente falam menos sobre isso."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Os 4 gatilhos mais comuns",
-              "texto": "1. Desconexão emocional prolongada\n2. Necessidade de validação não atendida pelo parceiro\n3. Perda de identidade dentro do relacionamento\n4. Busca por novidade após anos de rotina intensa"
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "A traição feminina muitas vezes começa antes do ato físico — começa no silêncio, na necessidade não dita, na solidão dentro do próprio relacionamento. É um sinal de que algo não estava sendo endereçado há muito tempo."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Já sentiu essa solidão dentro de um relacionamento? Salva esse carrossel — essa conversa é necessária."
-            }
-          ],
-          "legenda": "Sobre o caso Gracyanne Barbosa e o que ele revela sobre infidelidade feminina 👇\n\nTraição feminina ainda é tabu — e é por isso que precisamos falar sobre ela com seriedade.\n\nDesliza para entender os gatilhos psicológicos por trás disso.\n\n💬 Qual card te tocou mais? Me conta nos comentários.\n\n#GracyanneBarbosa #InfidelidadeFeminina #Traição #PsicologiaDoRelacionamento #PriscilaAndrade #ComportamentoFeminino"
+        "post-estatico": {
+          "ideia": "O dado do estudo PlosOne transformado em arte de impacto — número em destaque com contexto mínimo.",
+          "titulo_visual": "8 minutos no TikTok já alteram a sua autoimagem (ciência provou)",
+          "legenda": "Você sabia? Um estudo publicado na revista PlosOne revelou que apenas 8 minutos assistindo vídeos com padrões de beleza no TikTok são suficientes para diminuir a satisfação corporal de mulheres. ⏱️\n\nIsso não é opinião. É dado científico.\n\nE se 8 minutos já causam isso — o que horas de scroll fazem com a nossa mente todos os dias?\n\nComo psicóloga especializada em comportamento feminino, eu acompanho isso de perto. O primeiro passo é consciência.\n\n💬 Você sente esse impacto no seu dia a dia? Me conta.\n\n#Autoimagem #TikTok #PsicologiaFeminina #PriscillaAndrade #AutoEstima #SaudeMentalFeminina",
+          "cta": "Você já parou pra notar como se sente depois de um longo scroll? Me conta nos comentários."
         }
       }
     },
     {
       "id": 4,
-      "titulo": "Beige Flags: a nova tendência viral que está mudando como avaliamos parceiros",
-      "resumo": "As 'beige flags' explodiram nas redes como evolução das red flags — representando manias curiosas ou excentricidades que não são perigosas mas revelam muito sobre uma pessoa. O debate é relevante porque expõe como estamos nos tornando cada vez mais rígidos nos critérios de parceiro ideal, e onde essa rigidez pode tornar-se um obstáculo real para conexões autênticas.",
+      "titulo": "Beige flags: o conceito viral que revela a maturidade emocional das mulheres",
+      "resumo": "A expressão 'beige flag' — comportamentos esquisitos mas inofensivos do parceiro — tomou conta do TikTok e Instagram e representa uma mudança importante: mulheres aprendendo a diferenciar o que é realmente perigoso do que é apenas diferente. Priscilla pode usar a tendência para falar de calibragem emocional e relacionamentos com perspectiva.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "post-estatico"
-      ],
-      "fonte": "BonsFluidos.com.br / Metrópoles (2026)",
+      "formatos_alternativos": ["carrossel"],
+      "fonte": "BonsFluidos.com.br e discussão viral no TikTok — 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "As 'beige flags' viralizaram — e o debate revela algo importante: estamos confundindo excentricidade com incompatibilidade, o que pode estar nos impedindo de construir relacionamentos reais.",
-          "gancho": "Beige flag é o novo hit das redes. Mas cuidado — tem muita gente usando isso para eliminar parceiros perfeitos.",
+          "ideia_central": "As beige flags viralizam porque as mulheres estão aprendendo a distinguir o que é perigo do que é diferença — e isso é evolução real.",
+          "gancho": "Red flag virou meme. Agora tem beige flag. E eu preciso te contar o que essa tendência revela sobre como as mulheres estão amadurecendo nos relacionamentos.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Você já ouviu falar em beige flag? Está viral agora — e como psicóloga, tenho uma opinião sobre isso que vai te surpreender."
+              "fala": "Beige flag: o novo viral que veio substituir o red flag. E eu — como psicóloga — fiquei animada com isso."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Beige flag é o novo conceito dominando os stories: aquelas manias esquisitas, hábitos curiosos, excentricidades do parceiro que não são sinal de perigo, mas que chamam atenção. Organizar a despensa por tamanho, dormir só com uma almofada específica, comer pizza fria no café da manhã."
+              "fala": "A beige flag é aquele comportamento esquisito, engraçado ou levemente irritante do parceiro que não é perigoso — é só peculiar. Ele come comida fria de propósito. Organiza meias por estação. Faz o mesmo playlist há três anos. Esquisito. Mas não te machuca."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "O problema é que estamos numa era de hipercategorização dos relacionamentos. Red flag, green flag, beige flag... Em algum momento, estamos usando essas etiquetas para desumanizar parceiros potenciais, transformando comportamentos humanos normais em critérios de eliminação. Ninguém vai ser 100% verde. Todo mundo tem suas beige flags."
+              "fala": "O que essa tendência revela é poderoso: as mulheres estão aprendendo a calibrar o alerta. Porque quando tudo é red flag, nada é red flag de verdade. Saber distinguir o que é perigo do que é diferença é uma habilidade emocional real — e sinal de que a conversa sobre relacionamentos está amadurecendo."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Me conta: qual é a beige flag mais estranha do seu parceiro — ou a sua própria? Vou ler tudo."
+              "fala": "Me conta nos comentários: qual é a beige flag mais icônica do seu parceiro ou de alguém que você conhece?"
             }
           ],
-          "legenda": "Beige flag está em todo lado 🟡 — e eu precisava falar sobre isso.\n\nO conceito em si é divertido. O problema é quando essas categorias viram ferramenta de eliminação de pessoas reais.\n\nA hipercategorização dos relacionamentos é um fenômeno novo — e perigoso. Estamos desenvolvendo intolerância a tudo que não é 'perfeito' antes mesmo de nos permitirmos conhecer alguém de verdade.\n\nRelacionamentos reais são imperfeitos. Parceiros reais têm manias. E tudo bem.\n\n💬 Qual é a beige flag mais icônica que você já encontrou — ou que você mesma tem? 😂\n\n#BeigeFlag #RedFlag #Relacionamentos #PsicologiaDoAmor #PriscilaAndrade #ComportamentoFeminino #TendênciasDeNamoro"
+          "legenda": "Red flag virou meme. E agora veio a beige flag 🚩🟤\n\nBeige flag são aqueles comportamentos esquisitos, levemente irritantes mas completamente inofensivos que o parceiro tem. Ele coleciona embalagens vazias. Responde mensagem com áudio de 3 segundos sobre absolutamente nada. Tem ritual de café que levaria 40 minutos explicar.\n\nNão é perigoso. É só peculiar.\n\nComo psicóloga, eu adorei essa tendência. Porque ela revela algo importante: as mulheres estão aprendendo a calibrar o alerta emocional.\n\nQuando tudo vira red flag, a palavra perde o peso. A beige flag devolve a perspectiva: isso é quirky, não tóxico. Isso me irrita, não me machuca. Essa distinção é saúde emocional de verdade.\n\n🟤 Qual é a beige flag mais engraçada que você já topou?\n\n#BeigeFlag #RedFlag #Relacionamento #PsicologiaFeminina #PriscillaAndrade #ComportamentoFeminino #RelacionamentoSaudavel"
         },
-        "post-estatico": {
-          "ideia": "Frase provocativa sobre a era das etiquetas nos relacionamentos.",
-          "titulo_visual": "\"Você não quer um parceiro perfeito. Você quer um parceiro real.\"",
-          "legenda": "Beige flags, red flags, green flags... Em algum momento, paramos de ver pessoas e começamos a ver listas de critérios. 🟡🔴🟢\n\nRelacionamentos reais são construídos com imperfeições — não apesar delas.\n\n💬 Salva esse post e marca quem precisa ouvir isso.\n\n#BeigeFlag #Relacionamentos #PsicologiaDoAmor #PriscilaAndrade #AmorReal #ComportamentoFeminino",
-          "cta": "Salva esse post e marca alguém que está no modo 'eliminação' de parceiros."
+        "carrossel": {
+          "ideia": "Red flag vs Beige flag vs Green flag: guia prático para calibrar o alerta emocional.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "Red flag, beige flag, green flag: você sabe a diferença?",
+              "subtitulo": "O guia que está viralizando — com o olhar da psicóloga"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O que é beige flag?",
+              "texto": "É o comportamento esquisito mas inofensivo do parceiro. Ele assiste ao mesmo filme todo final de semana. Come pizza fria de manhã. Tem um apelido para cada objeto da casa. Esquisito? Sim. Perigoso? Não."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Por que isso importa?",
+              "texto": "Quando tudo vira red flag, a palavra perde peso. Confundir 'diferente' com 'perigoso' gera ansiedade desnecessária e afasta relacionamentos que poderiam ser bons. A beige flag devolve a perspectiva."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "A distinção que muda tudo",
+              "texto": "🚩 Red flag = comportamento que te machuca ou viola seus limites.\n🟤 Beige flag = comportamento que te irrita mas não te faz mal.\n✅ Green flag = comportamento que te faz sentir segura e respeitada.\n\nSaber distinguir é habilidade emocional."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "E você?",
+              "texto": "Qual é a beige flag mais engraçada que você já encontrou? Me conta aqui nos comentários! 👇"
+            }
+          ],
+          "legenda": "Red flag, beige flag, green flag — você sabe diferenciar? 🚩🟤✅\n\nEssa tendência viral tem um lado psicológico poderoso. Arrasta pra entender!\n\n#BeigeFlag #RedFlag #GreenFlag #Relacionamento #PriscillaAndrade #PsicologiaDoAmor #ComportamentoFeminino"
         }
       }
     },
     {
       "id": 5,
-      "titulo": "7 em 10 mulheres sentem pressão constante para estar apresentáveis — o que os influencers têm a ver com isso",
-      "resumo": "Artigo do Estado de Minas (maio 2026) revelou que 7 em 10 jovens mulheres sentem pressão para estar sempre arranjadas — dado que especialistas associam diretamente ao consumo de conteúdo estético nas redes sociais. É o gancho ideal para discutir a diferença entre cuidar-se por amor próprio versus cuidar-se por aprovação externa.",
-      "pilar": "Autoimagem & Identidade",
+      "titulo": "143% a mais de afastamentos por saúde mental em 2025 — e as mulheres lideram",
+      "resumo": "Dados recentes mostram crescimento de 143% nos afastamentos por transtornos mentais em 2025, com quase 500 mil licenças médicas. As mulheres são as mais afetadas: 34,2% com diagnóstico de ansiedade versus 18,9% dos homens. Priscilla pode criar conteúdo urgente conectando esses números com jornada dupla, silêncio feminino e o esgotamento como resposta sistêmica.",
+      "pilar": "Estilo de Vida & Espiritualidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "lo-fi"
-      ],
-      "fonte": "Estado de Minas — em.com.br/trends/2026/05/7411932-a-pressao-estetica-nas-redes-o-impacto-de-influencers-na-autoestima (maio 2026)",
+      "formatos_alternativos": ["carrossel"],
+      "fonte": "JuínaNews / Portal Mato Grosso / CNN Brasil — 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O dado de 7 em 10 mulheres sob pressão estética escancara a diferença central: você se cuida para si ou para o olhar dos outros?",
-          "gancho": "7 em 10 mulheres sentem pressão para estar sempre apresentáveis. Isso não é vaidade — isso é exaustão.",
+          "ideia_central": "O crescimento de 143% nos afastamentos por saúde mental não é crise individual — é o preço de uma sociedade que ensinou mulheres a aguentar.",
+          "gancho": "143% de aumento em afastamentos por saúde mental em 2025. E sabe quem está no topo dessa lista? Mulheres.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Sete em cada dez mulheres sentem pressão para estar sempre apresentáveis. Um dado saiu esse mês — e ele precisa ser discutido a sério."
+              "fala": "143%. Esse foi o aumento de afastamentos por saúde mental no Brasil em 2025. Quase 500 mil licenças médicas por causas psicológicas. E as mais afetadas são mulheres."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Uma pesquisa divulgada pelo Estado de Minas em maio mostrou que a exposição constante a influencers estéticos nas redes está diretamente ligada ao aumento de ansiedade com aparência, dismorfia corporal e insatisfação — especialmente entre mulheres de 18 a 35 anos."
+              "fala": "As mulheres brasileiras têm duas vezes mais diagnóstico de ansiedade que os homens — 34,2% versus 18,9%. Isso não é coincidência. É o resultado de anos de jornada dupla, tripla, de silenciar o próprio esgotamento, de ser cobrada por dentro e por fora ao mesmo tempo."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Como psicóloga, diferencio dois tipos de cuidado com a aparência: o que nasce de dentro — do prazer, do autocuidado — e o que nasce do medo — medo de não ser o suficiente, de desagradar, de ser vista sem filtro. O segundo não te faz sentir bem mesmo depois de 'ficar pronta'. Ele só alimenta a próxima insegurança."
+              "fala": "O ponto que ninguém fala: o afastamento por saúde mental ainda é tratado como fraqueza individual. Mas esses números contam outra história — a de um sistema que nunca foi desenhado para suportar o peso que as mulheres carregam. O colapso não é falha sua. É resposta de um corpo que chegou no limite."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Quando você se arruma de manhã, é para você ou para o olhar dos outros? Seja honesta — isso importa."
+              "fala": "Você já chegou no seu limite e foi em frente mesmo assim? Preciso ouvir você."
             }
           ],
-          "legenda": "7 em 10 mulheres sentem pressão para estar sempre apresentáveis 😔\n\nEsse número saiu essa semana — e eu não consigo parar de pensar nele.\n\nPorque existe uma diferença enorme entre se cuidar por amor próprio e se cuidar por medo do julgamento.\n\nO primeiro te energiza. O segundo te esgota.\n\nE enquanto o feed encher de antes-e-depois, transformações impossíveis e corpos que parecem criados por IA... esse número só vai crescer.\n\nSe você sente esse peso, você não está sozinha. E não é fraqueza. É um sistema construído para fazer você se sentir insuficiente.\n\n💬 Você se identifica com esse dado? Me conta.\n\n#PressãoEstética #Autoestima #ImagemCorporal #SaúdeMental #Influencers #PriscilaAndrade #AutoestimaMulher #AmorPróprio"
+          "legenda": "143% de aumento em afastamentos por saúde mental em 2025. Quase 500 mil licenças médicas. 📊\n\nE entre as mulheres: 34,2% com diagnóstico de ansiedade. Mais do que o dobro dos homens.\n\nIsso não é epidemia de fraqueza. É a conta chegando.\n\nAnos de jornada dupla. De ser forte quando não aguenta mais. De colocar todo mundo na frente.\n\nO corpo não esquece. E um dia ele para.\n\nComo psicóloga, eu atendo mulheres todos os dias que só chegam ao consultório depois que o corpo forçou a parada.\n\nVocê não precisa esperar chegar no limite.\n\n💙 Salva esse vídeo e manda pra uma mulher que você sabe que está no limite agora.\n\n#SaudeMental #Burnout #MulheresBrasileiras #PriscillaAndrade #AnsiedadeFeminina #PsicologiaFeminina #EsgotamentoEmocional"
         },
-        "lo-fi": {
-          "ideia": "Conversa direta e íntima sobre a pressão estética, ancorando no dado e conectando com a experiência pessoal das seguidoras.",
-          "gancho": "Esse número me parou: 7 em 10 mulheres sentem pressão para estar sempre arranjadas. Eu preciso falar sobre isso.",
-          "o_que_falar": [
-            "Ponto 1 — Contextualiza o dado: 'Um artigo do Estado de Minas, publicado esse mês, mostrou que a exposição constante a influencers estéticos no Instagram está diretamente ligada à ansiedade com aparência em mulheres jovens.'",
-            "Ponto 2 — Insight psicológico: 'Tem uma diferença que ensino no consultório: você faz isso por prazer ou por medo? Se você precisa estar pronta para se sentir digna de sair de casa, isso não é autocuidado — é uma ansiedade se manifestando.'",
-            "Ponto 3 — Conexão com a realidade das seguidoras: 'Quantas de vocês já adiaram uma saída porque não estavam apresentáveis? Ou se sentiram menos válidas porque a aparência não estava ideal?'",
-            "Ponto 4 — CTA: 'Hoje, tenta fazer uma coisa só para você. Não para o Instagram, não para os outros. Só para você. E me conta como foi.'"
+        "carrossel": {
+          "ideia": "5 sinais de que o seu corpo está pedindo parada — antes que ele force você a parar.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "143% de aumento em afastamentos por saúde mental em 2025",
+              "subtitulo": "5 sinais de que seu corpo está pedindo socorro antes de forçar a parada"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "Os números que o Brasil precisa ver",
+              "texto": "2025 registrou 143% de aumento em afastamentos por saúde mental. Quase 500 mil licenças médicas. Mulheres lideram: 34,2% com ansiedade vs 18,9% dos homens. Esse número não é acidente."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Por que as mulheres lideram esse dado?",
+              "texto": "Jornada dupla ou tripla. Pressão estética. Cobranças emocionais que os homens não carregam da mesma forma. Cultura do 'aguentar'. O corpo absorve tudo isso — até não conseguir mais."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "Sinais de alerta que você pode estar ignorando",
+              "texto": "1. Dormir muito mas acordar exausta\n2. Chorar sem saber o motivo\n3. Irritação constante com coisas pequenas\n4. Dificuldade de sentir prazer em coisas que amava\n5. Sensação de estar no automático"
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "Você se reconheceu?",
+              "texto": "Você não precisa esperar o colapso para cuidar da sua saúde mental. Me manda uma mensagem ou comenta aqui. Esse é o primeiro passo. 💙"
+            }
           ],
-          "legenda": "Esse dado me impactou muito essa semana 👇\n\n7 em 10 mulheres sentem pressão constante para estar apresentáveis.\n\nFalei sobre a diferença entre autocuidado e autocobrança — assiste e me conta: você se reconheceu?\n\n#PressãoEstética #AutoestimaMulher #AmorPróprio #PriscilaAndrade #ComportamentoFeminino #ImagemCorporal",
-          "vibe": "Câmera próxima, luz natural, tom acolhedor e autêntico. Sem produção excessiva — a vibe de autenticidade reforça a mensagem. Sentada à mesa ou no sofá, olhando direto para a câmera."
+          "legenda": "Seu corpo está tentando te falar algo. Você está ouvindo? 💙\n\n143% de aumento em afastamentos por saúde mental no Brasil em 2025. Arrasta pro lado e veja os sinais de alerta.\n\n#SaudeMental #BurnoutFeminino #PriscillaAndrade #PsicologiaFeminina #MulherNoLimite #AnsiedadeFeminina"
         }
       }
     },
     {
       "id": 6,
-      "titulo": "Campanha Maio Furta-Cor: 34% das mulheres têm ansiedade e a maioria nunca pediu ajuda",
-      "resumo": "A Campanha Maio Furta-Cor encerrou o mês ampliando o debate sobre saúde mental materna, enquanto dados apontam que 34,2% das mulheres brasileiras têm ansiedade diagnosticada e 18,1% têm depressão. O momento é ideal para transformar esses números em conversa real sobre a exaustão feminina invisível que foi normalizada como 'jeito de ser'.",
-      "pilar": "Estilo de Vida & Espiritualidade",
+      "titulo": "49% das mulheres desconfiam do 'feministo' — o novo filtro feminino nos relacionamentos",
+      "resumo": "Pesquisa da CNN Brasil sobre tendências de relacionamento em 2026 revelou que 49% das mulheres desconfiam de homens com discurso feminista exagerado ou performático. O dado abre discussão rica sobre autenticidade em relacionamentos, o que as mulheres realmente buscam hoje e a diferença entre valores reais e performance de valores.",
+      "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "Portal AZ (portalaz.com.br/noticia/saude/94580) / CNN Brasil — cnnbrasil.com.br/saude/mulheres-sao-mais-vulneraveis-a-transtornos-mentais (2026)",
+      "formatos_alternativos": ["lo-fi"],
+      "fonte": "CNN Brasil — Tendências de Relacionamento 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O número de 34% é a ponta do iceberg — Priscilla quer falar sobre o que está submerso: a exaustão silenciosa que as mulheres normalizaram como personalidade.",
-          "gancho": "34% das mulheres brasileiras têm ansiedade diagnosticada. Mas quantas vivem com ela sem nunca ter recebido um diagnóstico?",
+          "ideia_central": "As mulheres não querem performance feminista — querem comportamento real. E elas aprenderam a distinguir um do outro.",
+          "gancho": "Pesquisa revelou: 49% das mulheres desconfiam do homem que se diz feminista. E isso não é contradição — é inteligência emocional.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "34 por cento das mulheres brasileiras têm ansiedade diagnosticada. E esse número não te conta tudo."
+              "fala": "49% das mulheres desconfiam do homem que faz discurso feminista. Uma pesquisa revelou isso — e eu preciso explicar por que isso é completamente coerente."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A Campanha Maio Furta-Cor encerrou o mês falando sobre saúde mental materna — e junto com ela vieram dados que precisam parar de ser tratados como estatística. 34,2% com ansiedade. 18,1% com depressão. Mulheres têm de 2 a 3 vezes mais chances de desenvolver transtornos mentais do que homens."
+              "fala": "A pesquisa da CNN Brasil sobre tendências de relacionamento em 2026 mostrou que quase metade das mulheres brasileiras fica em alerta quando o cara usa o feminismo como cartão de apresentação. Não é porque elas não querem igualdade. É porque elas já viram esse discurso usado como estratégia de sedução."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "O que me preocupa não é só o diagnóstico — é a normalização. Quantas mulheres me dizem 'eu sempre fui assim' quando descrevem sintomas de ansiedade que duram anos? A exaustão, a preocupação constante, o corpo que nunca relaxa — isso foi tão normalizado que virou 'personalidade'."
+              "fala": "Como psicóloga, eu vejo isso como evolução. As mulheres aprenderam que valores não se declaram — se demonstram. A pergunta não é 'ele fala como feminista?' É 'ele age com respeito quando a câmera desliga?' Desconfiar de performance é sabedoria, não ingratidão."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Se você se reconheceu aí, salva esse vídeo. E me conta: você já procurou ajuda profissional?"
+              "fala": "Você já topou um homem cujo discurso era perfeito mas o comportamento era outro? Me conta."
             }
           ],
-          "legenda": "Esse número precisa parar de ser só uma estatística 📊\n\n34,2% das mulheres brasileiras têm ansiedade diagnosticada.\nMas quantas vivem com isso sem nunca ter recebido um diagnóstico?\n\nA Campanha Maio Furta-Cor encerrou o mês trazendo esse debate à tona — e eu quero continuar essa conversa.\n\nPorque o que mais vejo no consultório não é mulher que nunca ouviu falar de ansiedade. É mulher que normalizou a ansiedade como 'jeito de ser'.\n\n'Eu sempre fui assim.'\n'É minha personalidade.'\n'Todas as mulheres são assim.'\n\nNão são. E você não precisa continuar sendo.\n\n💬 Você já procurou ajuda para saúde mental? Sem julgamento aqui.\n\n#MaioFurtaCor #SaúdeMental #Ansiedade #Depressão #PriscilaAndrade #PsicologiaFeminina #SaúdeMentalFeminina #Autocuidado"
+          "legenda": "49% das mulheres desconfiam do 'feministo'. E eu aplaudo. 👏\n\nNão porque feminismo seja errado. Mas porque as mulheres aprenderam a distinguir valor real de performance de valor.\n\nEla viu o cara que falava de igualdade mas mandava ela lavar a louça. Que dizia respeitar mulheres mas monitorava o celular dela. Que usava o discurso como estratégia de sedução.\n\nDesconfiar de performance é inteligência emocional, não contradição.\n\nOs valores reais aparecem no comportamento cotidiano — não no discurso de apresentação.\n\n💬 Você já topou um 'feministo performático'? O que foi o sinal de alerta?\n\n#Feminismo #Relacionamento #PsicologiaFeminina #PriscillaAndrade #ComportamentoFeminino #RelacionamentoSaudavel #InteligenciaEmocional"
         },
-        "carrossel": {
-          "ideia": "5 sinais de que o que você chama de 'jeito de ser' pode ser ansiedade não tratada — ancorado nos dados da Campanha Maio Furta-Cor.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "5 sinais de que você normalizou a ansiedade sem perceber",
-              "subtitulo": "34% das mulheres têm ansiedade diagnosticada. Mas quantas nem sabem?"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O que os dados revelam",
-              "texto": "A Campanha Maio Furta-Cor encerrou com dados preocupantes: 34,2% das mulheres brasileiras têm ansiedade diagnosticada e 18,1% têm depressão. Mulheres têm 2 a 3x mais chance de desenvolver transtornos mentais do que homens."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Os 5 sinais",
-              "texto": "1. Corpo que nunca relaxa de verdade\n2. Preocupação constante que você chama de 'ser responsável'\n3. Irritabilidade que você atribui ao ciclo ou ao cansaço\n4. Dificuldade para dormir que você normalizou\n5. Sensação de que precisa dar conta de tudo sozinha — sempre"
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "Ansiedade não tratada vai moldando a personalidade. A mulher começa a se definir pelos sintomas sem saber que são sintomas. 'Eu sou ansiosa' vira identidade em vez de condição tratável."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Quantos desses sinais você reconheceu? Salva esse carrossel e compartilha com alguém que precisa ouvir isso."
-            }
+        "lo-fi": {
+          "ideia": "Conversa direta e descontraída sobre o dado da pesquisa — tom de amiga que entende do assunto.",
+          "gancho": "Achei esse dado incrível: metade das mulheres desconfia do cara que se diz feminista. Deixa eu te contar por que eu acho isso ótimo.",
+          "o_que_falar": [
+            "Apresenta o dado: 49% das mulheres brasileiras desconfiam do discurso feminista performático em homens — pesquisa CNN Brasil 2026.",
+            "Insight psicológico: isso não é contradição. As mulheres distinguem quem fala de quem age. Já viram esse discurso sendo usado como ferramenta de sedução.",
+            "Conexão com a vida delas: você provavelmente conhece alguém assim — o cara perfeito no discurso e problemático no comportamento privado.",
+            "CTA: me conta nos comentários se você já topou esse perfil e qual foi o sinal que te fez perceber."
           ],
-          "legenda": "Maio Furta-Cor encerrou — mas essa conversa não pode parar 🧠💜\n\nDesliza para os 5 sinais de que você pode ter normalizado a ansiedade sem perceber.\n\n💬 Qual ressoou mais com você? Me conta.\n\n#MaioFurtaCor #Ansiedade #SaúdeMental #PriscilaAndrade #PsicologiaFeminina #Autocuidado #MulheresSaúde"
+          "legenda": "Metade das mulheres desconfia do 'feministo' — e isso é sinal de evolução emocional coletiva 🧠\n\n#Relacionamento #PsicologiaFeminina #PriscillaAndrade #ComportamentoFeminino #Feminismo",
+          "vibe": "De pé ou sentada de forma casual, luz natural, câmera próxima do rosto. Tom descontraído e direto, como se estivesse contando uma descoberta pra uma amiga."
         }
       }
     },
     {
       "id": 7,
-      "titulo": "Dia dos Namorados solo: o que a mulher solteira no 12/6 precisa ouvir antes que o feed seja cruel",
-      "resumo": "Com o Dia dos Namorados chegando em 12 de junho, o Brasil entra na semana de maior pressão simbólica sobre quem está solteiro. A data é um gatilho para ansiedade relacional — especialmente para mulheres que internalizam a solteirice como fracasso pessoal. Conteúdo publicado agora tem o timing perfeito para chegar antes do pico de tristeza.",
-      "pilar": "Casamento & Relacionamento",
+      "titulo": "Sagrado Feminino vira tendência de saúde emocional no Brasil — o que está por trás disso",
+      "resumo": "Relatórios de 2026 apontam crescimento expressivo na busca por abordagens integrativas e práticas do Sagrado Feminino no Brasil. A tendência é real e crescente no público de Priscilla, abrindo espaço para ela posicionar a psicologia como aliada, não concorrente, desse movimento espiritual.",
+      "pilar": "Estilo de Vida & Espiritualidade",
       "urgencia": "semana",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "post-estatico"
-      ],
-      "fonte": "Data do calendário brasileiro — 12 de junho / contexto cultural",
+      "formatos_alternativos": ["lo-fi"],
+      "fonte": "Joie de Vivre Monde / AN9 / Terra.com.br — 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O Dia dos Namorados ativa uma ansiedade relacional específica em mulheres solteiras — Priscilla quer nomear isso antes que o feed faça isso de forma cruel.",
-          "gancho": "O Dia dos Namorados está chegando — e esse vídeo é para você que vai passar o dia 12 com ela mesma.",
+          "ideia_central": "O crescimento do Sagrado Feminino no Brasil não é modinha espiritual — é resposta a uma necessidade emocional real que a medicina convencional não está entregando.",
+          "gancho": "Por que tantas mulheres estão buscando o Sagrado Feminino em 2026? Como psicóloga, eu tenho uma resposta que vai te surpreender.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Dia 12 de junho está chegando. E se você vai passar o Dia dos Namorados sozinha, esse vídeo é para você."
+              "fala": "O Sagrado Feminino está em alta no Brasil em 2026 — e eu, como psicóloga, vou te contar o que está por trás disso. Spoiler: não é o que você pensa."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Nos próximos dias, seu feed vai encher de casais, declarações, buquês e histórias de amor. E se você estiver solteira, existe uma voz interna muito específica que vai começar a falar mais alto: 'O que há de errado comigo?'"
+              "fala": "Relatórios recentes mostram crescimento expressivo na busca por práticas integrativas femininas: rituais com a lua, reconexão com ciclos naturais, círculos de mulheres, terapias integrativas. Milhares de mulheres estão buscando isso ativamente."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Como psicóloga, preciso te dizer: solteirice no Dia dos Namorados não é fracasso. É ausência de um relacionamento — e há uma diferença enorme entre essas duas coisas. A dor que você vai sentir nos próximos dias não é sobre você ser insuficiente. É sobre um calendário que foi criado para fazer você sentir que é."
+              "fala": "Como psicóloga, eu entendo esse movimento como resposta a uma necessidade real: as mulheres estão famintas por autoconhecimento, pertencimento e permissão para desacelerar. O Sagrado Feminino entrega exatamente isso. O risco só aparece quando substitui o cuidado emocional real por ritual sem ancoragem."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Salva esse vídeo para o dia 12. E me conta: como você costuma se sentir nessa data?"
+              "fala": "Você pratica alguma dessas abordagens? Me conta — e como isso impactou sua saúde emocional."
             }
           ],
-          "legenda": "Para quem vai passar o Dia dos Namorados sozinha 🌹\n\nEsse vídeo é para você.\n\nNos próximos dias, o feed vai ser impiedoso. E eu quero que você tenha esse lembrete guardado:\n\nSolteirice não é fracasso.\nÉ ausência de um relacionamento.\nE há uma diferença enorme entre essas duas coisas.\n\nO Dia dos Namorados foi criado para vender — não para medir o seu valor.\n\n💬 Como você costuma se sentir nessa data? Sem julgamento aqui.\n\n#DiaDoNamorados #Solteira #AmorPróprio #PriscilaAndrade #PsicologiaFeminina #AutoEstimaMulher #12deJunho"
+          "legenda": "O Sagrado Feminino está crescendo no Brasil — e como psicóloga, eu preciso falar sobre isso com honestidade. 🌙\n\nNão é modinha. É resposta.\n\nAs mulheres estão buscando o que a vida acelerada tirou delas: autoconhecimento, conexão com o próprio corpo, pertencimento, permissão para desacelerar.\n\nA psicologia e a espiritualidade não são opostas. Quando caminham juntas com consciência, são aliadas poderosas.\n\nO cuidado é só um: espiritualidade sem ancoragem emocional pode virar fuga. A reconexão precisa ser real, não só estética.\n\n🌙 Você tem alguma prática espiritual que faz parte do seu autocuidado?\n\n#SagradoFeminino #Espiritualidade #AutocuidadoFeminino #PriscillaAndrade #PsicologiaFeminina #AutoConhecimento"
         },
-        "post-estatico": {
-          "ideia": "Frase de acolhimento direto para mulheres solteiras no Dia dos Namorados.",
-          "titulo_visual": "\"Você não está sozinha porque é insuficiente. Você está sozinha porque ainda não encontrou quem merece você.\"",
-          "legenda": "Para quem o dia 12 de junho vai ser um pouco mais pesado 🌹\n\nO Dia dos Namorados foi criado para vender flores — não para medir o seu valor.\n\nSalva esse post. Você vai precisar no dia 12.\n\n💬 Manda para uma amiga que precisa ouvir isso.\n\n#DiaDoNamorados #Solteira #AmorPróprio #PriscilaAndrade #PsicologiaFeminina #AutoEstimaMulher",
-          "cta": "Salva e manda para uma amiga solteira que merece esse lembrete."
+        "lo-fi": {
+          "ideia": "Conversa autêntica sobre espiritualidade feminina com o olhar da psicóloga — sem julgamento, sem dogma.",
+          "gancho": "Eu precisava falar sobre o crescimento do Sagrado Feminino no Brasil. Como psicóloga, tenho uma visão que talvez você não espere.",
+          "o_que_falar": [
+            "Contextualiza: dados de 2026 mostram crescimento real na busca por práticas integrativas femininas — rituais lunares, círculos de mulheres, reconexão com o corpo.",
+            "Insight: do ponto de vista psicológico, esse movimento é a resposta a uma necessidade de autoconhecimento, pertencimento e desaceleração que a vida moderna não entrega.",
+            "Nuance: espiritualidade e psicologia podem caminhar juntas. O risco só aparece quando a prática espiritual vira fuga de processar emoções reais.",
+            "CTA: conta pra mim — você tem alguma prática espiritual? Como ela impacta sua saúde emocional?"
+          ],
+          "legenda": "Sobre o crescimento do Sagrado Feminino — minha visão como psicóloga 🌙\n\n#SagradoFeminino #PsicologiaFeminina #PriscillaAndrade #AutoConhecimento #Espiritualidade",
+          "vibe": "Câmera estática, luz quente ou natural. Tom contemplativo e respeitoso, sem julgamento. Como se estivesse refletindo em voz alta."
         }
       }
     },
     {
       "id": 8,
-      "titulo": "4 em cada 10 empresas abertas em 2025 foram por mulheres — mas ninguém fala do peso emocional disso",
-      "resumo": "A Agência Brasil divulgou em maio de 2026 que mais de 2 milhões de pequenos negócios foram abertos por mulheres em 2025, representando 40% de todos os novos empreendimentos do país. É a abertura para a conversa que falta: o custo emocional e relacional do empreendedorismo feminino — síndrome da impostora, culpa, sobrecarga e burnout silencioso.",
+      "titulo": "2 milhões de negócios abertos por mulheres em 2025 — a revolução silenciosa da autonomia",
+      "resumo": "Mais de 2 milhões de pequenos negócios abertos em 2025 foram liderados por mulheres no Brasil — 4 em cada 10 novos negócios, aumento de 320 mil em relação a 2024. O dado é poderoso para Priscilla criar conteúdo sobre autonomia financeira, identidade feminina e como o empreendedorismo transforma além da renda.",
       "pilar": "Posicionamento & Carreira",
       "urgencia": "semana",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "Agência Brasil — agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-04/mulheres-empreendem-em-bioeconomia (maio 2026)",
+      "formatos_alternativos": ["post-estatico"],
+      "fonte": "Agência Brasil / EBC — abril/maio 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O boom do empreendedorismo feminino é real — mas ninguém está falando sobre o que sustenta essa mulher por dentro enquanto ela sustenta o negócio por fora.",
-          "gancho": "4 em cada 10 empresas abertas no Brasil em 2025 foram por mulheres. Incrível. Mas quem está cuidando da saúde mental dessas mulheres?",
+          "ideia_central": "2 milhões de negócios abertos por mulheres em 2025 não é estatística — é revolução silenciosa de identidade e autonomia.",
+          "gancho": "2 milhões de novos negócios abertos por mulheres em 2025. Um dado que o Brasil inteiro deveria estar comemorando — mas quase ninguém falou.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "4 em cada 10 empresas abertas no Brasil no ano passado foram fundadas por mulheres. Esse é um número histórico. E precisa de uma conversa que ainda não está acontecendo."
+              "fala": "4 em cada 10 novos negócios abertos no Brasil em 2025 foram por mulheres. Mais de 2 milhões. E esse número diz algo muito além de empreendedorismo."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A Agência Brasil divulgou em maio que mais de 2 milhões de novos pequenos negócios foram criados por mulheres em 2025. O empreendedorismo feminino está crescendo em ritmo acelerado — e isso é motivo de celebração, sem dúvida."
+              "fala": "Os dados da Agência Brasil mostram: mais de 320 mil negócios a mais do que em 2024. As mulheres brasileiras estão construindo autonomia financeira em ritmo acelerado — em áreas que vão de bioeconomia a tecnologia, serviços, beleza e alimentação."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Mas como psicóloga, eu quero falar sobre o que não aparece nos números: a síndrome da impostora que ataca quando o negócio cresce. A culpa de priorizar a empresa em detrimento da família. A dificuldade de cobrar pelo que vale. A mulher que cria um negócio de sucesso e ainda se sente como fraude."
+              "fala": "Como psicóloga, eu leio esse dado como uma mudança de identidade coletiva. A mulher que abre um negócio não está só buscando renda — ela está recusando uma narrativa de dependência. Está construindo um lugar no mundo onde as regras são dela. Isso transforma não só a carteira, mas a autoestima, os relacionamentos e a forma como ela ocupa o espaço."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Se você é empreendedora ou está pensando em empreender, me conta: qual é o maior obstáculo emocional que você enfrenta?"
+              "fala": "Você tem ou sonha ter um negócio próprio? O que te impediu ou te impulsionou? Me conta aqui."
             }
           ],
-          "legenda": "4 em 10 empresas abertas no Brasil foram por mulheres 💼\n\nEsse dado é incrível. E merece ser celebrado.\n\nMas como psicóloga, não consigo deixar de pensar no lado que os dados não mostram:\n\n🔸 A síndrome da impostora que ataca quando o negócio cresce\n🔸 A culpa de colocar o trabalho em primeiro lugar\n🔸 A dificuldade de cobrar pelo que realmente vale\n🔸 O burnout silencioso que ela não se permite sentir\n\nO empreendedorismo feminino é poderoso. Mas a mulher que carrega esse negócio merece suporte emocional também.\n\n💬 Você é empreendedora? Me conta o maior desafio emocional do seu negócio.\n\n#Empreendedorismo #EmpreendedorismoFeminino #MulheresSucesso #PriscilaAndrade #Carreira #SíndromeDaImpostora #PsicologiaFeminina"
+          "legenda": "2 MILHÕES de novos negócios abertos por mulheres em 2025. 🚀\n\n4 em cada 10 novos negócios no Brasil. Crescimento de mais de 320 mil em relação a 2024.\n\nIsso não é só estatística de empreendedorismo. É mudança de identidade.\n\nA mulher que abre um negócio está declarando: eu não vou esperar permissão pra construir o meu espaço.\n\nIsso impacta a autoestima. Os relacionamentos. A forma como ela ocupa os ambientes. O que ela aceita e o que ela recusa.\n\nAutonomia financeira não é só sobre dinheiro — é sobre quem você se torna no processo.\n\n💼 Você é empreendedora ou está pensando em ser? Me conta!\n\n#Empreendedorismo #MulheresEmpreendedoras #AutonomiaFinanceira #PriscillaAndrade #PosicionamentoFeminino #CarreiraFeminina"
         },
-        "carrossel": {
-          "ideia": "Os 4 desafios emocionais mais comuns da mulher empreendedora — ancorados no dado histórico de 40% das empresas abertas por mulheres.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "4 em 10 empresas abertas por mulheres — e a saúde mental delas?",
-              "subtitulo": "O lado emocional do empreendedorismo feminino que ninguém está discutindo"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O dado histórico",
-              "texto": "Em 2025, mais de 2 milhões de pequenos negócios foram abertos por mulheres — 40% de todos os novos empreendimentos do país. O empreendedorismo feminino nunca foi tão forte no Brasil."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Os 4 desafios emocionais mais comuns",
-              "texto": "1. Síndrome da impostora: 'Quem sou eu para cobrar isso?'\n2. Culpa relacional: negócio vs. família\n3. Dificuldade de delegar: perfeccionismo disfarçado de responsabilidade\n4. Burnout silencioso: exaustão que ela não se permite sentir"
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "A mulher empreendedora muitas vezes constrói um negócio sólido por fora enquanto carrega um esgotamento enorme por dentro. O sucesso externo pode mascarar uma crise interna que precisa de atenção."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Qual desses desafios você mais se identificou? Salva e compartilha com uma mulher empreendedora da sua vida."
-            }
-          ],
-          "legenda": "O empreendedorismo feminino está crescendo 🚀 — mas a conversa sobre saúde mental ainda não acompanha esse ritmo.\n\nDesliza para os 4 desafios emocionais que mais afetam mulheres empreendedoras.\n\n💬 Qual ressoou mais com você?\n\n#Empreendedorismo #MulheresEmpreendem #PsicologiaFeminina #PriscilaAndrade #Carreira #SaúdeMentalNoTrabalho"
+        "post-estatico": {
+          "ideia": "Dado impactante em arte minimalista — número em destaque com assinatura e contexto mínimo.",
+          "titulo_visual": "2 milhões de novos negócios abertos por mulheres em 2025 (4 em cada 10 novos CNPJs no Brasil)",
+          "legenda": "Esse dado mudou minha semana. 📊\n\nMais de 2 milhões de pequenos negócios abertos em 2025 foram liderados por mulheres no Brasil — 4 em cada 10. Aumento de mais de 320 mil em relação ao ano anterior.\n\nIsso não é só empreendedorismo. É autonomia. É identidade. É uma mulher construindo um mundo onde as regras são dela.\n\nE do ponto de vista psicológico? Autonomia financeira transforma autoestima, relacionamentos e fronteiras.\n\n💬 Você tem ou quer ter um negócio próprio? O que te move ou o que te trava?\n\n#MulheresEmpreendedoras #AutonomiaFinanceira #PriscillaAndrade #CarreiraFeminina #PosicionamentoFeminino",
+          "cta": "Me conta nos comentários: você é empreendedora?"
         }
       }
     },
     {
       "id": 9,
-      "titulo": "O boom das abordagens integrativas: por que tantas mulheres estão indo além da terapia tradicional",
-      "resumo": "Publicações de 2026 confirmam o crescimento acelerado de práticas que unem psicologia, espiritualidade e Sagrado Feminino entre mulheres brasileiras. Esse movimento não é modismo — é um sinal de que mulheres estão buscando formas mais completas de autoconhecimento. Priscilla pode oferecer o olhar clínico que diferencia cura real de performance espiritual.",
-      "pilar": "Estilo de Vida & Espiritualidade",
+      "titulo": "Slow living domina 2026: a tendência que desafia a produtividade tóxica feminina",
+      "resumo": "O slow living surge como a grande tendência de autocuidado de 2026 — desacelerar, priorizar descanso, cultivar prazer simples. Para Priscilla, o tema conecta diretamente com o público esgotado da cultura do 'dar conta de tudo' e que precisa de permissão psicológica para parar.",
+      "pilar": "Posicionamento & Carreira",
       "urgencia": "semana",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "lo-fi"
-      ],
-      "fonte": "AN9 / Joie de Vivre Magazine — an9.com.br/saude-emocional-feminina-impulsiona-crescimento-de-abordagens-integrativas (2026)",
+      "formatos_alternativos": ["lo-fi"],
+      "fonte": "Estado de Minas / Em.com.br — 2025/2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O crescimento das práticas integrativas entre mulheres não é fuga da terapia — é evolução. Mas nem tudo que promete autoconhecimento, entrega.",
-          "gancho": "Mais e mais mulheres estão indo além da terapia tradicional. E como psicóloga, acho isso incrível — com um porém importante.",
+          "ideia_central": "Slow living não é preguiça — é a resposta de um corpo e mente femininos que foram condicionados a produzir como se existência dependesse de performance.",
+          "gancho": "Slow living é a maior tendência de 2026. E como psicóloga, eu preciso te dizer: isso não é modinha. É necessidade.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Terapia, meditação, Sagrado Feminino, constelação familiar, terapia somática... As mulheres estão buscando formas de se conhecer que vão muito além do consultório. Isso não é modismo."
+              "fala": "Slow living é a maior tendência de autocuidado de 2026. E eu — como psicóloga especializada em comportamento feminino — preciso te contar por que isso não é coincidência."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Pesquisas publicadas em 2026 mostram crescimento expressivo de abordagens integrativas entre mulheres brasileiras — combinando psicologia, espiritualidade, conexão com o corpo e práticas ancestrais. O Sagrado Feminino ganhou força como movimento de autoconhecimento e reconexão com os ciclos naturais."
+              "fala": "Após anos de cultura de produtividade máxima, de hustle culture, de maternidade perfeita mais carreira brilhante mais corpo em forma — o movimento contrário ganhou força. Desacelerar virou ato político."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Como psicóloga com formação clínica, vejo esse movimento com entusiasmo e cuidado. Entusiasmo porque as mulheres estão expandindo sua escuta interna. Cuidado porque precisamos distinguir autoconhecimento real de performance espiritual. O critério é simples: essa prática está te aproximando de você mesma — ou está criando uma nova dependência?"
+              "fala": "Do ponto de vista psicológico, a mulher foi condicionada a provar valor através de produção. Descansar gera culpa. Parar parece fracasso. O slow living quebra esse contrato — e não é preguiça, é reconhecimento de que existência não precisa ser justificada por entrega. Esse é um dos trabalhos mais profundos que faço com minhas pacientes."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você usa alguma prática fora da terapia para se cuidar? Me conta qual é — com curiosidade genuína, sem julgamento."
+              "fala": "Você sente culpa quando descansa? Responde aqui — isso é mais comum do que você imagina."
             }
           ],
-          "legenda": "O número de mulheres buscando abordagens integrativas está crescendo muito em 2026 🌿\n\nMeditação, Sagrado Feminino, terapia somática, constelação, práticas com os ciclos...\n\nComo psicóloga, minha visão é mais nuançada do que parece.\n\nNão é modismo. É uma geração de mulheres que quer se entender de formas que o modelo tradicional nem sempre alcança.\n\nMas também é importante escolher com consciência — porque nem tudo que promete autoconhecimento, entrega.\n\n💬 Você usa alguma prática integrativa? Me conta o que mudou para você.\n\n#SagradoFeminino #Espiritualidade #Autoconhecimento #AbordagensIntegrativas #PriscilaAndrade #PsicologiaFeminina #EstiloDeVida #Autocuidado"
+          "legenda": "Slow living não é preguiça. É resistência. 🌿\n\nA maior tendência de autocuidado de 2026 chegou porque mulheres estavam exaustas de provar que existem através do que produzem.\n\nCultura do hustle. Maternidade perfeita. Carreira brilhante. Corpo em forma. Relacionamento saudável. Tudo ao mesmo tempo. Tudo excelente. Sempre.\n\nO corpo eventualmente diz: não.\n\nComo psicóloga, eu trabalho com muitas mulheres que sentem CULPA por descansar. Que precisam de permissão para não fazer nada. Que associam pausa com fracasso.\n\nO slow living quebra esse contrato. E romper esse contrato é um dos atos mais transformadores que uma mulher pode fazer.\n\n🌿 Você consegue descansar sem culpa?\n\n#SlowLiving #DesaceleramentoFeminino #PriscillaAndrade #PsicologiaFeminina #AutocuidadoFeminino #ProdutividadeToxica"
         },
         "lo-fi": {
-          "ideia": "Conversa honesta sobre o boom espiritual feminino — com o olhar clínico de quem valoriza e ao mesmo tempo tem cuidado com esse movimento.",
-          "gancho": "Eu preciso falar com honestidade sobre esse boom de práticas espirituais entre as mulheres.",
+          "ideia": "Reflexão íntima sobre a relação das mulheres com descanso e produtividade.",
+          "gancho": "Uma coisa que me impactou essa semana: slow living virou tendência porque descansar virou ato de coragem pra maioria das mulheres.",
           "o_que_falar": [
-            "Ponto 1 — Contextualiza o fenômeno: 'Em 2026, o crescimento de práticas integrativas entre mulheres brasileiras está sendo documentado. Sagrado Feminino, ciclos, terapia somática, meditação — cada vez mais mulheres buscam formas diferentes de se entender.'",
-            "Ponto 2 — Insight psicológico: 'Como psicóloga, vejo esse movimento com entusiasmo e atenção. Entusiasmo porque as mulheres estão expandindo a escuta interna. Atenção porque precisamos distinguir autoconhecimento real de performance espiritual ou de dependência de sistemas externos.'",
-            "Ponto 3 — Critério prático: 'O critério que uso com minhas pacientes: essa prática está te aproximando de você mesma ou está te afastando da sua realidade? Está te tornando mais autônoma ou mais dependente?'",
-            "Ponto 4 — CTA: 'Me conta: você tem alguma prática fora da terapia que faz diferença na sua vida? Quero saber com curiosidade genuína.'"
+            "Contextualiza: slow living é a principal tendência de autocuidado de 2026 — valorizar descanso, tempo offline, ritmo lento depois de anos de hustle culture.",
+            "Insight psicológico: para mulheres especificamente, descansar é carregado de culpa. Fomos condicionadas a provar valor pelo que produzimos. Parar parece fracasso.",
+            "Conexão: conta uma situação em que percebeu isso nas pacientes ou em si mesma — sem precisar se expor demais, só o suficiente para criar conexão.",
+            "CTA: você consegue descansar sem sentir culpa? Me conta aqui — vou responder todas."
           ],
-          "legenda": "Falei com honestidade sobre o boom espiritual feminino de 2026 🌿\n\nComo psicóloga, minha visão é mais nuançada do que parece — e precisava compartilhar isso.\n\nAssiste o vídeo e me conta o que você acha.\n\n#SagradoFeminino #Espiritualidade #Autoconhecimento #PriscilaAndrade #PsicologiaFeminina #AbordagensIntegrativas",
-          "vibe": "Câmera próxima, luz natural suave, tom de conversa franca entre amigas. Ao ar livre ou num ambiente aconchegante. A postura autêntica reforça a mensagem de honestidade."
+          "legenda": "Slow living, culpa de descansar e o que isso revela sobre o que aprendemos a ser 🌿\n\n#SlowLiving #PsicologiaFeminina #PriscillaAndrade #AutocuidadoFeminino #SaudeMental",
+          "vibe": "Sentada de forma relaxada, câmera estática, luz natural ou vela. Tom reflexivo e suave, quase como um diário em voz alta."
         }
       }
     },
     {
       "id": 10,
-      "titulo": "Amor e dinheiro: a contradição que toda mulher carrega mas quase nenhuma consegue resolver",
-      "resumo": "Pesquisas de 2026 mostram que 61% das mulheres acreditam que o homem deve pagar a conta por cavalheirismo — mas 44% dizem que amor e finanças não devem se misturar. Essa contradição é campo fértil para explorar a psicologia por trás da relação feminina com dinheiro e afeto: o conflito entre a mulher moderna e independente que quer ser, e a mulher que foi criada para ser cuidada.",
-      "pilar": "Posicionamento & Carreira",
+      "titulo": "Red flags viraram meme — e perderam o poder de proteger mulheres",
+      "resumo": "A cultura dos red flags, criada para identificar comportamentos abusivos, foi transformada em meme genérico onde qualquer coisa é 'bandeira vermelha'. A trivialização do conceito representa problema real de saúde emocional coletiva — Priscilla pode criar conteúdo evergreen e potente sobre recalibragem do alarme interno.",
+      "pilar": "Casamento & Relacionamento",
       "urgencia": "evergreen",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "post-estatico"
-      ],
-      "fonte": "CNN Brasil / Correio Braziliense / Pesquisa Tendências de Relacionamento 2026 — correiobraziliense.com.br/revista-do-correio/2025/12/7306604",
+      "formatos_alternativos": ["carrossel"],
+      "fonte": "Metrópoles / Clube do Jornalismo — discussão recorrente nas redes 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "A contradição entre querer independência financeira e ainda esperar que o homem pague não é hipocrisia — é o reflexo de crenças opostas que vivem na mesma mulher sem nunca terem sido resolvidas.",
-          "gancho": "61% das mulheres dizem que homem deve pagar a conta. 44% dizem que amor e dinheiro não se misturam. Essas duas frases não podem ser verdade ao mesmo tempo — e é aí que fica interessante.",
+          "ideia_central": "Quando tudo é red flag, nada é red flag — e isso está deixando mulheres sem bússola para identificar o que realmente faz mal.",
+          "gancho": "Red flag virou piada. E isso é um problema sério de saúde emocional que ninguém está nomeando.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Uma pesquisa de 2026 mostrou uma contradição que me deixou pensando por dias. 61% das mulheres acham que o homem deve pagar a conta. Mas 44% dizem que amor e dinheiro não devem se misturar. Como as duas coisas podem ser verdade?"
+              "fala": "Red flag virou meme. E eu, como psicóloga, preciso te dizer: isso está machucando a capacidade das mulheres de reconhecer perigo de verdade."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Estamos numa geração de mulheres que valoriza independência financeira, empreende, divide contas — e ao mesmo tempo ainda carrega crenças muito antigas sobre o que significa ser cuidada por um homem. E nenhum dos dois lados é errado em si. O problema é quando eles vivem em conflito dentro da mesma pessoa."
+              "fala": "O conceito nasceu com um propósito legítimo: ajudar mulheres a nomear comportamentos que sinalizam machismo, abuso e falta de respeito. Mas a internet transformou em piada. Hoje, jogar videogame, ser próximo da mãe ou não responder rápido já é 'red flag'. O conceito diluiu."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Como psicóloga, vejo isso como um conflito de lealdades — lealdade à mulher moderna e independente que você quer ser, e lealdade à mulher que foi criada para ser cuidada financeiramente. Enquanto essa contradição não for nomeada e trabalhada conscientemente, ela vai continuar gerando conflito nos seus relacionamentos."
+              "fala": "Quando tudo é red flag, o alarme interno fica descalibrado. Você começa a ver perigo onde não tem e deixa de sentir onde tem de verdade. Um relacionamento controlador passa a parecer 'intenso'. Um parceiro que viola limites passa a parecer 'apaixonado'. A trivialização do conceito desarmou o detector de abuso."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você se vê nessa contradição? Conta para mim com honestidade — prometo que não tem resposta certa aqui."
+              "fala": "Salva esse vídeo — e me conta: como você calibra o seu alarme interno em relacionamentos?"
             }
           ],
-          "legenda": "61% das mulheres querem que o homem pague a conta. 44% dizem que amor e dinheiro não se misturam 💸❤️\n\nEssas duas frases não podem coexistir sem conflito.\n\nE esse conflito — entre a mulher independente que você quer ser e a mulher que foi criada para ser cuidada — aparece o tempo todo nos relacionamentos.\n\nNão é hipocrisia. É o reflexo de uma geração navegando entre dois mundos sem mapa.\n\nTrabalhar essa contradição conscientemente é um dos atos mais poderosos que uma mulher pode fazer por si mesma.\n\n💬 Você se reconheceu nisso? Me conta com honestidade.\n\n#DinheiroEAmor #IndependênciaFinanceira #Relacionamentos #PsicologiaFeminina #PriscilaAndrade #ComportamentoFeminino #FinançasNoRelacionamento #MulherModerna"
+          "legenda": "Red flag virou piada. E isso tem consequência real. 🚩\n\nO conceito foi criado para ajudar mulheres a nomear comportamentos perigosos. A internet transformou em meme genérico onde qualquer coisa é 'bandeira vermelha'.\n\nO resultado? Alarme descalibrado.\n\nQuando tudo é red flag, o detector interno não sabe mais distinguir 'irritante' de 'perigoso'. E aí comportamentos realmente abusivos começam a parecer normais porque 'todo mundo tem suas red flags'.\n\nComo psicóloga, eu vejo mulheres que normalizaram controle, ciúme excessivo e violação de limites — exatamente porque a conversa sobre relacionamentos ficou tão diluída que perdeu precisão.\n\nÉ possível recalibrar. E começa com consciência.\n\n🔖 Salva e compartilha com quem precisa.\n\n#RedFlag #RelacionamentoSaudavel #PriscillaAndrade #PsicologiaFeminina #AlarmeInterno #RelacionamentoToxico #SaudeMentalFeminina"
         },
-        "post-estatico": {
-          "ideia": "A frase que captura a contradição feminina entre independência e desejo de ser cuidada.",
-          "titulo_visual": "\"Ela quer pagar a metade — e ainda quer ser protegida. As duas coisas são verdade.\"",
-          "legenda": "Independência e desejo de ser cuidada não são opostos 💸❤️\n\nSão duas verdades que vivem na mesma mulher — e que precisam ser reconciliadas, não eliminadas.\n\nSalva esse post se isso tocou em algo em você.\n\n#DinheiroEAmor #IndependênciaFinanceira #PriscilaAndrade #PsicologiaFeminina #ComportamentoFeminino #MulherModerna",
-          "cta": "Salva e compartilha com uma amiga que também se vê nessa contradição."
+        "carrossel": {
+          "ideia": "Red flag real vs red flag de internet — guia prático para recalibrar o alarme interno.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "Red flag virou piada. E isso tem consequência real.",
+              "subtitulo": "Guia para recalibrar seu alarme interno"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O que aconteceu com as red flags?",
+              "texto": "Nasceram para nomear comportamentos perigosos em relacionamentos. Viraram meme genérico. Hoje qualquer coisa — de jogar videogame a ser próximo da mãe — é chamada de 'red flag'. O conceito perdeu precisão."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Por que isso é perigoso?",
+              "texto": "Quando tudo é red flag, o alarme interno fica descalibrado. Você começa a ter medo de coisas que não fazem mal — e para de sentir medo de coisas que fazem. Comportamentos abusivos passam a parecer 'normais'."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "Red flag real vs red flag de internet",
+              "texto": "🚩 REAL: controle, isolamento, invalidação constante, ciúme que virou vigilância, violação de limites repetida.\n\n⚪ INTERNET: jogar videogame, não gostar de sair, ter hábitos diferentes dos seus, comer comida estranha."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "Recalibre o seu alarme",
+              "texto": "A pergunta certa não é 'isso me irrita?'. É 'isso me machuca ou viola quem eu sou?'. Salva esse carrossel e compartilha com quem precisa dessa distinção. 🔖"
+            }
+          ],
+          "legenda": "Red flag ou só diferente? Essa distinção importa mais do que você imagina. 🚩\n\nArrasta pra recalibrar o seu alarme interno e entender o que é perigo real.\n\n#RedFlag #RelacionamentoSaudavel #PriscillaAndrade #PsicologiaFeminina #AlarmeInterno"
         }
       }
     }
