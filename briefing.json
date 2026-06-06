@@ -1,637 +1,613 @@
 {
-  "versao": "2026-06-05",
-  "gerado_em": "2026-06-05T10:00:00Z",
-  "contexto_do_dia": "Esta semana está dominada pelo viral do 'chá revelação da traição' (04/06), pelo caso de Artur Urso e Luana Kazaki (traição em relacionamento aberto com cantor famoso como pivô), e pela repercussão da polêmica de Carol Celico esclarecendo o divórcio com Kaká. No campo da saúde mental, o SUS expandiu em junho o teleatendimento psicológico para mulheres em todo o Brasil. Nas redes, o debate sobre 'beige flags' e a desconfiança de 49% das mulheres em relação ao 'homem feminista' (CNN Brasil) dominam as discussões.",
+  "versao": "2026-06-06",
+  "gerado_em": "2026-06-06T10:00:00Z",
+  "contexto_do_dia": "A semana é dominada pela separação de Gracyanne Barbosa e Belo após 16 anos, com traição revelada pelo personal trainer dela — o caso mais comentado das redes. Em paralelo, a influenciadora Bella viralizou com o 'chá revelação da traição' (UAI, 4/jun) e o pix de R$10 mil reacendeu o debate sobre mulheres e estabilidade financeira no amor. Nas tendências, as 'beige flags' chegaram para complexificar a conversa sobre relacionamentos e a pesquisa dos 49% de mulheres desconfiando do 'homem feminista performático' confirmou um radar que muitas já carregavam.",
   "items": [
     {
       "id": 1,
-      "titulo": "O 'Chá Revelação da Traição' que viralizou — e o que isso diz sobre a psicologia feminina",
-      "resumo": "Uma influenciadora organizou uma festa com bolo, docinhos e convidados para revelar uma traição à amiga, transformando dor privada em ritual coletivo. O vídeo viralizou em 04/06/2026 e dividiu a internet. Do ponto de vista psicológico, o ritual revela a necessidade feminina de validação social na dor e o quanto a exposição pública da traição virou uma forma de retomar o poder e a narrativa.",
+      "titulo": "Gracyanne Barbosa e Belo: o que a traição com o personal revela sobre vínculos emocionais",
+      "resumo": "Gracyanne Barbosa e Belo se separaram após 16 anos de casamento, com a traição de Gracyanne com o próprio personal trainer. O caso virou o assunto do momento. O ângulo de Priscilla: o que leva uma mulher aparentemente bem-resolvida a buscar conexão fora — e o que isso diz sobre vínculo emocional, não só físico.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "UAI / Entretenimento — uai.com.br, 04/06/2026",
+      "fonte": "Estrelando.com.br / UAI Entretenimento, junho 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O chá revelação da traição não é loucura — é uma mulher tentando retomar o controle que foi tirado dela.",
-          "gancho": "Você viu o 'chá revelação de traição' que viralizou essa semana? Todo mundo está julgando. Eu vim aqui defender.",
+          "ideia_central": "A separação de Gracyanne e Belo mostra que traição raramente é sobre sexo — é sobre o vínculo emocional que estava faltando.",
+          "gancho": "Todo mundo está falando da separação de Gracyanne e Belo. Mas ninguém está falando do que realmente aconteceu aqui.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Você viu o chá revelação DA TRAIÇÃO que viralizou essa semana? Todo mundo tá julgando. Eu tô aqui pra defender."
+              "fala": "Todo mundo está falando da separação de Gracyanne e Belo. Mas ninguém está falando do que realmente aconteceu aqui."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Uma influenciadora montou uma festa com bolo, docinhos e amigas próximas para revelar à amiga que o parceiro estava traindo. A internet foi ao chão — metade aplaudiu, metade chamou de exagero e exposição desnecessária."
+              "fala": "Gracyanne Barbosa — uma das mulheres mais admiradas do Brasil — traiu com o próprio personal. Dezesseis anos de casamento. Uma relação que parecia blindada. E mesmo assim, algo faltou. Esse caso não é sobre o corpo dela, sobre o Belo, ou sobre o personal. É sobre uma necessidade emocional não atendida dentro do relacionamento."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Como psicóloga, eu te digo: isso não é drama. Quando uma mulher é traída, ela perde o controle da própria narrativa. Criar esse ritual coletivo é uma forma de dizer: 'eu não vou sofrer sozinha e em silêncio.' É busca de pertencimento na dor. E isso é profundamente humano."
+              "fala": "Como psicóloga, eu te digo: a maioria das traições não começa com atração física. Elas começam com alguém que te vê, te ouve e te faz sentir presente num relacionamento onde você já se sentia invisível. O personal estava lá todos os dias, vendo Gracyanne crescer, superar limites. Esse é um dos ambientes mais férteis para o vínculo emocional nascer — fora de casa."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você faria isso por uma amiga? Me conta nos comentários."
+              "fala": "Você consegue distinguir quando uma necessidade emocional não está sendo atendida no seu relacionamento? Ou só percebe depois? Me conta nos comentários."
             }
           ],
-          "legenda": "O chá revelação da traição viralizou essa semana — e todo mundo tem uma opinião.\n\nMas poucos estão fazendo a pergunta certa: por que uma mulher precisa de uma festa para revelar uma traição?\n\nComo psicóloga especialista em comportamento feminino, eu te digo: não é loucura. É necessidade de validação coletiva numa dor que foi silenciada por muito tempo.\n\nQuando traem uma mulher, roubam dela a narrativa da própria vida. Montar esse ritual é uma forma de retomar o protagonismo — com testemunhas.\n\nÉ o caminho ideal? Talvez não. É humano? Absolutamente.\n\nO que você acha? Você faria isso por uma amiga?\n\n#traição #relacionamento #comportamentofeminino #psicologiafeminina #viral #psicóloga #mulher #charevelo"
+          "legenda": "Todo mundo está chocado com a separação de Gracyanne e Belo. Mas enquanto as pessoas julgam, eu preciso trazer o que a psicologia nos ensina.\n\nA traição raramente começa com desejo físico. Ela começa onde existe uma lacuna emocional — um vazio de atenção, de presença, de ser verdadeiramente vista.\n\nO personal estava todos os dias ao lado de Gracyanne, testemunhando cada evolução. Esse tipo de presença constante cria um vínculo poderoso — especialmente quando esse olhar está faltando dentro de casa.\n\nIsso não justifica a traição. Mas explica a origem dela.\n\nSe você quer entender seus relacionamentos de verdade, precisa aprender a identificar suas necessidades emocionais — antes que elas procurem ser atendidas em outro lugar.\n\n💬 O que você pensa sobre isso?\n\n#gracyannebarbosa #belo #separação #traição #psicologia #relacionamentos #comportamentofeminino #priscillaandrade #autoconhecimento #saúdeemocional"
         },
         "carrossel": {
-          "ideia": "5 coisas que o 'chá revelação da traição' revela sobre a psicologia feminina — análise do case viral da semana.",
+          "ideia": "5 sinais de que uma necessidade emocional não está sendo atendida no seu relacionamento — antes que vire traição.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "O chá revelação da traição viralizou. E eu preciso falar sobre isso.",
-              "subtitulo": "O que esse ritual diz sobre a psicologia feminina"
+              "titulo": "O caso Gracyanne revela o que ninguém quer admitir",
+              "subtitulo": "5 sinais de vazio emocional que você precisa reconhecer"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
               "titulo": "O que aconteceu",
-              "texto": "Uma influenciadora organizou uma pequena festa — bolo, docinhos e amigas próximas — para revelar à amiga que o parceiro estava traindo. O vídeo viralizou em 04/06 e dividiu a internet entre aplausos e críticas."
+              "texto": "Gracyanne Barbosa e Belo se separaram após 16 anos. A traição veio com o personal trainer dela. Antes de julgar, a pergunta certa é: o que estava faltando dentro desse relacionamento?"
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "Por que isso ressoa tanto nas mulheres?",
-              "texto": "Traição rouba da mulher o controle da própria narrativa. Criar um ritual coletivo em torno dessa revelação é dizer: 'não vou carregar essa dor sozinha.' É busca por pertencimento numa das experiências mais solitárias que existem."
+              "titulo": "Traição começa muito antes do ato",
+              "texto": "A psicologia mostra que a maioria das traições é precedida por uma lacuna emocional: sentir-se invisível, não ouvida, não admirada. Quando alguém de fora preenche esse espaço, o vínculo se forma rápido — e muitas vezes sem nem perceber."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "O que poucos percebem nessa cena",
-              "texto": "A festa não é sobre humilhar o traidor. É sobre reconstruir a dignidade da traída com testemunhas. Mulheres historicamente aprenderam a sofrer em silêncio. Esse ritual é uma ruptura — imperfeitamente saudável — com esse padrão."
+              "titulo": "Os 5 sinais de alerta",
+              "texto": "1. Você conta seus dias para outra pessoa, não para o parceiro\n2. Sente que cresceu, mas ele não te acompanhou\n3. Você se sente mais você mesma fora do relacionamento\n4. Busca validação constante de outras fontes\n5. A conexão emocional virou só rotina e obrigação"
             },
             {
               "numero": 5,
               "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Você faria isso por uma amiga? Ou preferiria revelar em particular? Me conta — quero saber sua visão. ⬇️"
+              "titulo": "E no seu relacionamento?",
+              "texto": "Você reconhece algum desses sinais? Antes de chegar ao ponto de ruptura, a psicoterapia pode te ajudar a reconectar — com você e com seu parceiro. Salva esse carrossel."
             }
           ],
-          "legenda": "O chá revelação da traição que viralizou essa semana diz muito mais sobre a psicologia feminina do que sobre quem traiu. 🎂\n\nComo psicóloga, analisei o que está por trás desse ritual — e o resultado é mais profundo do que parece.\n\nSalva e manda pra aquela amiga que precisava ler isso hoje. 💛\n\n#traição #psicologiafeminina #relacionamento #mulher #viral #charevelo #comportamento #psicóloga"
+          "legenda": "O caso de Gracyanne e Belo está em todo lugar — mas quase ninguém faz a pergunta certa. Não 'como ela pôde?', mas 'o que faltava?'\n\nTraição é sempre um sintoma. Entender o que ela revela pode transformar a forma como você cuida do seu relacionamento.\n\nSalva e compartilha com quem precisa ler isso hoje.\n\n#gracyannebarbosa #belo #relacionamentos #traição #psicologia #saúdeemocional #comportamentofeminino #priscillaandrade"
         }
       }
     },
     {
       "id": 2,
-      "titulo": "Artur Urso e Luana Kazaki: como se trai alguém num relacionamento aberto?",
-      "resumo": "A separação de Artur Urso e Luana Kazaki por traição em relacionamento aberto — com um famoso cantor como pivô — gerou confusão e debate nas redes. O caso levanta a questão psicológica central: traição não é definida pelo formato da relação, mas pela quebra do acordo emocional específico daquele casal.",
+      "titulo": "Influenciadora faz 'chá revelação da traição' — humor como cura ou como fuga?",
+      "resumo": "A influenciadora Bella viralizou ao transformar a descoberta de uma traição em um 'chá revelação da traição' — com bolo, docinhos e amigos. A notícia saiu no UAI em 4 de junho de 2026. Para Priscilla: há uma diferença enorme entre rir depois de ter processado a dor e rir para não precisar processá-la.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "lo-fi"
       ],
-      "fonte": "Blog do Jordan Bezerra — blogdojordanbezerra.com",
+      "fonte": "UAI Entretenimento, 4 de junho de 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "Traição não é sobre sexo. É sobre a quebra de um acordo emocional — e isso vale mesmo em relacionamento aberto.",
-          "gancho": "Como você trai alguém num relacionamento aberto? O caso de Artur Urso e Luana Kazaki acabou de responder isso — e a resposta vai te surpreender.",
+          "ideia_central": "O 'chá revelação da traição' da Bella é genial na aparência — mas o humor pode ser um escudo que impede o luto real.",
+          "gancho": "Você viu o 'chá revelação da traição' que viralizou essa semana? Eu preciso falar sobre isso como psicóloga.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Como você trai alguém num relacionamento aberto? O caso de Artur Urso e Luana Kazaki acabou de mostrar que isso é possível — e o motivo vai te surpreender."
+              "fala": "Você viu o 'chá revelação da traição' que viralizou essa semana? Eu preciso falar sobre isso como psicóloga."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Eles tinham um relacionamento aberto. Mesmo assim, a separação veio com acusações de traição — e um famoso cantor envolvido como pivô. A internet ficou confusa: como trair em relacionamento aberto?"
+              "fala": "Uma influenciadora chamada Bella descobriu que foi traída. Em vez de chorar sozinha, chamou as amigas, fez um evento com bolo e decoração temática, e transformou a revelação em festa. Todo mundo achou incrível, empoderador. E eu entendo — de verdade. Tem algo libertador nisso."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Traição não é só sexo. É a quebra de um acordo emocional. No relacionamento aberto, existem regras combinadas. Quando essas regras são violadas, a traição acontece mesmo sem exclusividade sexual. O que machuca não é o ato — é a violação da confiança."
+              "fala": "Mas como psicóloga, preciso te perguntar: quando usamos humor e performance para processar uma dor, a gente está de fato processando — ou protegendo o ego de sentir o quanto dói? Existe uma diferença enorme entre rir da situação depois de ter chorado e rir para não precisar chorar. O luto de uma traição precisa de espaço. E às vezes a festa impede isso."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "O que seria uma traição pra você, independente do formato da relação? Me conta."
+              "fala": "Você já usou o humor para não precisar sentir alguma dor? Me conta nos comentários."
             }
           ],
-          "legenda": "O caso de Artur Urso e Luana Kazaki trouxe uma pergunta que muita gente está evitando: como alguém trai dentro de um relacionamento aberto?\n\nA resposta é mais simples — e mais profunda — do que parece.\n\nTraição não é sobre sexo. É sobre a quebra de um acordo emocional. Toda relação, aberta ou não, tem suas regras. Quando essas regras são quebradas unilateralmente, a traição acontece — mesmo sem exclusividade física.\n\nO que machuca não é o ato. É a mentira. É o desrespeito ao que foi combinado.\n\nQual seria a sua definição de traição? ⬇️\n\n#relacionamentoaberto #traição #artururso #luanakazaki #psicologiafeminina #relacionamento #confiança #psicóloga"
+          "legenda": "O 'chá revelação da traição' da influenciadora Bella viralizou essa semana — e todo mundo amou.\n\nMas como psicóloga, preciso trazer um olhar diferente:\n\nHumor na dor pode ser uma ferramenta poderosa de ressignificação. Ou pode ser um escudo para não precisar sentir de verdade.\n\nA pergunta que importa: você já ria da situação antes de ter permitido que ela doesse?\n\nO luto de uma traição precisa de espaço que a festa não consegue dar. Quando pulamos essa etapa, a dor não some — ela se instala mais fundo.\n\nIsso não tira o mérito da Bella. Mas convida você a olhar para como você mesma processa suas dores.\n\n💬 Você já usou o humor como escudo?\n\n#traição #relacionamentos #psicologia #saúdeemocional #luto #comportamentofeminino #priscillaandrade #viral"
         },
         "lo-fi": {
-          "ideia": "Conversa íntima sobre o que realmente é traição — usando o caso Artur Urso/Luana como ponto de partida.",
-          "gancho": "Essa semana fiquei pensando no caso do Artur Urso e Luana Kazaki e precisei falar sobre isso aqui.",
+          "ideia": "Conversa íntima sobre usar o humor como mecanismo de fuga emocional — partindo do caso viral da Bella.",
+          "gancho": "Eu vi o 'chá revelação da traição' e fiquei pensando uma coisa que preciso dividir com você.",
           "o_que_falar": [
-            "Contextualiza: relacionamento aberto, mesmo assim separação com acusação de traição e cantor famoso envolvido",
-            "Insight: traição não é definida pelo formato da relação — é definida pela quebra do acordo emocional específico daquele casal",
-            "Conexão pessoal: 'já atendi mulheres em relacionamentos convencionais e abertos — a dor da traição é sempre a mesma: é a sensação de ter sido enganada no que foi combinado'",
-            "CTA: 'O que é traição pra você? Define nos comentários com uma frase.'"
+            "Ponto 1 — Conta o que aconteceu: a influenciadora Bella transformou a descoberta da traição em um evento com bolo, amigos e decoração. Viralizou e todo mundo achou empoderador.",
+            "Ponto 2 — Insight psicológico: humor como proteção versus humor como cura. A diferença entre rir depois de ter processado e rir para não precisar processar.",
+            "Ponto 3 — Conexão com a vida das seguidoras: quantas vezes você já transformou uma dor em piada antes de dar espaço para ela existir? Isso é proteção do ego.",
+            "Ponto 4 — CTA: 'Você já fez isso? Conta aqui nos comentários. Quero entender como você processa suas dores.'"
           ],
-          "legenda": "Às vezes um caso que viraliza é a porta de entrada pra uma conversa que a gente precisava ter. 🤍\n\nO caso do Artur Urso e Luana Kazaki me fez pensar muito sobre o que de fato define uma traição.\n\nTraição é a quebra de um acordo. Não importa o formato da relação.\n\nO que é traição pra você?\n\n#traição #relacionamento #artururso #psicóloga #comportamento #mulher #relacionamentoaberto",
-          "vibe": "Câmera estática frontal, luz natural da janela, sem maquiagem pesada, tom íntimo e reflexivo, como conversa com amiga."
+          "legenda": "Quando vi o viral do 'chá revelação da traição' da Bella, meu primeiro pensamento foi: que força.\n\nMeu segundo: espero que ela também tenha dado espaço para chorar.\n\nHumor é uma ferramenta poderosa — mas quando ele vem antes do luto, pode virar uma armadilha.\n\nIsso vale pra traição, pro término, pra qualquer dor que você transforma em meme antes de permitir sentir.\n\nA dor não some. Ela espera.\n\n💬 Me conta: você já fez isso?\n\n#traição #viral #psicologia #saúdeemocional #comportamentofeminino #priscillaandrade #relacionamentos",
+          "vibe": "Câmera estática, luz natural. Tom íntimo, como conversa com amiga. Sem maquiagem pesada. Voz calma e direta."
         }
       }
     },
     {
       "id": 3,
-      "titulo": "Beige Flags viralizaram: a internet desistiu de transformar tudo em red flag",
-      "resumo": "O conceito de 'beige flag' — comportamentos estranhos ou levemente irritantes mas completamente inofensivos — está dominando o TikTok e Instagram como resposta à fadiga da cultura das red flags. Psicologicamente, o movimento representa uma reação saudável à hipervigílância nos relacionamentos que a internet criou nos últimos anos.",
-      "pilar": "Casamento & Relacionamento",
-      "urgencia": "hoje",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "Bons Fluidos / Terra — bonsfluidos.com.br",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "A ascensão das beige flags revela que mulheres estão cansadas de transformar cada imperfeição em motivo de término.",
-          "gancho": "Todo mundo conhece red flag. Mas as 'beige flags' estão viralizando — e como psicóloga, eu adorei esse movimento.",
-          "roteiro": [
-            {
-              "tempo": "0–3s",
-              "descricao": "Abertura",
-              "fala": "Todo mundo sabe o que é red flag. Mas a nova tendência viral nos relacionamentos é a 'beige flag' — e como psicóloga, esse conceito me animou muito."
-            },
-            {
-              "tempo": "3–15s",
-              "descricao": "Contexto",
-              "fala": "Beige flags são comportamentos estranhos, neutros ou levemente irritantes que uma pessoa tem — mas que não chegam a ser prejudiciais. Comer o mesmo prato toda semana, organizar meias por cor, falar com o cachorro em voz alta. Não é red flag. É só peculiar."
-            },
-            {
-              "tempo": "15–25s",
-              "descricao": "Virada psicológica",
-              "fala": "Esse movimento está dizendo algo importante: a internet criou uma cultura de hipervigílância nos relacionamentos. Começamos a transformar qualquer diferença num sinal de perigo. A beige flag é a resposta coletiva a isso — é a permissão pra amar pessoas reais e imperfeitas."
-            },
-            {
-              "tempo": "25–30s",
-              "descricao": "CTA",
-              "fala": "Qual é a beige flag mais engraçada que você já encontrou numa relação? Me conta!"
-            }
-          ],
-          "legenda": "Red flag já era. A internet está vivendo a era das 'beige flags' — e como psicóloga, eu tô aqui pra aplaudir esse movimento. 👏\n\nBeige flags são aquelas manias curiosas, levemente irritantes, mas completamente inofensivas que as pessoas têm.\n\nE sabe o que isso representa psicologicamente? Uma fadiga saudável com a hipervigílância que a cultura das red flags criou.\n\nAprendemos a transformar qualquer diferença em sinal de abandono iminente. A beige flag é o antídoto: é a permissão coletiva pra amar pessoas reais — imperfeitas, peculiares e completamente humanas.\n\nQual a beige flag mais hilária que você já encontrou? 😂⬇️\n\n#beigeflag #redflag #relacionamento #psicologiafeminina #viral #comportamento #amor #psicóloga #mulher"
-        },
-        "carrossel": {
-          "ideia": "O que são beige flags, por que viralizaram e o que revelam sobre como estamos nos relacionando.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Beige Flags: por que esse conceito viral está salvando relacionamentos",
-              "subtitulo": "A análise psicológica que ninguém fez"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O que é uma beige flag?",
-              "texto": "É aquela mania estranha, levemente irritante — mas completamente inofensiva — que uma pessoa tem. Comer só comida bege, falar com plantas, organizar Netflix por paleta de cores. Não é um problema. É só peculiar."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Por que viralizou agora?",
-              "texto": "Depois de anos sendo ensinadas a identificar red flags em absolutamente tudo, as mulheres chegaram a um ponto de esgotamento. A beige flag surgiu como alívio coletivo — um sinal de que nem tudo precisa ser um problema."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que esse movimento revela",
-              "texto": "A hipervigílância cria ansiedade, não segurança. Quando ensinamos mulheres a ver ameaça em toda diferença, criamos parceiras que não conseguem relaxar. A beige flag é o retorno à leveza — e isso é psicologicamente saudável."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "Qual a beige flag do seu parceiro?",
-              "texto": "Me conta a mais engraçada que você já encontrou! Quero ler todas. 😂⬇️"
-            }
-          ],
-          "legenda": "A internet criou um antídoto pras red flags — e eu, como psicóloga, estou completamente a favor. 🥰\n\nBeige flags: comportamentos estranhos mas inofensivos que a gente até aprende a amar.\n\nAbre o carrossel e descobre por que esse conceito viral é mais importante do que parece.\n\n#beigeflag #redflag #relacionamento #viral #psicóloga #comportamento #amor #mulher"
-        }
-      }
-    },
-    {
-      "id": 4,
-      "titulo": "Carol Celico nunca disse que largou Kaká por ser 'perfeito demais' — e isso importa muito",
-      "resumo": "Carol Celico voltou às redes ao esclarecer que a frase 'terminei porque ele era perfeito demais' nunca saiu de sua boca — surgiu de uma interpretação distorcida de uma entrevista de 2022 por uma jornalista estrangeira. O caso é um estudo sobre como a narrativa da mulher no divórcio é simplificada, distorcida e usada contra ela pela internet durante anos.",
-      "pilar": "Casamento & Relacionamento",
+      "titulo": "Carol Celico x fake news 'perfeito demais': quando a sociedade não suporta uma mulher que saiu do casamento sem motivo dramático",
+      "resumo": "Carol Celico voltou às notícias em maio de 2026 para desmentir a fake news de que se divorciou de Kaká porque ele era 'perfeito demais' — fala distorcida de entrevista de 2022. Para Priscilla: isso expõe como a sociedade ainda exige que mulheres tenham um motivo 'aceitável' para encerrar um relacionamento.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "post-estatico"
       ],
-      "fonte": "Terra / Metrópoles — terra.com.br",
+      "fonte": "Metrópoles / Terra, maio 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "Por anos, Carol Celico carregou uma frase que ela nunca disse — e isso mostra como a narrativa da mulher separada é distorcida.",
-          "gancho": "A Carol Celico nunca disse que largou o Kaká porque ele era 'perfeito demais'. Mas a internet acreditou por anos. E eu preciso falar sobre o que isso revela.",
+          "ideia_central": "A fake news sobre Carol Celico revela que a sociedade ainda exige que mulheres tenham um motivo 'aceitável' para sair de um relacionamento.",
+          "gancho": "Carol Celico teve que vir a público desmentir uma fake news absurda. E o porquê dessa fake news existir diz tudo sobre o que a sociedade espera das mulheres.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "A Carol Celico acabou de esclarecer: ela nunca disse que largou o Kaká porque ele era 'perfeito demais'. E a internet ficou em choque. Mas a psicóloga em mim não ficou."
+              "fala": "Carol Celico teve que vir a público desmentir uma fake news absurda. E o porquê dessa fake news existir diz tudo sobre o que a sociedade espera das mulheres."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Por mais de dez anos, essa frase virou meme, virou piada, virou verdade coletiva. Ela explica que surgiu de uma interpretação equivocada de uma entrevista de 2022, distorcida por uma jornalista estrangeira. A mentira sobreviveu porque servia a uma narrativa."
+              "fala": "A história de que Carol se divorciou de Kaká porque ele era 'perfeito demais' voltou a circular em 2026 como verdade. Carol veio desmentir: foi uma distorção de uma fala dela em 2022, tirada de contexto e replicada como citação real. Mas o problema não é só a fake news."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Isso tem nome: distorção narrativa da mulher separada. Quando uma mulher escolhe o divórcio sem um 'motivo válido', a sociedade cria o motivo por ela. Se não há traição ou violência, a culpa vira da mulher — ela é louca, caprichosa ou, no caso da Carol, ingrata com o homem perfeito. A dor real nunca importa."
+              "fala": "O problema é que essa história virou viral porque ela é confortável. Ela oferece um motivo absurdo para justificar o fim de um casamento com um homem bonito, famoso e aparentemente íntegro. Por quê? Porque a sociedade ainda não aceita que uma mulher possa simplesmente dizer 'eu não estava feliz' — sem precisar de um motivo dramático ou espetacular para isso."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já teve sua narrativa distorcida por alguém? Me conta nos comentários."
+              "fala": "Você já se sentiu pressionada a justificar uma decisão sua para que as pessoas aceitassem? Me conta nos comentários."
             }
           ],
-          "legenda": "A Carol Celico carregou por ANOS uma frase que ela nunca disse. E a internet não quis saber da verdade — porque a mentira era mais conveniente.\n\nIsso se chama distorção narrativa da mulher separada: quando uma mulher escolhe o divórcio sem um motivo que a sociedade considere 'válido', ela inventa um motivo por ela.\n\nSe ela foi traída: coitada. Se ele foi violento: ela demorou a sair. Mas se ela simplesmente não quis mais? Aí ela é louca, ingrata — ou 'loucura demais pra um homem bom'.\n\nSua narrativa é sua. Você não deve satisfação.\n\n#carolcelico #kaka #divórcio #psicologiafeminina #narrativa #mulher #separação #psicóloga"
+          "legenda": "Carol Celico saiu a público para desmentir a fake news do 'perfeito demais'.\n\nMas o que me chama atenção como psicóloga não é a fake news — é o quanto ela resonou.\n\nEla viralizou porque deu à sociedade o que ela queria: um motivo absurdo que justificasse o inexplicável.\n\nAfinal, como uma mulher sai de um casamento com um homem bonito, famoso e aparentemente bom? Ela precisa ter algum problema.\n\nIsso é o patriarcado funcionando em nós mesmas: a ideia de que uma mulher precisa de um motivo dramático e aceito socialmente para encerrar um relacionamento.\n\nVocê não precisa de um motivo que seja aprovado por ninguém além de você.\n\n💬 Você já sentiu esse peso?\n\n#carolcelico #kaka #mulher #escolhas #psicologia #comportamentofeminino #priscillaandrade #autoimagem #identidade"
         },
         "post-estatico": {
-          "ideia": "Frase de impacto sobre narrativa distorcida da mulher — ancorada no caso Carol Celico.",
-          "titulo_visual": "Ela nunca disse isso. Mas a internet precisava de um motivo para invalidar a escolha dela.",
-          "legenda": "Carol Celico nunca disse que terminou com Kaká porque ele era 'perfeito demais'. Mas a internet precisava de uma explicação — e criou uma. 📌\n\nIsso tem nome: distorção narrativa da mulher separada.\n\nQuando não há traição ou violência, a sociedade inventa um motivo que encaixe — e quase sempre, esse motivo faz a mulher parecer errada.\n\nSua história é sua. Você não deve satisfação.\n\n#carolcelico #divórcio #psicologiafeminina #mulher #narrativa #psicóloga",
-          "cta": "Salva essa arte e manda pra quem precisa ouvir isso hoje."
+          "ideia": "Frase-síntese do caso Carol Celico transformada em arte visual sobre o direito da mulher de encerrar sem se explicar.",
+          "titulo_visual": "\"Eu não preciso de um motivo que você aprove para cuidar de mim.\"",
+          "legenda": "Carol Celico teve que vir a público desmentir uma história distorcida sobre seu divórcio de Kaká — porque a sociedade precisava de um motivo 'aceitável' para entender a escolha dela.\n\nMas você não precisa de um motivo aprovado por ninguém além de você mesma.\n\nSalva esse post pra quando precisar lembrar.\n\n#carolcelico #mulher #psicologia #escolhas #autoconhecimento #priscillaandrade #comportamentofeminino",
+          "cta": "Salva e compartilha com uma amiga que precisa ouvir isso hoje."
         }
       }
     },
     {
-      "id": 5,
-      "titulo": "SUS lança terapia gratuita para mulheres em todo o Brasil — e chegou a todas as cidades em junho",
-      "resumo": "O SUS expandiu em junho de 2026 o teleatendimento psicológico para mulheres em todo o território nacional, com expectativa de 4,7 milhões de atendimentos anuais. A notícia é urgente para o público de Priscilla porque desmistifica o acesso à saúde mental e abre espaço para falar sobre a maior barreira que resta: o medo de pedir ajuda.",
-      "pilar": "Estilo de Vida & Espiritualidade",
+      "id": 4,
+      "titulo": "Traição em relacionamento aberto: o caso Artur Urso e Luana Kazaki e o que ninguém fala sobre acordos",
+      "resumo": "Artur Urso e Luana Kazaki, referência em relacionamento aberto no Brasil, se separaram após uma traição envolvendo um cantor famoso. A notícia chocou: como pode existir traição quando o relacionamento é aberto? Para Priscilla: traição nunca foi sobre sexo — é sobre quebra de acordo, dito ou não dito.",
+      "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "Secretaria de Comunicação Social do Governo Federal — gov.br, junho 2026",
+      "fonte": "Blog do Jordan Bezerra, 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O SUS chegou onde a saúde mental das mulheres precisava — agora a única barreira que resta é o medo de se permitir ajuda.",
-          "gancho": "A partir de junho, qualquer mulher no Brasil pode acessar atendimento psicológico pelo SUS, de graça, pelo celular. Isso é histórico. E eu preciso te contar o que fazer agora.",
+          "ideia_central": "Artur Urso e Luana se separaram por traição mesmo em relacionamento aberto — porque traição é quebra de acordo, não de exclusividade sexual.",
+          "gancho": "Como alguém trai em um relacionamento aberto? O caso de Artur Urso e Luana Kazaki responde — e revela o que a maioria dos casais ignora.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "A partir de junho de 2026, qualquer mulher no Brasil pode acessar atendimento psicológico pelo SUS, pelo celular, de graça. Isso é histórico."
+              "fala": "Como alguém trai em um relacionamento aberto? O caso de Artur Urso e Luana Kazaki responde — e revela o que a maioria dos casais ignora."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "O SUS lançou um serviço nacional de teleatendimento de saúde mental voltado para mulheres. Começou em Recife e Rio, e em junho chegou a todo o país — com expectativa de quase 5 milhões de atendimentos por ano."
+              "fala": "Artur e Luana tinham um relacionamento aberto. Eram referência. Mas se separaram após uma traição — uma ligação com um cantor famoso que violou os acordos do relacionamento deles. E muita gente ficou: 'Mas como? Eles tinham relacionamento aberto!'"
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Mulheres têm 2 a 3 vezes mais risco de desenvolver depressão e ansiedade do que homens. E o principal obstáculo sempre foi o custo. Esse serviço remove essa barreira. A barreira que fica agora é interna: o medo de se permitir pedir ajuda sem sentir vergonha disso."
+              "fala": "Porque traição nunca foi sobre sexo. Traição é sobre quebra de acordo. Em relacionamentos abertos existem regras e limites — e quando esses limites são cruzados, a traição é tão real quanto em qualquer modelo. O maior problema? A maioria dos casais nunca senta para acordar esses limites de forma explícita. Assumem que o outro sabe. E é aí que a ferida aparece."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já fez terapia? Me conta como foi dar esse primeiro passo."
+              "fala": "O seu relacionamento tem acordos claros e explícitos? Ou vocês assumem que o outro sabe o que é limite? Vai nos comentários."
             }
           ],
-          "legenda": "Em junho de 2026, o SUS expandiu o teleatendimento psicológico para mulheres em todo o Brasil. 🧠💚\n\nIsso significa que qualquer mulher, em qualquer cidade, pode acessar apoio psicológico de graça, pelo celular.\n\nSão quase 5 milhões de atendimentos previstos por ano.\n\nComo psicóloga, isso me emociona — porque mulheres têm 2 a 3 vezes mais risco de desenvolver depressão e ansiedade do que homens. E o custo era uma das maiores barreiras.\n\nAgora a barreira que resta é a mais difícil: se permitir pedir ajuda sem sentir vergonha.\n\nSe você ou alguém que você conhece precisa, salva esse post. 💛\n\n#saúdemental #sus #terapia #psicológica #mulher #ansiedade #depressão #psicóloga #saúde"
+          "legenda": "O caso de Artur Urso e Luana Kazaki chocou quem os acompanhava — justamente porque eles tinham um relacionamento aberto.\n\nMas traição não é sobre sexo. Traição é sobre quebra de acordo.\n\nTodo relacionamento — aberto, fechado, poliamoroso, monogâmico — funciona a partir de acordos. E quando esses acordos são violados, a dor é a mesma.\n\nO problema é que a maioria dos casais nunca faz esses acordos de forma consciente e explícita. Assumem que o outro 'sabe'. E a traição não é nem percebida como traição — até doer demais para ignorar.\n\nO que está dito e acordado no seu relacionamento?\n\n💬 Me conta nos comentários.\n\n#artururso #luanakazaki #relacionamentoaberto #traição #acordos #psicologia #relacionamentos #priscillaandrade"
         },
         "carrossel": {
-          "ideia": "O que é o novo serviço do SUS, por que importa e como a saúde mental feminina precisa de atenção urgente.",
+          "ideia": "O que é realmente traição — e por que ela acontece mesmo em relacionamentos não monogâmicos.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "O SUS agora oferece terapia de graça para mulheres em todo o Brasil",
-              "subtitulo": "O que mudou em junho de 2026 — e por que isso importa pra você"
+              "titulo": "Traição em relacionamento aberto?",
+              "subtitulo": "O caso Artur Urso explica o que ninguém fala sobre acordos"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
-              "titulo": "O que foi lançado",
-              "texto": "O SUS lançou um serviço nacional de teleatendimento em saúde mental voltado para mulheres. Em junho de 2026, chegou a todo o país — com previsão de 4,7 milhões de atendimentos psicológicos por ano."
+              "titulo": "O que aconteceu",
+              "texto": "Artur Urso e Luana Kazaki, referência em relacionamento aberto no Brasil, se separaram após uma traição envolvendo um cantor famoso. A notícia chocou: como pode existir traição quando o relacionamento é aberto?"
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "Por que isso importa tanto",
-              "texto": "Mulheres têm 2 a 3 vezes mais risco de desenvolver ansiedade e depressão do que homens. E o principal obstáculo ao tratamento sempre foi o custo. Esse serviço remove essa barreira — o acesso agora é pelo celular, de qualquer lugar."
+              "titulo": "Traição não é sobre sexo",
+              "texto": "A psicologia define traição como a quebra de um acordo estabelecido — explícita ou implicitamente. Em relacionamentos abertos, existem regras e limites que, quando violados, configuram traição tão real quanto em qualquer outro modelo."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "A barreira que ainda resta",
-              "texto": "Custo não é mais desculpa. A barreira que fica é interna: o medo de admitir que precisa de ajuda. A cultura que ensina mulheres a 'dar conta de tudo' sozinhas é o maior inimigo da saúde mental feminina."
+              "titulo": "O maior problema: os acordos não ditos",
+              "texto": "A maioria dos casais nunca senta para acordar limites de forma explícita. Assumem que o outro sabe. Resultado: quando alguém cruzar uma linha, nenhum dos dois consegue nomear o que foi quebrado — mas a dor é real."
             },
             {
               "numero": 5,
               "tipo": "CTA",
-              "titulo": "Você merece apoio.",
-              "texto": "Salva esse carrossel e manda pra alguém que precisava ouvir que pedir ajuda não é fraqueza. 💛"
+              "titulo": "Seu relacionamento tem acordos claros?",
+              "texto": "Independente do modelo, a saúde do seu relacionamento depende de acordos conscientes e explícitos. Salva esse carrossel e tem essa conversa com seu parceiro."
             }
           ],
-          "legenda": "Uma das notícias mais importantes da semana para a saúde mental das mulheres — e provavelmente a que menos viralizou. 💚\n\nO SUS agora oferece atendimento psicológico de graça, pelo celular, para mulheres em todo o Brasil.\n\nAbre o carrossel e entende por que isso muda tudo.\n\n#saúdemental #sus #terapia #mulher #psicóloga #ansiedade #depressão #autocuidado"
+          "legenda": "O caso de Artur Urso e Luana Kazaki virou notícia — e virou confusão na cabeça de muita gente.\n\nMas a psicologia é clara: traição é a quebra de um acordo, não de uma posição sexual.\n\nSalva esse carrossel pra ter essa conversa com quem você ama.\n\n#artururso #luanakazaki #traição #relacionamentos #psicologia #acordos #priscillaandrade"
         }
       }
     },
     {
-      "id": 6,
-      "titulo": "Gracyanne e Belo: 16 anos e uma traição — o que acontece com a identidade de uma mulher",
-      "resumo": "A separação de Gracyanne Barbosa e Belo após 16 anos, marcada pela traição com o personal dela, voltou a circular nas redes em junho. Além do drama da infidelidade, o caso oferece uma reflexão psicológica raramente abordada: quando uma relação muito longa termina, a mulher não perde só o parceiro — ela perde o personagem que construiu dentro daquela relação.",
+      "id": 5,
+      "titulo": "Beige flags: a nova tendência viral que está redefinindo o que é 'suspeito' no amor",
+      "resumo": "As 'beige flags' viralizaram como o novo jeito de nomear as manias estranhas ou levemente irritantes do parceiro — que não são um problema real, mas te fazem pensar. Depois de red flags e green flags, a beige flag complexifica a conversa sobre relacionamentos. Priscilla discute quando a obsessão por categorizar comportamentos atrapalha mais do que ajuda.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "lo-fi"
       ],
-      "fonte": "Terra / Estrelando — múltiplas fontes em circulação junho 2026",
+      "fonte": "Bons Fluidos / Metrópoles, 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "16 anos de casamento não protegem da traição — e o caso da Gracyanne mostra o que a psicologia chama de crise de identidade pós-relação.",
-          "gancho": "Gracyanne e Belo. 16 anos juntos. Traição com o personal dela. E a pergunta que ninguém está fazendo: o que acontece com a identidade de uma mulher quando um ciclo de 16 anos termina assim?",
+          "ideia_central": "As beige flags são divertidas — mas a obsessão com flags no amor está nos ensinando a classificar em vez de conectar.",
+          "gancho": "Beige flag. A nova tendência que tomou conta do TikTok e Instagram essa semana. Mas tem algo nisso que, como psicóloga, me preocupa.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Gracyanne e Belo. 16 anos juntos. Traição revelada. Todo mundo comentou sobre ela — mas ninguém falou sobre o que isso faz com a identidade de uma mulher."
+              "fala": "Beige flag. A nova tendência que tomou conta do TikTok e Instagram essa semana. Mas tem algo nisso que, como psicóloga, me preocupa."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Gracyanne era a musa fitness, ele era o cantor. Uma relação pública e duradoura. A traição com o próprio personal de Gracyanne virou notícia — e voltou às redes agora."
+              "fala": "Primeiro foram as red flags — sinais de alerta. Depois as green flags — sinais de saúde. Agora as beige flags: aquelas manias estranhas ou levemente irritantes do parceiro que não chegam a ser um problema, mas te fazem coçar a cabeça. É divertido, é criativo, e fez muito sucesso nas redes essa semana."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "O que poucos falam: quando um relacionamento longo termina por traição, a mulher não perde só o parceiro. Ela perde o personagem que construiu dentro daquela relação. Quem sou eu fora desse casamento? Quem fui por todos esses anos? Isso é o que realmente precisa de cura."
+              "fala": "Mas eu quero te fazer pensar: quando ficamos tão focadas em classificar o comportamento do outro em flags, estamos nos relacionando — ou fazendo uma auditoria? Existe um ponto onde a hiperconscientização de 'sinais' nos torna incapazes de simplesmente estar presentes. O amor não cabe numa taxonomia de bandeiras."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Se você já passou por um término longo, me conta: qual foi a parte mais difícil de se encontrar de novo?"
+              "fala": "Qual a 'beige flag' do seu parceiro que você já aprendeu a amar? Me conta nos comentários — vamos rir juntas."
             }
           ],
-          "legenda": "O caso da Gracyanne e Belo voltou a circular essa semana — e a internet continua discutindo quem traiu quem.\n\nMas a psicóloga em mim quer falar sobre outra coisa: o que acontece com a identidade de uma mulher quando 16 anos de casamento terminam por traição?\n\nEla não perde só o parceiro. Ela perde o personagem que foi por mais de uma década.\n\nIsso não é drama. É reconstrução de identidade — e é um dos processos psicológicos mais complexos e silenciosos que existem.\n\nSe você já passou por um término longo, o que foi mais difícil de reconstruir?\n\n#gracyanne #belo #traição #separação #identidade #psicologiafeminina #mulher #psicóloga #relacionamento"
+          "legenda": "Beige flags chegaram para ficar — e eu adorei a criatividade da tendência.\n\nMas como psicóloga de relacionamentos, preciso te fazer uma pergunta:\n\nQuando ficamos tão focadas em identificar flags, estamos nos conectando ou fazendo uma auditoria?\n\nA hiperconscientização de sinais pode ser uma armadilha: ela nos coloca no papel de analistas do parceiro em vez de presentes no relacionamento.\n\nRed flag real precisa de atenção. Beige flag é só... ser humano. E o amor real acontece justamente nessa estranheza.\n\n💬 Conta a 'beige flag' do seu parceiro que você acabou amando!\n\n#beigeflag #redflag #greenflag #relacionamentos #tendência #psicologia #priscillaandrade #comportamentofeminino #tiktokbrasil"
         },
         "lo-fi": {
-          "ideia": "Conversa íntima sobre reconstrução de identidade após fim de relacionamento longo — usando caso Gracyanne/Belo como âncora.",
-          "gancho": "O caso da Gracyanne e Belo me fez pensar em algo que ninguém está falando — e que é muito mais importante do que quem traiu quem.",
+          "ideia": "Conversa descontraída mas com insight real sobre as beige flags e a obsessão moderna por classificar comportamentos no amor.",
+          "gancho": "Tá, as beige flags são super divertidas. Mas tem uma coisa que ninguém está falando sobre essa tendência.",
           "o_que_falar": [
-            "Contextualiza: Gracyanne e Belo, 16 anos, traição com o personal, separação voltando às redes",
-            "Insight: o verdadeiro drama não é a traição — é a mulher que passou anos construindo identidade dentro de uma relação e de repente precisa se encontrar fora dela",
-            "Conexão com audiência: 'no consultório, o que vejo nas mulheres que passam por isso não é ódio pelo ex — é um vazio. Quem sou eu agora?'",
-            "CTA: 'Se você já passou por isso, conta aqui embaixo. Como você se encontrou de novo?'"
+            "Ponto 1 — O que são beige flags: explica de forma leve a sequência red flag → green flag → beige flag. Manias esquisitas que não chegam a ser um problema.",
+            "Ponto 2 — Insight psicológico: a diferença entre consciência saudável sobre o parceiro e auditoria constante. Quando a nomenclatura vira distância emocional.",
+            "Ponto 3 — Conexão com as seguidoras: 'Você já estava num relacionamento tão focada em identificar sinais que esqueceu de simplesmente gostar da pessoa?'",
+            "Ponto 4 — CTA leve: pede pra contarem a beige flag favorita do parceiro nos comentários, com tom de brincadeira."
           ],
-          "legenda": "O fim de um relacionamento longo é quase sempre o início de uma crise de identidade — e ninguém fala sobre isso. 🤍\n\nO caso da Gracyanne e Belo abriu essa conversa pra mim essa semana.\n\nComo você se encontra depois de anos sendo 'a metade de algo'?\n\n#gracyanne #relacionamento #identidade #psicóloga #mulher #separação #reconstrução",
-          "vibe": "Câmera estática, luz natural, sem cortes, tom acolhedor e íntimo — como conversa com uma amiga de confiança."
+          "legenda": "As beige flags são o assunto da semana e eu preciso falar sobre isso de forma honesta.\n\nÉ divertido, é criativo, tem um fundo de verdade.\n\nMas amor real não cabe numa lista de bandeiras.\n\n💬 Conta a beige flag do seu parceiro que você acabou amando!\n\n#beigeflag #relacionamentos #amor #psicologia #priscillaandrade #tendência #tiktokbrasil",
+          "vibe": "Câmera na mão ou estática, andando pela casa, tom leve e divertido. Pode sorrir bastante. Roupa casual."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Pix de R$10 mil viral: o que o debate sobre mulher e estabilidade financeira no amor revela",
+      "resumo": "Um vídeo mostrando um pix de R$10 mil viralizou como símbolo de relacionamento ideal — homem generoso, estável, que investe na parceira. Para Priscilla: há uma diferença crítica entre buscar segurança financeira e confundi-la com segurança emocional, e esse confuso custo alto.",
+      "pilar": "Autoimagem & Identidade",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "Leite Quente News / tendência viral redes sociais, maio 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "O viral do pix de R$10 mil expõe como estamos confundindo segurança financeira com segurança emocional — e isso tem um custo alto.",
+          "gancho": "Você viu o pix de R$10 mil que viralizou como 'prova de amor'? Eu preciso trazer o que isso diz sobre nós, mulheres.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Você viu o pix de R$10 mil que viralizou como 'prova de amor'? Eu preciso trazer o que isso diz sobre nós, mulheres."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "O vídeo viralizou nas redes como símbolo de relacionamento ideal — um homem generoso, estável, que investe na parceira. Os comentários explodiram com mulheres dizendo que é isso que elas procuram. E eu entendo. Segurança financeira é legítima como critério de relacionamento."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "O problema aparece quando usamos o dinheiro como substituto emocional. Quando a generosidade financeira vira o critério principal de escolha, muitas vezes é porque a mulher aprendeu que amor é sobre provisão — não sobre presença, reconhecimento, crescimento conjunto. E aí ela pode passar anos num relacionamento financeiramente confortável mas emocionalmente vazio."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "O que você prioriza quando escolhe um parceiro? Me conta nos comentários — sem julgamento."
+            }
+          ],
+          "legenda": "O viral do pix de R$10 mil está por todo lado — e os comentários revelam muito sobre o que as mulheres estão buscando no amor.\n\nSegurança financeira é um critério legítimo. Sempre foi. Mas tem uma pergunta importante aqui:\n\nVocê está buscando estabilidade financeira ou está confundindo ela com estabilidade emocional?\n\nQuando crescemos aprendendo que amor é sinônimo de provisão, tendemos a medir o afeto em gestos financeiros. E isso pode nos manter em relacionamentos confortáveis mas emocionalmente vazios.\n\nDinheiro compra segurança. Presença, reconhecimento e crescimento conjunto não aparecem no extrato bancário.\n\n💬 O que você busca num parceiro?\n\n#pix #viraldasemana #relacionamentos #mulher #estabilidade #psicologia #priscillaandrade #comportamentofeminino #autoimagem"
+        },
+        "post-estatico": {
+          "ideia": "Frase que distingue segurança financeira de segurança emocional — provocando reflexão sem julgamento.",
+          "titulo_visual": "Dinheiro compra conforto. Presença compra você.",
+          "legenda": "O viral do pix de R$10 mil reacendeu um debate importante sobre o que buscamos em um relacionamento.\n\nSegurança financeira é legítima. Mas quando ela vira o único critério, pode ser porque a gente nunca aprendeu a pedir — e receber — segurança emocional.\n\nE essa diferença muda tudo.\n\n💬 Salva e compartilha com uma amiga que precisa refletir sobre isso.\n\n#relacionamentos #mulher #amor #psicologia #priscillaandrade #viral #autoimagem",
+          "cta": "Salva esse post e compartilha com quem precisa ouvir isso hoje."
         }
       }
     },
     {
       "id": 7,
-      "titulo": "49% das mulheres desconfiam do homem que se diz feminista — a ciência explica por quê",
-      "resumo": "Pesquisa divulgada pela CNN Brasil revelou que quase metade das mulheres brasileiras mantém ceticismo em relação a homens que se apresentam como feministas. O dado gerou debate nas redes e revela um fenômeno psicológico real: a fadiga com a performance de valores sem correspondência comportamental, chamada de 'feminismo de vitrine'.",
+      "titulo": "49% das mulheres desconfiam do 'homem feminista' — e a psicologia explica por quê esse radar é preciso",
+      "resumo": "Pesquisa recente revelou que 49% das mulheres brasileiras desconfiam de discursos masculinos performáticos sobre feminismo. 60% valorizam que o parceiro tenha visão alinhada ao feminismo, mas 47% ficam em alerta quando o homem monopoliza a conversa com slogans em vez de ações. Para Priscilla: como distinguir aliado real de performático.",
       "pilar": "Posicionamento & Carreira",
       "urgencia": "semana",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "CNN Brasil — cnnbrasil.com.br",
+      "fonte": "CNN Brasil / Meio & Mensagem, comportamento feminino 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "Desconfiar do 'homem feminista' não é paranoia — é um instinto psicológico calibrado pela repetição da decepção.",
-          "gancho": "Uma pesquisa mostrou que 49% das mulheres brasileiras desconfiam do homem que se diz feminista. Eu sou psicóloga — e eu entendo completamente.",
+          "ideia_central": "O radar feminino para o homem feminista performático é poderoso — e tem uma razão psicológica muito específica por trás disso.",
+          "gancho": "49% das mulheres dizem desconfiar do homem que se diz feminista. Não é raiva. É inteligência emocional.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Quase metade das mulheres brasileiras desconfia do homem que se diz feminista. Isso é paranoia — ou sabedoria? A psicologia responde."
+              "fala": "49% das mulheres dizem desconfiar do homem que se diz feminista. Não é raiva. É inteligência emocional."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A CNN Brasil publicou que 49% das mulheres mantêm atenção redobrada com homens que falam muito sobre igualdade de gênero. E nas redes, o debate explodiu: ela é ressentida ou ele é performático?"
+              "fala": "Uma pesquisa recente mostrou que 60% das brasileiras valorizam que o parceiro tenha visão alinhada ao feminismo. Mas quase metade delas desconfiam quando esse feminismo vem em forma de discurso, de slogan, de monopolização da conversa. Elas querem exemplos reais, não proclamações."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Existe um processo em psicologia chamado dissonância cognitiva afetiva — quando o discurso e o comportamento de alguém não se alinham. Mulheres que já viveram isso desenvolvem um radar altamente calibrado. Não é cinismo. É aprendizado com dor."
+              "fala": "Como psicóloga, eu digo que esse radar é preciso. O performativo usa a linguagem do movimento para ganhar aprovação — mas quando a câmera apaga, o comportamento real aparece. E as mulheres, depois de séculos aprendendo a ler nas entrelinhas, desenvolveram uma capacidade impressionante de distinguir quem é do quem diz ser. O corpo não mente. O histórico de comportamento não mente."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você confia no homem que se diz feminista? Me conta sua experiência."
+              "fala": "Você já se deparou com o 'feminista de vitrine'? Conta nos comentários."
             }
           ],
-          "legenda": "49% das mulheres brasileiras desconfiam do homem que se diz feminista — e esse número faz todo sentido. 📊\n\nNão é paranoia. É um radar construído pela repetição de experiências em que o discurso não se sustentou no comportamento real.\n\nComo psicóloga, chamo isso de 'feminismo de vitrine' — e os efeitos são reais: cria expectativas que nunca se cumprem, e quando a mulher percebe a inconsistência, a dor é dupla: pela decepção e pela vergonha de ter acreditado.\n\nVocê já viveu isso? Me conta.\n\n#feminismo #homemfeminista #relacionamento #psicologiafeminina #comportamento #mulher #psicóloga #autoconhecimento"
+          "legenda": "Os números saíram e confirmaram o que muitas de nós já sentíamos:\n\n49% das mulheres brasileiras desconfiam do homem que usa o feminismo como discurso de conquista.\n\nNão é birra. Não é ranço. É leitura precisa de comportamento.\n\nO feminista performático usa a linguagem certa para criar uma imagem segura — mas quando a câmera apaga, o comportamento real aparece.\n\nAliado real não precisa proclamar. Ele age.\n\n💬 Você já encontrou o 'feminista de vitrine'? Conta nos comentários.\n\n#feminismo #homenfeminista #relacionamentos #psicologia #comportamentofeminino #priscillaandrade #mulher #pesquisa"
         },
         "carrossel": {
-          "ideia": "Como identificar o feminismo real do performático — baseado nos dados da pesquisa CNN Brasil.",
+          "ideia": "Como distinguir o aliado real do feminista performático — guia prático com base na psicologia do comportamento.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "49% das mulheres desconfiam do 'homem feminista'. Elas estão certas.",
-              "subtitulo": "A psicologia por trás desse instinto"
+              "titulo": "Feminista de verdade ou de vitrine?",
+              "subtitulo": "49% das mulheres já desconfiam — saiba o que seus olhos devem observar"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
-              "titulo": "O que a pesquisa diz",
-              "texto": "Segundo dados da CNN Brasil, quase metade das mulheres brasileiras valoriza a visão do parceiro sobre feminismo — mas 49% mantêm atenção redobrada com quem usa esse discurso de forma performática."
+              "titulo": "O que a pesquisa revelou",
+              "texto": "60% das brasileiras valorizam que o parceiro se identifique com o feminismo. Mas 49% desconfiam quando esse feminismo vem como discurso — e 47% ficam em alerta quando ele monopoliza a conversa sobre pautas femininas sem ouvir as mulheres ao redor."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "O que é feminismo de vitrine",
-              "texto": "É quando o homem usa o discurso de igualdade para atrair ou impressionar — mas no privado, os comportamentos contradizem tudo. Divide conta no jantar mas não divide as tarefas. Fala de empoderamento mas controla as saídas."
+              "titulo": "O que o performático faz",
+              "texto": "1. Usa vocabulário feminista para se aproximar\n2. Fala mais do que ouve sobre experiências femininas\n3. Age diferente em público e em privado\n4. Reage mal quando sua visão é questionada por uma mulher\n5. Usa o feminismo como escudo para comportamentos contraditórios"
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "Como seu cérebro detecta isso",
-              "texto": "Mulheres que já viveram a dissonância entre discurso e comportamento desenvolvem um radar automático. Não é paranoia — é aprendizado neurológico. O cérebro aprende a identificar padrões que causaram dor antes."
+              "titulo": "O que o aliado real faz",
+              "texto": "1. Age de forma consistente sem precisar proclamar\n2. Cede espaço de fala para mulheres\n3. Toma responsabilidade quando erra\n4. Apoia o crescimento da parceira mesmo quando isso o desafia\n5. Comportamento igual em público e em privado"
             },
             {
               "numero": 5,
               "tipo": "CTA",
-              "titulo": "Qual sinal você aprendeu a observar?",
-              "texto": "Conta aqui como você diferencia o discurso real do performático. ⬇️"
+              "titulo": "Observe o comportamento, não o discurso",
+              "texto": "Seu radar já sabe a diferença. Confie nele. Salva esse carrossel e compartilha com uma amiga que está navegando nisso."
             }
           ],
-          "legenda": "Esse dado da CNN Brasil virou debate — e eu entendo o porquê. 🔍\n\n49% das mulheres desconfiam do homem que se diz feminista. E isso não é amargura. É inteligência emocional calibrada pela experiência.\n\nAbre o carrossel e entende a psicologia por trás desse instinto.\n\n#feminismo #comportamento #mulher #psicóloga #relacionamento #radar #padrões"
+          "legenda": "A pesquisa confirma o que vocês já sabiam: o feminista de vitrine é real, e o radar de vocês está calibrado.\n\nSalva esse carrossel pra lembrar o que observar.\n\n#feminismo #relacionamentos #psicologia #priscillaandrade #comportamentofeminino #mulher"
         }
       }
     },
     {
       "id": 8,
-      "titulo": "Sagrado Feminino cresce em 2026: por que mulheres estão buscando essa reconexão",
-      "resumo": "O movimento do Sagrado Feminino registrou crescimento expressivo em 2026, com mulheres buscando reconexão com ciclos lunares, intuição e autoconhecimento profundo. Especialistas e portais como Bons Fluidos e Terra identificam o fenômeno como uma resposta psicológica ao esgotamento da hiperprodutividade e à negação histórica do que é feminino.",
+      "titulo": "34,2% das mulheres com ansiedade: o dado do Brain Congress 2026 que o Brasil precisa parar para discutir",
+      "resumo": "Dados do Brain Congress 2026 (Porto Alegre, 2-6 de junho) apontam que 34,2% das mulheres brasileiras já receberam diagnóstico de ansiedade — taxa duas a três vezes maior que entre homens. Para Priscilla: a ansiedade feminina não é individual, é estrutural. Entender isso muda a forma de tratar.",
+      "pilar": "Autoimagem & Identidade",
+      "urgencia": "semana",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "CNN Brasil / Brain Congress Porto Alegre, junho 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "34,2% das mulheres com ansiedade não é uma coincidência estatística — é o reflexo de um sistema que cobra demais de nós.",
+          "gancho": "34,2% das mulheres brasileiras têm diagnóstico de ansiedade. Esse número não é um acidente. Eu preciso te contar o que está por trás disso.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "34,2% das mulheres brasileiras têm diagnóstico de ansiedade. Esse número não é um acidente. Eu preciso te contar o que está por trás disso."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "Dados do Brain Congress 2026, em Porto Alegre, mostram que mulheres têm taxas de ansiedade duas a três vezes maiores que os homens. 34,2% já tiveram diagnóstico formal. E se você adicionar as que nunca foram diagnosticadas mas vivem ansiosas — o número é muito maior."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A ansiedade feminina não é fraqueza individual. Ela é a resposta de um sistema nervoso que aprendeu a estar sempre em alerta — porque mulheres crescem sendo cobradas em múltiplas frentes ao mesmo tempo: filha perfeita, profissional impecável, parceira disponível, corpo dentro do padrão. A ansiedade não é o seu problema. É a resposta ao que o mundo exigiu de você."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Você se reconhece nesses dados? Conta nos comentários. Você não está sozinha."
+            }
+          ],
+          "legenda": "34,2% das mulheres brasileiras com diagnóstico de ansiedade.\n\nIsso foi apresentado no Brain Congress 2026 em Porto Alegre — e esse número precisa ser falado em voz alta.\n\nA ansiedade feminina não é fraqueza. É a resposta do corpo a um sistema que cobra demais.\n\nDesde cedo, aprendemos a ser tudo ao mesmo tempo: filha perfeita, profissional, parceira, mãe, amiga. Cada papel com suas exigências. Cada falha com seu peso.\n\nO corpo responde. A mente responde. E essa resposta tem nome: ansiedade.\n\nCuidar da sua saúde mental não é luxo. É necessidade. E você merece isso.\n\n💬 Você se reconhece nesses dados? Você não está sozinha.\n\n#ansiedade #saúdemental #mulher #psicologia #priscillaandrade #braincongress #comportamentofeminino #autocuidado"
+        },
+        "lo-fi": {
+          "ideia": "Conversa íntima e direta sobre o dado dos 34,2% — sem drama, com profundidade.",
+          "gancho": "Um dado saiu essa semana que eu preciso falar com vocês. 34,2% das mulheres com diagnóstico de ansiedade.",
+          "o_que_falar": [
+            "Ponto 1 — O dado: apresentado no Brain Congress 2026 em Porto Alegre, 34,2% das mulheres com ansiedade diagnóstica, taxa 2-3x maior que homens.",
+            "Ponto 2 — Insight psicológico: ansiedade feminina como resposta estrutural, não fraqueza individual. O custo psicológico de ser cobrada em múltiplas frentes.",
+            "Ponto 3 — Conexão com as seguidoras: a sensação de sempre estar devendo algo a alguém, de nunca estar completamente presente em nada porque está parcialmente em tudo.",
+            "Ponto 4 — CTA com cuidado: convida para comentar se se reconhece. Lembra que buscar ajuda é ato de coragem, não de fraqueza."
+          ],
+          "legenda": "Esse dado me tocou profundamente essa semana.\n\n34,2% das mulheres brasileiras com ansiedade. E esse número representa apenas as diagnosticadas.\n\nVocê não está sozinha. E cuidar disso é o ato mais corajoso que você pode fazer por você.\n\n💬 Você se reconhece nisso?\n\n#ansiedade #saúdemental #mulher #priscillaandrade #psicologia #autocuidado",
+          "vibe": "Câmera estática, luz suave natural. Tom acolhedor e sério ao mesmo tempo. Voz calma. Roupa confortável — como uma conversa de domingo."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "titulo": "Sagrado Feminino em alta em 2026: por que cada vez mais mulheres estão buscando essa reconexão",
+      "resumo": "Dados de 2026 mostram crescimento expressivo na busca por espiritualidade feminina e abordagens integrativas de saúde emocional no Brasil. Para Priscilla: o Sagrado Feminino não é apenas espiritual — é uma resposta psicológica profunda à necessidade de reconexão com a própria natureza cíclica, num mundo que exige linearidade constante.",
       "pilar": "Estilo de Vida & Espiritualidade",
       "urgencia": "semana",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "post-estatico"
       ],
-      "fonte": "Bons Fluidos / Terra — bonsfluidos.com.br",
+      "fonte": "Terra.com.br / Joie de Vivre Monde, 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O Sagrado Feminino não é esoterismo — é a resposta psicológica de mulheres exaustas de um mundo que nega o que é feminino.",
-          "gancho": "Por que tantas mulheres estão buscando o Sagrado Feminino em 2026? Eu tenho uma resposta psicológica — e ela não tem nada de mística.",
+          "ideia_central": "O movimento do Sagrado Feminino não é apenas místico — é uma resposta psicológica à necessidade de permissão para ser cíclica.",
+          "gancho": "Mais e mais mulheres estão buscando o Sagrado Feminino em 2026. E como psicóloga, eu te explico por que isso faz todo sentido.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Por que tantas mulheres estão buscando o Sagrado Feminino agora? Como psicóloga, eu tenho uma resposta — e ela não tem nada de mística."
+              "fala": "Mais e mais mulheres estão buscando o Sagrado Feminino em 2026. E como psicóloga, eu te explico por que isso faz todo sentido."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Em 2026, o movimento cresceu de forma significativa. Mulheres buscando lua, ciclos, rituais, autoconhecimento profundo. E muita gente ainda olha com ceticismo, como se fosse modinha ou escapismo."
+              "fala": "As buscas por 'sagrado feminino', 'ciclos femininos' e abordagens integrativas de saúde emocional explodiram no Brasil em 2026. Mulheres estão se reconectando com os ciclos da natureza, com as fases da lua, com práticas espirituais antes marginalizadas. Não é moda. É um movimento com raízes profundas."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "O que está acontecendo é um movimento de compensação coletiva. Vivemos numa cultura que valoriza produtividade, racionalidade e constância — características historicamente associadas ao masculino. O Sagrado Feminino é o retorno ao que foi negado: a ciclicidade, a intuição, a pausa. Isso é saúde."
+              "fala": "Do ponto de vista psicológico, o Sagrado Feminino oferece o que a cultura moderna raramente oferece para as mulheres: permissão para ser cíclica. Nossa sociedade foi construída no modelo masculino linear — produção constante, crescimento contínuo, sem pausa. Mas a natureza feminina é cíclica, oscila entre expansão e recolhimento. Reconectar com isso não é escapismo. É saúde."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você tem alguma prática espiritual ou de autoconhecimento? Me conta."
+              "fala": "Você já teve contato com o Sagrado Feminino? Conta nos comentários como foi."
             }
           ],
-          "legenda": "O Sagrado Feminino está em alta em 2026 — e como psicóloga, eu não estou surpresa. 🌙\n\nMulheres exaustas de um mundo que exige que sejam constantes, produtivas e racionais o tempo todo estão buscando o que foi negado: a ciclicidade, a intuição, a pausa.\n\nIsso não é escapismo. É um movimento de compensação psicológica — e é completamente saudável.\n\nVocê tem alguma prática de autoconhecimento? Conta aqui. ⬇️\n\n#sagradofeminino #espiritualidade #autoconhecimento #mulher #psicóloga #autocuidado #ciclos #lunar #saúdemental"
+          "legenda": "O Sagrado Feminino está em alta — e como psicóloga, eu celebro isso.\n\nNão porque é uma tendência espiritual. Mas porque representa algo que a psicologia confirma:\n\nAs mulheres precisam de permissão para ser cíclicas.\n\nVivemos numa cultura que valoriza linearidade, constância e produção ininterrupta — uma cultura construída no ritmo masculino.\n\nMas a natureza feminina oscila. Ela expande e recolhe. Ela tem ciclos de força e ciclos de silêncio. E negar isso custa caro — em forma de ansiedade, esgotamento e desconexão de si mesma.\n\nO Sagrado Feminino, em sua essência, é reconexão com a própria natureza. E isso, psicologicamente, é uma das ferramentas mais poderosas de autoconhecimento.\n\n💬 Você já explorou o Sagrado Feminino?\n\n#sagradofeminino #espiritualidade #autoconhecimento #mulher #psicologia #priscillaandrade #ciclosfemininos #saúdeemocional"
         },
         "post-estatico": {
-          "ideia": "Frase de impacto sobre o Sagrado Feminino como resposta psicológica ao esgotamento moderno.",
-          "titulo_visual": "O Sagrado Feminino não é moda. É a cura do que foi negado por décadas.",
-          "legenda": "Mulheres buscando rituais, ciclos e autoconhecimento profundo em 2026 não estão fugindo da realidade. 🌙\n\nEstão retornando a ela — de um jeito que o mundo moderno esqueceu de honrar.\n\nIsso tem nome na psicologia: reconexão com o self feminino. E é um dos movimentos mais saudáveis que acompanho hoje.\n\nSalva se isso falou com você. ✨\n\n#sagradofeminino #autoconhecimento #mulher #psicóloga #espiritualidade #autocuidado",
-          "cta": "Salva essa arte e compartilha com quem precisa se dar permissão para desacelerar."
-        }
-      }
-    },
-    {
-      "id": 9,
-      "titulo": "74% das mulheres dizem que redes sociais distorcem sua imagem corporal — debate que não para",
-      "resumo": "Dados de 2026 mostram que 74% das mulheres acreditam que as redes sociais influenciam negativamente sua percepção corporal, com Instagram liderando o impacto. O debate ressurge com força nas redes, com especialistas discutindo a comparação social ascendente como mecanismo de manutenção da insatisfação corporal feminina.",
-      "pilar": "Autoimagem & Identidade",
-      "urgencia": "semana",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "Revista FT / Instituto CRIAP — revistaft.com.br",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "O Instagram não está mostrando beleza — está mostrando o que você deveria ser e ainda não é. Isso tem um custo psicológico real.",
-          "gancho": "74% das mulheres acreditam que as redes sociais distorcem a forma como elas veem o próprio corpo. Eu sou psicóloga — e esse número me preocupa.",
-          "roteiro": [
-            {
-              "tempo": "0–3s",
-              "descricao": "Abertura",
-              "fala": "74% das mulheres acreditam que as redes sociais mudam negativamente como elas se veem. Isso é epidemia silenciosa — e está dentro do seu celular."
-            },
-            {
-              "tempo": "3–15s",
-              "descricao": "Contexto",
-              "fala": "O Instagram é a rede que mais influencia a percepção corporal feminina. 7 em cada 10 jovens mulheres sentem pressão para estar sempre arranjadas e apresentáveis, segundo especialistas em 2026."
-            },
-            {
-              "tempo": "15–25s",
-              "descricao": "Virada psicológica",
-              "fala": "Existe um processo chamado comparação social ascendente — quando você se compara constantemente com imagens que parecem estar acima de você. E o algoritmo foi projetado pra te manter nesse loop. O resultado é ansiedade, não inspiração."
-            },
-            {
-              "tempo": "25–30s",
-              "descricao": "CTA",
-              "fala": "Você já percebeu que saiu do Instagram se sentindo pior com você mesma? Me conta."
-            }
-          ],
-          "legenda": "74% das mulheres. É quase todas nós. 📱\n\nAs redes sociais — especialmente o Instagram — foram construídas para te fazer sentir que você sempre pode melhorar. Que você ainda não chegou lá.\n\nIsso tem nome em psicologia: comparação social ascendente. E o algoritmo potencializa isso propositalmente.\n\nO impacto é real: insatisfação corporal, ansiedade, distúrbios alimentares, baixa autoestima.\n\nNão é frescura. É um sistema construído para te fazer se sentir insuficiente — porque insegurança vende.\n\nVocê já abriu e fechou o Instagram se sentindo pior? Me conta. ⬇️\n\n#imagemcorporal #redessociais #autoestima #mulher #instagram #psicóloga #comparação #saúdemental #autoimagem"
-        },
-        "carrossel": {
-          "ideia": "O que as redes fazem com a autopercepção feminina — dados, psicologia e como se proteger.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "74% das mulheres sentem que o Instagram distorce como elas se veem. Isso não é coincidência.",
-              "subtitulo": "A psicologia por trás da insatisfação corporal nas redes"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O que os dados mostram",
-              "texto": "74% das mulheres acreditam que as redes sociais influenciam negativamente na percepção corporal. O Instagram é a plataforma de maior impacto. 7 em cada 10 jovens mulheres sentem pressão para estar sempre apresentáveis."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Como isso acontece no seu cérebro",
-              "texto": "Comparação social ascendente: seu cérebro compara automaticamente você com imagens idealizadas no feed. O algoritmo prioriza imagens que geram engajamento — e corpos e vidas 'perfeitas' geram muito. O resultado é um loop de insuficiência."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que você pode fazer agora",
-              "texto": "1. Siga contas que mostram diversidade real. 2. Observe como você se sente DEPOIS de usar o app. 3. Limite o tempo de scroll passivo. 4. Regra simples: se me faz sentir pior, deixo de seguir."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "Você já fez uma limpeza no feed?",
-              "texto": "Me conta como você cuida da sua saúde mental nas redes. ⬇️"
-            }
-          ],
-          "legenda": "As redes foram projetadas para te fazer sentir insuficiente — porque insegurança vende. 📱\n\nMas você pode usar isso de forma consciente.\n\nAbre o carrossel e descobre o que a psicologia diz sobre a sua relação com o Instagram.\n\n#imagemcorporal #autoestima #instagram #mulher #psicóloga #saúdemental #feed #autoimagem"
+          "ideia": "Frase que captura a essência do Sagrado Feminino como permissão para ser cíclica — visual poderoso.",
+          "titulo_visual": "Você não é inconsistente. Você é cíclica. E há uma diferença enorme.",
+          "legenda": "Em 2026, mais mulheres estão buscando o Sagrado Feminino — e eu entendo por quê.\n\nA nossa cultura exige linearidade. Constância. Produção sem pausa.\n\nMas a natureza feminina é cíclica. E reconhecer isso é um ato de saúde psicológica profunda.\n\nSalva esse post pra quando precisar lembrar disso.\n\n#sagradofeminino #mulher #psicologia #priscillaandrade #autoconhecimento #espiritualidade #ciclosfemininos",
+          "cta": "Salva e compartilha com uma amiga que está se cobrando demais."
         }
       }
     },
     {
       "id": 10,
-      "titulo": "Mães na ciência: por que as mais capacitadas ainda precisam lutar para continuar",
-      "resumo": "A Agência Brasil publicou em maio de 2026 especial sobre iniciativas para facilitar o acesso e permanência de mães na ciência brasileira. O tema expõe o paradoxo da 'penalidade da maternidade': mulheres altamente qualificadas abandonam carreiras brilhantes não por falta de competência, mas por um sistema construído sem considerar sua existência.",
-      "pilar": "Posicionamento & Carreira",
+      "titulo": "67% dos brasileiros querem investir em saúde mental: a diferença entre intenção e prática real",
+      "resumo": "Pesquisa da CNN Brasil aponta que 67% dos brasileiros pretendem investir mais em saúde mental em 2026 — o maior número já registrado. Priscilla traz o contraponto: há uma diferença enorme entre intenção e prática, e muitas mulheres ficam presas no 'vou começar depois'. Como sair do querer para o fazer.",
+      "pilar": "Estilo de Vida & Espiritualidade",
       "urgencia": "evergreen",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "post-estatico"
+        "carrossel"
       ],
-      "fonte": "Agência Brasil — agenciabrasil.ebc.com.br, maio 2026",
+      "fonte": "CNN Brasil, pesquisa saúde mental 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "Uma mulher que abandona a ciência para ser mãe não falhou — ela foi colocada numa escolha que homens nunca precisam fazer.",
-          "gancho": "A Agência Brasil publicou sobre mães que abandonam carreiras na ciência — e a razão não é falta de competência. É falta de estrutura.",
+          "ideia_central": "67% querem investir em saúde mental — mas intenção sem ação é só mais uma forma de autocuidado performático.",
+          "gancho": "67% dos brasileiros dizem que vão investir em saúde mental em 2026. Esse número é bonito. Mas tem uma pergunta que precisa ser feita.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Você sabia que as mulheres mais capacitadas do Brasil ainda precisam escolher entre a ciência e a maternidade? Isso não é falta de ambição — é falta de estrutura."
+              "fala": "67% dos brasileiros dizem que vão investir em saúde mental em 2026. Esse número é bonito. Mas tem uma pergunta que precisa ser feita."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A Agência Brasil publicou em maio de 2026 um especial sobre iniciativas para manter mães na carreira científica. Porque elas saem — não porque queiram, mas porque o sistema foi construído sem elas."
+              "fala": "Uma pesquisa da CNN Brasil revelou que 67% da população pretende investir mais em saúde mental neste ano — o maior número já registrado. É um sinal de que algo está mudando culturalmente. A saúde mental perdeu o estigma de 'coisa de fraco' e ganhou status de prioridade."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Existe um fenômeno chamado penalidade da maternidade: mulheres perdem salário, oportunidades e reconhecimento ao se tornarem mães, enquanto homens ganham o bônus da paternidade. Não é a psicologia da mulher que precisa mudar — é a estrutura do sistema."
+              "fala": "Mas como psicóloga, preciso te perguntar: quantas dessas 67% ainda estão só na intenção? Porque tem uma diferença enorme entre querer cuidar da saúde mental e realmente cuidar. Muitas mulheres ficam presas num loop: 'vou começar a fazer terapia', 'vou meditar', 'vou me cuidar mais' — mas a vida acontece e o cuidado fica para depois. O autocuidado real exige prioridade, não espera pela hora certa."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já sentiu que precisava escolher entre carreira e maternidade? Me conta."
+              "fala": "Você já deu o primeiro passo? Conta nos comentários o que te impede — vou responder."
             }
           ],
-          "legenda": "Uma mulher que abre mão de uma carreira brilhante para ser mãe não falhou. 💛\n\nEla foi colocada diante de uma escolha que homens raramente precisam fazer.\n\nA Agência Brasil trouxe em maio de 2026 um especial sobre mães na ciência — e os dados mostram que o problema não é competência. É estrutura.\n\nIsso se chama penalidade da maternidade — e é um fenômeno documentado em todo o mundo.\n\nVocê já sentiu essa pressão de escolher?\n\n#maternidade #carreira #mulher #ciência #psicóloga #posicionamento #empoderamento #penalidade"
+          "legenda": "67% dos brasileiros prometeram investir em saúde mental em 2026.\n\nEsse número me enche de esperança. E também me faz uma pergunta importante:\n\nQuantas estão ainda só na intenção?\n\nCuidar da saúde mental exige mais do que querer. Exige criar uma estrutura — uma terapia marcada, uma prática diária, um limite dito em voz alta.\n\nIntenção sem ação é só mais uma versão de autocuidado performático. Bonita nos stories, ausente na vida real.\n\nVocê já deu o primeiro passo? Se ainda não, esse é o seu sinal.\n\n💬 O que te impede? Me conta nos comentários — eu respondo cada um.\n\n#saúdemental #psicologia #autocuidado #mulher #priscillaandrade #terapia #comportamentofeminino #autoconhecimento"
         },
-        "post-estatico": {
-          "ideia": "Frase de impacto sobre a penalidade da maternidade na carreira feminina.",
-          "titulo_visual": "Uma mulher que abandona a ciência para ser mãe não falhou. Ela foi colocada numa escolha que homens nunca precisam fazer.",
-          "legenda": "Agência Brasil trouxe em maio de 2026 a realidade das mães na ciência brasileira — e a leitura é pesada. 📌\n\nMulheres altamente qualificadas deixando carreiras brilhantes. Não por falta de vontade — por falta de estrutura.\n\nIsso tem nome: penalidade da maternidade. E é hora de falar sobre isso sem suavizar.\n\n#maternidade #carreira #mulher #ciência #psicóloga #posicionamento #igualdade",
-          "cta": "Salva esse post e compartilha com uma mãe que precisava ver isso hoje."
+        "carrossel": {
+          "ideia": "Da intenção à prática: 5 passos concretos para começar a investir em saúde mental de verdade.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "Você disse que ia cuidar da sua saúde mental. Mas fez?",
+              "subtitulo": "5 passos para sair da intenção e entrar na prática real"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O dado que precisa te incomodar",
+              "texto": "67% dos brasileiros disseram que vão investir em saúde mental em 2026 — o maior número já registrado. Mas quantos realmente tomaram ação? A intenção não cuida de você. A prática, sim."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Por que ficamos presas na intenção",
+              "texto": "1. Esperamos a hora certa (que nunca chega)\n2. Priorizamos tudo e todos antes de nós mesmas\n3. Confundimos cuidado real com posts sobre autocuidado\n4. Acreditamos que precisamos de uma crise grave para buscar ajuda"
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "5 passos concretos para começar agora",
+              "texto": "1. Marque a primeira consulta de terapia hoje\n2. Crie um ritual de 10 minutos diários só para você\n3. Identifique o que mais drena sua energia\n4. Diga não para algo essa semana\n5. Fale sobre como você está — para alguém, não só no diário"
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "Qual desses você começa hoje?",
+              "texto": "Não amanhã. Hoje. Escreve nos comentários qual passo você vai dar agora."
+            }
+          ],
+          "legenda": "67% querem cuidar da saúde mental. Mas intenção sem ação não muda nada.\n\nSalva esse carrossel e escolhe um passo para dar hoje.\n\n#saúdemental #psicologia #autocuidado #terapia #priscillaandrade #mulher #comportamentofeminino"
         }
       }
     }
