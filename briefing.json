@@ -1,643 +1,613 @@
 {
-  "versao": "2026-06-08",
-  "gerado_em": "2026-06-08T10:00:00Z",
-  "contexto_do_dia": "Esta semana o Brasil foi tomado pelo 'cha revelacao da traicao' criado pela influenciadora Bella Mantovani — um evento onde a amiga descobriu a infidelidade do namorado com convidados, gerando debate nacional sobre traicao e empoderamento feminino. Carol Celico voltou as manchetes ao desmentir a frase 'ele era perfeito demais' e denunciar ataques misoginos recebidos nas redes. No pano de fundo, o Brain Congress 2026 (Porto Alegre, 2-6 jun) confirmou o Brasil como lider mundial em transtornos de ansiedade com 18 milhoes de pessoas afetadas, e o movimento Sagrado Feminino avanca como tendencia de espiritualidade e autoconhecimento.",
+  "versao": "2026-06-09",
+  "gerado_em": "2026-06-09T10:00:00-03:00",
+  "contexto_do_dia": "Na semana de 9 de junho de 2026, dominam os feeds: o 'chá revelação da traição' viralizado em 04/06 (UAI), o fim do casamento de Fábio Jr. e Mari Alexandre com acusação de abandono de lar, e a separação de Artur Urso com Luana Kazaki por traição dentro de relacionamento aberto. No campo da saúde mental, o Brain Congress 2026 (Porto Alegre, 2–6/jun) reacendeu o debate sobre ansiedade feminina com dado chave: 34,2% das mulheres brasileiras têm diagnóstico de ansiedade.",
   "items": [
     {
       "id": 1,
-      "titulo": "Bella Mantovani criou um 'cha revelacao da traicao' — e a internet enlouqueceu",
-      "resumo": "A influenciadora paulista Bella Mantovani (33 anos) viralizou esta semana ao ajudar uma amiga a expor a traicao do namorado de 2 anos, transformando a descoberta em um evento com convidados — como num cha revelacao. O caso acende o debate sobre lealdade feminina e exposicao publica da dor. O angulo de Priscilla: o que a necessidade de 'testemunhas' para validar a traicao diz sobre como as mulheres foram ensinadas a duvidar da propria percepcao.",
+      "titulo": "'Chá revelação da traição' viral: o que esse ritual diz sobre como a gente processa — ou evita — a dor da infidelidade",
+      "resumo": "Em 04/06/2026 viralizou a notícia de uma famosa que organizou um 'chá revelação da traição' para sua amiga após descoberta de infidelidade, transformando a dor particular em ato coletivo e celebratório. O fenômeno revela como as mulheres estão ressignificando a traição — de vergonha a empoderamento. Ângulo de Priscilla: o que esse ritual diz sobre o estágio emocional da pessoa e se coletivizar a dor realmente ajuda ou apenas adia o luto.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "UAI Entretenimento — uai.com.br, 04/06/2026",
+      "fonte": "UAI Entretenimento, 04/06/2026 — uai.com.br",
       "copies": {
         "reels-react": {
-          "ideia_central": "A vitalizacao do 'cha revelacao da traicao' expoe um padrao psicologico profundo: mulheres que precisam de testemunhas para acreditar na propria dor.",
-          "gancho": "Voce viu o 'cha revelacao da TRAICAO' da Bella Mantovani? Vou te dizer o que ninguem esta falando sobre isso.",
+          "ideia_central": "O 'chá revelação da traição' é viral, mas a psicologia revela: transformar a dor em espetáculo pode ser uma forma sofisticada de não sentir o que precisa ser sentido.",
+          "gancho": "Você viu que uma famosa fez um 'chá revelação da traição' para a amiga essa semana? Preciso te dizer o que isso revela do ponto de vista da psicologia.",
           "roteiro": [
             {
-              "tempo": "0-3s",
+              "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Voce viu o video da Bella Mantovani que viralizou essa semana? Ela organizou um evento inteiro pra amiga descobrir que o namorado traiu. E a internet amou. Mas por que?"
+              "fala": "Você viu a notícia do 'chá revelação da traição' que viralizou essa semana? Parece empoderador, parece cura — mas como psicóloga, eu preciso te dizer o que está realmente acontecendo ali."
             },
             {
-              "tempo": "3-15s",
+              "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A amiga desconfiava do namorado ha dois anos. A Bella ajudou a reunir as provas e transformou a revelacao em algo coletivo — com convidados, como num cha revelacao. Parece vinganca, parece empoderamento. Na verdade, e sintoma."
+              "fala": "Uma famosa reuniu as amigas num evento para revelar a traição do parceiro da amiga. Virou símbolo de amizade, de apoio. E eu entendo o apelo. Mas existe uma diferença enorme entre processar uma traição e performar uma traição."
             },
             {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "Como psicologa, o que me chama atencao nao e o drama — e a necessidade de testemunhas. Quando voce nao consegue acreditar na propria percepcao sem validacao externa, algo foi quebrado antes da traicao. Ela duvidou de si mesma por dois anos."
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A psicologia chama de evitação emocional disfarçada de cura: quando a gente transforma a dor em espetáculo coletivo, a gente não elabora — a gente adia o luto. A cura real de uma traição é solitária, feia, e leva o tempo que leva. Ela não cabe num 'chá'."
             },
             {
-              "tempo": "25-30s",
+              "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Voce precisaria de provas e de uma plateia pra acreditar na sua dor? Me conta nos comentarios."
+              "fala": "Você já viveu uma traição? Me conta nos comentários como você processou — quero entender como vocês estão lidando com isso."
             }
           ],
-          "legenda": "Sobre o caso da Bella Mantovani e o 'cha revelacao da traicao' que dominou a internet essa semana\n\nA internet amou — e eu entendo. Tem algo profundamente satisfatorio em ver uma mulher que nao aceitou ser silenciada.\n\nMas como psicologa, o que me prende nao e o evento. E o detalhe que a amiga DESCONFIAVA do namorado ha 2 anos.\n\nDois anos duvidando de si mesma.\nDois anos com a percepcao intuitiva la — e sem confiar nela.\n\nA necessidade de criar um evento com testemunhas nao surgiu do nada. Surgiu de um processo de apagamento gradual da propria percepcao — o que acontece dentro de relacionamentos onde o gaslighting opera silenciosamente.\n\nNao precisar de plateia pra acreditar na sua dor e um nivel de autoconfianca que muitas mulheres ainda precisam desenvolver. E isso nao e fraqueza. E o que relacionamentos toxicos fazem com a gente.\n\nVoce consegue confiar na sua percepcao sem validacao externa?\n\n#traicao #relacionamentoabusivo #psicologia #comportamentofeminino #bellmantovani #viralbrasil #autoconfianca #gaslighting"
+          "legenda": "Viralizou essa semana: uma famosa organizou um 'chá revelação da traição' para a amiga. Todo mundo amou. Mas como psicóloga, preciso te dizer o que esse ritual revela emocionalmente.\n\nNão é só um gesto fofo de amizade. É um sinal de como a gente coletivizou a dor — e às vezes isso vira uma forma sofisticada de NÃO sentir o que precisa ser sentido.\n\nA traição machuca de um jeito que nenhuma festa resolve. O que cura é diferente do que parece bonito nas redes.\n\nSe você já passou por isso, sabe do que eu estou falando. 💬\n\n#traicao #relacionamento #psicologia #relacionamentosaudavel #autoconhecimento #mulheresqueamam #comportamentofeminino #saudemental"
         },
         "carrossel": {
-          "ideia": "5 sinais de que voce esta duvidando da propria percepcao dentro de um relacionamento — o caso da Bella Mantovani como ponto de partida.",
+          "ideia": "As 5 etapas reais do luto da traição — o que nenhum 'chá' vai te ensinar mas a psicologia sim.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "O 'cha revelacao da traicao' viralizou. Mas o problema e anterior.",
-              "subtitulo": "O que 2 anos de duvida dizem sobre como mulheres aprendem a nao confiar em si mesmas"
+              "titulo": "O 'chá revelação da traição' viralizou. Mas o que ninguém te diz é isso:",
+              "subtitulo": "As 5 etapas reais de cura que você precisa conhecer"
             },
             {
               "numero": 2,
-              "tipo": "Contextualizacao",
+              "tipo": "Contextualização",
               "titulo": "O que aconteceu",
-              "texto": "Bella Mantovani organizou um evento surpresa para a amiga descobrir a traicao do namorado com quem estava ha 2 anos. O video viralizou no Brasil na primeira semana de junho de 2026."
+              "texto": "Em 04/06, uma famosa organizou um 'chá revelação da traição' para a amiga. Virou viral, virou símbolo. É lindo como gesto de amizade. Mas precisamos conversar sobre o que isso representa emocionalmente."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
               "titulo": "O que isso revela",
-              "texto": "A amiga desconfiava ha 2 anos — e nao acreditou em si mesma. Em relacionamentos com manipulacao emocional, a mulher aprende a questionar a propria intuicao antes de questionar o parceiro."
+              "texto": "Transformar a dor em espetáculo coletivo é um mecanismo de defesa legítimo — mas temporário. A psicologia chama de 'evitação emocional disfarçada de enfrentamento'. Você sente que está agindo, mas na verdade está evitando o luto real."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "Criar 'testemunhas' da traicao nao e so drama. E uma estrategia emocional de uma mulher que foi treinada a duvidar de si mesma. O problema nao comecou com a traicao — comecou quando ela parou de confiar na propria percepcao."
+              "titulo": "As 5 etapas reais da cura",
+              "texto": "1. Choque e negação\n2. Raiva (aqui muita gente fica presa)\n3. Negociação interna\n4. Tristeza profunda\n5. Aceitação e reconstrução\n\nNenhuma delas cabe num evento. Cada uma leva o tempo que leva."
             },
             {
               "numero": 5,
               "tipo": "CTA",
-              "titulo": "E voce?",
-              "texto": "Voce ja esteve num relacionamento onde duvidou da propria percepcao? Precisa de testemunhas pra acreditar na sua dor? Salva esse carrossel pra refletir."
+              "titulo": "E você?",
+              "texto": "Em qual dessas etapas você está agora — ou já esteve? Me conta nos comentários. Esse é um espaço seguro para isso. 💛"
             }
           ],
-          "legenda": "2 anos desconfiando. 2 anos duvidando de si mesma. E entao precisou de um evento inteiro pra acreditar na propria dor\n\nO 'cha revelacao da traicao' da Bella Mantovani esta em todo lugar essa semana — e tem muito mais pra dizer do que parece.\n\nArrasta pra ver o que o caso revela sobre como mulheres aprendem a nao confiar em si mesmas\n\n#relacionamento #traicao #bellmantovani #psicologia #gaslighting #mulherforte #autoconfianca #comportamentofeminino"
+          "legenda": "O 'chá revelação da traição' viralizou essa semana — e é um fenômeno que diz muito sobre como a gente está lidando com a dor. 💔\n\nSwipe para entender as 5 etapas reais de cura que a psicologia descreve.\n\nSalva esse carrossel. Manda pra quem você conhece que precisa ouvir isso. 🙏\n\n#traicao #curaemocional #relacionamento #psicologia #mulheres #comportamento #saudemental #relacionamentosaudavel"
         }
       }
     },
     {
       "id": 2,
-      "titulo": "Carol Celico denunciou ataques misoginos apos frase distorcida viralizar — o que o caso revela",
-      "resumo": "Em 28/05, Carol Celico publicou video desmentindo a frase 'terminou com Kaka porque ele era perfeito demais' — tirada de contexto por tabloide — e revelou receber ataques 'misoginos e violentos'. E um caso de manual sobre como mulheres sao punidas quando falam sobre si mesmas publicamente. O angulo de Priscilla: a psicologia da punicao social da mulher que ousa nomear a propria experiencia em relacionamentos.",
-      "pilar": "Autoimagem & Identidade",
+      "titulo": "Fábio Jr. e Mari Alexandre: fim do casamento em junho com acusação de abandono de lar — o que a psicologia vê nessa história",
+      "resumo": "O casamento de Fábio Jr. e Mari Alexandre chegou ao fim em junho de 2026, com acusação de abandono de lar após quatro anos juntos. O caso traz à tona uma das formas mais invisíveis de ruptura conjugal: o abandono emocional que precede o físico. Ângulo de Priscilla: como o abandono emocional silencioso destrói casamentos — e como identificá-lo antes que seja tarde.",
+      "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "lo-fi"
       ],
-      "fonte": "Terra / Metropoles — 28/05/2026",
+      "fonte": "Terra.com.br / Estrelando, junho 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "Carol Celico foi punida publicamente por falar sobre o proprio casamento — e esse padrao se repete com qualquer mulher que ousa se posicionar sobre relacionamentos.",
-          "gancho": "O que aconteceu com a Carol Celico essa semana me revoltou — e deveria te revoltar tambem.",
+          "ideia_central": "O caso de Fábio Jr. e Mari Alexandre expõe o abandono emocional — o tipo de ruptura que não tem amante, mas destrói casamentos do mesmo jeito.",
+          "gancho": "O casamento de Fábio Jr. acabou esse mês e a acusação é abandono de lar. Como psicóloga, isso me diz muito mais do que parece.",
           "roteiro": [
             {
-              "tempo": "0-3s",
+              "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Carol Celico teve que fazer um video explicando que NAO disse que terminou com Kaka porque ele era perfeito demais. Uma frase distorcida por tabloide gerou ataques misoginos e violentos contra ela. Isso precisa ser comentado."
+              "fala": "O casamento de Fábio Jr. chegou ao fim esse mês com acusação de abandono de lar. E quando eu vi essa notícia pensei: esse é o caso mais comum que eu atendo — e o menos falado."
             },
             {
-              "tempo": "3-15s",
+              "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A frase viralizou como se fosse literal. A Carol explicou que foi uma interpretacao do tabloide de uma entrevista de 2022. Resultado: ela comecou a receber ataques violentos — como se uma mulher nao tivesse o direito de falar sobre o proprio fim de casamento."
+              "fala": "Quatro anos de casamento. Fim em junho de 2026. Abandono. Mas o abandono raramente começa com a saída física. Ele começa com conversas que param, com presença que vira ausência, com um parceiro que está no mesmo teto mas já foi embora emocionalmente há muito tempo."
             },
             {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "Ha um padrao psicologico aqui que e antigo e cruel: quando uma mulher tenta dar sentido a propria experiencia em um termino, ela e julgada, ridicularizada, atacada. A mensagem implicita e clara: ou voce sofre em silencio, ou sofre em publico. De qualquer forma, voce sofre."
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "Abandono emocional é uma das formas mais dolorosas de solidão — porque você está num relacionamento e se sente completamente sozinha. E o pior: é difícil de nomear, difícil de provar, e muitas vezes a mulher duvida da própria percepção. Isso tem nome na psicologia."
             },
             {
-              "tempo": "25-30s",
+              "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Voce ja sentiu que nao podia falar sobre o fim de um relacionamento sem ser julgada? Me conta."
+              "fala": "Você já sentiu isso — estar num relacionamento e se sentir sozinha? Me conta. Preciso saber se vocês reconhecem esse padrão."
             }
           ],
-          "legenda": "O caso da Carol Celico com a frase do Kaka virou noticia essa semana — mas o que mais me chamou atencao nao foi a frase. Foi o que veio depois.\n\nAtaques misoginos e violentos.\nUma mulher tendo que se explicar pelo proprio divorcio.\nComo se falar sobre o fim do seu casamento fosse crime.\n\nIsso tem nome na psicologia: e a punicao social da narrativa feminina.\n\nQuando mulheres falam sobre suas proprias experiencias em relacionamentos, sao distorcidas, ridicularizadas, atacadas. A mensagem e clara: sofra em silencio, ou seja punida por falar.\n\nE a Carol foi punida por uma frase que ela nem disse da forma como foi publicada.\n\nEssa semana e um bom momento pra perguntar: quantas historias de mulheres voce ja viu distorcidas e usadas contra elas?\n\n#carolcelico #kaka #misoginia #narrativafeminina #psicologia #mulherforte #separacao #julgamentosocial"
+          "legenda": "O fim do casamento de Fábio Jr. e Mari Alexandre veio com uma acusação que poucos falam abertamente: abandono de lar. Mas como psicóloga, eu sei que o abandono de lar começa muito antes da saída física.\n\nComeça quando as conversas param.\nComeça quando a presença vira ausência emocional.\nComeça quando você está no mesmo teto e se sente completamente sozinha.\n\nIsso tem nome. Isso tem padrão. E pode ser identificado antes de chegar ao fim.\n\n#abandono #relacionamento #casamento #FabioJr #psicologia #comportamento #relacionamentosaudavel #mulheres"
         },
         "lo-fi": {
-          "ideia": "Falar sobre o caso Carol Celico de forma intima — como uma psicologa que precisa nomear um padrao que afeta mulheres comuns todo dia.",
-          "gancho": "Preciso falar sobre o que aconteceu com a Carol Celico essa semana porque isso acontece com mulheres comuns todo dia.",
+          "ideia": "Fala íntima sobre abandono emocional no casamento, usando o caso de Fábio Jr. como ponto de partida para uma conversa honesta.",
+          "gancho": "Fábio Jr. e Mari Alexandre separaram esse mês. Acusação: abandono de lar. Deixa eu te contar o que isso me lembra dos consultórios.",
           "o_que_falar": [
-            "Carol teve que fazer um video se explicando porque uma frase DISTORCIDA de uma entrevista de 2022 viralizou como verdade — e ela passou a receber ataques misoginos. Isso e inaceitavel.",
-            "Insight psicologico: existe uma punicao social para mulheres que ousam nomear suas proprias experiencias em relacionamentos. Voce nao pode falar sobre separacao sem ser julgada, ridicularizada ou atacada.",
-            "Conexao com a vida das seguidoras: quantas de voces ja se censuraram em relacao a um termino, uma traicao, uma dificuldade no relacionamento — por medo do julgamento? Esse medo nao caiu do ceu. Foi ensinado.",
-            "CTA: voce consegue falar sobre o proprio relacionamento sem se justificar? Isso e trabalho de autoconfianca que merece atencao."
+            "Contextualiza: fim do casamento de Fábio Jr. em junho 2026, acusação de abandono de lar — e o que isso significa na prática cotidiana.",
+            "Insight: abandono emocional é estar presente fisicamente mas ausente emocionalmente. É uma das queixas mais frequentes no consultório. A mulher sente, mas não consegue nomear.",
+            "Conexão: fala para a seguidora que está vivendo isso agora. Como ela reconhece? Por que é tão difícil provar? Por que ela duvida de si mesma?",
+            "CTA: 'Se você se identificou, me manda uma mensagem ou me conta nos comentários: como é para você estar num relacionamento e se sentir sozinha?'"
           ],
-          "legenda": "Falando sobre o caso da Carol Celico e o que ele representa pra todas nos\n\nUma frase tirada de contexto. Ataques violentos. Uma mulher tendo que se explicar pelo proprio divorcio.\n\nIsso nao e so fofoca de famoso — e um espelho do que acontece com mulheres comuns todo dia quando tentam falar sobre relacionamentos.\n\nVoce ja se censurou por medo de ser mal interpretada?\n\n#carolcelico #misoginia #relacionamento #psicologia #mulher #narrativafeminina #identidade",
-          "vibe": "Camera estatica, luz natural, tom intimo e direto — como conversando com uma amiga. Sem cortes excessivos."
+          "legenda": "Casamento de Fábio Jr. chega ao fim em junho 2026. Acusação: abandono de lar. 💔\n\nMas eu preciso te dizer: o abandono de lar começa muito antes de alguém sair pela porta.\n\nEle começa quando você tenta conversar e é ignorada.\nQuando você pede presença e recebe ausência.\nQuando você está num relacionamento — e se sente a mulher mais sozinha do mundo.\n\nIsso tem cura. Mas primeiro precisa ser nomeado.\n\n#abandono #casamento #psicologia #relacionamentosaudavel #comportamentofeminino #saudemental",
+          "vibe": "Câmera estática, luz natural, ambiente do consultório ou sala de casa. Tom direto e íntimo, como conversa com uma amiga próxima. Sem música."
         }
       }
     },
     {
       "id": 3,
-      "titulo": "Alinne Moraes e Mauro Lima: 14 anos de casamento chegam ao fim — o que a psicologia diz sobre isso",
-      "resumo": "O casamento da atriz Alinne Moraes com o cineasta Mauro Lima, iniciado em 2012, chegou ao fim em 2026 apos 14 anos juntos. O caso coloca em pauta a questao que muitas mulheres evitam: o que acontece com a identidade de quem construiu a vida adulta inteira ao lado de uma pessoa? O angulo psicologico: a 'fusao de identidade' em relacionamentos longos — e o que sobra de nos quando eles terminam.",
+      "titulo": "Artur Urso e Luana Kazaki: traição dentro de relacionamento aberto — quando as regras falham e a dor é a mesma",
+      "resumo": "A separação de Artur Urso e Luana Kazaki viralizou por envolver uma contradição aparente: traição dentro de um relacionamento aberto, com um cantor famoso apontado como pivô. O caso levanta a questão que Priscilla pode explorar com autoridade: por que relacionamento aberto sem estrutura emocional sólida é terra fértil para a dor — e como diferenciar acordo consciente de ilusão.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "carrossel"
+        "post-estatico"
       ],
-      "fonte": "Estrelando.com.br — separacoes famosos 2026",
+      "fonte": "Blog do Jordan Bezerra — blogdojordanbezerra.com",
       "copies": {
         "reels-react": {
-          "ideia_central": "A separacao de Alinne Moraes apos 14 anos abre discussao sobre fusao de identidade — o que sobra de uma mulher quando um relacionamento longo termina.",
-          "gancho": "Alinne Moraes e Mauro Lima se separaram apos 14 anos. O que ninguem esta falando e o que esse tipo de termino faz com a identidade de uma mulher.",
+          "ideia_central": "Artur Urso e Luana Kazaki separaram por traição em relacionamento aberto — prova de que formato não elimina dor quando falta base emocional.",
+          "gancho": "Artur Urso e Luana Kazaki terminaram por traição. Só que eles tinham relacionamento aberto. Deixa eu te explicar o que aconteceu do ponto de vista psicológico.",
           "roteiro": [
             {
-              "tempo": "0-3s",
+              "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Alinne Moraes e Mauro Lima se separaram em 2026 depois de 14 anos juntos. Casados desde 2012. E eu preciso falar sobre o que esse tipo de separacao faz com a identidade de uma mulher."
+              "fala": "Artur Urso e Luana Kazaki separaram por traição — mas tinham relacionamento aberto. Parece contraditório? Não é. E isso revela algo que a maioria das pessoas não entende sobre relacionamentos abertos."
             },
             {
-              "tempo": "3-15s",
+              "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Quando um casamento dura mais de uma decada, ele para de ser so um relacionamento — ele vira parte da sua identidade. Voce constroi projetos, prioridades, sonhos ao redor dele. Quando termina, nao e so uma separacao. E uma reconstrucao de quem voce e."
+              "fala": "Um cantor famoso foi o pivô da separação deles. Mas se o relacionamento era aberto, como houve traição? A resposta está nos acordos. Relacionamento aberto não significa ausência de regras — significa regras diferentes. E quando essas regras são quebradas, a traição é real."
             },
             {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "A psicologia chama isso de fusao de identidade. Quanto mais longo o relacionamento, maior o risco de voce ter deixado partes de si mesma dormir. A separacao doi nao so pela perda do outro — doi porque voce precisa se encontrar de novo. E isso e assustador e libertador ao mesmo tempo."
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "Muitos casais abrem o relacionamento para tentar salvar algo que já está quebrado, ou sem a maturidade emocional necessária para sustentar esse acordo. Relacionamento aberto exige mais estrutura emocional, não menos. E quando falta isso, a dor é a mesma — só tem um nome diferente."
             },
             {
-              "tempo": "25-30s",
+              "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Voce ja passou por um termino longo e sentiu que precisou se reencontrar? Me conta nos comentarios."
+              "fala": "É possível relacionamento aberto sem sofrimento? Me conta sua visão nos comentários."
             }
           ],
-          "legenda": "Alinne Moraes e Mauro Lima, 14 anos. Separados em 2026.\n\nQuando ouço sobre terminos longos como esse, nao penso no drama — penso no que a mulher vai encontrar quando olhar pra si mesma no espelho depois.\n\nEm relacionamentos longos, existe o que a psicologia chama de fusao de identidade: voce comeca a se definir tanto pelo relacionamento que perde o contato com quem voce era — e quem voce poderia ter sido — fora dele.\n\nNao e fraqueza. E o que acontece quando priorizamos o 'nos' por anos sem verificar se o 'eu' ainda esta sendo nutrido.\n\nA separacao, nesse caso, nao e so a perda de alguem. E a oportunidade — dolorosa e necessaria — de se perguntar: quem sou eu sem isso?\n\nSe voce esta passando por algo assim, salva esse post.\n\n#alinnemoraes #separacao #identidadefeminina #psicologia #relacionamento #reconstrucao #casamento #mulherforte"
+          "legenda": "Artur Urso e Luana Kazaki separaram. Causa: traição. Detalhe: eles tinham relacionamento aberto. 👀\n\nEsse caso é um estudo perfeito de algo que vejo muito no consultório: casais que abrem o relacionamento sem a base emocional para isso.\n\nRelacionamento aberto não é ausência de regras.\nÉ um conjunto diferente de regras.\nE quando elas são quebradas, a dor é idêntica.\n\nO que faz a diferença é a maturidade emocional de ambos — e a honestidade brutal sobre o que cada um realmente quer.\n\n#relacionamentoaberto #traicao #ArturUrso #psicologia #comportamento #relacionamentos #mulheres #saudemental"
         },
-        "carrossel": {
-          "ideia": "O que um termino de longo relacionamento faz com a identidade feminina — 5 verdades que ninguem fala.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "14 anos e acabou. O que ninguem te conta sobre terminos longos.",
-              "subtitulo": "Alinne Moraes e Mauro Lima: o que a psicologia diz sobre separar depois de mais de uma decada"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualizacao",
-              "titulo": "O que aconteceu",
-              "texto": "Alinne Moraes e Mauro Lima confirmaram a separacao em 2026, apos 14 anos de casamento. O caso trouxe a tona a discussao que muitas mulheres evitam: o que sobra da identidade quando um relacionamento longo termina?"
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Fusao de identidade",
-              "texto": "Em relacionamentos longos, voce constroi projetos, prioridades e sua autoimagem ao redor do 'nos'. Sem perceber, partes de voce param de crescer — porque o relacionamento passou a definir quem voce e."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "A separacao apos uma decada nao e so a perda do outro. E um reencontro forcado com voce mesma — com medos, desejos e partes de si que ficaram adormecidos. Isso doi. E e necessario."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E voce?",
-              "texto": "Voce ja sentiu que perdeu um pouco de si mesma dentro de um relacionamento longo? Salva esse carrossel — e comeca a olhar pra isso hoje."
-            }
-          ],
-          "legenda": "14 anos. Acabou. Mas o que ninguem te conta e o que vem depois disso — especialmente pra ela.\n\nArrasta pra entender o que a psicologia diz sobre os terminos longos e a identidade feminina\n\n#alinnemoraes #separacao #relacionamento #psicologia #identidadefeminina #casamento #mulher #recomeco"
+        "post-estatico": {
+          "ideia": "Frase de impacto sobre relacionamento aberto transformada em arte visual para gerar debate.",
+          "titulo_visual": "Relacionamento aberto sem estrutura emocional\nnão é liberdade.\nÉ ilusão com prazo de validade.",
+          "legenda": "O caso de Artur Urso e Luana Kazaki — separação por traição dentro de um relacionamento aberto — me lembrou de algo que preciso dizer:\n\nRelacionamento aberto exige mais maturidade emocional, não menos.\n\nSalva essa frase se você está nessa conversa com alguém. 💛\n\n#relacionamentoaberto #psicologia #traicao #comportamentofeminino #relacionamentos #autoconhecimento",
+          "cta": "Você concorda? Me conta nos comentários."
         }
       }
     },
     {
       "id": 4,
-      "titulo": "'Beige flags': a nova expressao viral que esta redefinindo o que e sinal de alerta nos relacionamentos",
-      "resumo": "Em 2026, apos 'red flags' e 'green flags' virarem rotina, surge com forca o conceito de 'beige flags' — aquelas manias estranhas ou levemente irritantes que o parceiro tem, mas que nao chegam a ser prejudiciais. O debate esta explodindo nos comentarios e feeds. O angulo de Priscilla: o que essa vitalizacao diz sobre como as mulheres estao desenvolvendo uma leitura mais sofisticada dos relacionamentos — saindo do binario perfeito/toxico.",
-      "pilar": "Casamento & Relacionamento",
-      "urgencia": "hoje",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "post-estatico"
-      ],
-      "fonte": "Bons Fluidos / Terra — Beige Flags tendencia 2026",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "A vitalizacao das beige flags mostra que as mulheres estao saindo do binario perfeito/toxico e desenvolvendo maturidade relacional real.",
-          "gancho": "Todo mundo fala em red flag e green flag. Mas a beige flag e a mais honesta de todas — e ninguem esta explicando por que.",
-          "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "Todo mundo ja sabe o que e red flag e green flag nos relacionamentos. Mas essa semana uma nova expressao esta dominando as redes: beige flag. E eu acho que ela diz muito sobre onde as mulheres estao chegando emocionalmente."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "Beige flag e aquela mania estranha ou levemente irritante do seu parceiro — que nao chega a ser prejudicial. Ele dorme abracado ao travesseiro, faz o cafe do jeito errado, canta na hora errada. E irritante. E nao e um problema real."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "O fato de essa expressao viralizar e um sinal positivo. Significa que as mulheres estao saindo do binario 'perfeito ou toxico' e desenvolvendo uma leitura mais madura dos relacionamentos. Saber distinguir o irritante do prejudicial e uma habilidade emocional sofisticada."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Qual e a beige flag do seu parceiro? Me conta nos comentarios — e eu digo se e verde, bege ou vermelha."
-            }
-          ],
-          "legenda": "Beige flag: a expressao que esta dominando as redes essa semana\n\nRed flag = sinal de alerta real.\nGreen flag = comportamento saudavel.\nBeige flag = aquela mania estranha que e irritante... mas nao chega a ser um problema.\n\nE sabe o que me anima nisso tudo?\n\nAs mulheres estao saindo do extremo. Estao parando de classificar tudo como perfeito ou toxico — e desenvolvendo uma leitura mais sofisticada dos relacionamentos.\n\nSaber distinguir o que e irritante do que e realmente prejudicial nao e obvio. E uma habilidade emocional que a maioria de nos precisou desenvolver depois de muito relacionamento dificil.\n\nQual e a beige flag do seu parceiro (ou a sua propria)? Conta aqui\n\n#beigeflag #redflag #relacionamento #psicologia #comportamentofeminino #viral2026 #maturidadeemocional"
-        },
-        "post-estatico": {
-          "ideia": "Definicao visual de beige flag — criar consciencia sobre o conceito viral da semana com o olhar de Priscilla.",
-          "titulo_visual": "Beige flag: quando e irritante, mas nao e red flag.",
-          "legenda": "A nova expressao que esta dominando as redes — e o que ela diz sobre maturidade nos relacionamentos\n\nRed flag = alerta real.\nGreen flag = sinal positivo.\nBeige flag = a mania estranha que voce tolera porque, no fundo, sabe que nao e um problema real.\n\nO fato de essa expressao viralizar e um sinal de que as mulheres estao desenvolvendo um olhar mais sofisticado sobre relacionamentos.\n\nE isso e progresso real.\n\n#beigeflag #relacionamento #redflag #psicologia #viral #casamento",
-          "cta": "Salva e compartilha com quem precisa ouvir isso."
-        }
-      }
-    },
-    {
-      "id": 5,
-      "titulo": "Brasil lidera ranking mundial de ansiedade — 18 milhoes de pessoas, maioria mulheres",
-      "resumo": "O Brain Congress 2026 (Porto Alegre, 2-6 jun) reconfirmou: o Brasil e o pais mais ansioso do mundo, com 9,3% da populacao afetada — cerca de 18 milhoes de pessoas. Mulheres tem incidencia 2 a 3 vezes maior que homens. O angulo de Priscilla: a ansiedade feminina nao e um defeito biologico — e uma resposta adaptativa a um sistema que exige o impossivel de forma continua.",
-      "pilar": "Autoimagem & Identidade",
-      "urgencia": "hoje",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "Metropoles / CNN Brasil / Brain Congress 2026 — junho 2026",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "O Brasil e o pais mais ansioso do mundo e as mulheres sofrem 2 a 3 vezes mais que homens — isso nao e biologia, e produto de um sistema.",
-          "gancho": "O Brasil e o pais mais ansioso do mundo. 18 milhoes de pessoas. E a maioria sao mulheres. Isso nao e so biologia — e um produto social.",
-          "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "O Brain Congress 2026, que aconteceu essa semana em Porto Alegre, confirmou: o Brasil e o pais mais ansioso do mundo. 18 milhoes de pessoas. E mulheres sofrem de 2 a 3 vezes mais que homens. Preciso falar sobre por que."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "A ansiedade feminina nao surge do nada. Ela tem endereco: pressao para ser boa mae, boa profissional, boa filha, boa parceira, boa o tempo todo. E quando algo falha — o julgamento e imediato. Esse estado de alerta constante tem um custo neurologico real."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "Como psicologa, eu vejo todos os dias mulheres que acham que a ansiedade e um defeito delas. Nao e. E uma resposta adaptativa a um sistema que exige o impossivel. Reconhecer isso nao e desculpa — e o primeiro passo para tratar de verdade."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Voce ja parou pra pensar de onde vem a sua ansiedade — nao como doenca, mas como resposta ao que te exigem? Me conta."
-            }
-          ],
-          "legenda": "18 milhoes de brasileiros com ansiedade. O pais mais ansioso do mundo. E mulheres afetadas 2 a 3 vezes mais que homens.\n\nEsses dados foram reconfirmados durante o Brain Congress 2026, que aconteceu essa semana em Porto Alegre.\n\nE eu preciso dizer algo que a maioria dos profissionais evita:\n\nA ansiedade feminina nao e um defeito de fabrica. E uma resposta adaptativa.\n\nO sistema exige que voce seja produtiva, presente, bonita, emocionalmente regulada, disponivel — e ainda nunca pareca esforçada.\n\nQualquer sistema nervoso colocado nessa condicao vai entrar em estado de alerta permanente.\n\nO primeiro passo para sair da ansiedade nao e respirar fundo. E parar de achar que o problema esta em voce.\n\nSalva esse post. E compartilha com quem precisa ouvir isso.\n\n#ansiedade #saudemental #mulher #psicologia #braincongress2026 #brasil #ansiedadefeminina #bemestar"
-        },
-        "carrossel": {
-          "ideia": "Por que as mulheres sao mais ansiosas — 5 razoes que a ciencia confirma e que vao alem da biologia.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Brasil: o pais mais ansioso do mundo. E mulheres sofrem 3x mais.",
-              "subtitulo": "Dados do Brain Congress 2026 e o que estao escondendo sobre a ansiedade feminina"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualizacao",
-              "titulo": "Os numeros",
-              "texto": "O Brasil tem 9,3% da populacao com transtornos de ansiedade — 18 milhoes de pessoas. E o maior indice do mundo. Mulheres sao afetadas 2 a 3 vezes mais que homens. Dados discutidos no Brain Congress 2026, Porto Alegre, esta semana."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Nao e so biologia",
-              "texto": "A vulnerabilidade hormonal existe — mas nao explica tudo. A pressao por perfeicao, o duplo turno, o julgamento constante e a ausencia de suporte emocional sao combustiveis da ansiedade feminina que a ciencia confirma."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que poucos dizem",
-              "texto": "Sua ansiedade nao e um defeito. E uma resposta inteligente a um sistema que te exige o impossivel. Reconhecer isso nao e desculpa — e o ponto de partida para um tratamento que realmente funciona."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E voce?",
-              "texto": "Voce ja se perguntou de onde vem a sua ansiedade — como produto social, nao como falha pessoal? Salva esse carrossel. E manda pra alguem que precisa ouvir isso."
-            }
-          ],
-          "legenda": "18 milhoes de brasileiros com ansiedade. O pais mais ansioso do mundo.\n\nE mulheres sofrem 2 a 3 vezes mais. Isso foi discutido no Brain Congress 2026 essa semana — e tem muito mais por tras desse numero.\n\nArrasta pra entender o que esta por tras da ansiedade feminina\n\n#ansiedade #saudemental #mulher #psicologia #brasil #ansiedadefeminina #braincongress"
-        }
-      }
-    },
-    {
-      "id": 6,
-      "titulo": "SUS expande teleatendimento de saude mental para mulheres em situacao de violencia",
-      "resumo": "O SUS anunciou e expandiu o teleatendimento em saude mental para mulheres em situacao de violencia, com Recife e Rio como primeiras capitais — iniciativa ampliada ate junho de 2026. Mulheres em situacao de controle raramente conseguem acesso presencial seguro. O angulo de Priscilla: saude mental como ferramenta de sobrevivencia — e o que o tamanho dessa iniciativa nos diz sobre a escala real do problema.",
-      "pilar": "Autoimagem & Identidade",
-      "urgencia": "hoje",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "lo-fi"
-      ],
-      "fonte": "Secom / Gov.br — marco/junho 2026",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "O teleatendimento do SUS para mulheres em violencia e ao mesmo tempo um avanco historico e um espelho do tamanho do problema.",
-          "gancho": "O SUS anunciou algo historico para mulheres em situacao de violencia. E eu preciso que voce saiba — e entenda o que esta por tras.",
-          "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "O SUS expandiu o teleatendimento em saude mental para mulheres em situacao de violencia — ampliado ate junho de 2026, com Recife e Rio como primeiras capitais. Isso e importante. E eu preciso contextualizar."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "Mulheres que vivem situacoes de violencia raramente conseguem chegar a uma consulta presencial com seguranca. O parceiro controla a agenda, o transporte, o celular. O teleatendimento remove uma barreira real de acesso ao cuidado."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "Mas ha outra camada que me preocupa: precisarmos de uma politica publica pra isso nos diz que o problema e sistemico. Saude mental ainda e privilegio no Brasil — e quando chega para quem mais precisa, muitas vezes ja chegou tarde. A prevencao comeca no acesso cotidiano, nao so na crise."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Se voce conhece alguem que precisa de apoio, compartilha esse video. O acesso comeca pela informacao."
-            }
-          ],
-          "legenda": "O SUS vai oferecer teleatendimento em saude mental para mulheres em situacao de violencia.\n\nRecife e Rio foram as primeiras capitais. A iniciativa foi ampliada ate junho de 2026.\n\nIsso parece noticia boa — e e. Mas tambem e um espelho do tamanho do problema.\n\nMulheres em situacao de violencia muitas vezes nao conseguem sequer sair de casa para buscar ajuda. O parceiro controla o dinheiro, o carro, o celular. A consulta presencial se torna impossivel.\n\nO teleatendimento pode literalmente salvar vidas.\n\nE ao mesmo tempo, precisamos lembrar: saude mental como ferramenta de sobrevivencia ainda e realidade de milhoes de mulheres no Brasil.\n\nCompartilha essa informacao. Uma mulher na sua rede pode precisar saber disso hoje.\n\nCVV: 188 | Ligue 180 (violencia domestica)\n\n#saudemental #mulher #violenciadomestica #sus #psicologia #teleatendimento #protecao"
-        },
-        "lo-fi": {
-          "ideia": "Compartilhar a noticia do SUS de forma intima e urgente — como uma psicologa que precisa que suas seguidoras saibam e repassem.",
-          "gancho": "Preciso compartilhar uma noticia sobre saude mental e mulheres que pode mudar uma vida — inclusive de alguem que voce conhece.",
-          "o_que_falar": [
-            "O SUS expandiu teleatendimento de saude mental para mulheres em situacao de violencia ate junho de 2026 — e isso e historico porque mulheres em violencia raramente conseguem acessar cuidado presencial com seguranca",
-            "Insight: quando uma mulher vive em situacao de controle, o parceiro muitas vezes controla agenda, transporte, celular. O cuidado remoto pode ser a unica saida possivel — e salvar vidas",
-            "Conexao: isso nos lembra que saude mental ainda e privilegio no Brasil. O acesso ao cuidado nao pode ser apenas na crise — precisa ser preventivo e continuo",
-            "CTA urgente: compartilha esse video. Uma mulher na sua rede pode precisar saber dessa informacao hoje. CVV: 188 | Ligue 180 para violencia domestica"
-          ],
-          "legenda": "Uma noticia que pode mudar a vida de uma mulher que voce conhece.\n\nO SUS expandiu teleatendimento de saude mental para mulheres em situacao de violencia.\n\nCompartilha. Isso importa.\n\nCVV: 188 | Ligue 180\n\n#saudemental #mulher #violenciadomestica #sus #psicologia",
-          "vibe": "Camera proxima, tom urgente mas acolhedor, luz natural. Olho direto na camera. Sem musica."
-        }
-      }
-    },
-    {
-      "id": 7,
-      "titulo": "Slow living: por que a tendencia que domina 2026 e mais do que uma estetica de descanso",
-      "resumo": "O movimento slow living — desacelerar, priorizar descanso e cultivar presenca — emerge como tendencia de estilo de vida dominante em 2026, especialmente entre mulheres. A busca por rotinas mais lentas e tempo offline explodiu nos conteudos da semana. O angulo de Priscilla: por que a mulher contemporanea chega ao slow living exausta — e o que isso revela sobre a cultura de produtividade que foi vendida como empoderamento.",
-      "pilar": "Estilo de Vida & Espiritualidade",
-      "urgencia": "semana",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "Estado de Minas / AfinaMeNina — tendencias autocuidado 2026",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "O slow living nao e preguica — e resistencia. E o fato de estar explodindo entre mulheres diz algo urgente sobre como a cultura de produtividade as esgotou.",
-          "gancho": "Slow living e a maior tendencia de 2026. Mas ninguem esta perguntando por que as mulheres chegaram ate aqui tao esgotadas.",
-          "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "Slow living e a tendencia do ano — desacelerar, valorizar o descanso, viver com mais presenca. Parece lindo. E e. Mas eu quero falar sobre o que tem por tras disso."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "Essa tendencia esta explodindo especialmente entre mulheres. E nao e a toa. A geracao que foi vendida a ideia de que podia — e devia — ser mae, profissional, dona de casa, parceira e ainda cuidar do corpo chegou em 2026 no limite."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "O slow living nao e preguica. E resistencia. E uma recusa coletiva a continuar funcionando no modo de sobrevivencia como se fosse produtividade. So que desacelerar de verdade exige algo mais profundo — exige questionar o valor que voce da a propria exaustao."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Voce sente culpa quando descansa? E ai que comeca o trabalho real. Me conta."
-            }
-          ],
-          "legenda": "Slow living e a tendencia de 2026.\n\nMas antes de voce me dizer que precisa de mais rotinas de self-care, eu quero fazer uma pergunta:\n\nVoce sente culpa quando descansa?\n\nSe sim, o problema nao e a falta de slow living na sua vida. E que voce foi ensinada a medir o seu valor pelo quanto produz.\n\nA mulher que chegou ao slow living chegou ESGOTADA. Chegou depois de anos tentando ser tudo ao mesmo tempo, o tempo todo.\n\nDesacelerar e necessario. E desacelerar de verdade exige mais do que uma rotina nova — exige questionar a crenca de que voce so merece descanso quando ja fez tudo.\n\nIsso e trabalho psicologico. E comeca agora.\n\n#slowliving #autocuidado #mulher #psicologia #bemestar #descanso #tendencia2026 #burnout"
-        },
-        "carrossel": {
-          "ideia": "Slow living alem da estetica: por que mulheres chegam ate aqui esgotadas — e o que realmente muda.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Slow living e a tendencia de 2026. Mas ninguem fala o que tem por tras.",
-              "subtitulo": "O que a psicologia diz sobre por que mulheres chegam ate aqui esgotadas"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualizacao",
-              "titulo": "O movimento",
-              "texto": "Slow living — desacelerar, priorizar descanso, viver com presenca — e a maior tendencia de estilo de vida de 2026, especialmente entre mulheres. Os conteudos sobre o tema explodiram nas redes essa semana."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Por que agora?",
-              "texto": "A geracao que foi ensinada a ser tudo ao mesmo tempo — profissional, mae, parceira, cuidadora — chegou ao limite. O slow living surge nao como escolha estetica, mas como resposta a um esgotamento coletivo real."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que realmente muda",
-              "texto": "Mudar a rotina sem mudar a crenca nao resolve. Enquanto voce sentir culpa ao descansar, qualquer ritual de slow living vai parecer mais uma obrigacao. O trabalho real e questionar: por que voce so se permite existir quando esta produzindo?"
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E voce?",
-              "texto": "Voce consegue descansar sem culpa? Isso e o ponto de partida. Salva esse carrossel e compartilha com quem precisa desacelerar de verdade."
-            }
-          ],
-          "legenda": "Slow living explodiu nas redes essa semana. Mas tem algo que ninguem esta perguntando...\n\nArrasta pra entender o que realmente esta por tras dessa tendencia\n\n#slowliving #mulher #psicologia #autocuidado #bemestar #tendencia2026 #descanso"
-        }
-      }
-    },
-    {
-      "id": 8,
-      "titulo": "Sagrado Feminino em alta nas redes: o que a psicologia diz sobre por que tantas mulheres buscam isso agora",
-      "resumo": "O movimento do Sagrado Feminino — reconexao com ciclos naturais, fases da lua, corporalidade e espiritualidade — esta em crescimento viral em 2026, com buscas por 'abordagens integrativas a saude emocional feminina' aumentando significativamente. O angulo de Priscilla: o que esse crescimento revela sobre as necessidades emocionais que os formatos convencionais de cuidado nao estao atendendo.",
-      "pilar": "Estilo de Vida & Espiritualidade",
-      "urgencia": "semana",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "lo-fi"
-      ],
-      "fonte": "Bons Fluidos / Joie de Vivre Monde — Sagrado Feminino crescimento 2026",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "O crescimento do Sagrado Feminino em 2026 nao e moda — e sintoma de uma necessidade emocional profunda que os formatos convencionais de cuidado nao estao atendendo.",
-          "gancho": "Por que tantas mulheres estao correndo para o Sagrado Feminino em 2026? Como psicologa, eu tenho uma resposta que pode te surpreender.",
-          "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "O Sagrado Feminino esta em todo lugar essa semana nas redes. Ciclos lunares, reconexao com o corpo, rituais de autoconhecimento. Mas como psicologa, o que me interessa nao e a pratica — e por que tantas mulheres estao buscando isso agora."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "A busca por abordagens integrativas a saude emocional feminina cresceu muito em 2026. Mulheres estao procurando algo que a psicologia convencional muitas vezes nao oferece: um espaco que acolha o corpo, o ciclo, a espiritualidade — sem separar tudo em caixinhas."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "Isso nao e so espiritualidade. E uma necessidade psicologica real por integracao. Quando uma mulher se conecta com seus ciclos, ela esta aprendendo a observar o proprio estado emocional sem julgamento. Na psicologia, chamamos isso de regulacao emocional encarnada. A forma pode ser diferente — a funcao e a mesma."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Voce ja explorou alguma pratica do Sagrado Feminino? O que encontrou? Me conta nos comentarios."
-            }
-          ],
-          "legenda": "O Sagrado Feminino esta em alta essa semana nas redes.\n\nE como psicologa, eu nao venho aqui nem validar nem criticar.\n\nVenho perguntar: por que AGORA?\n\nA resposta que encontro nos dados e nos consultorios e que mulheres estao buscando algo que os formatos convencionais de cuidado nao oferecem: um espaco que acolha o corpo, o ciclo, a emocao e a espiritualidade de forma integrada.\n\nQuer seja pela lua, pelos rituais, pelos circulos de mulheres — o que esta em jogo e uma necessidade psicologica real por integracao.\n\nE quando a mulher aprende a observar seus ciclos, ela esta, na pratica, desenvolvendo regulacao emocional. A forma e diferente. A funcao e a mesma.\n\nVoce ja explorou alguma pratica de reconexao feminina? O que encontrou?\n\n#sagradofeminino #espiritualidade #autoconhecimento #psicologia #mulher #ciclofeminino #bemestar #regulacaoemocional"
-        },
-        "lo-fi": {
-          "ideia": "Falar sobre o Sagrado Feminino com curiosidade e profundidade psicologica — sem ser condescendente nem cair no hype.",
-          "gancho": "Tenho pensado bastante no crescimento do Sagrado Feminino — e como psicologa, tenho uma perspectiva sobre isso que quero dividir com voces.",
-          "o_que_falar": [
-            "O movimento esta em alta em 2026 — e como psicologa eu nao quero nem criticar nem validar cegamente. Quero entender o que esta por tras.",
-            "Insight psicologico: mulheres estao buscando espacos que integrem corpo, emocao e espiritualidade — algo que a psicologia convencional muitas vezes fragmenta. A necessidade e real e legitima.",
-            "Conexao com a vida das seguidoras: quando voce se conecta com seus ciclos, observa o proprio humor ao longo do mes, respeita suas fases — isso e regulacao emocional. O formato pode ser diferente, mas a funcao psicologica e a mesma.",
-            "CTA: voce ja explorou alguma pratica de reconexao feminina? O que encontrou — espiritualidade, autoconhecimento, ou uma mistura dos dois? Me conta."
-          ],
-          "legenda": "Falando sobre o Sagrado Feminino com olhar de psicologa.\n\nSem julgamento — com curiosidade.\n\nVoce ja explorou essas praticas? O que encontrou?\n\n#sagradofeminino #espiritualidade #psicologia #mulher #autoconhecimento #ciclofeminino",
-          "vibe": "Camera estatica, luz natural da janela, tom intimo e reflexivo. Como uma conversa entre amigas inteligentes."
-        }
-      }
-    },
-    {
-      "id": 9,
-      "titulo": "Brasil forma mais doutoras que doutores ha 20 anos — e elas recebem apenas 1/3 das bolsas",
-      "resumo": "Dado publicado em maio de 2026 pela Agencia Brasil: ha mais de 20 anos o Brasil forma mais doutoras do que doutores, mas mulheres sao minoria entre professores universitarios e recebem apenas um terce das bolsas de produtividade do CNPq. E uma abertura poderosa para Priscilla falar sobre competencia invisivel, teto de vidro com dados reais — e o impacto psicologico de internalizar desigualdade estrutural como falha pessoal.",
+      "titulo": "Documentário 'Mulheres além do trabalho': o que a escala 6×1 está fazendo com a identidade e a saúde mental das mulheres",
+      "resumo": "O documentário 'Mulheres além do trabalho', exibido recentemente pela Câmara Municipal de SP no programa Repórter do Futuro, investiga o impacto da escala 6×1 na vida das mulheres paulistanas — saúde, relacionamentos, maternidade e identidade. Ângulo de Priscilla: o excesso de trabalho feminino não é só uma questão de direitos trabalhistas — é uma crise de identidade e saúde mental que adoece mulheres silenciosamente.",
       "pilar": "Posicionamento & Carreira",
-      "urgencia": "semana",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "post-estatico"
-      ],
-      "fonte": "Agencia Brasil — maio 2026",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "O Brasil forma mais doutoras ha 20 anos e elas recebem 1/3 das bolsas — isso tem nome: e o teto de vidro sendo sustentado por dados reais, e o impacto psicologico e devastador.",
-          "gancho": "Ha mais de 20 anos o Brasil forma mais doutoras que doutores. E ainda assim elas recebem so 1/3 das bolsas. Me explica essa logica.",
-          "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "Dado publicado essa semana pela Agencia Brasil: ha mais de 20 anos, o Brasil forma mais doutoras do que doutores. Mas as mulheres ainda sao minoria entre professores universitarios e recebem apenas um terco das bolsas de produtividade. Isso precisa de explicacao."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "Competencia nao e o problema. As mulheres estao la, formadas, qualificadas, publicando. O que falta e reconhecimento institucional. Isso tem nome na psicologia organizacional: e o teto de vidro — uma barreira invisivel que nao exige discriminacao explicita para funcionar."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "E ha outro nivel que me preocupa: o que fazer de credenciais quando o sistema nao as reconhece igualmente? Muitas mulheres internalizam essa desigualdade como incompetencia pessoal. 'Nao sou boa o suficiente.' Quando na verdade o criterio nunca foi neutro."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Voce ja duvidou da sua competencia quando o problema era o sistema? Me conta — e mais comum do que parece."
-            }
-          ],
-          "legenda": "Dado da semana que me deixou indignada.\n\nHa mais de 20 anos o Brasil forma mais doutoras do que doutores.\nMas mulheres sao minoria entre professores universitarios.\nE recebem apenas 1/3 das bolsas de produtividade.\n\nIsso e uma contradicao com endereco.\n\nA competencia das mulheres nao e invisivel porque elas produzem menos. E invisivel porque os criterios de avaliacao foram construidos por — e para — homens.\n\nE o impacto psicologico disso e devastador: quando o sistema nao reconhece o que voce entrega, a tendencia e internalizar a desigualdade como incompetencia pessoal.\n\nVoce ja fez isso? Duvidou de voce quando o problema era o sistema?\n\nSalva esse post. Vamos falar sobre isso.\n\n#mulher #carreira #tetodevidro #psicologia #empoderamento #ciencia #academia #desigualdadedegenero"
-        },
-        "post-estatico": {
-          "ideia": "Dado impactante transformado em arte — provocar a discussao sobre teto de vidro com numero real e atual.",
-          "titulo_visual": "20 anos formando mais doutoras. 1/3 das bolsas. Isso nao e coincidencia.",
-          "legenda": "Brasil forma mais doutoras que doutores ha mais de 20 anos — e elas recebem apenas 1/3 das bolsas de produtividade.\n\nCompetencia nao e o problema.\nO reconhecimento e.\n\nE quando o sistema nao reconhece o que voce entrega, a primeira coisa que a mulher faz e duvidar de si mesma.\n\nIsso tem nome: teto de vidro. E e hora de falar sobre ele.\n\n#mulher #carreira #tetodevidro #psicologia #ciencia #academia #empoderamento",
-          "cta": "Salva e compartilha — esse dado precisa circular."
-        }
-      }
-    },
-    {
-      "id": 10,
-      "titulo": "Romantismo lucido: a tendencia do Tinder que define como mulheres escolhem parceiros em 2026",
-      "resumo": "Pesquisa global do Tinder identificou 'romantismo lucido' como tendencia dominante em 2026 — busca por conexoes sinceras e profundas, mas sem ilusoes, combinando abertura emocional com clareza de limites. No Brasil, 44% ainda acham que amor e financas nao se misturam, criando contraste interessante. O angulo de Priscilla: o romantismo lucido e o produto de mulheres que se machucaram o suficiente para parar de romantizar o que nao serve.",
-      "pilar": "Casamento & Relacionamento",
-      "urgencia": "evergreen",
+      "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "CNN Brasil / Correio Braziliense — pesquisa Tinder tendencias relacionamento 2026",
+      "fonte": "Portal da Câmara Municipal de São Paulo — saopaulo.sp.leg.br",
       "copies": {
         "reels-react": {
-          "ideia_central": "O romantismo lucido nao e uma tendencia de app — e o resultado de uma geracao de mulheres que se machucou o suficiente para aprender a amar sem se perder.",
-          "gancho": "O Tinder disse que 'romantismo lucido' e a tendencia de relacionamento de 2026. Mas ninguem falou o que esta por tras disso.",
+          "ideia_central": "O documentário 'Mulheres além do trabalho' expôs o que a escala 6×1 faz com a identidade feminina — vai muito além do debate trabalhista.",
+          "gancho": "Saiu um documentário sobre o impacto da escala 6×1 na vida das mulheres. E como psicóloga, o que vi ali me preocupou — e vai muito além do direito ao descanso.",
           "roteiro": [
             {
-              "tempo": "0-3s",
+              "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "O Tinder divulgou uma pesquisa apontando o 'romantismo lucido' como a tendencia de relacionamento de 2026. Conexao real, mas sem ilusoes. Abertura emocional, mas com clareza de limites. Parece contradicao — nao e."
+              "fala": "Você viu o documentário 'Mulheres além do trabalho'? Ele investiga o que a escala 6×1 faz com a vida das mulheres. E posso te dizer: o que vejo ali não é só debate trabalhista — é uma crise de identidade feminina."
             },
             {
-              "tempo": "3-15s",
+              "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "As mulheres de 23 a 30 anos estao deixando de lado os jogos, as suposicoes e os sinais contraditorios. Estao pedindo clareza, honestidade e fluidez emocional. E o que a pesquisa chama de romantismo lucido."
+              "fala": "Escala 6×1 significa trabalhar seis dias e folgar um. Para a maioria das mulheres que a cumprem, esse único dia livre é gasto com tarefas domésticas, filhos, família. Não existe descanso real. Não existe tempo para si. E sem tempo para si, a mulher deixa de existir além do que ela produz."
             },
             {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "Como psicologa, o que vejo aqui nao e uma tendencia de app. E o resultado de uma geracao que se machucou, terapeutizou, se conheceu — e chegou a uma conclusao: da pra amar de verdade sem se apagar. Romantismo lucido e o amor depois do autoconhecimento."
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "Na psicologia, chamamos isso de identidade funcional: quando uma pessoa só consegue se definir pelo que faz, não pelo que é. E mulheres em escala 6×1 entram num ciclo de esgotamento que afeta relacionamentos, autoestima e saúde mental. Não é fraqueza. É um sistema que foi construído sem as mulheres no cálculo."
             },
             {
-              "tempo": "25-30s",
+              "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Voce ja teve um amor lucido? Ou ainda esta no romantismo que te faz se perder? Me conta."
+              "fala": "Você trabalha em escala 6×1 ou conhece alguém que trabalha? Me conta nos comentários como é essa realidade."
             }
           ],
-          "legenda": "Romantismo lucido: amar de verdade, mas sem se perder.\n\nO Tinder identificou isso como a maior tendencia de relacionamento de 2026 — e como psicologa, eu concordo que isso e real.\n\nMas eu acrescento algo que a pesquisa nao diz:\n\nO romantismo lucido nao e uma tendencia. E o produto de mulheres que se machucaram, se conheceram, e chegaram a um ponto de equilibrio entre abertura e clareza.\n\nNao e falta de romantismo. E a forma mais madura de romantismo que existe.\n\nQuando voce consegue amar alguem sem se apagar, sem perder seus limites, sem romantizar o que nao serve — voce chegou a um lugar que muitas mulheres passam anos buscando.\n\nVoce esta nesse lugar?\n\n#romanticismolucido #relacionamento #amor #psicologia #autoconhecimento #tinder2026 #maturidadeemocional #mulherforte"
+          "legenda": "O documentário 'Mulheres além do trabalho' mostrou o que muitas já sabem na pele: a escala 6×1 não é só um problema trabalhista. É um problema de saúde mental. 💔\n\nQuando não há tempo para descanso real, não há tempo para ser — apenas para fazer.\n\nE mulher que só faz, sem nunca ser, adoece. Nos relacionamentos, no corpo, na alma.\n\nEssa conversa precisa ser maior do que um debate no Congresso.\n\n#escala6x1 #mulheres #saudemental #carreira #trabalho #psicologia #empoderamento #mulheresnotrabalho #comportamentofeminino"
         },
         "carrossel": {
-          "ideia": "O que e romantismo lucido — e como saber se voce ja chegou la.",
+          "ideia": "O que a escala 6×1 faz com a saúde mental das mulheres: 5 impactos que o debate trabalhista esquece.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "Romantismo lucido: a forma mais madura de amar.",
-              "subtitulo": "A tendencia de 2026 que e, na verdade, o resultado de muito autoconhecimento"
+              "titulo": "A escala 6×1 não está só te cansando.\nEla está te apagando.",
+              "subtitulo": "5 impactos na saúde mental feminina que o debate trabalhista esquece"
             },
             {
               "numero": 2,
-              "tipo": "Contextualizacao",
-              "titulo": "O que e",
-              "texto": "Romantismo lucido e buscar conexao real e profunda, mas sem ilusoes. E abertura emocional com clareza de limites. O Tinder identificou como tendencia dominante em 2026 entre mulheres de 23 a 30 anos."
+              "tipo": "Contextualização",
+              "titulo": "O documentário que abriu o debate",
+              "texto": "'Mulheres além do trabalho' investigou o impacto real da escala 6×1 na vida de mulheres paulistanas. O resultado: esgotamento não é só físico — afeta identidade, relacionamentos e saúde mental."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "Por que agora?",
-              "texto": "Nao caiu do ceu. E o produto de uma geracao que se machucou em relacionamentos onde se perdeu, fez terapia, aprendeu seus padroes — e chegou a uma conclusao: da pra amar sem se apagar."
+              "titulo": "Os 5 impactos reais",
+              "texto": "1. Identidade funcional: você vira só o que produz\n2. Relacionamentos adoecem: não há energia emocional disponível\n3. Maternidade culpada: tempo insuficiente gera culpa crônica\n4. Autoestima baixa: sem espaço para si, você se perde\n5. Ansiedade permanente: o descanso nunca é real"
             },
             {
               "numero": 4,
               "tipo": "Virada",
               "titulo": "O que poucos percebem",
-              "texto": "Romantismo lucido nao e menos amor — e amor depois do autoconhecimento. Voce consegue se abrir emocionalmente sem romantizar o que nao serve. Nao e frieza. E maturidade relacional."
+              "texto": "O sistema 6×1 foi calculado sem mulheres no cálculo. Para o homem, o dia livre é descanso. Para a mulher, é acúmulo doméstico. Isso não é coincidência — é estrutura. E reconhecer isso é o primeiro passo para sair do ciclo."
             },
             {
               "numero": 5,
               "tipo": "CTA",
-              "titulo": "E voce?",
-              "texto": "Voce ja teve um amor lucido? Ou ainda esta num romantismo que te faz se perder? Salva esse carrossel — e comeca a observar seus padroes."
+              "titulo": "E você?",
+              "texto": "Você vive ou viveu nesse ritmo? O que isso custou para você? Me conta nos comentários — sua história importa nessa conversa. 🧡"
             }
           ],
-          "legenda": "Romantismo lucido: amar de verdade, sem se perder.\n\nA tendencia de 2026 que, na verdade, e o resultado de muito autoconhecimento.\n\nArrasta pra entender o que esta por tras disso\n\n#romanticismolucido #amor #relacionamento #psicologia #autoconhecimento #maturidadeemocional"
+          "legenda": "O documentário 'Mulheres além do trabalho' chegou e abriu um debate urgente sobre a escala 6×1 e a saúde mental feminina. 💛\n\nSwipe para ver os 5 impactos que o debate trabalhista não está contando.\n\nSalva e compartilha — essa conversa precisa chegar em mais mulheres. 🙏\n\n#escala6x1 #mulheres #saudemental #psicologia #trabalho #carreira #burnout #comportamentofeminino"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "80 empresas receberam Selo Pró-Equidade em maio: o dado sobre salário que muda como você deve escolher onde trabalhar",
+      "resumo": "O Ministério das Mulheres entregou o Selo Pró-Equidade de Gênero e Raça para 80 empresas em maio de 2026. Dado revelador: a diferença salarial nacional é de 20,9%, mas nas empresas certificadas cai para 15,43%. Ângulo de Priscilla: onde você trabalha molda o que você acredita que merece — empresa que não te valoriza vai te ensinar a não se valorizar.",
+      "pilar": "Posicionamento & Carreira",
+      "urgencia": "semana",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "Agência Brasil — agenciabrasil.ebc.com.br, maio 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "O Ministério das Mulheres certificou 80 empresas que pagam mulheres melhor — e o dado junto é o argumento que você precisa para a próxima negociação.",
+          "gancho": "O governo acabou de certificar 80 empresas que pagam mulheres melhor. E uma informação que veio junto com essa notícia muda como você deve escolher onde trabalhar.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "O Ministério das Mulheres acaba de entregar o Selo Pró-Equidade para 80 empresas. E um dado que veio nessa notícia é algo que toda mulher pensando em emprego ou promoção precisa saber."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "No Brasil, a diferença salarial entre homens e mulheres é de 20,9%. Nas 80 empresas que receberam esse selo — que investem em políticas de equidade, progressão de carreira e capacitação feminina — essa diferença cai para 15,43%. São quase 5 pontos percentuais. Em salário, isso é dinheiro real na sua conta."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "Como psicóloga especialista em carreira feminina, eu te digo: onde você trabalha não é só uma questão de função ou salário. É uma questão de saúde mental. Mulher que trabalha em empresa que não a valoriza desenvolve síndrome da impostora, burnout e, com o tempo, passa a acreditar que não merece mais. O ambiente molda a crença."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "A lista das 80 empresas é pública. Você pesquisou se a sua está lá? Me conta nos comentários."
+            }
+          ],
+          "legenda": "O Ministério das Mulheres entregou Selo Pró-Equidade para 80 empresas em maio de 2026. 📊\n\nO dado que ninguém está destacando:\n→ Diferença salarial Brasil: 20,9%\n→ Diferença salarial nas empresas certificadas: 15,43%\n\nEmpresa que investe em equidade paga mais. Isso não é coincidência. É estratégia.\n\nE do ponto de vista da psicologia: o ambiente onde você trabalha molda o que você acredita que merece.\n\nSe você está num lugar que não te valoriza, com o tempo você passa a acreditar que não merece ser valorizada.\n\n#equidade #mulheres #carreira #salario #psicologia #empoderamento #trabalhofeminino #ministriodamulheres"
+        },
+        "lo-fi": {
+          "ideia": "Fala direta sobre a relação entre ambiente de trabalho, autoestima e a crença de que você merece mais.",
+          "gancho": "O governo certificou 80 empresas que pagam melhor as mulheres. Deixa eu te contar o que esse número tem a ver com a sua autoestima.",
+          "o_que_falar": [
+            "Contextualiza: Ministério das Mulheres, maio 2026, Selo Pró-Equidade para 80 empresas. Diferença salarial cai de 20,9% para 15,43% nessas empresas.",
+            "Insight: onde você trabalha molda o que você acredita que vale. Ambiente hostil e sem equidade gera síndrome da impostora, burnout e a crença progressiva de que não merece mais.",
+            "Conexão: pergunta para a seguidora — você sente que é valorizada onde trabalha? Você parou de pedir aumento porque acredita que não vai adiantar?",
+            "CTA: 'A lista das 80 empresas é pública. Pesquisa se a sua está lá. E se quiser discutir isso, me chama na DM.'"
+          ],
+          "legenda": "80 empresas certificadas com Selo Pró-Equidade em maio 2026. A diferença salarial nelas é 5 pontos menor que a média nacional. 📊\n\nMas mais do que salário, o que me importa como psicóloga é o que o ambiente de trabalho faz com a sua mente.\n\nMulher desvalorizada no trabalho aprende a se desvalorizar. Em casa. Nos relacionamentos. Nas negociações da vida.\n\nVocê merece mais. Comece acreditando nisso. 💛\n\n#carreira #equidade #mulheres #psicologia #autoestima #trabalho #salario #empoderamento",
+          "vibe": "Câmera no rosto, luz natural, tom de conversa direta. Roupa casual. Pode estar sentada. Direto ao ponto, sem rodeios."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Brain Congress 2026: 34,2% das mulheres têm ansiedade — a ciência confirmou o que você já sentia no corpo",
+      "resumo": "O Brain Congress 2026, realizado em Porto Alegre de 2 a 6 de junho, trouxe dados críticos: 34,2% das mulheres brasileiras têm diagnóstico de ansiedade, com vulnerabilidade 2 a 3 vezes maior que homens a transtornos mentais. Ângulo de Priscilla: por que isso não é fraqueza — é biologia, oscilação hormonal e uma sociedade que cobra das mulheres o dobro sem dar o dobro de suporte.",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "CNN Brasil / Metrópoles — Brain Congress 2026, Porto Alegre, 2–6 junho",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "O Brain Congress 2026 confirmou: 34,2% das mulheres têm ansiedade. Isso não é fraqueza — é o resultado mensurável de um sistema construído para adoecer mulheres.",
+          "gancho": "O Brain Congress 2026 terminou essa semana em Porto Alegre com um dado que me parou: 34% das mulheres brasileiras têm ansiedade. Isso não é fraqueza. E vou te explicar o que é.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "O Brain Congress 2026 terminou essa semana em Porto Alegre com um dado que todo mundo precisa ouvir: 34,2% das mulheres brasileiras têm diagnóstico de ansiedade. Se você é mulher e tem ansiedade — você não está sozinha, e você não é fraca."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "Mulheres têm 2 a 3 vezes mais chances de desenvolver ansiedade e depressão do que homens. Isso foi apresentado no maior congresso de neurociência do país essa semana. E ainda assim, quantas de nós já ouvimos 'você exagera' ou 'é frescura'?"
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A ansiedade feminina tem causas específicas: oscilações hormonais ao longo do ciclo, pressão dupla de carreira e maternidade, vigilância constante sobre o próprio comportamento, e anos de aprendizado de que sentir muito é errado. A ansiedade não surgiu do nada. Ela é uma resposta racional a uma pressão irracional."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Você tem ou já teve ansiedade? Me conta nos comentários. Quero saber quantas de vocês se reconhecem nesse dado."
+            }
+          ],
+          "legenda": "Brain Congress 2026, Porto Alegre: 34,2% das mulheres brasileiras têm diagnóstico de ansiedade. 💙\n\nMulheres têm 2x mais chance de desenvolver ansiedade do que homens.\n\nIsso não é fraqueza.\nNão é exagero.\nNão é frescura.\n\nÉ o resultado de:\n→ Oscilações hormonais invisibilizadas\n→ Pressão dupla de carreira e maternidade\n→ Anos de invalidação emocional\n→ Uma sociedade que cobra das mulheres o dobro\n\nA ansiedade que você sente tem causa. Tem nome. Tem tratamento.\n\nSe você se reconheceu aqui: você não está sozinha. 🤍\n\n#ansiedade #saudemental #mulheres #braincongress2026 #psicologia #saudeemocional #comportamentofeminino"
+        },
+        "carrossel": {
+          "ideia": "Por que mulheres têm 2x mais ansiedade: as 5 causas que a medicina e a sociedade ainda ignoram.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "34,2% das mulheres têm ansiedade.\nVocê não é fraca.",
+              "subtitulo": "Brain Congress 2026 revelou: as 5 causas reais que ninguém te conta"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O dado do Brain Congress 2026",
+              "texto": "O maior congresso de neurociência do Brasil, realizado em Porto Alegre de 2 a 6 de junho, confirmou: mulheres têm 2 a 3 vezes mais chance de desenvolver ansiedade e depressão. 34,2% das mulheres brasileiras têm esse diagnóstico."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "As 5 causas reais",
+              "texto": "1. Hormônios: ciclo menstrual, gestação e menopausa afetam diretamente a neurobiologia\n2. Dupla jornada: trabalho + casa = esgotamento estrutural\n3. Invalidação emocional: anos de 'você exagera'\n4. Vigilância corporal: pressão constante sobre aparência\n5. Culpa crônica: por descansar, por trabalhar, por não dar conta"
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "O que poucos percebem",
+              "texto": "A ansiedade feminina é uma resposta racional a uma pressão irracional. Não é fraqueza de caráter — é o sistema nervoso respondendo a uma sobrecarga real. Reconhecer isso é o primeiro passo para tratar de forma eficaz."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "E você?",
+              "texto": "Com qual dessas causas você mais se identifica? Me conta nos comentários — sua experiência importa nessa conversa. 💙"
+            }
+          ],
+          "legenda": "Brain Congress 2026 confirmou: 34,2% das mulheres têm ansiedade. 💙\n\nSwipe para entender as 5 causas reais — que a medicina e a sociedade ainda ignoram.\n\nSalva esse carrossel. Manda para quem precisa saber que não está sozinha. 🤍\n\n#ansiedade #saudemental #mulheres #psicologia #braincongress #comportamentofeminino #saudeemocional"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "titulo": "Boom do Sagrado Feminino em 2026: espiritualidade como cura real ou escapismo sofisticado?",
+      "resumo": "Em 2026, a busca pelo Sagrado Feminino e por abordagens integrativas de saúde emocional explodiu no Brasil — rituais com fases da lua, reconexão com o corpo, círculos de mulheres dominam feeds. Ângulo de Priscilla: quando espiritualidade feminina é ferramenta de autoconhecimento e quando se torna uma forma sofisticada de evitar o trabalho emocional profundo.",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "urgencia": "semana",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "Terra.com.br / Joie de Vivre Magazine / tendência verificada nas redes sociais 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "O Sagrado Feminino está em todo feed em 2026 — e como psicóloga, preciso te dizer quando isso cura e quando isso vira fuga.",
+          "gancho": "O Sagrado Feminino está em todo feed em 2026. Rituais de lua, círculos de mulheres, reconexão com o corpo. Como psicóloga, preciso te fazer uma pergunta importante sobre isso.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "O Sagrado Feminino está dominando os feeds em 2026. E eu adoro ver isso. Mas como psicóloga, há uma pergunta que preciso te fazer: você está usando espiritualidade para se curar — ou para não ter que se curar?"
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "O movimento do Sagrado Feminino cresce no Brasil com força em 2026 — rituais com fases da lua, círculos de mulheres, reconexão com ciclos naturais, práticas integrativas. É lindo. É necessário. Mas existe uma linha tênue entre espiritualidade como ferramenta de autoconhecimento e espiritualidade como escapismo sofisticado."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A espiritualidade verdadeira te torna mais presente, mais responsável, mais inteira. O escapismo espiritual te mantém em rituais sem jamais descer ao porão emocional — sem olhar para os padrões, os traumas, as crenças limitantes. Você consegue fazer essa diferença na sua vida?"
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Me conta: você pratica alguma forma de espiritualidade? Como ela tem te ajudado de verdade?"
+            }
+          ],
+          "legenda": "O Sagrado Feminino está em todo feed em 2026. 🌙 E eu amo ver isso.\n\nMas como psicóloga, preciso te fazer uma pergunta que pode incomodar:\n\nVocê está usando espiritualidade para crescer — ou para não crescer?\n\nEspiritualidade verdadeira:\n✅ Te faz mais presente\n✅ Te obriga a olhar para si\n✅ Te responsabiliza pelo que você sente\n\nEscapismo espiritual:\n❌ Substitui terapia sem o trabalho emocional\n❌ Te mantém em rituais sem descer ao porão\n❌ Dá sensação de cura sem transformação real\n\nOs dois coexistem. Saber a diferença muda tudo.\n\n#sagradofeminino #espiritualidade #autoconhecimento #psicologia #mulheres #comportamentofeminino #luacheia #cura"
+        },
+        "post-estatico": {
+          "ideia": "Frase que gera debate sobre o limite entre espiritualidade e escapismo emocional.",
+          "titulo_visual": "Espiritualidade que não desce ao porão\nnão é cura.\nÉ decoração da dor.",
+          "legenda": "O Sagrado Feminino está em alta em 2026 — e isso é lindo. 🌙\n\nMas tem uma diferença entre usar espiritualidade para crescer e usar espiritualidade para não ter que crescer.\n\nSalva essa frase se ela te tocou. E me conta nos comentários como você diferencia os dois.\n\n#sagradofeminino #espiritualidade #autoconhecimento #psicologia #mulheres #cura",
+          "cta": "Você reconhece essa diferença na sua vida? Me conta nos comentários."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "titulo": "Slow living domina 2026: mas desacelerar não é privilégio de quem tem tempo — é uma prática que começa com uma crença",
+      "resumo": "O slow living consolidou-se como a principal tendência de autocuidado de 2026, propondo desacelerar, priorizar descanso e cultivar prazer simples. Para mulheres em sobrecarga, 'desacelerar' soa como luxo inacessível. Ângulo de Priscilla: o maior obstáculo ao slow living não é falta de tempo — é a crença de que você só tem valor quando está produzindo, um condicionamento especialmente feminino.",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "urgencia": "evergreen",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "Estado de Minas / tendência consolidada 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Slow living não começa com mais tempo — começa com a crença de que você merece existir além do que você produz.",
+          "gancho": "Slow living virou a tendência de 2026. Mas vejo muita mulher dizendo 'não tenho tempo pra isso'. Deixa eu te mostrar o que essa tendência realmente exige de você.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Slow living é a tendência que domina 2026. E sei que muitas de vocês olham pra isso e pensam: 'que luxo, quem tem tempo?'. Mas slow living não é ter tempo — é fazer escolhas diferentes com o tempo que você tem."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "A proposta do slow living de 2026 é desacelerar, priorizar descanso, cultivar prazer simples. Parece impossível para quem vive em escala 6×1, tem filhos, cuida da casa, trabalha. Mas o que a psicologia sabe é que desaceleração não é luxo — é sobrevivência do sistema nervoso."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "O maior problema não é falta de tempo. É o condicionamento de que você só tem valor quando está produzindo. Slow living começa com uma pergunta: o que você faria diferente hoje se acreditasse que você merece existir além do que você produz? Essa pergunta, feita todo dia, já é slow living."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Me conta: o que você faria diferente hoje se não precisasse provar que merece descansar?"
+            }
+          ],
+          "legenda": "Slow living domina 2026. 🌿 E eu entendo o ceticismo: 'isso é coisa de quem tem tempo'.\n\nMas como psicóloga, preciso te dizer: slow living não começa com mais tempo.\n\nComeça com a crença de que você merece existir além do que você produz.\n\nUma escolha por dia:\n→ Comer sem tela\n→ Andar sem fone\n→ Cinco minutos só sua\n\nIsso é slow living. E está acessível agora.\n\nO que te impede de desacelerar não é agenda. É crença.\n\n#slowliving #autocuidado #saudemental #mulheres #psicologia #descanso #bemestar #comportamentofeminino"
+        },
+        "lo-fi": {
+          "ideia": "Fala íntima sobre a crença de que mulher precisa estar sempre produzindo — e convite para um experimento de 5 minutos.",
+          "gancho": "Slow living está em todo feed em 2026. Mas tem uma coisa que ninguém fala sobre essa tendência que muda tudo.",
+          "o_que_falar": [
+            "Contextualiza: slow living como tendência dominante de 2026 — desacelerar, descansar, existir além da produção.",
+            "Insight: o maior bloqueio não é falta de tempo, é a crença de que você só tem valor quando produz. Isso é um condicionamento especificamente feminino — mulheres foram ensinadas a ser úteis acima de tudo.",
+            "Propõe um experimento de 5 minutos: parar tudo, sentar, não fazer nada, sem tela, sem lista. Como isso se sente no corpo? Culpa? Ansiedade? Inquietação? Esse é o sintoma do condicionamento.",
+            "CTA: 'Tenta hoje. E me conta como foi nos comentários.'"
+          ],
+          "legenda": "Slow living em 2026: desacelerar, descansar, existir além do que você produz. 🌿\n\nMas tem uma barreira que ninguém está nomeando:\n\nA crença de que você não merece descansar.\n\nExperimenta 5 minutos hoje: para tudo, senta, não faz nada. Como seu corpo reage?\n\nSe você sentir culpa — esse é o trabalho.\n\n#slowliving #autocuidado #psicologia #mulheres #descanso #saudemental",
+          "vibe": "Filmagem ao ar livre ou na janela. Tom reflexivo e suave. Fala devagar, como chegando a uma conclusão junto com a seguidora."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "titulo": "7 em 10 mulheres sentem pressão para estar sempre apresentáveis — o mecanismo psicológico que o Instagram usa contra você",
+      "resumo": "Pesquisas de 2026 confirmam: 7 em 10 jovens mulheres sentem pressão constante para estar sempre arranjadas. O maior tempo no Instagram está diretamente associado a insatisfação corporal, ansiedade e risco de transtorno alimentar. Ângulo de Priscilla: o que acontece no cérebro quando você abre o app — e como o algoritmo foi deliberadamente desenhado para fazer você se sentir insuficiente.",
+      "pilar": "Autoimagem & Identidade",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Tribuna do Norte / Revista FT / pesquisas 2026 sobre redes sociais e autoestima feminina",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "7 em 10 mulheres sentem pressão constante sobre aparência — e o Instagram é o motor. Como psicóloga, vou te explicar o mecanismo exato que o app usa contra você.",
+          "gancho": "7 em 10 mulheres sentem pressão constante para estar sempre arranjadas. Esse dado é de uma pesquisa recente. E o principal culpado? Você já sabe.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Uma pesquisa confirmou: 7 em cada 10 mulheres jovens sentem pressão constante para estar sempre apresentáveis. E o maior tempo no Instagram está associado a maior insatisfação corporal, ansiedade e depressão. Como psicóloga, preciso te explicar o que está acontecendo no seu cérebro."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "Toda vez que você abre o Instagram, seu cérebro faz comparação social automática — não porque você é fraca, mas porque é assim que o cérebro humano funciona. O problema: o algoritmo te entrega as versões mais editadas e filtradas de outras pessoas. Você compara sua realidade com a performance delas. E você sempre perde nessa comparação."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A psicologia chama isso de viés de comparação ascendente. E o Instagram foi desenhado para acionar exatamente esse mecanismo — porque quanto mais insatisfeita você está, mais você scrolla. Sua insatisfação é o produto. Você está pagando com sua autoestima."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Depois de usar o Instagram, você costuma se sentir melhor ou pior sobre si mesma? Me conta com honestidade nos comentários."
+            }
+          ],
+          "legenda": "7 em 10 mulheres sentem pressão constante para estar sempre arranjadas. 📱\n\nO dado é de pesquisa — e aponta o Instagram como principal vetor dessa pressão.\n\nMaior tempo no Instagram = maior insatisfação corporal, ansiedade e depressão.\n\nIsso não é coincidência. É design intencional.\n\nSeu cérebro faz comparação social automática. O algoritmo entrega versões editadas da realidade. E você compara sua vida real com a performance de outra pessoa.\n\nVocê sempre vai perder nessa comparação. Porque ela foi construída para isso.\n\nSalva esse post e me conta: você sente essa pressão? 👇\n\n#autoestima #instagram #comparacaosocial #autoimagem #psicologia #mulheres #saudemental #comportamentofeminino #imagemcorporal"
+        },
+        "carrossel": {
+          "ideia": "O mecanismo exato que o Instagram usa para sabotar sua autoestima — passo a passo.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "7 em 10 mulheres se sentem pressionadas a estar sempre apresentáveis.",
+              "subtitulo": "O mecanismo psicológico por trás disso — e como sair"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O dado",
+              "texto": "Pesquisas de 2026 confirmam: 7 em 10 mulheres jovens sentem pressão constante sobre aparência. Maior tempo no Instagram está diretamente associado a insatisfação corporal, ansiedade e risco de transtorno alimentar."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "O mecanismo em 7 passos",
+              "texto": "1. Você abre o app\n2. Cérebro faz comparação social automática (instinto)\n3. Algoritmo entrega versões editadas da realidade\n4. Você compara sua realidade com a performance delas\n5. Cérebro registra: 'você não é suficiente'\n6. Você scrolla mais para 'se sentir melhor'\n7. O ciclo recomeça"
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "O que o Instagram não quer que você saiba",
+              "texto": "Sua insatisfação é o produto. O app foi desenhado para manter você insatisfeita — usuária insatisfeita scrolla mais, engaja mais, compra mais. Reconhecer isso não te livra do mecanismo, mas te dá poder sobre ele."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "E você?",
+              "texto": "Depois de usar o Instagram, você se sente melhor ou pior sobre si mesma? Responda honestamente nos comentários. Essa pergunta é mais importante do que parece. 💛"
+            }
+          ],
+          "legenda": "7 em 10 mulheres sentem pressão sobre aparência — e o Instagram é o maior motor disso. 📱\n\nSwipe para entender o mecanismo psicológico que o app usa contra você — passo a passo.\n\nSalva e compartilha com quem precisa. 🤍\n\n#autoestima #instagram #autoimagem #psicologia #mulheres #comparacaosocial #saudemental #imagemcorporal"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "titulo": "Carol Celico revisita o divórcio de Kaká em 2026: o que a história do 'perfeito demais' revela sobre o direito de sair sem justificativa",
+      "resumo": "Em 2026, Carol Celico voltou a esclarecer o divórcio de Kaká, negando ter dito que terminou porque ele era 'perfeito demais' — distorção que rodou o mundo por anos. A discussão reacendeu algo mais profundo: a pressão que mulheres sentem para apresentar um 'motivo suficiente' para sair de um relacionamento que parece bom para o mundo exterior. Ângulo de Priscilla: você não precisa de um motivo que o mundo entenda — você precisa de um motivo que você entende.",
+      "pilar": "Autoimagem & Identidade",
+      "urgencia": "semana",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "Terra.com.br / Metrópoles — Carol Celico esclarece polêmica, 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "O caso Carol Celico e Kaká reacendeu em 2026 a discussão sobre a pressão de mulheres para justificar o fim de relacionamentos que 'parecem bons' para os outros.",
+          "gancho": "Carol Celico voltou a falar sobre o divórcio de Kaká em 2026. E a discussão que isso gerou me lembrou de algo que atendo toda semana no consultório.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Carol Celico voltou a falar sobre o divórcio de Kaká. Ela negou ter dito que terminou porque ele era 'perfeito demais'. Mas a discussão que isso reacendeu me lembrou de uma questão que atendo toda semana."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "A história do 'perfeito demais' rodou o mundo porque tocou em algo universal: a necessidade de um motivo visível para o fim de um relacionamento. Ninguém questiona quando há traição ou violência. Mas quando o relacionamento 'parece bom' e termina mesmo assim, a mulher é questionada, julgada — e muitas vezes ela mesma duvida de si."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A psicologia chama de ausência de validação externa para o sofrimento interno. Você não precisa de um motivo que o mundo entenda para sair de um relacionamento. Você precisa de um motivo que você entende. Incompatibilidade silenciosa, falta de conexão profunda, sentir que perdeu a si mesma — esses são motivos reais e suficientes."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Você já ficou mais tempo num relacionamento porque não tinha 'motivo suficiente'? Me conta nos comentários."
+            }
+          ],
+          "legenda": "Carol Celico voltou a falar sobre o divórcio de Kaká em 2026 e a discussão reacendeu algo importante. 💛\n\nA história do 'perfeito demais' rodou o mundo porque tocou num medo que muitas mulheres têm:\n\nO medo de não ter 'motivo suficiente' para sair.\n\nMas deixa eu te dizer algo que aprendi no consultório:\n\nVocê não precisa de um motivo que o mundo entenda.\nVocê precisa de um motivo que VOCÊ entende.\n\nIncompatibilidade silenciosa é motivo.\nFalta de conexão é motivo.\nSentir que perdeu a si mesma é motivo.\n\nVocê não precisa de traição para merecer sair.\n\n#divorcio #relacionamento #CarolCelico #Kaka #psicologia #comportamentofeminino #autoimagem #mulheres #relacionamentosaudavel"
+        },
+        "post-estatico": {
+          "ideia": "Frase poderosa sobre o direito de sair de um relacionamento sem justificativa para o mundo.",
+          "titulo_visual": "Você não precisa de um motivo\nque o mundo entenda.\n\nVocê precisa de um motivo\nque VOCÊ entende.",
+          "legenda": "Carol Celico revisitou o divórcio de Kaká em 2026 — e lembrou que mulheres ainda precisam provar que tinham 'motivo suficiente' para sair. 💛\n\nEsse post é para quem ficou mais tempo do que devia esperando a justificativa certa.\n\nSalva. Manda pra quem precisa ouvir isso. 🤍\n\n#relacionamento #psicologia #mulheres #CarolCelico #divorcio #autoimagem #comportamentofeminino #autoconhecimento",
+          "cta": "Você já se sentiu assim? Me conta nos comentários."
         }
       }
     }
