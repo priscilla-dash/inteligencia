@@ -1,613 +1,643 @@
 {
-  "versao": "2026-06-13",
-  "gerado_em": "2026-06-13T09:00:00Z",
-  "contexto_do_dia": "Esta semana o Brasil foi sacudido por separações: Alinne Moraes e Mauro Lima confirmaram o fim do casamento de 14 anos, e o vídeo da mulher que expôs as traições do marido no chá revelação viraliza com milhões de visualizações. Xamã e Sophie Charlotte reataram depois de 3 meses separados, Carol Celico reabre o caso com Kaká. Nas redes, a trend do sistema nervoso domina o TikTok e o Sagrado Feminino cresce como maior tendência espiritual de 2026.",
+  "versao": "2026-06-14",
+  "gerado_em": "2026-06-14T10:00:00Z",
+  "contexto_do_dia": "Esta semana o Brasil processa uma onda de separações de famosos: Alinne Moraes e Mauro Lima encerraram 14 anos juntos, Ivi Pizzott e Luis Navarro terminaram após 10 anos de casamento e dois filhos, e Mara Maravilha foi nos stories anunciar o fim do namoro com Gabriel Torres. Carol Celico voltou ao centro das discussões ao revelar o verdadeiro motivo do divórcio com Kaká. Nas redes, a 'beige flag' viralizou como nova forma de analisar relacionamentos. E dados alarmantes confirmam: afastamentos por saúde mental cresceram 143% no Brasil, que lidera o ranking mundial de ansiedade com 18 milhões de afetados.",
   "items": [
     {
       "id": 1,
-      "titulo": "Alinne Moraes e Mauro Lima: 14 anos acabaram — o que ninguém quer admitir sobre casamentos 'estáveis'",
-      "resumo": "O casamento de Alinne Moraes e Mauro Lima, considerado sólido no mundo artístico, chegou ao fim após 14 anos e um filho. Priscilla usa esse caso para nomear a 'erosão silenciosa': relações que se desgastam por dentro sem que ninguém perceba de fora, pelo acúmulo de conversas evitadas e distâncias emocionais não resolvidas.",
+      "titulo": "Alinne Moraes e Mauro Lima: o que o fim de 14 anos revela sobre como medimos o amor",
+      "resumo": "A atriz Alinne Moraes e o cineasta Mauro Lima anunciaram a separação em 2026 após 14 anos juntos e um filho. Para mulheres em relacionamentos longos, este caso dispara a questão que ninguém faz: durar é o mesmo que ser feliz? O ângulo psicológico de Priscilla é sobre o mito de que tempo junto prova amor saudável — e como o hábito pode mascarar o desgaste.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "Estrelando.com.br — Separações Famosos 2026",
+      "fonte": "Estrelando / Ancelmo Gois (O Globo) — estrelando.com.br",
       "copies": {
         "reels-react": {
-          "ideia_central": "O fim do casamento de Alinne e Mauro revela que tempo de relação não é sinônimo de relação saudável — o maior inimigo de um casamento não é a briga, é o silêncio acumulado.",
-          "gancho": "14 anos juntos. Um filho. E o casamento de Alinne Moraes acabou do nada. Mas foi mesmo do nada?",
+          "ideia_central": "O caso de Alinne Moraes prova que 14 anos juntos não garantem que o amor ainda existe — e precisamos parar de usar duração como medida de sucesso no amor.",
+          "gancho": "Alinne Moraes e Mauro Lima se separaram depois de 14 anos. E isso me fez pensar numa coisa que ninguém está falando.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "14 anos juntos. Um filho. E de repente o casamento de Alinne Moraes e Mauro Lima acabou. Todo mundo ficou em choque — mas será que foi mesmo do nada?"
+              "fala": "Alinne Moraes e Mauro Lima se separaram depois de 14 anos juntos. E a internet reagiu com aquele comentário clássico: 'Ai, que pena, duraram tanto tempo...' Mas sabe o que isso revela?"
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Esse casal era considerado um dos mais estáveis da cena artística brasileira. Nada de escândalo, nada de traição pública. E é exatamente isso que me preocupa como psicóloga: os casamentos que terminam em silêncio geralmente estavam dando sinais há anos — só que internamente."
+              "fala": "A gente olha pra um casamento longo e pensa 'que amor lindo.' Mas ninguém faz a pergunta mais importante: eles eram felizes? Ou estavam juntos por hábito, por conforto, por medo de recomeçar?"
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Existe um fenômeno que eu chamo de erosão silenciosa. Não é traição, não é crise — é o acúmulo de conversas que não aconteceram, de necessidades que ficaram sem resposta, de duas pessoas que foram se tornando versões diferentes de si mesmas. 14 anos dá tempo de muito distanciamento emocional sem que ninguém perceba do lado de fora."
+              "fala": "Como psicóloga, te digo: a duração de um relacionamento não é prova de amor — é prova de permanência. E às vezes a coisa mais corajosa que um casal pode fazer é reconhecer que chegou ao fim, antes de passar mais 14 anos se apagando."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você tem conversas importantes que está adiando no seu relacionamento? Isso pode ser mais perigoso do que você imagina. Me conta aqui."
+              "fala": "Você usa o tempo do seu relacionamento como prova de que ele é saudável? Me conta aqui nos comentários."
             }
           ],
-          "legenda": "14 anos. Um filho. E o casamento de Alinne Moraes e Mauro Lima acabou — sem escândalo, sem guerra pública.\n\nE sabe o que isso significa? Que o maior inimigo de um casamento não é a briga. É o silêncio acumulado. 🤍\n\nComo psicóloga, os casamentos que mais me preocupam não são os cheios de conflito — são os que terminam assim, sem barulho. Porque esses carregam anos de conversas não tidas, necessidades não ditas, dois estranhos dormindo na mesma cama.\n\nErosão silenciosa. E ela corrói o amor devagar, de dentro pra fora.\n\nSe você tem uma conversa difícil que está adiando, esse é seu sinal. 💬\n\n#AlinneMoreas #MauroLima #Relacionamento #Casamento #Psicologia #ErosaoSilenciosa #ComportamentoFeminino #VidaADois"
+          "legenda": "Alinne Moraes e Mauro Lima se separaram depois de 14 anos. E a internet foi nos comentários: 'Ai que pena, duraram tanto tempo...'\n\nMas eu preciso te perguntar: por que a gente usa o TEMPO como medida de sucesso no amor? ⏳\n\nComo psicóloga, vejo isso todo dia no consultório. Mulheres que ficam em relacionamentos por anos — não porque são felizes, mas porque 'já faz tempo' e recomeçar dá medo.\n\nDurar não é o mesmo que florescer.\nPermanecer não é o mesmo que amar.\n\nO caso de Alinne e Mauro nos lembra que às vezes a separação é o ato mais honesto que o casal pode praticar.\n\n💬 Como você avalia seu relacionamento — pela duração ou pela qualidade?\n\n#AlinneMoreas #MauroLima #Separação #Relacionamento #Psicologia #PriscillaAndrade #CasamentoSaudavel #VidaADois"
         },
         "carrossel": {
-          "ideia": "Os 5 sinais da erosão silenciosa — o que corrói um casamento sem que ninguém perceba, usando o caso de Alinne e Mauro como ponto de partida.",
+          "ideia": "O mito do casamento duradouro — por que tempo junto não é sinônimo de amor saudável, usando Alinne como gancho.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "O casamento de Alinne Moraes acabou após 14 anos.",
-              "subtitulo": "Não foi traição. Não foi escândalo. E isso diz tudo."
+              "titulo": "14 anos e se separaram. Isso deveria nos fazer pensar.",
+              "subtitulo": "O que o caso de Alinne Moraes revela sobre como avaliamos o amor"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
               "titulo": "O que aconteceu",
-              "texto": "Alinne Moraes e o cineasta Mauro Lima, juntos desde 2012 e pais de Pedro, anunciaram o fim do casamento em 2026 — sem barulho, sem guerra pública. Esse tipo de separação é mais comum do que parece."
+              "texto": "Alinne Moraes e o cineasta Mauro Lima anunciaram a separação em 2026, após 14 anos juntos e um filho. A notícia gerou comoção — afinal, 14 anos parece muito tempo. Mas será que duração é o que importa?"
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "O que isso revela",
-              "texto": "Casamentos longos que terminam em silêncio passaram por anos de erosão silenciosa: acúmulo de conversas evitadas, necessidades ignoradas e afastamento emocional gradual. Ninguém percebe de fora — às vezes nem o casal percebe."
+              "titulo": "O tempo pode ser uma armadilha",
+              "texto": "Usamos a duração do relacionamento como prova de que ele funciona. Mas tempo junto pode significar amor — ou pode significar medo de recomeçar, conforto de hábito, ou evitação emocional."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "Os 5 sinais que você pode estar ignorando",
-              "texto": "1. Você prefere o silêncio a ter uma conversa difícil.\n2. Vocês falam sobre logística, não sobre sentimentos.\n3. Você parou de contar seus sonhos e medos para ele.\n4. A intimidade emocional sumiu antes da física.\n5. Você sente solidão dentro do relacionamento."
+              "titulo": "O que casamentos longos às vezes escondem",
+              "texto": "Muitas mulheres ficam anos sem perguntar: 'Eu ainda quero isso?' A pergunta dói. Mas ficar sem fazê-la dói mais — lá na frente."
             },
             {
               "numero": 5,
               "tipo": "CTA",
               "titulo": "E você?",
-              "texto": "Quantos desses sinais você reconhece? A erosão silenciosa pode ser revertida — mas só quando você a nomeia. Salva e compartilha com quem precisa ver."
+              "texto": "Você avalia seu relacionamento pela duração ou pela qualidade? Salva esse card e pensa com calma. 💛"
             }
           ],
-          "legenda": "O casamento de Alinne Moraes e Mauro Lima durou 14 anos. Terminou sem escândalo. E isso me diz muito como psicóloga. 🤍\n\nA erosão silenciosa é o fenômeno mais perigoso e mais invisível dos relacionamentos longos.\n\nArrasta pro lado pra entender os 5 sinais que indicam que seu casamento pode estar sendo corroído por dentro. ➡️\n\nSalva esse carrossel — pode ser a conversa mais importante que você vai ter hoje.\n\n#AlinneMoreas #Casamento #Relacionamento #Psicologia #ErosaoSilenciosa #ComportamentoFeminino #VidaADois"
+          "legenda": "O caso de Alinne Moraes e Mauro Lima levanta uma questão que poucos têm coragem de responder 👇\n\n14 anos juntos — e mesmo assim chegou ao fim. Isso não é fracasso. Às vezes é a decisão mais corajosa.\n\nDesliza até o final. Vai cutucar.\n\n💬 Você usa o tempo do seu relacionamento como prova de que ele é bom?\n\n#AlinneMoreas #Relacionamento #Psicologia #CasamentoSaudavel #PriscillaAndrade"
         }
       }
     },
     {
       "id": 2,
-      "titulo": "Xamã e Sophie Charlotte reataram em Paris — a psicologia por trás do casal que não consegue terminar",
-      "resumo": "Xamã e Sophie Charlotte se separaram em março de 2026 e foram vistos juntos em Paris em maio, confirmando o reatamento. Para Priscilla, esse é um caso clássico do padrão on-off — relacionamentos que terminam e recomeçam em ciclos, alimentados por apego ansioso, saudade química e a ilusão de que 'dessa vez vai ser diferente'. O cérebro libera dopamina no reencontro como se fosse algo novo — e nos vicia nesse ciclo.",
+      "titulo": "Mara Maravilha foi nos stories anunciar a separação — e isso diz muito sobre nós",
+      "resumo": "Mara Maravilha usou os stories do Instagram para anunciar o fim do relacionamento com Gabriel Torres, com vídeo falando dos planos para 2026. O comportamento acendeu debate nas redes. Para o público de Priscilla, é um espelho de algo maior: a necessidade feminina de ser testemunhada na dor. Ângulo psicológico: por que as mulheres expõem dores amorosas publicamente — e por que isso não merece julgamento.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "lo-fi"
       ],
-      "fonte": "CNN Brasil — Casais que reataram; Estrelando.com.br",
+      "fonte": "Estrelando — estrelando.com.br",
       "copies": {
         "reels-react": {
-          "ideia_central": "O reatamento de Xamã e Sophie ilustra o padrão on-off: o cérebro interpreta a reconciliação como conquista nova, libera dopamina — e nos vicia num ciclo que raramente resolve o problema original.",
-          "gancho": "Xamã e Sophie Charlotte reataram. De novo. E eu preciso te contar o que acontece no seu cérebro quando você faz isso.",
+          "ideia_central": "Mara Maravilha ir nos stories anunciar a separação revela uma necessidade humana e feminina profunda: ser testemunhada na dor.",
+          "gancho": "Mara Maravilha foi nos stories anunciar que terminou o namoro. E antes de você julgar, preciso que você entenda o porquê.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Xamã e Sophie Charlotte se separaram em março e já estão juntos de novo em Paris. Parece romântico. Mas como psicóloga, eu vejo um padrão que pode ser muito perigoso."
+              "fala": "Mara Maravilha foi nos stories anunciar que terminou o namoro com Gabriel Torres. E a internet foi implacável nos julgamentos. Mas como psicóloga, eu vejo isso de um ângulo completamente diferente."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Relacionamentos on-off — que ficam terminando e reatando — são muito mais comuns do que as pessoas admitem. Quase todo mundo que está nesse padrão acredita sinceramente que dessa vez vai ser diferente. O problema é que o que motivou o término raramente foi resolvido. O que mudou foi a saudade."
+              "fala": "A reação padrão é: 'Por que postar isso? Não devia ser privado?' Mas a psicologia explica: quando uma mulher expõe a dor publicamente, ela está buscando testemunhas. Ela precisa que alguém valide que aquilo aconteceu, que a dor é real."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Neurologicamente, a reconciliação libera dopamina de forma muito parecida com o início de um relacionamento novo. O seu cérebro literalmente te engana — ele interpreta o reencontro como uma conquista, como algo novo e emocionante. Por isso a sensação é tão boa. Por isso parece que mudou. Mas o problema original ainda está lá, esperando."
+              "fala": "E por que as mulheres sentem essa necessidade mais do que os homens? Porque desde pequenas nos ensinam a duvidar das próprias dores. 'Tá exagerando', 'não é nada', 'isso passa.' A gente cresce precisando que o mundo confirme: sim, isso dói. Você tem razão em sentir."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já ficou presa em um ciclo on-off? Me conta nos comentários — esse assunto é mais importante do que parece."
+              "fala": "Você já postou algo nas redes para processar uma dor? Me conta sem julgamento aqui."
             }
           ],
-          "legenda": "Xamã e Sophie Charlotte reataram em Paris. 🌹 E o mundo achou romântico.\n\nEu, como psicóloga, fico com outra pergunta: o que mudou de março pra agora além da saudade?\n\nRelacionamentos on-off são um dos padrões mais perigosos e mais incompreendidos na psicologia dos vínculos. Não é amor mais intenso. Na maioria das vezes, é apego ansioso disfarçado de paixão.\n\nO seu cérebro libera dopamina no reencontro igual ao início de uma relação nova. Parece que mudou. Parece que vai funcionar. Mas o problema que causou o término? Continua lá.\n\nVocê já ficou presa nesse ciclo? Conta aqui embaixo. 👇\n\n#Xama #SophieCharlotte #RelacionamentoOnOff #Psicologia #Apego #ComportamentoFeminino #Relacionamento"
+          "legenda": "Mara Maravilha anunciou o fim do namoro com Gabriel Torres nos stories — e a internet foi implacável nos julgamentos. 😒\n\nMas como psicóloga, eu vejo isso de outro ângulo.\n\nQuando uma mulher expõe a dor publicamente, ela não está sendo dramática.\n\nEla está sendo TESTEMUNHADA. 👁️\n\nDesde que somos meninas, nos ensinam a minimizar o que sentimos. 'Passa.' 'Exagero.' 'Chora não.'\n\nAí a gente cresce precisando que o mundo confirme: a dor é real.\n\nEntender isso não é justificar — é ter empatia.\n\n💬 Você já postou algo nas redes pra processar uma dor? Sem julgamento aqui.\n\n#MaraMaravilha #Separação #Psicologia #PriscillaAndrade #InteligênciaEmocional #ComportamentoFeminino"
         },
         "lo-fi": {
-          "ideia": "Conversa íntima e direta sobre o padrão on-off usando o caso de Xamã e Sophie como gancho para reflexão pessoal.",
-          "gancho": "Deixa eu te falar sobre o que acontece no seu cérebro quando você reata com alguém.",
+          "ideia": "Reflexão íntima sobre a necessidade feminina de ser validada na dor, usando Mara Maravilha como ponto de partida.",
+          "gancho": "Antes de julgar a Mara Maravilha por ter ido nos stories falar da separação... deixa eu te contar uma coisa.",
           "o_que_falar": [
-            "Contexto do caso: Xamã e Sophie Charlotte reataram em Paris — se separaram em março, estão juntos de novo. Usar esse caso para mostrar um padrão psicológico muito real.",
-            "Insight: Relacionamento on-off ativa o mesmo sistema de recompensa do cérebro que uma nova paixão. Dopamina, adrenalina, sensação de conquista. Por isso parece diferente — mas geralmente não é.",
-            "Conexão com a audiência: 'Eu já atendi mulheres em ciclos on-off por 5, 7, 10 anos. Não porque eram fracas. Porque o cérebro é muito bom em criar ilusões quando o coração está envolvido.'",
-            "CTA: Você já esteve nesse padrão? Me conta — esse é o tipo de assunto que a gente precisa falar com mais honestidade."
+            "Contextualiza: Mara foi nos stories, anunciou o fim, falou dos planos. A internet riu e julgou.",
+            "Insight psicológico: mulheres precisam ser testemunhadas na dor porque crescem aprendendo a minimizar o que sentem — o stories é o confessionário moderno.",
+            "Conexão com a vida das seguidoras: perguntar se elas já fizeram isso — postaram algo pra processar uma dor — e normalizar esse comportamento.",
+            "CTA: 'Me conta aqui nos comentários, em segurança. Você se viu nesse padrão?'"
           ],
-          "legenda": "Xamã e Sophie Charlotte reataram. E eu não estou julgando — estou usando esse caso pra abrir uma conversa importante. 🤍\n\nO padrão on-off é real, é psicológico e é muito mais comum do que as pessoas admitem.\n\nNesse vídeo eu explico o que acontece no seu cérebro quando você reata — e por que parece tão bom mesmo quando não é saudável.\n\nVocê já esteve nesse ciclo? Me conta aqui. 👇\n\n#Xama #SophieCharlotte #Relacionamento #Psicologia #OnOff #ComportamentoFeminino #SaudeMental",
-          "vibe": "Câmera estática, luz natural, tom íntimo e direto — como se estivesse falando com uma amiga próxima. Sem edição excessiva, olho na câmera o tempo todo."
+          "legenda": "Antes de julgar a Mara Maravilha... 👇\n\nEsse vídeo é pra quem já foi nos stories em plena dor e depois ficou com vergonha. 💛\n\n#MaraMaravilha #Separação #Psicologia #PriscillaAndrade #MulherReal",
+          "vibe": "Câmera estática, luz natural, tom íntimo e acolhedor — como uma conversa de amiga pra amiga, sem edição pesada"
         }
       }
     },
     {
       "id": 3,
-      "titulo": "Carol Celico e Kaká: 'ele era perfeito demais' — a mulher que se sentiu pequena demais para o amor que tinha",
-      "resumo": "Carol Celico voltou a falar sobre o divórcio com Kaká, desmentindo que teria dito que ele era 'perfeito demais' — mas reacendendo o debate. Para Priscilla, o caso levanta uma questão psicológica profunda: o fenômeno da mulher que se sabota em relacionamentos saudáveis por não acreditar que merece aquela qualidade de amor. Quando o amor é tranquilo demais, parece suspeito.",
-      "pilar": "Autoimagem & Identidade",
+      "titulo": "Carol Celico revelou o REAL motivo do divórcio com Kaká — e a lição que toda mulher precisa ouvir",
+      "resumo": "Anos após a separação polêmica, Carol Celico revelou o verdadeiro motivo do fim do casamento com Kaká, negando a versão que circulou na mídia por anos. O caso ilustra algo crucial para o público de Priscilla: a diferença entre a narrativa pública de um divórcio e a verdade emocional vivida pela mulher. Ângulo psicológico: o apaziguamento relacional — por que as mulheres protegem a imagem do ex mesmo depois de serem magoadas.",
+      "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "post-estatico"
+        "carrossel"
       ],
-      "fonte": "Metrópoles — Quem é Carol Celico; CARAS Brasil — Separação polêmica",
+      "fonte": "CARAS Brasil / Metrópoles — caras.com.br, metropoles.com",
       "copies": {
         "reels-react": {
-          "ideia_central": "O caso Carol Celico/Kaká abre o debate sobre mulheres que saem de relacionamentos saudáveis — não porque o parceiro falhou, mas porque elas não conseguem acreditar que merecem aquele nível de amor.",
-          "gancho": "E se o problema não fosse ele ser perfeito demais — mas ela não se sentir boa o suficiente para esse amor?",
+          "ideia_central": "Carol Celico esperou anos pra contar a verdade sobre o divórcio com Kaká — e esse silêncio prolongado tem um nome na psicologia: apaziguamento relacional.",
+          "gancho": "Carol Celico finalmente revelou o verdadeiro motivo do fim do casamento com Kaká. E não é o que você pensa.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Carol Celico voltou a falar sobre o fim do casamento com Kaká. Ela negou ter dito que ele era 'perfeito demais'. Mas o que eu quero explorar é a psicologia por trás dessa história — porque ela ressoa com muito mais mulheres do que você imagina."
+              "fala": "Carol Celico abriu o jogo sobre o divórcio com Kaká. E o que ela revelou diz muito mais sobre o comportamento feminino do que sobre o Kaká em si."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Por anos circulou o boato de que Carol teria terminado o casamento porque Kaká era bom demais. E independente de ser verdade, esse gatilho viral revelou algo real: existe um fenômeno em que mulheres saem de relacionamentos saudáveis. Não por causa do outro — mas por causa do que elas sentem que merecem."
+              "fala": "Por anos, Carol ficou em silêncio enquanto a narrativa pública do divórcio foi sendo construída sem a versão dela. Ela negou versões, protegeu a imagem do ex, manteve o perfil discreto. Isso é muito comum entre mulheres que saem de relacionamentos longos."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Quando uma mulher cresceu em ambientes onde amor era condicional, imprevisível ou misturado com dor, ela aprende que amor tranquilo não parece real. Um parceiro estável parece sem graça. Um amor saudável parece suspeito. E inconscientemente, ela sai para encontrar algo que confirme a crença que ela tem sobre si mesma: que ela não merece fácil."
+              "fala": "Na psicologia chamamos isso de apaziguamento relacional: a tendência feminina de proteger o outro mesmo quando você é quem foi ferida. A gente aprende que manter a paz após o fim é mais 'elegante' do que falar a verdade. Mas esse silêncio tem um custo enorme pra saúde emocional."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já saiu de um relacionamento bom por não conseguir acreditar que merecia aquilo? Isso tem cura. Me conta aqui."
+              "fala": "Você já protegeu a imagem de alguém que te fez mal? Me conta aqui."
             }
           ],
-          "legenda": "Carol Celico voltou a falar sobre Kaká. E reacendeu um debate que vai muito além da vida deles. 🤍\n\nExiste um fenômeno psicológico real: mulheres que saem de relacionamentos saudáveis não porque o parceiro falhou — mas porque elas não conseguem acreditar que merecem aquele nível de amor.\n\nO amor calmo parece sem graça. O parceiro estável parece suspeito. A estabilidade parece armadilha.\n\nIsso não é loucura. É a consequência de histórias de amor aprendidas na infância que ensinaram que amor é difícil e imprevisível.\n\nVocê já se sabotou num relacionamento bom? 💬 Me conta — você não está sozinha.\n\n#CarolCelico #Kaka #Autossabotagem #Merecimento #Psicologia #ComportamentoFeminino #Relacionamento #Autoestima"
+          "legenda": "Carol Celico levou anos pra revelar o verdadeiro motivo do divórcio com Kaká. E muita gente só pensou: 'nossa, demorou.' 🤔\n\nMas como psicóloga, eu penso diferente.\n\nEu penso: quanto tempo ela ficou carregando essa história sozinha?\n\nO apaziguamento relacional é um padrão muito comum entre mulheres: a tendência de proteger a imagem do outro — mesmo após ser a parte que sofreu.\n\n'Saí na boa.' 'Não vou falar mal.' 'Mantenho o respeito.' ✅\n\nNobre. Mas enquanto você protege ele, quem te protege?\n\n💬 Você já ficou em silêncio pra preservar alguém que não merecia sua proteção?\n\n#CarolCelico #Kaka #Divórcio #Psicologia #PriscillaAndrade #ApaziguamentoRelacional #MulherReal"
         },
-        "post-estatico": {
-          "ideia": "Transformar a frase 'ele era perfeito demais' em uma reflexão visual sobre merecimento feminino.",
-          "titulo_visual": "\"Ele era perfeito demais.\"\n\nOu você se sentia pequena demais para ele?",
-          "legenda": "O caso de Carol Celico e Kaká reacendeu um debate importantíssimo esta semana. 🔥\n\nExiste uma diferença enorme entre:\n'Ele era perfeito demais para mim.'\ne\n'Eu não me sentia boa o suficiente para ele.'\n\nA segunda frase é autossabotagem afetiva. E é muito mais comum do que as mulheres admitem.\n\nSe você já saiu de um relacionamento saudável porque não parecia real, essa é a conversa que você precisa ter. Começa nos comentários. 👇\n\n#CarolCelico #Psicologia #Merecimento #Relacionamento #ComportamentoFeminino #Autossabotagem",
-          "cta": "Salva esse post e manda pra quem precisa ver isso hoje."
+        "carrossel": {
+          "ideia": "Por que as mulheres protegem a imagem do ex — o padrão psicológico que o caso Carol Celico expõe.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "Por que você protege a imagem de quem te magoou?",
+              "subtitulo": "O caso de Carol Celico e Kaká revela um padrão que afeta milhões de mulheres"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O que aconteceu",
+              "texto": "Anos após o divórcio polêmico com Kaká, Carol Celico revelou o verdadeiro motivo do fim. Por anos ficou em silêncio, protegendo a narrativa pública — enquanto carregava a versão real sozinha."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Por que fazemos isso?",
+              "texto": "1. Medo de ser chamada de 'amarga'\n2. Pressão para 'sair na boa'\n3. Crença de que expor o outro é fraqueza\n4. Culpa internalizada — como se a dor fosse exagero\n5. Proteção dos filhos e da imagem pública"
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "O custo desse silêncio",
+              "texto": "Proteger quem te fez mal é uma forma de violência que você pratica contra si mesma. O silêncio protege a imagem dele — e apaga a sua dor. O corpo cobra antes da mente perceber."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "E você?",
+              "texto": "Você ainda está protegendo a imagem de alguém que te magoou? Pode ser que seja hora de parar. 💛"
+            }
+          ],
+          "legenda": "Carol Celico revelou o que ficou escondido por anos sobre o divórcio com Kaká. 💬\n\nE antes de falar do Kaká — quero falar de um padrão que afeta MUITAS mulheres.\n\nDesliza até o final 👉 Esse carrossel pode ser o estalo que alguém precisava.\n\n#CarolCelico #Kaka #Psicologia #PriscillaAndrade #MulherReal #Relacionamento"
         }
       }
     },
     {
       "id": 4,
-      "titulo": "Mulher expõe traições do marido no chá revelação — o que a traição faz com a mente de uma mulher",
-      "resumo": "Um vídeo viral no Brasil mostra uma mulher que convocou familiares para o chá revelação do próprio filho e usou o momento para expor prints de traições do marido. O caso gerou debate sobre 'certo ou errado'. Para Priscilla, o ângulo psicológico não está no julgamento da ação — mas no que a traição faz com a capacidade de confiar de uma mulher e com sua relação com a própria percepção da realidade.",
+      "titulo": "'Beige flag': a nova trend viral que revela como estamos patologizando o amor",
+      "resumo": "Após red flags e green flags dominarem as redes, a 'beige flag' virou o novo viral: comportamentos estranhos mas inofensivos do parceiro que revelam personalidade única. Para o público de Priscilla, imerso no vocabulário relacional das redes, este é um ângulo psicológico poderoso: estamos tão traumatizadas com relacionamentos tóxicos que começamos a auditar cada comportamento do parceiro como diagnóstico. O amor virou análise.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "carrossel"
+        "post-estatico"
       ],
-      "fonte": "O Tempo — Traição no chá revelação viral",
+      "fonte": "Bons Fluidos / Metrópoles — bonsfluidos.com.br, metropoles.com",
       "copies": {
         "reels-react": {
-          "ideia_central": "O viral do chá revelação não é sobre o que a mulher fez — é sobre o que a traição fez com ela: a necessidade de testemunhas para validar uma dor que ela mesma duvidava de sentir.",
-          "gancho": "A mulher que expôs as traições do marido no chá revelação foi certa ou errada? Nenhuma das duas — e eu vou te explicar por quê.",
+          "ideia_central": "A trend das beige flags é sintoma de algo maior: estamos tão assustadas com relacionamentos tóxicos que começamos a diagnosticar até o que é só diferente.",
+          "gancho": "Você já ouviu falar em 'beige flag'? É a nova trend — e ela revela algo preocupante sobre como estamos vendo o amor.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Você viu o vídeo da mulher que chamou a família pro chá revelação e usou o momento pra expor as traições do marido? Viralizou. E todo mundo escolheu um lado. Mas eu quero te mostrar o que está por baixo disso."
+              "fala": "Beige flag é a nova trend das redes. Mas antes de você sair listando as do seu parceiro, deixa eu te dizer o que está por baixo dessa tendência."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Ela reuniu a família, mostrou os prints, expôs o marido na frente de todo mundo. E a internet dividiu: 'que absurdo!', 'ela foi corajosa!'. Mas nenhuma dessas perguntas chega perto do que eu quero analisar aqui."
+              "fala": "Primeiro vieram as red flags — comportamentos tóxicos. Depois as green flags — atitudes saudáveis. Agora as beige flags — comportamentos estranhos mas inofensivos, tipo 'ele organiza os fones por tamanho' ou 'ela ri de piadas que não entende.' A internet adorou."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "A traição não destrói só a confiança no parceiro — ela destrói a confiança da mulher em si mesma. Você começa a duvidar da sua percepção da realidade: 'será que eu estava exagerando?', 'será que eu imaginei?'. Quando uma mulher expõe a traição publicamente, muitas vezes não é para humilhar — é para ter testemunhas. Para confirmar que o que ela sentiu era real."
+              "fala": "Mas como psicóloga percebo o que está por baixo: estamos tão traumatizadas com relacionamentos tóxicos que começamos a analisar cada comportamento como sinal de algo. Toda peculiaridade vira bandeira. Toda excentricidade vira diagnóstico. E a gente para de VIVER o amor — e começa a AUDITÁ-LO."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Se você passou por traição, me conta: a dúvida sobre a sua própria percepção foi o que mais te machucou?"
+              "fala": "Qual é a beige flag do seu parceiro — ou a sua própria? Me conta nos comentários!"
             }
           ],
-          "legenda": "O vídeo da mulher que expôs as traições do marido no próprio chá revelação viraliza no Brasil. 📲\n\nE todo mundo quer saber: ela foi certa ou errada?\n\nComo psicóloga, eu tenho outra pergunta: o que a traição fez com ela antes disso?\n\nA traição não destrói só a confiança no parceiro. Ela destrói a confiança que a mulher tem em si mesma. Você começa a duvidar da sua percepção da realidade. Questiona se estava exagerando.\n\nExistir publicamente e ser vista às vezes é a única forma que uma mulher encontra de confirmar que a dor que ela sentiu era real.\n\nNão estou justificando a forma. Estou nomeando a ferida. 🤍\n\n#ChaDevelacao #Traicao #Viral #Psicologia #ComportamentoFeminino #Relacionamento #Infidelidade"
+          "legenda": "Beige flag é o novo viral das redes 🏳️\n\nE eu precisava reagir a isso do ponto de vista da psicologia.\n\nFirst: red flags 🚩 → green flags 💚 → beige flags 🏳️\n\nIsso não é só uma trend engraçada. É um sintoma:\n\nEstamos tão traumatizadas com relacionamentos tóxicos que começamos a auditar cada comportamento do parceiro como se fosse diagnóstico.\n\nQualquer peculiaridade vira análise.\nQualquer excentricidade vira red flag.\n\nE aí a gente para de VIVER o amor — e começa a INSPECIONÁ-LO.\n\n💬 Me conta: qual é a beige flag do seu parceiro?\n\n#BeigeFLag #RedFlag #Relacionamento #Psicologia #PriscillaAndrade #TendênciaViral #Amor"
         },
-        "carrossel": {
-          "ideia": "O que a traição faz com a mente de uma mulher — 5 efeitos psicológicos que vão além da dor óbvia.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "O que a traição realmente faz com a sua mente.",
-              "subtitulo": "Vai muito além da dor. A psicóloga explica."
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O que motivou esse carrossel",
-              "texto": "O viral da semana: uma mulher usou o chá revelação do filho para expor as traições do marido para a família. A internet julgou a ação. Eu quero falar sobre o que veio antes dela."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "5 efeitos psicológicos da traição",
-              "texto": "1. Você duvida da sua própria percepção da realidade.\n2. Sua autoestima é atingida mesmo sem culpa sua.\n3. Você perde a confiança no seu próprio julgamento.\n4. Você passa a vigiar sinais em todo lugar.\n5. Você sente vergonha — como se a falha fosse sua."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "A traição é uma forma de violência psicológica. Ela altera sua relação com a realidade. Quando você é traída, seu cérebro tenta reconciliar dois mundos: o que você acreditava ser verdade e o que era. Isso causa um luto que vai muito além do término."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "Se você passou por traição:",
-              "texto": "Você não está exagerando. Você não está fraca. O que você sente tem nome, tem explicação e tem tratamento. Salva esse carrossel e compartilha com quem precisa ouvir isso hoje."
-            }
-          ],
-          "legenda": "O viral do chá revelação abriu uma conversa que eu precisava ter com vocês. 🤍\n\nA traição machuca de formas que a gente não consegue nem nomear. E o pior não é a dor óbvia — é o que ela faz com a sua relação com a sua própria percepção de realidade.\n\nArrasta pro lado e lê com atenção. ➡️\n\nSe você passou por traição, você não está sozinha. E você não está exagerando.\n\n#Traicao #Infidelidade #Psicologia #SaudeMental #ComportamentoFeminino #Relacionamento"
+        "post-estatico": {
+          "ideia": "Frase de impacto sobre a patologização do amor nas redes, usando o conceito de beige flag.",
+          "titulo_visual": "Nem toda estranheza é uma red flag. Às vezes é só ele sendo ele.",
+          "legenda": "A internet inventou as beige flags 🏳️ — e é engraçado, sim.\n\nMas como psicóloga, eu preciso dizer:\n\nEstamos tão assustadas com relacionamentos tóxicos que começamos a diagnosticar até o que é simplesmente diferente.\n\nNem toda peculiaridade é um sinal de alerta.\nÀs vezes é só o seu parceiro sendo único. E isso pode ser bonito.\n\n💬 Qual é a beige flag do seu? 😄\n\n#BeigeFLag #Relacionamento #PriscillaAndrade #Psicologia #Amor",
+          "cta": "Comenta aqui a beige flag do seu parceiro 😄"
         }
       }
     },
     {
       "id": 5,
-      "titulo": "A trend do 'sistema nervoso' que domina o TikTok — sintoma coletivo da ansiedade feminina em 2026",
-      "resumo": "A trend viral no TikTok de junho 2026 mostra criadores aparecendo sobrecarregados com legenda: 'meu sistema nervoso pensando [ameaça grave], quando na verdade [situação inofensiva]'. Para Priscilla, o formato não é só meme — é um sintoma coletivo de hipervigilância crônica: uma geração de mulheres com o sistema nervoso preso no modo alerta permanente, incapaz de distinguir perigo real de situação cotidiana.",
+      "titulo": "49% das mulheres desconfiam do 'homem feministo' — o dado que validou um instinto antigo",
+      "resumo": "Pesquisa do app happn com 6.500 usuários revelou que 49% das mulheres desconfiam de homens com discursos feministas performáticos. No Brasil, 60% valorizam a opinião do parceiro sobre feminismo, mas 47% ficam atentas quando ele monopoliza a conversa. Para o público de Priscilla, que navega entre alinhamento de valores e relacionamentos reais, este dado valida um instinto feminino muito afinado. Ângulo: como diferenciar aliado real de feminismo de vitrine.",
       "pilar": "Autoimagem & Identidade",
-      "urgencia": "hoje",
+      "urgencia": "semana",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "lo-fi"
+        "carrossel"
       ],
-      "fonte": "Clipchamp Blog — TikTok Trends 2026; Ramdam — TikTok Trends June 2026",
+      "fonte": "CNN Brasil / Correio Braziliense — cnnbrasil.com.br, correiobraziliense.com.br",
       "copies": {
         "reels-react": {
-          "ideia_central": "A trend do sistema nervoso no TikTok não é engraçada — é um sintoma coletivo: mulheres vivendo em hipervigilância crônica que não sabem mais distinguir perigo real de situação normal.",
-          "gancho": "Essa trend do sistema nervoso que está tomando o TikTok? Não é engraçada. É um sintoma. E eu preciso te explicar.",
+          "ideia_central": "Os 49% de mulheres que desconfiam do homem feministo não estão sendo contraditórias — estão reconhecendo incongruência entre discurso e comportamento.",
+          "gancho": "Uma pesquisa com 6.500 pessoas revelou que 49% das mulheres desconfiam do homem que se diz feminista. E eu concordo. Vou explicar.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Você já viu essa trend no TikTok onde a pessoa aparece em pânico com a legenda 'meu sistema nervoso achando que é uma emergência — quando na verdade é só uma mensagem de WhatsApp'? Todo mundo ri. Mas eu, como psicóloga, fico preocupada."
+              "fala": "Uma pesquisa com mais de 6 mil pessoas revelou que quase metade das mulheres desconfiam do homem que se diz feminista. E honestamente? Faz todo sentido."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Essa trend está dominando o TikTok em junho de 2026 — e ela ressoou porque é real demais. Mulheres em todo o Brasil se identificam com a ideia de que o próprio corpo responde a coisas pequenas como se fossem ameaças grandes. Um e-mail do chefe. Uma mensagem com ponto final. O silêncio do parceiro."
+              "fala": "O dado vem do app happn e mostra que no Brasil 60% das mulheres valorizam a opinião do parceiro sobre feminismo — mas 47% ficam atentas quando ele monopoliza a conversa sobre o tema. Elas querem aliados, não protagonistas."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Isso tem nome: hipervigilância crônica. É quando o sistema nervoso autônomo fica preso no modo luta ou fuga permanente. Geralmente é resultado de traumas, relacionamentos imprevisíveis ou ambientes de alta pressão. E o mais assustador: quando você vive assim há tempo suficiente, você não percebe mais que está em alerta. Parece normal."
+              "fala": "Na psicologia, chamamos isso de reconhecimento de incongruência: você percebe, muitas vezes de forma intuitiva, quando o discurso de alguém não bate com o comportamento real. O homem que fala de feminismo mas te interrompe toda hora. Que 'apoia' sua carreira mas fica mal quando você ganha mais. O instinto feminino para isso é muito afinado."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você se identificou com essa trend? Isso pode ser um sinal importante. Me conta nos comentários e salva esse vídeo."
+              "fala": "Você já se relacionou com um homem feministo? Como percebeu? Me conta."
             }
           ],
-          "legenda": "Você viu a trend do sistema nervoso no TikTok? 😰\n\n'Meu sistema nervoso achando que é uma emergência — quando na verdade é só uma notificação.'\n\nTodo mundo riu. Mas como psicóloga, eu vi um sintoma coletivo muito sério.\n\nQuando o seu corpo responde a um e-mail como se fosse uma ameaça física, ele está em modo de hipervigilância crônica. E isso não é frescura — é o resultado de anos vivendo em ambientes de imprevisibilidade, pressão ou trauma.\n\nO assustador? Quando você vive assim há tempo suficiente, parece normal.\n\nVocê se identificou? Me conta aqui. 👇\n\n#TikTokTrend #SistemaNervoso #Ansiedade #Hipervigilancia #SaudeMental #Psicologia #ComportamentoFeminino"
+          "legenda": "49% das mulheres desconfiam do homem que se diz feminista. 📊\n\nE antes de parecer contraditório... deixa eu explicar.\n\nNão é desconfiança do feminismo.\nÉ desconfiança do DISCURSO SEM PRÁTICA.\n\nO homem que fala de empoderamento mas te interrompe toda hora.\nQue 'apoia' sua carreira mas fica mal quando você ganha mais que ele.\nQue usa o vocabulário certo mas não muda um comportamento sequer.\n\nIsso tem nome: feminismo performático.\n\nE o instinto feminino para identificar isso é mais afinado do que qualquer pesquisa.\n\n💬 Você já esteve com um homem assim? Como percebeu?\n\nFonte: Pesquisa happn com 6.500 usuários\n\n#FeminismoPerformático #HomemFeministo #Relacionamento #Psicologia #PriscillaAndrade #MulherEmpoderada"
         },
-        "lo-fi": {
-          "ideia": "Conversa íntima sobre hipervigilância usando a trend viral como ponto de entrada para uma reflexão sobre saúde do sistema nervoso.",
-          "gancho": "Essa trend do sistema nervoso no TikTok me deu um nó no estômago. Deixa eu te explicar por quê.",
-          "o_que_falar": [
-            "Descrever a trend: a pessoa aparece sobrecarregada com legenda humorística — e por que ela ressoou tanto com as mulheres.",
-            "Insight psicológico: hipervigilância crônica — o sistema nervoso preso no modo alerta, incapaz de distinguir ameaça real de cotidiano banal.",
-            "Conexão pessoal: 'Eu já atendi mulheres que achavam que isso era personalidade. Que elas eram ansiosas por natureza. Na verdade era um sistema nervoso que nunca aprendeu a descansar.'",
-            "CTA: 'Você acorda já tensa? Fica de plantão emocional o dia todo? Me conta — porque isso tem tratamento.'"
+        "carrossel": {
+          "ideia": "Aliado real vs. feministo performático — como diferenciar, usando os dados da pesquisa como âncora.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "Seu parceiro apoia o feminismo — ou só fala que apoia?",
+              "subtitulo": "49% das mulheres já sentiram essa diferença. Pesquisa com 6.500 pessoas explica."
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O dado que viralizou",
+              "texto": "Pesquisa do happn com 6.500 usuários: 49% das mulheres desconfiam de discursos feministas performáticos. No Brasil, 47% ficam atentas quando o homem monopoliza a conversa sobre feminismo."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Sinais do feminismo performático",
+              "texto": "• Fala muito, muda pouco no dia a dia\n• Te interrompe enquanto discursa sobre escuta\n• 'Apoia' sua carreira mas fica incomodado com seu sucesso\n• Usa vocabulário correto nas redes, mas não em casa\n• Se ofende quando você questiona o comportamento dele"
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "O aliado real faz diferente",
+              "texto": "O aliado real não precisa anunciar que é feminista. Ele divide as tarefas. Celebra seu sucesso sem sentir ameaça. Te deixa falar. Muda o comportamento quando você aponta algo. Ações — não discursos."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "E o seu?",
+              "texto": "Analisa com honestidade: seu parceiro é um aliado real ou um feministo de vitrine? Comenta 1 (aliado real) ou 2 (performático) 👇"
+            }
           ],
-          "legenda": "Essa trend do sistema nervoso no TikTok pode parecer só um meme. Mas ela diz muito sobre como as mulheres estão se sentindo em 2026. 🤍\n\nHipervigilância crônica não é personalidade. É um padrão aprendido — e que pode ser desaprendido.\n\nMe conta: você se identificou com essa trend? 👇\n\n#SistemaNervoso #TikTokTrend #Ansiedade #Psicologia #SaudeMental #ComportamentoFeminino",
-          "vibe": "Câmera estática, luz natural, ambiente doméstico tranquilo. Tom íntimo, pausado. Sem cortes excessivos."
+          "legenda": "49% das mulheres desconfiam do homem que se diz feminista. 📊\n\nE eu entendo completamente. Vem ver por quê nos slides 👉\n\nFonte: pesquisa happn com 6.500 usuários de vários países.\n\n💬 Seu parceiro é 1 (aliado real) ou 2 (performático)?\n\n#FeminismoPerformático #Relacionamento #Psicologia #PriscillaAndrade #MulherEmpoderada"
         }
       }
     },
     {
       "id": 6,
-      "titulo": "Estudo junho 2026: ansiedade e depressão são subdiagnosticadas em mulheres — e o sistema ainda as chama de 'muito emotivas'",
-      "resumo": "Artigo publicado em 10 de junho de 2026 pelo Hospital Santa Mônica alerta que ansiedade, depressão e TDAH são frequentemente subdiagnosticados em mulheres, com sintomas confundidos com emotividade excessiva. Para Priscilla, esse dado é tanto um alerta clínico quanto uma questão de identidade: o sistema ainda trata a saúde emocional feminina como exagero — atrasando diagnósticos por anos e causando sofrimento desnecessário.",
+      "titulo": "Afastamentos por saúde mental cresceram 143% — e quem mais sofre são as mulheres",
+      "resumo": "Dados de 2025-2026 mostram que afastamentos do trabalho por transtornos mentais cresceram 143% no Brasil, com quase meio milhão de licenças por causas psicológicas. O Brasil lidera o ranking mundial de ansiedade: 9,3% da população afetada, cerca de 18 milhões de pessoas. Para o público de Priscilla — mulheres que se cobram demais e raramente pedem ajuda — este dado é um espelho direto. Ângulo psicológico: a cultura do silêncio e do aguentar que antecede o colapso feminino.",
       "pilar": "Autoimagem & Identidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "post-estatico"
+        "carrossel"
       ],
-      "fonte": "Hospital Santa Mônica — Saúde mental da mulher: sinais de alerta, 10 junho 2026",
+      "fonte": "Fenajufe / Portal Mato Grosso — fenajufe.org.br, portalmatogrosso.com.br",
       "copies": {
         "reels-react": {
-          "ideia_central": "Estudo de junho 2026 confirma: ansiedade e depressão em mulheres são sistematicamente minimizadas e rotuladas como emotividade excessiva — custando anos de sofrimento sem tratamento.",
-          "gancho": "Você foi chamada de 'muito emotiva' quando na verdade estava sofrendo de ansiedade? A ciência acabou de confirmar que isso é sistêmico.",
+          "ideia_central": "O Brasil que lidera o ranking mundial de ansiedade não é coincidência — é o reflexo de uma cultura que ensina as mulheres a aguentar tudo em silêncio até o colapso.",
+          "gancho": "Afastamentos por saúde mental cresceram 143% no Brasil. E quem mais está sendo atingida são as mulheres. Vou te explicar o porquê.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Um artigo publicado esta semana confirma o que muitas de vocês já viveram: ansiedade, depressão e TDAH são subdiagnosticados em mulheres. Porque os sintomas em mulheres são diferentes — e ainda são rotulados como excesso de emoção."
+              "fala": "Os afastamentos do trabalho por saúde mental cresceram 143% no Brasil. E o país ainda lidera o ranking mundial de ansiedade. Isso não é coincidência — é um padrão."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "O Hospital Santa Mônica publicou um alerta em junho de 2026: condições como ansiedade e depressão em mulheres são frequentemente confundidas com emotividade excessiva por médicos, por familiares, até por elas mesmas. Resultado? Diagnóstico tardio, tratamento atrasado, sofrimento desnecessário por anos."
+              "fala": "São quase 18 milhões de pessoas afetadas por transtornos de ansiedade só no Brasil. E as mulheres são desproporcionalmente atingidas — porque além do trabalho, ainda carregam a sobrecarga emocional da família, dos filhos, da casa e das relações."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Tem uma violência sutil nisso que precisa ser nomeada. Quando uma menina chora com frequência, aprende a ouvir que é drama. Quando uma mulher tem crises de ansiedade, ouve que é muito sensível. E isso faz com que ela passe a duvidar do que sente — demorando anos para buscar ajuda. O subdiagnóstico não é um erro médico isolado. É uma expressão de como a sociedade ainda lida com a saúde emocional feminina."
+              "fala": "Mas sabe o que me preocupa mais do que o número? O silêncio antes dele. A mulher que vai ao médico com dor no peito e ouve 'é estresse'. Que vai trabalhar doente porque 'não pode largar tudo'. Que só pede ajuda quando já não consegue mais se levantar da cama."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já foi chamada de sensível demais quando na verdade estava sofrendo? Comenta aqui — porque você não estava exagerando."
+              "fala": "Você está esperando chegar ao limite para pedir ajuda? Me conta aqui — com segurança."
             }
           ],
-          "legenda": "Você já foi chamada de 'muito emotiva'? De 'sensível demais'? De 'dramática'? 🤍\n\nUm artigo publicado esta semana pelo Hospital Santa Mônica confirma: ansiedade, depressão e TDAH são sistematicamente subdiagnosticados em mulheres.\n\nNão porque os transtornos não existem — mas porque os sintomas em mulheres são diferentes. E o sistema médico e social ainda interpreta isso como excesso de emoção.\n\nIsso custa anos de sofrimento sem tratamento.\n\nVocê não estava exagerando. Você estava sofrendo. Existe diferença. 💙\n\n#SaudeMental #Ansiedade #Depressao #TDAH #MulheresSaudeMental #Psicologia #ComportamentoFeminino #Subdiagnostico"
+          "legenda": "143% de crescimento nos afastamentos por saúde mental no Brasil. 📊\n\nE o país ainda lidera o ranking mundial de ansiedade.\n\n18 MILHÕES de pessoas. Boa parte delas: mulheres.\n\nE sabe o que me preocupa mais do que o número?\n\nO SILÊNCIO antes dele.\n\nA mulher que trabalha doente porque 'não pode largar tudo.'\nQue vai ao médico com dor no peito e ouve 'é estresse, passa.'\nQue só pede ajuda quando já não consegue mais funcionar.\n\nA nossa cultura ensinou as mulheres a aguentar. E o corpo cobra.\n\n💬 Você está esperando chegar ao limite para pedir ajuda?\n\nFonte: Fenajufe / Portal Mato Grosso 2026\n\n#SaúdeMental #Ansiedade #MulherReal #Psicologia #PriscillaAndrade #EsgotamentoFeminino #CuideSeDeSi"
         },
-        "post-estatico": {
-          "ideia": "Transformar a frase 'você é muito emotiva' em um post impactante que valida a experiência das mulheres.",
-          "titulo_visual": "\"Você é muito emotiva.\"\n\nNão. Você estava sofrendo de ansiedade — e ninguém te levou a sério.",
-          "legenda": "Estudo de junho 2026 confirma: ansiedade, depressão e TDAH são sistematicamente subdiagnosticados em mulheres. 💙\n\nO sistema chama de emoção excessiva o que na verdade é sofrimento clínico não tratado.\n\nVocê não estava exagerando. Você não era dramática. Você precisava de ajuda — e tinha direito a ela.\n\nSalva esse post. Compartilha com quem precisa ouvir isso hoje.\n\n#SaudeMental #Ansiedade #Psicologia #MulheresSaudeMental #ComportamentoFeminino",
-          "cta": "Compartilha com uma mulher que já foi chamada de emotiva demais."
+        "carrossel": {
+          "ideia": "Os sinais de que a mulher está no limite — antes de virar estatística — usando os dados de saúde mental como contexto.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "143% de crescimento. Seu corpo já estava avisando.",
+              "subtitulo": "O Brasil lidera o ranking mundial de ansiedade — e as mulheres são as mais afetadas"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O dado que não dá pra ignorar",
+              "texto": "Afastamentos por saúde mental cresceram 143% no Brasil em 2025. São quase 18 milhões de pessoas com transtornos de ansiedade. O país lidera o ranking mundial. Mulheres são desproporcionalmente afetadas."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "5 sinais que aparecem antes do colapso",
+              "texto": "1. Insônia ou sono excessivo sem descanso\n2. Irritabilidade exagerada com situações pequenas\n3. Dificuldade de concentração constante\n4. Sensação de que 'algo está errado' sem saber o quê\n5. Perda de prazer em coisas que você amava"
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "Por que a mulher ignora esses sinais?",
+              "texto": "Porque nos ensinaram que aguentar é virtude. Que pedir ajuda é fraqueza. Que se a casa funciona, você está bem. O corpo sabe a verdade antes da mente. E quando ele para — você para junto."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "Não espere o colapso.",
+              "texto": "Se você se viu em algum desses sinais: isso é um aviso, não um exagero. Cuide de você agora — antes de virar número nessa estatística. 💛"
+            }
+          ],
+          "legenda": "143% de crescimento nos afastamentos por saúde mental.\n\nVocê vai esperar virar parte dessa estatística para se cuidar? 💛\n\nDesliza até o final — pode mudar o dia de alguém.\n\n#SaúdeMental #Ansiedade #Psicologia #PriscillaAndrade #MulherReal #EsgotamentoFeminino"
         }
       }
     },
     {
       "id": 7,
-      "titulo": "49% das mulheres desconfiam do 'homem feminista' — pesquisa revela o paradoxo do aliado performático",
-      "resumo": "Pesquisa dos apps Tinder e Happn revelada esta semana aponta que 49% das mulheres brasileiras desconfiam de homens que se declaram feministas, enquanto 60% valorizam o posicionamento do parceiro. Para Priscilla, o dado revela uma evolução importante: as mulheres aprenderam a distinguir feminismo real de performático — e desenvolveram radar sofisticado para comportamento, não apenas discurso.",
-      "pilar": "Posicionamento & Carreira",
-      "urgencia": "semana",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "CNN Brasil — Tendências de relacionamento 2026; Meio & Mensagem — Comportamento feminino diante das tendências 2026",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "49% das mulheres desconfiam do homem que se diz feminista — e estão certas: feminismo performático é uma nova máscara de controle, e as mulheres aprenderam a enxergar isso.",
-          "gancho": "Pesquisa mostrou que quase metade das mulheres desconfiam do homem feminista. E eu acho que elas estão certas — vou te explicar por quê.",
-          "roteiro": [
-            {
-              "tempo": "0–3s",
-              "descricao": "Abertura",
-              "fala": "Uma pesquisa revelou essa semana que 49% das mulheres brasileiras desconfiam de homens que se declaram feministas. E sabe o que eu acho disso? Acho que essas mulheres desenvolveram um radar sofisticado — e estão certas."
-            },
-            {
-              "tempo": "3–15s",
-              "descricao": "Contexto",
-              "fala": "A pesquisa dos apps Tinder e Happn mostrou um paradoxo: ao mesmo tempo que 60% dos solteiros valorizam que o parceiro tenha posicionamento sobre feminismo, quase metade das mulheres mantém atenção redobrada com homens que monopolizam esse discurso. O que essa contradição diz sobre o momento que estamos vivendo?"
-            },
-            {
-              "tempo": "15–25s",
-              "descricao": "Virada psicológica",
-              "fala": "Diz que as mulheres aprenderam a observar comportamento, não discurso. O feminismo performático tem características específicas: o homem usa o vocabulário correto, mas toma decisões que contradizem o que fala. Ele diz 'você pode ser quem quiser' mas fica desconfortável quando ela ganha mais. Fala em divisão de tarefas mas não divide. As mulheres estão mais espertas — e isso é saudável."
-            },
-            {
-              "tempo": "25–30s",
-              "descricao": "CTA",
-              "fala": "Você já se envolveu com um homem que dizia as coisas certas mas fazia as coisas erradas? Conta aqui — esse padrão merece ser nomeado."
-            }
-          ],
-          "legenda": "49% das mulheres desconfiam do homem que se diz feminista. 📊\n\nE sabe o que eu vejo nisso como psicóloga? Evolução.\n\nAs mulheres aprenderam a diferença entre discurso e comportamento. Entre o homem que fala o vocabulário certo e o homem que realmente age diferente.\n\nFeminismo performático tem cara: apoia no discurso mas diminui na prática. Usa as palavras certas mas fica incomodado quando você cresce.\n\nO radar feminino para isso ficou afiado. E esse é um dos avanços mais importantes da última geração. 💪\n\nVocê já viveu isso? Me conta. 👇\n\n#HomemFeminista #Feminismo #Relacionamento #Psicologia #ComportamentoFeminino #Posicionamento #Empoderamento"
-        },
-        "carrossel": {
-          "ideia": "Como identificar o feminismo performático vs. o aliado genuíno — 5 diferenças práticas.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "49% das mulheres desconfiam do 'homem feminista'.",
-              "subtitulo": "Elas estão certas. Veja como identificar o performático."
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O dado da semana",
-              "texto": "Pesquisa dos apps Tinder e Happn: 49% das mulheres brasileiras desconfiam de homens que se declaram feministas. O dado levantou debate — e revela que as mulheres estão observando comportamento, não só discurso."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "5 sinais do feminismo performático",
-              "texto": "1. Usa vocabulário correto mas toma decisões unilaterais.\n2. Elogia sua independência mas fica incomodado com ela na prática.\n3. 'Apoia' sua carreira mas compete internamente.\n4. Fala sobre divisão de tarefas mas não divide.\n5. Se ofende quando feminismo é questionado — como se fosse sobre a identidade dele, não sobre você."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O aliado genuíno não precisa anunciar",
-              "texto": "O homem que realmente apoia a autonomia feminina não precisa proclamar isso. Ele simplesmente age: divide responsabilidades, celebra suas conquistas sem competir, respeita seus limites sem questionar, e não usa o discurso feminista como moeda de sedução."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "Confie no comportamento, não no discurso.",
-              "texto": "Salva esse carrossel e compartilha com amigas que estão navegando essa questão. O radar feminino para isso é real — e precisa ser afinado."
-            }
-          ],
-          "legenda": "49% das mulheres desconfiam do homem feminista. 📊 E como psicóloga, eu não acho que elas estão erradas.\n\nO feminismo performático é uma realidade — e as mulheres aprenderam a enxergá-lo.\n\nArrasta pro lado pra ver os 5 sinais que você precisa conhecer. ➡️\n\n#Feminismo #Relacionamento #ComportamentoFeminino #Psicologia #Posicionamento"
-        }
-      }
-    },
-    {
-      "id": 8,
-      "titulo": "Beige flags: a nova tendência viral que redefine o que é tolerável em um relacionamento",
-      "resumo": "O conceito de beige flag — hábito estranho ou levemente irritante que não é necessariamente nocivo — viralizou como extensão do debate sobre red flags. Para Priscilla, o fenômeno revela uma mudança preocupante: a geração atual está tão treinada para detectar problemas que começou a patologizar o que é simplesmente humano e diferente. O ângulo é sobre a diferença entre discernimento saudável e hipercritismo que impede conexão real.",
-      "pilar": "Casamento & Relacionamento",
-      "urgencia": "semana",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "lo-fi"
-      ],
-      "fonte": "Bons Fluidos — Beige flags no amor; Metrópoles — Red flags relacionamentos 2026",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "A tendência das beige flags mostra que estamos tão treinados para detectar problemas nos relacionamentos que começamos a patologizar o que é simplesmente humano — e isso pode ser tão perigoso quanto ignorar red flags reais.",
-          "gancho": "Beige flag: você já ouviu falar? Essa tendência viral está revelando algo preocupante sobre como a gente analisa relacionamentos hoje.",
-          "roteiro": [
-            {
-              "tempo": "0–3s",
-              "descricao": "Abertura",
-              "fala": "Beige flag. O novo termo que está viralizando nos relacionamentos. Não é red flag, não é green flag — é aquele hábito estranho, aquela peculiaridade irritante que você não sabe se é aceitável ou não. E o que está por baixo dessa tendência é muito mais profundo do que parece."
-            },
-            {
-              "tempo": "3–15s",
-              "descricao": "Contexto",
-              "fala": "A geração atual aprendeu a catalogar comportamentos em red flags, green flags — e agora criou um terceiro nível: beige flags. São as coisas que o parceiro faz que são estranhas, levemente irritantes — mas não necessariamente perigosas. E a internet virou um tribunal pra julgar se essas coisas são aceitáveis ou não."
-            },
-            {
-              "tempo": "15–25s",
-              "descricao": "Virada psicológica",
-              "fala": "Como psicóloga, o que eu vejo nessa tendência é hipervigilância relacional. A geração que aprendeu sobre relacionamentos tóxicos ficou tão alerta que começou a patologizar o que é simplesmente diferente e humano. Exigir perfeição comportamental num parceiro é tão perigoso quanto ignorar red flags reais. Compatibilidade não é ausência de defeitos — é a capacidade de navegar diferenças com cuidado."
-            },
-            {
-              "tempo": "25–30s",
-              "descricao": "CTA",
-              "fala": "Qual é a beige flag do seu parceiro que você aprendeu a amar? Me conta — isso pode ser mais importante do que parece."
-            }
-          ],
-          "legenda": "Beige flags estão tomando conta das redes sociais. 🏳️\n\nE como psicóloga, eu precisava falar sobre o que esse fenômeno revela.\n\nA geração atual aprendeu a identificar red flags — e isso é ótimo. Mas tem um efeito colateral: ficamos tão alertas para perigos que começamos a catalogar como problema o que é simplesmente excentricidade humana.\n\nCompatibilidade não é ausência de defeitos. É a capacidade de navegar diferenças com carinho.\n\nQual é a beige flag do seu parceiro que você já aprendeu a adorar? Conta aqui. 💛\n\n#BeigeFlag #RedFlag #Relacionamento #Psicologia #ComportamentoFeminino #Compatibilidade"
-        },
-        "lo-fi": {
-          "ideia": "Conversa leve e direta sobre beige flags — com profundidade sobre compatibilidade vs. perfeição.",
-          "gancho": "Beige flags. Alguém me explica por que a gente está catalogando comportamento humano como se fosse planilha?",
-          "o_que_falar": [
-            "O que é beige flag: novo conceito viral — hábitos estranhos do parceiro que não são nocivos mas te fazem questionar compatibilidade.",
-            "Insight psicológico: hipervigilância relacional — quando o aprendizado sobre relacionamentos tóxicos vira hipercritismo que impede conexão real.",
-            "Conexão com a audiência: 'Existe diferença entre uma red flag real e alguém que tem hábitos esquisitos. Se você está catalogando o parceiro, vale se perguntar: isso é instinto ou é medo disfarçado de critério?'",
-            "CTA: Qual a beige flag do seu parceiro que você já aprendeu a amar? Conta aqui — quero ler."
-          ],
-          "legenda": "Beige flags viralizaram — e eu precisava dar minha perspectiva como psicóloga. 💛\n\nExiste uma linha tênue entre discernimento saudável e hipercritismo que afasta qualquer conexão real.\n\nMe conta: qual é a beige flag do seu parceiro que você já aprendeu a adorar? 👇\n\n#BeigeFlag #Relacionamento #Psicologia #ComportamentoFeminino",
-          "vibe": "Câmera estática ou levemente dinâmica, tom leve e divertido mas com profundidade. Luz natural. Pode sorrir — esse assunto permite leveza."
-        }
-      }
-    },
-    {
-      "id": 9,
-      "titulo": "Sagrado Feminino em alta: por que cada vez mais mulheres estão buscando essa reconexão em 2026",
-      "resumo": "A busca pelo Sagrado Feminino cresceu exponencialmente em 2026, tornando-se uma das maiores tendências espirituais do ano. Para Priscilla, não é coincidência: mulheres em burnout buscam espaços de reconexão com seus próprios ciclos e intuição. O ângulo psicológico é sobre o que a espiritualidade feminina oferece — permissão para ser cíclica, não linear — que o mundo da performance ainda nega.",
-      "pilar": "Estilo de Vida & Espiritualidade",
+      "titulo": "83% das mulheres têm distorção de imagem — e o Instagram é o maior responsável",
+      "resumo": "Pesquisas revelam que 83,1% das mulheres apresentam distorção de imagem corporal, com o Instagram sendo a rede mais usada por 89,5% desse grupo. Sete em cada dez jovens mulheres sentem pressão para estar sempre apresentáveis. Para o público de Priscilla, este dado é espelho da rotina digital. Ângulo psicológico: a comparação crônica nas redes não é vaidade — é um veneno lento para a autoestima que atua abaixo do nível consciente.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "semana",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "post-estatico"
       ],
-      "fonte": "Terra.com.br — Sagrado Feminino e autoconhecimento; Monde Joie de Vivre — Abordagens integrativas saúde emocional feminina 2026",
+      "fonte": "Revista FT / RECIIS Fiocruz — revistaft.com.br, reciis.icict.fiocruz.br",
       "copies": {
         "reels-react": {
-          "ideia_central": "O crescimento do Sagrado Feminino em 2026 não é modismo — é uma resposta coletiva ao esgotamento de mulheres que passaram décadas sendo produtivas no ritmo de um mundo que não foi desenhado para corpos e ciclos femininos.",
-          "gancho": "Por que cada vez mais mulheres estão buscando o Sagrado Feminino em 2026? A resposta vai muito além da espiritualidade.",
+          "ideia_central": "83% das mulheres com distorção de imagem usam Instagram — o problema não é o app, é a comparação crônica que ele alimenta de forma invisível.",
+          "gancho": "83% das mulheres têm alguma distorção de imagem corporal. E a maioria usa Instagram. Isso não é coincidência.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "O Sagrado Feminino é uma das maiores tendências espirituais de 2026. E eu poderia descartar como modismo — mas como psicóloga, eu vejo algo muito mais profundo por trás disso."
+              "fala": "83% das mulheres têm distorção de imagem corporal. E 89% delas estão no Instagram. Isso não é coincidência — é um padrão que a psicologia já mapeou."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Cada vez mais mulheres estão buscando reconexão com seus ciclos, com a lua, com o corpo, com a intuição. Rituais, círculos de mulheres, práticas de slow living. E isso está crescendo justamente no momento em que o burnout feminino bateu recordes, em que a ansiedade está no topo das estatísticas, em que o esgotamento é coletivo."
+              "fala": "Pesquisas mostram que a comparação social com imagens idealizadas nas redes alimenta insatisfação corporal e desejo de magreza. Sete em cada dez mulheres jovens sentem pressão pra estar sempre apresentáveis. Todo. Dia."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "O que o Sagrado Feminino oferece que a agenda convencional não oferece é permissão. Permissão de desacelerar. De ser cíclica — não linear. De reconhecer que nem todo dia precisa ser de alta produção, que o corpo tem fases, que a intuição é válida mesmo sem dados racionais. Isso é uma revolução silenciosa contra um sistema que pediu que a mulher fosse constante, eficiente e ininterrupta."
+              "fala": "O que poucos falam é que vai além da vaidade. Quando você rola o feed e compara seu corpo, sua pele, sua vida com a de outras pessoas, seu cérebro está registrando: 'você é insuficiente.' Essa mensagem, repetida centenas de vezes por dia, muda quem você acredita que é."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já sentiu o chamado para práticas do Sagrado Feminino? Me conta o que te trouxe até isso — quero entender a história de vocês."
+              "fala": "Como você se sente depois de passar um tempo rolando o Instagram? Me conta com honestidade."
             }
           ],
-          "legenda": "O Sagrado Feminino é tendência em 2026. E eu não acho que é coincidência. 🌙\n\nQuando o burnout feminino bate recordes. Quando a ansiedade está no topo das estatísticas entre mulheres. Quando o esgotamento parece coletivo.\n\nO que o Sagrado Feminino oferece não é misticismo vazio — é permissão. Permissão de ser cíclica. De desacelerar. De confiar na intuição. De reconhecer que você não precisa ser constante e ininterrupta o tempo todo.\n\nEssa é uma revolução silenciosa. E faz todo sentido que esteja acontecendo agora. 🌿\n\nVocê sentiu esse chamado? Me conta o que te trouxe até aqui. 👇\n\n#SagradoFeminino #Espiritualidade #AutoconhecimentoFeminino #SlowLiving #Psicologia #ComportamentoFeminino #Burnout"
+          "legenda": "83,1% das mulheres têm alguma distorção de imagem corporal. 📊\n\nE 89,5% delas estão no Instagram.\n\nAinda acha que são números separados?\n\nCada vez que você rola o feed e compara seu corpo, sua pele, sua rotina com a de outras...\n\nSeu cérebro registra, silenciosamente: 'você é insuficiente.'\n\nRepita isso centenas de vezes por dia.\n\nVeja o que acontece com a sua autoestima.\n\nO problema não é a rede social em si. É a comparação CRÔNICA que ela alimenta.\n\n💬 Como você se sente depois de um tempo no Instagram?\n\nFonte: Revistaft / RECIIS Fiocruz\n\n#AutoEstima #ImagemCorporal #Instagram #Psicologia #PriscillaAndrade #MulherReal #SaúdeMental"
         },
         "post-estatico": {
-          "ideia": "Frase impactante conectando o crescimento do Sagrado Feminino ao esgotamento coletivo.",
-          "titulo_visual": "Você não está cansada de fazer.\n\nVocê está cansada de fazer no ritmo de um mundo que não foi feito para você.",
-          "legenda": "O Sagrado Feminino cresce em 2026 — e como psicóloga, eu entendo perfeitamente por quê. 🌙\n\nMulheres que passaram décadas tentando ser produtivas e lineares em um sistema que não respeita seus ciclos estão chegando no limite.\n\nA busca por rituais, por reconexão com o corpo e com os ciclos naturais é uma resposta saudável a um esgotamento real.\n\nVocê sentiu isso também? Me conta aqui. 🌿\n\n#SagradoFeminino #Espiritualidade #Psicologia #BurnoutFeminino #ComportamentoFeminino #SlowLiving",
-          "cta": "Salva esse post para o dia em que você precisar de permissão para desacelerar."
+          "ideia": "Dado de impacto sobre distorção de imagem e Instagram transformado em arte provocativa.",
+          "titulo_visual": "Você não é insuficiente. Você só está se comparando com um filtro.",
+          "legenda": "83% das mulheres têm distorção de imagem corporal. 📊\n\nE a maioria usa Instagram todos os dias.\n\nA comparação crônica não é vaidade — é um veneno lento pra sua autoestima.\n\n💬 Você consegue passar um dia sem comparar seu corpo com o de outra pessoa?\n\nFonte: Revistaft / RECIIS Fiocruz\n\n#AutoEstima #ImagemCorporal #Instagram #Psicologia #PriscillaAndrade #MulherReal",
+          "cta": "Comenta aqui: você já percebeu esse padrão em você?"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "titulo": "Dados de 2026 confirmam: desigualdade salarial persiste — e o impacto psicológico que ninguém fala",
+      "resumo": "Radioagência Nacional e Agência Brasil confirmaram em 2026 que mulheres ainda ganham menos que homens em cargos iguais, têm menos chances de promoção, treinamento e acesso a reuniões importantes. Para o público de Priscilla — mulheres que trabalham duro e ainda sentem que precisam provar mais — o ângulo é o impacto psicológico invisível da desigualdade estrutural: como o ambiente cria síndrome de impostora e corrói a autoconfiança.",
+      "pilar": "Posicionamento & Carreira",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Radioagência Nacional / Agência Brasil — agenciabrasil.ebc.com.br",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "A desigualdade salarial não é só injustiça financeira — ela manda uma mensagem psicológica destrutiva para a mulher todos os dias: 'você vale menos.'",
+          "gancho": "Dados de 2026 confirmam: mulheres ainda ganham menos que homens no mesmo cargo. Mas o problema vai muito além da conta bancária.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Dados de 2026 confirmam: mulheres ainda ganham menos que homens no mesmo cargo. E eu preciso falar sobre o que isso faz com a cabeça da mulher — porque vai muito além do dinheiro."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "Além do salário menor, os dados mostram: menos chances de treinamento, menos promoção, menos acesso a reuniões importantes. O ambiente manda uma mensagem todo dia: 'você importa menos do que o homem ao seu lado.'"
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "Na psicologia chamamos isso de gaslighting estrutural: quando o sistema age como se você valesse menos, e com o tempo você começa a acreditar nisso. Sabe por que tantas mulheres competentes têm síndrome de impostora? Não é fraqueza delas — é o ambiente respondendo de forma consistente que elas não pertencem ali."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Você já subestimou seu próprio trabalho por causa do ambiente ao redor? Me conta."
+            }
+          ],
+          "legenda": "2026 e os dados confirmam: mulheres ainda ganham menos. Têm menos promoção. Menos acesso. Menos voz. 📊\n\nE isso não é só injustiça financeira.\n\nÉ uma mensagem psicológica que o ambiente manda pra você todos os dias:\n\n'Você vale menos.'\n\nCom o tempo, mulheres competentes começam a acreditar nisso.\n\nÉ daí que vem a síndrome de impostora.\nNão é fraqueza sua — é o sistema respondendo de forma consistente que você não pertence.\n\nE quanto mais você acredita nisso, menos você pede, menos você negocia, menos você avança.\n\nVocê não é impostora. Você está num ambiente que te trata como se fosse.\n\n💬 Você já sentiu isso no trabalho?\n\nFonte: Radioagência Nacional / Agência Brasil 2026\n\n#DesigualdadeSalarial #MulherNoMercado #SíndromeDoImpostor #Psicologia #PriscillaAndrade #CarreiraDaMulher"
+        },
+        "carrossel": {
+          "ideia": "Como a desigualdade estrutural cria a síndrome de impostora — e o que fazer com essa consciência.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "Você não é impostora. Você está num ambiente que te trata como se fosse.",
+              "subtitulo": "O impacto psicológico da desigualdade salarial — dados de 2026"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O que os dados de 2026 mostram",
+              "texto": "Mulheres ganham menos no mesmo cargo, têm menos chance de promoção e treinamento, menor acesso a reuniões e recursos. A desigualdade persiste — e é estrutural. (Fonte: Radioagência Nacional / Agência Brasil)"
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "O que isso faz com a sua cabeça",
+              "texto": "Quando o ambiente responde consistentemente que você vale menos, com o tempo você começa a acreditar. Isso gera: síndrome de impostora, hesitação em negociar salário, medo de pedir promoção, sensação de não pertencimento."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "Isso tem nome na psicologia",
+              "texto": "Gaslighting estrutural: o sistema age como se você valesse menos. Não é fraqueza reconhecer que isso afeta você. É lucidez. E nomear o problema já é o primeiro ato de resistência."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "O que muda quando você sabe disso",
+              "texto": "Você não é insuficiente — você está num sistema desigual. E isso muda o que você vai pedir, negociar e exigir a partir de agora. 💪"
+            }
+          ],
+          "legenda": "Dados de 2026 mostram que a desigualdade salarial não acabou. 📊\n\nMas eu quero falar do que essa desigualdade faz com a CABEÇA da mulher.\n\nDesliza até o final 👉\n\n💬 Você já sentiu síndrome de impostora no trabalho?\n\n#DesigualdadeSalarial #CarreiraDaMulher #SíndromeDoImpostor #Psicologia #PriscillaAndrade"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "titulo": "Slow living e Sagrado Feminino dominam 2026 — o que está por baixo dessa tendência",
+      "resumo": "O movimento de slow living e a busca pelo Sagrado Feminino estão dominando o autocuidado feminino em 2026, com crescimento exponencial de buscas por práticas de desaceleração, espiritualidade e reconexão com os próprios ciclos. Para o público de Priscilla, que vive sob pressão de produtividade, este movimento é espelho de esgotamento coletivo. Ângulo psicológico: por que tantas mulheres buscam permissão para descansar sem culpa — e o que isso revela sobre a cultura que as cerceia.",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "urgencia": "semana",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "Estado de Minas / Terra — em.com.br, terra.com.br",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "O movimento slow living e a busca pelo Sagrado Feminino não são apenas trends espirituais — são o sintoma de uma geração de mulheres exaustas que finalmente pediram o freio.",
+          "gancho": "Slow living e Sagrado Feminino estão dominando 2026. E eu vou te dizer o que está REALMENTE por baixo dessas tendências.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "Slow living e Sagrado Feminino são as tendências que estão dominando 2026. E antes de você achar que é só mais uma moda espiritual, eu vou te dizer o que isso realmente significa."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "Cada vez mais mulheres estão abandonando a cultura da produtividade tóxica, buscando desacelerar, se reconectar com seus ciclos, com o descanso, com a espiritualidade. Os dados mostram crescimento exponencial dessas buscas em 2026."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "Mas sabe o que está por baixo de tudo isso? Esgotamento. A mulher que busca o Sagrado Feminino muitas vezes não está buscando espiritualidade — ela está buscando permissão. Permissão para descansar sem culpa. Para existir sem produzir. Para ser sem ter que provar."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "O que você está buscando nessas práticas? Descanso, espiritualidade ou permissão para simplesmente ser? Me conta."
+            }
+          ],
+          "legenda": "Slow living 🌿 Sagrado Feminino ✨ Tempo offline 📵\n\nSão as tendências que dominam 2026.\n\nMas como psicóloga, eu não vejo só uma trend de autocuidado.\n\nEu vejo o sintoma de uma geração de mulheres profundamente exaustas.\n\nQuando tantas mulheres buscam 'desacelerar' ao mesmo tempo...\nÉ porque algo as acelerou demais por tempo demais.\n\nA busca pelo Sagrado Feminino muitas vezes não é sobre espiritualidade.\n\nÉ sobre PERMISSÃO.\n\nPermissão para descansar sem culpa.\nPara existir sem produzir.\nPara ser — sem ter que provar.\n\n💬 O que você busca quando procura essas práticas?\n\n#SlowLiving #SagradoFeminino #Autocuidado #Psicologia #PriscillaAndrade #EsgotamentoFeminino #Espiritualidade"
+        },
+        "lo-fi": {
+          "ideia": "Reflexão íntima sobre slow living — o que está por baixo da tendência e o que ela revela sobre o esgotamento feminino.",
+          "gancho": "Você também está buscando slow living ou Sagrado Feminino? Antes de continuar, preciso te fazer uma pergunta.",
+          "o_que_falar": [
+            "Contextualiza a tendência: slow living e Sagrado Feminino estão em alta em 2026 — o que são, brevemente.",
+            "Insight psicológico: essa busca muitas vezes não é espiritual — é sobre permissão para existir sem produzir. E isso diz tudo sobre o nível de esgotamento coletivo.",
+            "Conexão com a vida das seguidoras: quando foi a última vez que você descansou sem culpa? Sem tela, sem lista, sem produzir nada?",
+            "CTA: 'Se você se identificou, esse vídeo foi pra você. Comenta aqui o que você está precisando de permissão para fazer.'"
+          ],
+          "legenda": "Slow living não é modinha. É um pedido de socorro coletivo. 🌿\n\nE se você se viu nessa tendência, esse vídeo é pra você.\n\n#SlowLiving #SagradoFeminino #Psicologia #PriscillaAndrade #EstiloDeVida",
+          "vibe": "Câmera estática, luz natural suave, tom íntimo e contemplativo — como uma conversa de tarde de domingo, sem edição"
         }
       }
     },
     {
       "id": 10,
-      "titulo": "TJ-SP decide: traição pode gerar indenização — o que a lei diz e o que a psicologia enxerga nisso",
-      "resumo": "O Tribunal de Justiça de São Paulo decidiu que a traição não gera dano moral indenizável automaticamente, mas que prejuízos patrimoniais concretos causados pela traição devem ser ressarcidos. A decisão gerou debate intenso. Para Priscilla, o ângulo é psicológico: vivemos num sistema que valida apenas o que é mensurável — e isso comunica às mulheres que a dor emocional não é séria o suficiente para ser levada a sério.",
-      "pilar": "Posicionamento & Carreira",
-      "urgencia": "evergreen",
+      "titulo": "Ivi Pizzott e Luis Navarro: o luto que ninguém fala quando um relacionamento de 10 anos acaba",
+      "resumo": "Ivi Pizzott e Luis Navarro anunciaram o fim do casamento após 10 anos juntos e dois filhos, Kali (7) e Zuri (3). Para o público de Priscilla — mulheres em relacionamentos longos ou que já passaram por recomeços difíceis — este caso é gatilho poderoso. Ângulo psicológico: o fim de um relacionamento longo exige um luto identitário — não apenas sobre a outra pessoa, mas sobre a versão de si mesma que existia dentro daquela relação.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "carrossel"
+        "lo-fi"
       ],
-      "fonte": "Jusbrasil — Infidelidade Conjugal e Responsabilidade Civil; Migalhas — Processo por traição",
+      "fonte": "Estrelando — estrelando.com.br",
       "copies": {
         "reels-react": {
-          "ideia_central": "A decisão do TJ-SP revela uma ferida social: a sociedade valida a dor que tem nota fiscal — e continua tratando a devastação emocional da traição como problema privado.",
-          "gancho": "O TJ-SP decidiu que traição pode gerar indenização. E isso abriu uma questão muito mais profunda do que parece.",
+          "ideia_central": "O fim do casamento de Ivi Pizzott após 10 anos convida a falar sobre o luto mais ignorado: o de quem você foi dentro daquele relacionamento.",
+          "gancho": "Ivi Pizzott e Luis Navarro terminaram depois de 10 anos. E eu quero falar sobre o tipo de dor que ninguém menciona quando isso acontece.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "O Tribunal de Justiça de SP decidiu que a traição não gera dano moral automaticamente — mas pode gerar indenização por prejuízos materiais. A internet entrou em colapso. Mas o que me interessa como psicóloga está além do jurídico."
+              "fala": "Ivi Pizzott e Luis Navarro terminaram o casamento de 10 anos. E eu quero falar sobre o tipo de dor que ninguém menciona quando um relacionamento longo chega ao fim."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A decisão diz: se você cancelou um salão, um buffet, uma viagem de lua de mel por causa de uma traição, você pode ser ressarcida pelos gastos. Mas a dor emocional? A devastação da confiança? A crise de identidade que a traição provoca? Isso não é indenizável. E é aí que eu quero entrar."
+              "fala": "Todo mundo foca em 'superar a pessoa'. Mas quando um relacionamento dura 10 anos — dois filhos, uma casa construída, metade de uma vida adulta — a questão não é só ele. É: quem você foi durante esses 10 anos?"
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Vivemos em uma sociedade que valida o que é mensurável. Se tem nota fiscal, tem ressarcimento. Mas o que a traição faz com a capacidade de uma mulher de confiar — em si mesma, no parceiro, no amor — não cabe em nenhuma planilha. E quando o sistema só reconhece o dano financeiro, ele comunica implicitamente: a dor emocional não é séria o suficiente para ser levada a tribunal. Isso tem impacto real em como as mulheres validam ou invalidam seu próprio sofrimento."
+              "fala": "Na psicologia chamamos isso de luto identitário. Você não está de luto só pela relação — está de luto pela mulher que você era nela. E é por isso que a dor de um relacionamento longo é tão diferente. Você precisa reaprender não só a viver sem ele — mas a descobrir quem você é quando não está sendo 'a esposa de'."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "O que você acha: a dor emocional da traição deveria ser reconhecida legalmente? Me conta nos comentários."
+              "fala": "Se você já passou por isso ou está passando — me conta como foi se reencontrar. Você não está sozinha."
             }
           ],
-          "legenda": "O TJ-SP decidiu sobre traição e indenização — e a internet explodiu. 💥\n\nMas como psicóloga, o que me interessa não é o debate jurídico.\n\nÉ o fato de que vivemos em uma sociedade que valida o que é mensurável. Nota fiscal tem ressarcimento. A devastação emocional que a traição causa na confiança, na identidade, na capacidade de amar — não cabe em nenhum tribunal.\n\nE quando o sistema comunica isso, ele reforça uma ideia perigosa: que o sofrimento emocional não é sério o suficiente para ser levado a sério.\n\nO que você acha? A dor emocional da traição deveria ter reconhecimento legal? 💬 Me conta aqui.\n\n#Traicao #Direito #Psicologia #SaudeMental #ComportamentoFeminino #Relacionamento #TJSP"
+          "legenda": "Ivi Pizzott e Luis Navarro terminaram depois de 10 anos juntos, dois filhos e uma vida construída. 💔\n\nE a internet foi nos comentários falar da separação.\n\nMas eu quero falar de algo que ninguém está mencionando:\n\nO LUTO IDENTITÁRIO.\n\nDepois de 10 anos, a pergunta não é só 'como supero ele?'\n\nÉ: 'Quem sou eu quando não sou mais esposa de ninguém?'\nÉ: 'Que versão de mim existia dentro desse relacionamento e que agora precisa ser reinventada?'\n\nEsse luto é real. É profundo. E é muito ignorado.\n\n💬 Você já passou por um término longo? Como foi se reencontrar?\n\n#IviPizzott #LuisNavarro #Separação #Psicologia #PriscillaAndrade #LutoRelacional #RecomeçoFeminino"
         },
-        "carrossel": {
-          "ideia": "O que a decisão do TJ-SP revela sobre como a sociedade trata a dor emocional feminina.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "TJ-SP: traição pode gerar indenização.",
-              "subtitulo": "Mas o que isso diz sobre como tratamos a dor das mulheres?"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O que foi decidido",
-              "texto": "O TJ-SP decidiu que a traição não gera dano moral indenizável automaticamente — mas que prejuízos financeiros concretos (contratos cancelados para a cerimônia, por exemplo) devem ser ressarcidos. A decisão virou debate nacional."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "O que isso revela sobre nossa sociedade",
-              "texto": "Vivemos em um sistema que valida o que é mensurável. Nota fiscal: indenizável. Crise de identidade pós-traição: não indenizável. Devastação da capacidade de confiar: sem ressarcimento. Isso não é só uma questão legal — é um reflexo de como a dor emocional feminina ainda é tratada como problema privado."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O impacto psicológico dessa mensagem",
-              "texto": "Quando a sociedade só reconhece o dano que tem comprovante, ela comunica às mulheres: 'sua dor não é real o suficiente para ser levada a sério.' E isso reforça o padrão de invalidação emocional que muitas mulheres já viveram dentro do próprio relacionamento durante a traição."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "Sua dor é real. Mesmo sem nota fiscal.",
-              "texto": "O que você acha: a dor emocional da traição deveria ter reconhecimento legal? Salva esse carrossel e entra nesse debate nos comentários."
-            }
+        "lo-fi": {
+          "ideia": "Conversa íntima sobre o luto identitário após o fim de relacionamentos longos — usando Ivi Pizzott como ponto de entrada.",
+          "gancho": "Ivi Pizzott terminou um casamento de 10 anos. E isso me fez querer te contar sobre um tipo de dor que pouquíssimas pessoas entendem.",
+          "o_que_falar": [
+            "Contextualiza: Ivi e Luis Navarro, 10 anos, dois filhos — um casamento que parecia sólido chegou ao fim. Sem detalhes, só o fato.",
+            "Insight psicológico: o luto de relacionamentos longos não é só sobre superar a pessoa — é o luto identitário. Quem você era dentro daquela relação? Que versão sua precisa ser relutada?",
+            "Conexão: perguntar às seguidoras se alguém falou com elas sobre isso quando passaram por um término longo — ou se ficaram sozinhas nesse processo.",
+            "CTA: 'Se você está passando por isso ou já passou — comenta aqui. Você não está sozinha nessa.'"
           ],
-          "legenda": "TJ-SP e traição geraram debate nacional. Mas o que me importa como psicóloga é o que essa decisão diz sobre como tratamos a dor emocional das mulheres. 💙\n\nArrasta pro lado — esse é um carrossel que vale ler com atenção. ➡️\n\n#TJSP #Traicao #Psicologia #DireitoFamiliar #SaudeMental #ComportamentoFeminino"
+          "legenda": "O luto de um relacionamento longo é diferente. E eu vou te contar por quê. 💛\n\nO caso de Ivi Pizzott acendeu esse tema pra mim hoje.\n\n#IviPizzott #Separação #LutoRelacional #Psicologia #PriscillaAndrade #RecomeçoFeminino",
+          "vibe": "Câmera estática, luz natural, tom acolhedor e empático — sem maquiagem pesada, roupa casual, olho no olho com a câmera"
         }
       }
     }
