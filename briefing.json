@@ -1,0 +1,615 @@
+{
+  "versao": "2026-07-01",
+  "gerado_em": "2026-07-01T06:00:00Z",
+  "contexto_do_dia": "Semana marcada por separacoes de peso: Katy Perry e Orlando Bloom confirmaram o fim apos 9 anos de relacionamento, e no Brasil Alinne Moraes e Mauro Lima anunciaram separacao apos 14 anos de casamento. A Pesquisa Nacional de Saude Mental 2026 (PNSM) revelou dado alarmante: 34,2% das mulheres brasileiras tem diagnostico de ansiedade e elas representam 64% dos afastamentos por saude mental. Nas redes, 'Mulher Empoderada' viralizou no TikTok brasileiro e o conceito de 'beige flags' dominou os debates sobre relacionamentos.",
+  "items": [
+    {
+      "id": 1,
+      "titulo": "Katy Perry e Orlando Bloom terminaram: o que 9 anos revelam sobre amor por inercia",
+      "resumo": "Em junho de 2026, Katy Perry e Orlando Bloom colocaram ponto final em 9 anos de relacionamento, surpreendendo fas que viam o casal como exemplo de estabilidade. Para Priscilla, o caso abre espaco para discutir o fenomeno da 'inercia relacional': quando continuamos em uma relacao mais por costume do que por escolha consciente. E o tipo de relacionamento que parece funcionar de fora, mas por dentro ja perdeu a essencia.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Estrelando.com.br / Terra.com.br - Separacoes famosos 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Usar a separacao de Katy Perry e Orlando Bloom para falar sobre inercia relacional: relacionamentos que se sustentam pelo tempo, nao pelo amor.",
+          "gancho": "Katy Perry e Orlando Bloom terminaram depois de 9 anos. E o que me chamou atencao nao foi o fim — foi o que ele revela.",
+          "roteiro": [
+            {
+              "tempo": "0-3s",
+              "descricao": "Abertura",
+              "fala": "Katy Perry e Orlando Bloom terminaram depois de 9 anos. Todo mundo ficou surpreso. Mas como psicologa, eu nao fiquei."
+            },
+            {
+              "tempo": "3-15s",
+              "descricao": "Contexto",
+              "fala": "Eles eram aquele casal que parecia estavel, bonito, funcional. Mas tem algo que eu vejo muito nos consultorios: relacionamentos que duram nao porque sao bons, mas porque se tornaram comodoos demais para terminar. A gente chama isso de inercia relacional."
+            },
+            {
+              "tempo": "15-25s",
+              "descricao": "Virada psicologica",
+              "fala": "A inercia relacional e quando voce nao sai do relacionamento por amor — voce fica por medo da mudanca, por comodidade, ou porque construiu uma vida em torno daquela pessoa. E diferente de escolher ficar. E deixar o tempo decidir por voce. E no final, o tempo decide com uma separacao."
+            },
+            {
+              "tempo": "25-30s",
+              "descricao": "CTA",
+              "fala": "Voce esta em um relacionamento por escolha ou por inercia? Me conta nos comentarios — e salva esse video pra quem precisa ouvir isso."
+            }
+          ],
+          "legenda": "Katy Perry e Orlando Bloom terminaram depois de 9 anos juntos. E enquanto o mundo falava sobre o fim, eu fiquei pensando no que sustentou esses 9 anos.\n\nTem um conceito em psicologia chamado inercia relacional — quando voce nao sai de um relacionamento porque ele e bom, mas porque ele ja faz parte da sua estrutura de vida.\n\nVoce construiu uma rotina, dividiu amigos, talvez um lar. E ai fica aquela pergunta silenciosa: 'E se eu sair, o que sobra de mim?'\n\nEsse medo nao e fraqueza. E humano. Mas precisa ser reconhecido como o que e: um motivo para ficar que nao e amor.\n\nVoce ja se sentiu presa em um relacionamento que ja tinha prazo de validade? Comenta aqui.\n\n#KatyPerry #OrlandoBloom #Relacionamento #PsicologiaFeminina #InerciaRelacional #Amor #Psicologia #MulherEmpoderada #PriscillaAndrade #Autoconhecimento"
+        },
+        "carrossel": {
+          "ideia": "5 sinais de que voce esta em um relacionamento por inercia, usando o caso Katy Perry e Orlando Bloom como ponto de partida.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "Katy Perry e Orlando Bloom terminaram.",
+              "subtitulo": "Voce esta em um relacionamento por amor ou por inercia?"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualizacao",
+              "titulo": "O que aconteceu",
+              "texto": "Depois de 9 anos juntos, Katy Perry e Orlando Bloom anunciaram o fim do relacionamento em junho de 2026. Um casal que parecia estavel, maduro — e que surpreendeu o mundo com a separacao."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "O que isso revela",
+              "texto": "Relacionamentos longos nem sempre sao relacionamentos saudaveis. Quando o tempo se torna o principal motivo para continuar, temos o que a psicologia chama de inercia relacional: voce fica nao por escolha ativa, mas por medo de mudar tudo que construiu."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "5 sinais da inercia relacional",
+              "texto": "1. Voce nao consegue imaginar a vida sem ele, mas tambem nao sente alegria com ele.\n2. Fica mais por culpa do que por amor.\n3. A rotina substituiu a conexao.\n4. Voce pensa em sair, mas sempre adia.\n5. Voce torce para que algo externo resolva por voce."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "E voce?",
+              "texto": "Se algum desses sinais fez sentido pra voce, talvez valha a pena conversar com alguem de confianca — ou com uma psicologa. Voce merece relacionamentos que sao escolhas, nao habitos."
+            }
+          ],
+          "legenda": "Katy Perry e Orlando Bloom terminaram depois de 9 anos. E esse caso me fez pensar em algo muito real.\n\nQuantas de nos continuamos em relacionamentos nao por amor — mas por medo de tudo que vai mudar se sairmos?\n\nDeslize para ver os 5 sinais de que voce pode estar em um relacionamento por inercia.\n\nQual sinal voce se identificou? Me conta nos comentarios.\n\n#Relacionamento #PsicologiaFeminina #InerciaRelacional #KatyPerry #MulherEmpoderada #PriscillaAndrade #Casamento #Autoconhecimento"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Alinne Moraes e Mauro Lima: 14 anos, separacao amigavel — terminar bem e uma habilidade emocional",
+      "resumo": "Alinne Moraes e o cineasta Mauro Lima anunciaram a separacao apos 14 anos juntos, mantendo a amizade e o respeito mutuo. Para Priscilla, esse caso raro ilustra o conceito de 'termino saudavel': uma habilidade emocional que poucos desenvolvem e que exige maturidade afetiva para reconhecer quando um ciclo se encerrou sem transformar tudo em guerra.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "Estrelando.com.br / Colunista Ancelmo Gois, O Globo - junho 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Usar a separacao respeitosa de Alinne Moraes e Mauro Lima para mostrar que terminar bem e uma forma de amor e maturidade emocional.",
+          "gancho": "Alinne Moraes e Mauro Lima se separaram depois de 14 anos. E continuam amigos. Isso e raro. E tem um nome em psicologia.",
+          "roteiro": [
+            {
+              "tempo": "0-3s",
+              "descricao": "Abertura",
+              "fala": "Alinne Moraes e Mauro Lima terminaram depois de 14 anos de casamento. E a noticia que chamou atencao nao foi a separacao — foi como eles separaram."
+            },
+            {
+              "tempo": "3-15s",
+              "descricao": "Contexto",
+              "fala": "Eles anunciaram o fim mantendo respeito, amizade e maturidade. Sem drama publico, sem acusacoes, sem guerra. Isso e tao raro que virou noticia — e diz muito sobre o nosso padrao de como a gente termina relacionamentos."
+            },
+            {
+              "tempo": "15-25s",
+              "descricao": "Virada psicologica",
+              "fala": "Em psicologia, isso se chama termino com integridade. E quando duas pessoas reconhecem que o ciclo se encerrou — mas que o amor que existiu nao precisa se transformar em odio. A maioria das pessoas nunca aprendeu que e possivel honrar o que foi sem destruir o que acabou. Isso nao e fraqueza: e a forma mais elevada de maturidade emocional."
+            },
+            {
+              "tempo": "25-30s",
+              "descricao": "CTA",
+              "fala": "Voce acredita que e possivel terminar um relacionamento e manter respeito? Me conta a sua experiencia nos comentarios."
+            }
+          ],
+          "legenda": "Alinne Moraes e Mauro Lima anunciaram a separacao depois de 14 anos juntos. E o mundo ficou olhando, esperando o drama. Que nao veio.\n\nEles seguem como amigos, com respeito, com maturidade.\n\nE isso me fez pensar: por que a gente acha tao dificil terminar sem destruir?\n\nExiste um conceito em psicologia chamado termino com integridade — quando voce honra o que viveu sem transformar o outro em inimigo.\n\nNao e sobre fingir que tudo bem. E sobre reconhecer que o ciclo terminou e que o amor que existiu merece ser guardado com cuidado, nao com rancor.\n\nVoce ja conseguiu terminar um relacionamento e manter respeito? Como foi?\n\n#AlinneMoreas #MauroLima #Separacao #TerminoSaudavel #MaturidadeEmocional #Psicologia #PriscillaAndrade #Relacionamento #PsicologiaFeminina #Autoconhecimento"
+        },
+        "lo-fi": {
+          "ideia": "Reflexao intima e casual sobre a coragem de terminar sem destruir — usando o caso de Alinne Moraes como ponto de partida.",
+          "gancho": "Alinne Moraes e Mauro Lima terminaram depois de 14 anos. E ainda sao amigos. Fica sentada que eu preciso falar sobre isso.",
+          "o_que_falar": [
+            "Contextualizar o caso: separacao publica de Alinne e Mauro Lima, 14 anos, sem drama",
+            "Refletir sobre por que isso e raro: a maioria das separacoes vira guerra porque nao sabemos terminar com integridade",
+            "Insight psicologico: o termino saudavel nao e sobre fingir — e sobre reconhecer que o ciclo fechou sem precisar destruir o outro",
+            "CTA pessoal: 'Voce ja teve um termino assim? Ou voce merecia ter tido? Me conta.'"
+          ],
+          "legenda": "Alinne Moraes e Mauro Lima terminaram depois de 14 anos e continuam amigos.\n\nE eu fiquei aqui pensando: por que a gente acha tao impossivel isso?\n\nTerminar bem e uma habilidade emocional. E quase ninguem nos ensinou.\n\nVoce acredita que e possivel terminar sem destruir?\n\n#Separacao #TerminoSaudavel #AlinneMoreas #PsicologiaFeminina #MaturidadeEmocional #PriscillaAndrade #Relacionamento #Autoconhecimento",
+          "vibe": "Camera estatica, ambiente iluminado e aconchegante com luz natural, tom intimo e reflexivo, como se estivesse conversando com uma amiga proxima"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "PNSM 2026: 18 milhoes de brasileiros com ansiedade — e as mulheres sao maioria",
+      "resumo": "A Pesquisa Nacional de Saude Mental (PNSM 2026) revelou dados alarmantes: o Brasil lidera o ranking mundial de ansiedade com 9,3% da populacao afetada — 18 milhoes de pessoas — e as mulheres representam 64% dos afastamentos por saude mental. Para Priscilla, esses numeros precisam ser ditos em voz alta porque normalizar o sofrimento silencioso feminino e uma das formas mais sutis de violencia emocional que a sociedade comete.",
+      "pilar": "Autoimagem & Identidade",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "CNN Brasil / Ministerio da Saude - PNSM 2026 / Fenajufe",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Reagir aos dados da PNSM 2026 para desnormalizar o sofrimento feminino e mostrar que ansiedade cronica nao e 'jeito de ser' — e um sinal que precisa de atencao.",
+          "gancho": "Saiu a Pesquisa Nacional de Saude Mental 2026. 18 milhoes de brasileiros com ansiedade. E 64% dos afastamentos sao de mulheres. Precisamos falar sobre isso.",
+          "roteiro": [
+            {
+              "tempo": "0-3s",
+              "descricao": "Abertura",
+              "fala": "O governo lancou a Pesquisa Nacional de Saude Mental 2026. E um dado me travou: 18 milhoes de brasileiros com ansiedade. E as mulheres — somos maioria."
+            },
+            {
+              "tempo": "3-15s",
+              "descricao": "Contexto",
+              "fala": "64% dos afastamentos por saude mental no trabalho sao de mulheres. 34,2% das mulheres tem diagnostico de ansiedade. E enquanto os homens aparecem mais nas estatisticas de substancias, as mulheres aparecem mais nas de esgotamento, ansiedade e depressao. E sabe o que me preocupa? Que a gente foi ensinada a achar que isso e normal."
+            },
+            {
+              "tempo": "15-25s",
+              "descricao": "Virada psicologica",
+              "fala": "Existe um conceito chamado sofrimento normalizado. E quando a ansiedade, o cansaco constante, o estresse cronico se tornam tao comuns na vida de uma mulher que ela para de reconhecer como sintoma e comeca a tratar como personalidade. 'Sou ansiosa.' 'Sou exagerada.' 'Sou sensivel demais.' Nao. Voce esta sofrendo. E isso tem solucao."
+            },
+            {
+              "tempo": "25-30s",
+              "descricao": "CTA",
+              "fala": "Se voce se reconheceu aqui, comenta 'EU' embaixo. Voce nao esta sozinha. E no proximo video eu vou falar sobre por que as mulheres adoecem mais."
+            }
+          ],
+          "legenda": "O Ministerio da Saude divulgou a Pesquisa Nacional de Saude Mental 2026.\n\nOs numeros me pararam.\n\n18 milhoes de brasileiros com ansiedade\nBrasil lider mundial em transtornos de ansiedade\n64% dos afastamentos por saude mental sao de mulheres\n34,2% das mulheres tem diagnostico de ansiedade\n\nE enquanto eu olhava pra esses dados, uma coisa ficou clara: a gente foi ensinada a normalizar o proprio sofrimento.\n\n'Sou ansiosa mesmo.' 'Sou dramatica.' 'E jeito de ser.'\n\nNao e jeito de ser. E um pedido de socorro que a gente aprende a ignorar.\n\nComenta 'EU' se voce ja se sentiu assim.\n\n#SaudeMental #Ansiedade #PNSM2026 #MulheresSaude #PsicologiaFeminina #PriscillaAndrade #Autocuidado #SofrimentoNormalizado #SaudeMentalFeminina"
+        },
+        "post-estatico": {
+          "ideia": "Transformar o dado mais impactante da PNSM 2026 em arte visual poderosa para gerar identificacao e salvamentos.",
+          "titulo_visual": "34,2% das mulheres brasileiras vivem com ansiedade. Voce pode ser uma delas. Isso nao e fraqueza — e um sinal.",
+          "legenda": "A Pesquisa Nacional de Saude Mental 2026 revelou: 34,2% das mulheres brasileiras tem diagnostico de ansiedade.\n\nEsse numero nao e so uma estatistica. E a sua amiga, sua mae, voce.\n\nE o maior problema? A maioria das mulheres que vivem com ansiedade aprendeu a chamar isso de 'jeito de ser'.\n\nAnsiedade nao e personalidade. Sofrimento nao e virtude.\n\nSalva esse post e manda pra uma mulher que precisa ouvir isso.\n\n#SaudeMental #Ansiedade #PNSM2026 #PsicologiaFeminina #PriscillaAndrade #MulheresDoBrasil #Autocuidado",
+          "cta": "Salva e manda pra uma amiga que precisa ouvir isso."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "'Mulher Empoderada' viraliza no TikTok — mas tem um empoderamento que esta te esgotando",
+      "resumo": "A musica 'Mulher Empoderada' viralizou no TikTok brasileiro em junho de 2026, gerando uma onda de conteudo celebrando forca e independencia feminina. Priscilla quer trazer um contraponto necessario: existe uma diferenca entre empoderamento real — que gera paz, clareza e resultados — e empoderamento performatico — que gera burnout, competicao e uma armadura que esconde a vulnerabilidade.",
+      "pilar": "Posicionamento & Carreira",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "TikTok Brasil - Trend 'Mulher Empoderada' junho 2026 / Meio & Mensagem - comportamento feminino 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Reagir a trend 'Mulher Empoderada' no TikTok para distinguir empoderamento real de empoderamento performatico que gera esgotamento.",
+          "gancho": "'Mulher Empoderada' esta em todo o TikTok essa semana. E eu quero falar sobre o tipo de empoderamento que esta te esgotando sem voce perceber.",
+          "roteiro": [
+            {
+              "tempo": "0-3s",
+              "descricao": "Abertura",
+              "fala": "A musica 'Mulher Empoderada' esta viral no TikTok agora. E eu adoro ver mulheres se sentindo poderosas — mas preciso te falar sobre um perigo que vem embrulhado em empoderamento."
+            },
+            {
+              "tempo": "3-15s",
+              "descricao": "Contexto",
+              "fala": "Nos ultimos anos, surgiu uma versao de 'mulher forte' nas redes sociais que precisa: trabalhar mais que todo mundo, nao demonstrar fraqueza, nunca precisar de ninguem, estar sempre produtiva e no controle. Na superfcie parece empoderamento. Mas por dentro? E uma armadura que esconde o esgotamento."
+            },
+            {
+              "tempo": "15-25s",
+              "descricao": "Virada psicologica",
+              "fala": "Eu chamo isso de empoderamento performatico. E quando voce internalizou a crenca de que ser forte significa nunca estar vulneravel. Que precisar de ajuda e fraqueza. Que descansar e perda de tempo. Isso nao e empoderamento — e so uma versao nova de autoexigencia. O verdadeiro empoderamento te permite ser forte E vulneravel. Produtiva E em descanso. Independente E conectada."
+            },
+            {
+              "tempo": "25-30s",
+              "descricao": "CTA",
+              "fala": "Voce se reconhece no empoderamento performatico? Comenta aqui. Vou falar mais sobre isso essa semana."
+            }
+          ],
+          "legenda": "'Mulher Empoderada' esta viral no TikTok. E eu precisei reagir.\n\nPorque tem um tipo de empoderamento que parece forca, mas por dentro esta te destruindo.\n\nE o empoderamento que diz:\nNunca demonstre fraqueza\nNunca precise de ninguem\nProduza sempre, descanse nunca\nSeja independente acima de tudo\n\nIsso nao e empoderamento. E esgotamento com estetica de forca.\n\nO verdadeiro empoderamento te permite ser complexa: forte E vulneravel. Ambiciosa E descansando. Independente E pedindo ajuda.\n\nVoce ja confundiu exigencia com empoderamento? Me conta.\n\n#MulherEmpoderada #TikTokTrend #Empoderamento #PsicologiaFeminina #PriscillaAndrade #Burnout #MulherForte #Autoconhecimento #EmpoderadaNaoEsgotada"
+        },
+        "carrossel": {
+          "ideia": "Diferenciar empoderamento real de empoderamento performatico, usando a trend viral como gancho.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "'Mulher Empoderada' esta viral. Mas tem um empoderamento que esta te esgotando.",
+              "subtitulo": "Deslize para entender a diferenca."
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualizacao",
+              "titulo": "O que esta em alta",
+              "texto": "A musica 'Mulher Empoderada' viralizou no TikTok Brasil em junho de 2026. Uma onda de conteudo celebrando forca, independencia e autoconfianca feminina. E isso e lindo — quando e real."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "O empoderamento performatico",
+              "texto": "Existe uma versao de 'mulher forte' que exige: nunca ser vulneravel, nunca descansar, nunca precisar de ninguem. Isso nao vem de dentro — vem da pressao de parecer forte para as redes sociais. E por dentro, esgota."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "O empoderamento real",
+              "texto": "Empoderamento real te permite ser contraditoria: forte hoje, vulneravel amanha. Produtiva e em pausa. Independente e pedindo ajuda. Nao e sobre parecer poderosa — e sobre ser inteira."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "Qual tipo e o seu?",
+              "texto": "Se voce ja sentiu que 'ser forte' estava te esgotando, isso e um sinal. Salva esse carrossel e me conta: voce ja viveu o empoderamento performatico?"
+            }
+          ],
+          "legenda": "A trend 'Mulher Empoderada' esta por todo o TikTok. E eu precisava reagir com cuidado.\n\nPorque existe um tipo de empoderamento que parece forca mas e esgotamento disfarcado.\n\nDeslize para entender a diferenca — e descobrir qual tipo voce esta vivendo.\n\nComenta: voce ja confundiu exigencia com empoderamento?\n\n#MulherEmpoderada #EmpoderadaSemEsgotamento #PsicologiaFeminina #PriscillaAndrade #TikTokTrend #Autoconhecimento #MulherForte #Burnout"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "O TikTok inventou as 'beige flags' — e como psicologa, preciso te alertar",
+      "resumo": "Em 2026, o conceito de 'beige flags' viralizou nas redes: comportamentos estranhos ou irritantes de um parceiro que nao chegam a ser red flags. Enquanto o mundo acha fofo, Priscilla quer trazer o contraponto psicologico: a banalizacao dos sinais de alerta esta treinando as mulheres a ignorarem o proprio senso critico emocional, normalizando dinamicas que mereceriam atencao real dentro do relacionamento.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "BonsFluidos.com.br / TikTok trend 'beige flags' 2026 / Metropoles",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Reagir a trend das beige flags para alertar sobre o risco de banalizar sinais de alerta em relacionamentos e desconectar da propria intuicao.",
+          "gancho": "O TikTok inventou as 'beige flags'. E como psicologa, eu preciso te dizer o que ninguem esta falando sobre isso.",
+          "roteiro": [
+            {
+              "tempo": "0-3s",
+              "descricao": "Abertura",
+              "fala": "Beige flags. O novo conceito viral do TikTok pra descrever comportamentos do parceiro que sao estranhos mas 'nao sao um problema real'. E eu preciso te falar algo que o TikTok nao esta dizendo."
+            },
+            {
+              "tempo": "3-15s",
+              "descricao": "Contexto",
+              "fala": "A trend surgiu como uma forma de trazer leveza pro assunto de red flags — que ficou pesado demais nas redes. A beige flag e a 'mania irritante que da pra tolerar'. Ta. Mas o que acontece quando a gente comeca a chamar de 'beige' coisas que na verdade sao amarelas puxando pro vermelho?"
+            },
+            {
+              "tempo": "15-25s",
+              "descricao": "Virada psicologica",
+              "fala": "O problema nao e o conceito em si. E que as redes sociais nos treinaram a classificar comportamentos de um parceiro antes de sentir como aquilo nos afeta. A gente pergunta 'isso e red flag?' antes de perguntar 'como isso me faz sentir?'. E quando a resposta e 'e so uma beige flag', a gente para de prestar atencao na propria intuicao. E essa e a maior red flag de todas."
+            },
+            {
+              "tempo": "25-30s",
+              "descricao": "CTA",
+              "fala": "Antes de classificar um comportamento, se pergunte: como isso me faz sentir? Salva esse video e me conta: voce ja chamou de 'beige' algo que te incomodava de verdade?"
+            }
+          ],
+          "legenda": "Beige flags. O novo trend do TikTok.\n\nE eu nao vim aqui pra estragar a diversao — vim pra te fazer uma pergunta que o TikTok nao faz.\n\nQuando a gente aprende a classificar comportamentos de um parceiro antes de sentir como eles nos afetam, a gente perde o contato com a propria intuicao.\n\nA beige flag pode ser legitima — uma mania estranha que faz parte de quem ele e.\n\nMas ela tambem pode ser uma maneira de minimizar algo que, la no fundo, voce sabe que importa.\n\nA pergunta certa nao e 'isso e red flag ou beige flag?'\nA pergunta certa e: como isso me faz sentir?\n\nO seu corpo ja sabe a resposta.\n\nVoce ja chamou de 'beige' algo que te incomodava de verdade?\n\n#BeigeFlag #RedFlag #Relacionamento #TikTokTrend #PsicologiaFeminina #PriscillaAndrade #Intuicao #Autoconhecimento #RelacionamentoSaudavel"
+        },
+        "lo-fi": {
+          "ideia": "Reflexao informal sobre como as redes sociais nos ensinaram a classificar relacionamentos em vez de senti-los.",
+          "gancho": "Beige flags. Voce viu? O TikTok resolveu o problema das red flags. Senta aqui que eu preciso te contar o que esta acontecendo.",
+          "o_que_falar": [
+            "Contextualizar: o que sao beige flags, como viralizou no TikTok como uma resposta mais leve ao excesso de red flags",
+            "O ponto preocupante: quando a internet nos ensina a categorizar comportamentos antes de sentir como eles nos afetam",
+            "Insight: a intuicao feminina e um instrumento de protecao que as redes sociais estao desativando ao nos fazer depender de categorias externas",
+            "CTA: 'Antes de classificar, pergunte: como isso me faz sentir? Comenta aqui se voce ja ignorou o proprio instinto por um conceito de internet.'"
+          ],
+          "legenda": "O TikTok inventou as beige flags. E eu fiquei pensando...\n\nA internet nos ensinou a categorizar as coisas antes de sentir.\n\nE quando voce depende de uma categoria pra saber se algo importa — voce desconectou do seu proprio instinto.\n\nVoce ja ignorou o que sentia porque a internet te disse que nao era red flag?\n\n#BeigeFlag #Relacionamento #Intuicao #PsicologiaFeminina #PriscillaAndrade #TikTokTrend",
+          "vibe": "Camera na mao ou semi-estatica, luz natural da janela, tom descontraido e conversacional — como se fosse um voice-note em video pra uma amiga"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Mara Maravilha termina de novo com Gabriel Torres: o padrao que a psicologia chama de trauma bonding",
+      "resumo": "Mara Maravilha anunciou o fim do relacionamento com Gabriel Torres pela segunda vez desde outubro de 2025, quando os dois reataram publicamente. Para Priscilla, o caso abre espaco para falar sobre trauma bonding — o vinculo traumatico que faz com que a pessoa retorne repetidamente a relacionamentos que causam sofrimento, muitas vezes confundindo intensidade emocional com amor.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "Terra.com.br / Estrelando.com.br - Separacoes famosos 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Usar o ciclo de termino e reatamento de Mara Maravilha e Gabriel Torres para falar sobre trauma bonding e o padrao de voltar para quem nos causa dor.",
+          "gancho": "Mara Maravilha terminou de novo com Gabriel Torres. E esse ciclo tem um nome em psicologia que eu preciso que voce conheca.",
+          "roteiro": [
+            {
+              "tempo": "0-3s",
+              "descricao": "Abertura",
+              "fala": "Mara Maravilha e Gabriel Torres terminaram de novo. Voltaram em outubro, terminaram agora. E esse padrao — voltar, terminar, voltar — tem um nome em psicologia."
+            },
+            {
+              "tempo": "3-15s",
+              "descricao": "Contexto",
+              "fala": "Os dois reataram publicamente em outubro de 2025 apos um pedido de namoro. Agora, poucos meses depois, novo termino. Nao estou aqui pra julgar Mara — estou aqui pra dizer que esse padrao e muito mais comum do que a gente imagina. E tem um nome: trauma bonding."
+            },
+            {
+              "tempo": "15-25s",
+              "descricao": "Virada psicologica",
+              "fala": "Trauma bonding e um vinculo que se forma a partir de ciclos de tensao, ruptura e reconciliacao. Quando voce vive esse ciclo repetidamente com alguem, o cerebro cria uma ligacao emocional intensa — nao necessariamente de amor, mas de dependencia. A reconciliacao produz dopamina. O termino produz dor. E a pessoa fica presa nesse ciclo porque a intensidade parece amor — mas e trauma."
+            },
+            {
+              "tempo": "25-30s",
+              "descricao": "CTA",
+              "fala": "Se voce reconheceu esse padrao em algum relacionamento seu, salva esse video. E me conta: voce ja voltou pra alguem que sabia que nao fazia bem?"
+            }
+          ],
+          "legenda": "Mara Maravilha e Gabriel Torres terminaram mais uma vez.\n\nE eu nao vim falar mal do relacionamento deles — vim falar sobre algo que muitas mulheres vivem em silencio.\n\nO ciclo de voltar e terminar, voltar e terminar, tem um nome:\nTrauma Bonding.\n\nE quando o vinculo que voce tem com alguem foi construido a partir de ciclos de dor e reconciliacao — nao de amor estavel.\n\nA reconciliacao libera dopamina. O termino libera dor. E voce fica presa no ciclo confundindo intensidade com amor.\n\nVoce nao e fraca por voltar. Voce esta presa num padrao que o cerebro criou pra sobreviver.\n\nE padroes podem ser quebrados — com consciencia, com apoio, com tempo.\n\nVoce ja voltou pra alguem que sabia que nao fazia bem? Me conta aqui.\n\n#MaraMaravilha #TraumaBonding #Relacionamento #PsicologiaFeminina #PriscillaAndrade #VinculoTraumatico #Autoconhecimento #Psicologia"
+        },
+        "post-estatico": {
+          "ideia": "Transformar o conceito de trauma bonding em arte visual impactante, usando o caso Mara Maravilha como contexto.",
+          "titulo_visual": "Voce nao volta porque e fraca. Voce volta porque o trauma bonding prende mais do que o amor.",
+          "legenda": "Mara Maravilha e Gabriel Torres terminaram de novo. E eu pensei em todas as mulheres que vivem esse ciclo em silencio.\n\nTrauma bonding nao e fraqueza.\n\nE um padrao que o cerebro cria quando voce vive ciclos repetidos de dor e reconciliacao com a mesma pessoa.\n\nA reconciliacao libera dopamina. A dor voce ja conhece. E fica presa achando que e amor — quando e dependencia.\n\nSalva esse post pra quem precisa ouvir isso.\n\n#TraumaBonding #Relacionamento #PsicologiaFeminina #PriscillaAndrade #MaraMaravilha #VinculoTraumatico #Autoconhecimento",
+          "cta": "Salva esse post pra quem precisa ouvir isso."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "titulo": "PNSM 2026: por que mulheres lideram os afastamentos por saude mental — o que os dados escondem",
+      "resumo": "A Pesquisa Nacional de Saude Mental 2026 revelou que 64% dos afastamentos por saude mental sao de mulheres, e que elas tem taxa de ansiedade 2 a 3 vezes maior que os homens. Para Priscilla, o dado nao e acidental: ele revela uma estrutura social que distribui desproporcionalmente sobre as mulheres o peso do cuidado, da producao e da invisibilidade emocional — e chama isso de 'normalidade'.",
+      "pilar": "Autoimagem & Identidade",
+      "urgencia": "semana",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Meio & Mensagem - 'Por que mulheres lideram os afastamentos por saude mental' / Ministerio da Saude PNSM 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Usar os dados da PNSM 2026 para mostrar que o adoecimento mental feminino nao e coincidencia — e produto de uma estrutura que sobrecarrega as mulheres.",
+          "gancho": "64% dos afastamentos por saude mental no trabalho sao de mulheres. Isso nao e coincidencia. E estrutura.",
+          "roteiro": [
+            {
+              "tempo": "0-3s",
+              "descricao": "Abertura",
+              "fala": "A Pesquisa Nacional de Saude Mental 2026 revelou: 64% dos afastamentos por saude mental no trabalho sao de mulheres. Esse numero nao e coincidencia. E eu vou te explicar por que."
+            },
+            {
+              "tempo": "3-15s",
+              "descricao": "Contexto",
+              "fala": "As mulheres tem taxa de ansiedade 2 a 3 vezes maior que os homens. Mais da metade das licencas por saude mental sao femininas. E a pergunta que ninguem esta fazendo e: por que? Nao e porque as mulheres sao mais fracas. E porque a estrutura que as rodeia e mais pesada."
+            },
+            {
+              "tempo": "15-25s",
+              "descricao": "Virada psicologica",
+              "fala": "A mulher media trabalha fora, cuida da casa, cuida dos filhos, cuida dos pais, cuida do marido, cuida das amigas — e ainda precisa ser bonita, produtiva, equilibrada e sorridente. Isso nao e personalidade. Isso e sobrecarga estrutural. E quando o corpo chega no limite e pede licenca, a gente chama de 'fraqueza' em vez de chamar pelo nome certo: exaustao de um sistema injusto."
+            },
+            {
+              "tempo": "25-30s",
+              "descricao": "CTA",
+              "fala": "Voce sente esse peso? Comenta aqui. No proximo video eu vou falar sobre como reconhecer a sobrecarga antes do colapso."
+            }
+          ],
+          "legenda": "PNSM 2026: 64% dos afastamentos por saude mental no Brasil sao de mulheres.\n\nEsse numero me fez parar.\n\nNao porque me surpreendeu — mas porque precisa ser dito em voz alta.\n\nAs mulheres nao adoecem mais porque sao frageis.\nElas adoecem mais porque carregam mais.\n\nTrabalho fora\nTrabalho em casa\nCuidado dos filhos\nCuidado dos pais\nCuidado emocional do parceiro\nCuidado das amizades\n\nE no final do dia, precisam estar bonitas, produtivas e com sorriso no rosto.\n\nIsso nao e jeito de ser. E sobrecarga de genero.\n\nVoce reconhece esse peso na sua vida?\n\n#SaudeMental #PNSM2026 #SobrecaregaDeGenero #PsicologiaFeminina #PriscillaAndrade #MulheresSaude #AnsiedadeFeminina #EsgotamentoFeminino"
+        },
+        "carrossel": {
+          "ideia": "Explicar em cards claros por que mulheres lideram os dados de adoecimento mental, com base na PNSM 2026.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "64% dos afastamentos por saude mental sao de mulheres.",
+              "subtitulo": "Isso nao e fraqueza. E estrutura. Entenda."
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualizacao",
+              "titulo": "O que a pesquisa revelou",
+              "texto": "A Pesquisa Nacional de Saude Mental 2026 (PNSM) revelou: mulheres tem taxa de ansiedade 2 a 3 vezes maior que os homens e representam 64% dos afastamentos por saude mental no trabalho."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Por que isso acontece",
+              "texto": "Nao e coincidencia. E o peso de uma estrutura social que colocou nas costas das mulheres: o trabalho produtivo, o trabalho domestico, o cuidado emocional de todos ao redor — e ainda espera que elas estejam bem."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "O que precisamos nomear",
+              "texto": "Isso tem nome: sobrecarga de genero. Quando o corpo e a mente chegam ao limite e pedem licenca, nao e fraqueza — e o resultado de um sistema que distribuiu o peso de forma injusta por decadas."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "E voce?",
+              "texto": "Voce sente esse peso? Reconhece a sobrecarga na sua vida? Me conta nos comentarios. Esse e um assunto que merece muito mais conversa do que costuma ter."
+            }
+          ],
+          "legenda": "PNSM 2026: mulheres lideram os adoecimentos por saude mental no Brasil.\n\n64% dos afastamentos. Taxa de ansiedade 2-3x maior que os homens.\n\nIsso nao e personalidade. E estrutura.\n\nDeslize pra entender o que esta por tras desse dado — e o que isso revela sobre a vida real das mulheres.\n\nVoce reconhece esse peso na sua vida?\n\n#SaudeMental #PNSM2026 #PsicologiaFeminina #PriscillaAndrade #SobrecaregaDeGenero #MulheresSaude #Ansiedade"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "titulo": "Dia das Mulheres na Engenharia 2026: 66,7% nas diretorias — e por que isso ainda e noticia",
+      "resumo": "Em 23 de junho de 2026, o Dia Internacional das Mulheres na Engenharia trouxe dados de que a HM Engenharia atingiu 66,7% de mulheres nos cargos de diretoria — alta de 25% em relacao ao ano anterior. Para Priscilla, o dado e celebravel, mas a pergunta mais importante e: por que em 2026 isso ainda e tratado como excecao e nao como expectativa?",
+      "pilar": "Posicionamento & Carreira",
+      "urgencia": "semana",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Jornal do Bras - Dia Internacional das Mulheres na Engenharia 23/06/2026 / HM Engenharia",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Reagir ao dado dos 66,7% de mulheres em diretorias de engenharia para provocar reflexao sobre por que conquistas femininas profissionais ainda sao tratadas como noticias.",
+          "gancho": "23 de junho foi o Dia das Mulheres na Engenharia. Uma empresa revelou: 66,7% das diretorias sao femininas. E enquanto o mundo comemorou, eu fiz uma pergunta diferente.",
+          "roteiro": [
+            {
+              "tempo": "0-3s",
+              "descricao": "Abertura",
+              "fala": "23 de junho, Dia das Mulheres na Engenharia. A HM Engenharia revelou que 66,7% dos cargos de diretoria sao ocupados por mulheres. Isso e lindo. E tambem me fez pensar em algo que ninguem falou."
+            },
+            {
+              "tempo": "3-15s",
+              "descricao": "Contexto",
+              "fala": "Esse numero subiu 25% em relacao ao ano anterior. E um avanco real, concreto, que precisa ser celebrado. Mas enquanto todo mundo comemorava, eu ficava com uma pergunta na cabeca: por que em 2026 isso ainda e noticia? Por que ainda nos surpreende ver mulheres em posicoes de lideranca?"
+            },
+            {
+              "tempo": "15-25s",
+              "descricao": "Virada psicologica",
+              "fala": "Porque internalizamos — ainda — a ideia de que certos espacos nao sao para nos. E quando uma mulher ocupa um cargo de lideranca, ainda sentimos aquele misto de orgulho e espanto. Esse espanto e o termometro do quanto ainda precisamos avancar. Nao basta ter mulheres nas diretorias. Precisamos de um mundo onde isso seja tao obvio que nem vire manchete."
+            },
+            {
+              "tempo": "25-30s",
+              "descricao": "CTA",
+              "fala": "Voce ja sentiu que um espaco 'nao era para voce' antes mesmo de tentar? Comenta aqui. Isso precisa de conversa."
+            }
+          ],
+          "legenda": "23 de junho: Dia das Mulheres na Engenharia.\n\nA HM Engenharia revelou: 66,7% das diretorias sao femininas. Subiu 25% em um ano.\n\nIsso e um avanco real. E tambem e um espelho.\n\nPorque em 2026, isso ainda virou manchete.\n\nAinda nos surpreende ver mulheres no topo de setores tecnicos.\n\nE isso diz muito sobre o que internalizamos:\nQue certos espacos nao sao para nos.\nQue precisamos provar mais do que os outros.\nQue nossa presenca no topo e excecao, nao regra.\n\nNao basta ter mulheres nas diretorias. Precisamos de um mundo onde isso seja tao obvio que nao vire noticia.\n\nVoce ja sentiu que um espaco profissional 'nao era para voce'?\n\n#MulheresNaEngenharia #Carreira #LiderancaFeminina #PriscillaAndrade #PsicologiaFeminina #MulheresNoTopo #DiaInternacionalMulheresEngenharia #Empoderamento"
+        },
+        "carrossel": {
+          "ideia": "Usar o dado dos 66,7% para abrir conversa sobre os obstaculos internos que impedem mulheres de ocupar espacos de lideranca.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "66,7% das diretorias de engenharia sao femininas.",
+              "subtitulo": "Por que em 2026 isso ainda e noticia?"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualizacao",
+              "titulo": "O que aconteceu",
+              "texto": "No Dia Internacional das Mulheres na Engenharia (23/06/2026), a HM Engenharia revelou que 66,7% dos seus cargos de diretoria sao ocupados por mulheres — crescimento de 25% em relacao ao ano anterior."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Por que ainda e noticia",
+              "texto": "Em 2026, ainda nos surpreendemos quando mulheres lideram setores tecnicos. Esse espanto revela que — internamente e externamente — ainda tratamos presenca feminina no topo como excecao, nao como expectativa."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "O obstaculo que ninguem ve",
+              "texto": "Antes do teto de vidro externo, existe um interno: a crenca, muitas vezes inconsciente, de que certos espacos nao sao para nos. E essa crenca precisa ser desafiada antes mesmo de chegar na entrevista de emprego."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "Sua vez",
+              "texto": "Voce ja desistiu de um espaco antes mesmo de tentar porque sentiu que 'nao era para voce'? Me conta nos comentarios."
+            }
+          ],
+          "legenda": "Dia das Mulheres na Engenharia 2026: 66,7% de mulheres nas diretorias.\n\nUm avanco que merece celebracao. E tambem uma pergunta que merece resposta.\n\nPor que em 2026 isso ainda nos surpreende?\n\nDeslize para entender o que esse dado revela sobre os obstaculos — externos e internos — que as mulheres ainda enfrentam no mercado.\n\nVoce ja sentiu que um espaco profissional nao era para voce?\n\n#MulheresNaEngenharia #LiderancaFeminina #CarreiraFeminina #PriscillaAndrade #PsicologiaFeminina #MulheresNoTopo"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "titulo": "Slow dating: por que em 2026 as mulheres estao escolhendo namorar mais devagar",
+      "resumo": "Pesquisas de 2026 mostram que os relacionamentos estao desacelerando: mais intencao, menos aplicativos de swipe compulsivo, mais clareza antes de se envolver. O 'slow dating' emerge como resposta feminina ao cansaco de relacionamentos rapidos e descartaveis da era digital. Para Priscilla, essa tendencia tem uma base psicologica solida — namorar devagar nao e falta de interesse, e maturidade afetiva.",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "urgencia": "semana",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "Correio Braziliense - 'Pesquisa aponta tendencias que devem redefinir o amor em 2026' / Portal Revista Kdea 360 - 'Por que os relacionamentos estao desacelerando em 2026'",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Apresentar o slow dating como movimento feminino de maturidade afetiva — nao lentidao por inseguranca, mas escolha intencional por qualidade.",
+          "gancho": "Em 2026, as mulheres estao escolhendo namorar mais devagar. Isso tem um nome, tem uma razao — e pode ser exatamente o que voce precisava ouvir.",
+          "roteiro": [
+            {
+              "tempo": "0-3s",
+              "descricao": "Abertura",
+              "fala": "Em 2026, os relacionamentos estao desacelerando. As mulheres estao fazendo menos swipes e mais perguntas. E esse movimento tem um nome: slow dating."
+            },
+            {
+              "tempo": "3-15s",
+              "descricao": "Contexto",
+              "fala": "As pesquisas de relacionamento deste ano mostram uma mudanca clara: menos aplicativos de swipe compulsivo, mais intencao antes de se envolver, maior valorizacao da clareza e da honestidade. As mulheres estao pedindo pra desacelerar — e o mercado de relacionamentos esta respondendo."
+            },
+            {
+              "tempo": "15-25s",
+              "descricao": "Virada psicologica",
+              "fala": "Do ponto de vista psicologico, o slow dating e uma resposta saudavel ao excesso de estimulacao da era digital. Quando voce desacelera, voce para de reagir por impulso e comeca a agir por intencao. Voce tem tempo de perceber como se sente na presenca da pessoa, de observar padroes de comportamento, de ouvir sua propria intuicao antes de criar um vinculo. Nao e lentidao por medo — e clareza por escolha."
+            },
+            {
+              "tempo": "25-30s",
+              "descricao": "CTA",
+              "fala": "Voce ja tentou o slow dating? Ou sente aquela ansiedade de querer definir logo tudo? Me conta nos comentarios."
+            }
+          ],
+          "legenda": "Slow dating. O novo movimento que esta transformando como as mulheres se relacionam em 2026.\n\nE sabe o que me alegrou quando vi essa tendencia?\n\nNao e sobre jogar dificil. Nao e sobre fingir desinteresse.\n\nE sobre namorar com intencao.\n\nE sobre se permitir sentir, observar, ouvir sua intuicao — antes de se envolver por completo.\n\nEm uma era de swipe e conexoes descartaveis, desacelerar e um ato de cuidado proprio.\n\nSlow dating na pratica:\nMenos textos freneticos, mais conversas com profundidade\nMenos pressa pra definir, mais presenca no processo\nMenos performance, mais autenticidade\nMais atencao em como voce se sente na presenca da pessoa\n\nVoce ja tentou desacelerar nos relacionamentos? Como foi?\n\n#SlowDating #Relacionamento #PsicologiaFeminina #PriscillaAndrade #NamorarComIntencao #AutocuidadoFeminino #RelacionamentoSaudavel #TendenciaRelacionamento2026"
+        },
+        "lo-fi": {
+          "ideia": "Bate-papo intimo sobre a experiencia de namorar devagar em uma era que pede velocidade.",
+          "gancho": "Sabe o que esta em alta em 2026? Namorar mais devagar. E eu quero te explicar por que isso e mais saudavel do que voce imagina.",
+          "o_que_falar": [
+            "Contextualizar a tendencia: slow dating como resposta ao cansaco de relacionamentos rapidos e descartaveis — pesquisas de 2026 mostram a mudanca",
+            "Por que funciona: quando voce desacelera, voce tem tempo de ouvir a intuicao e observar padroes antes de criar vinculo profundo",
+            "A diferenca entre slow dating saudavel e evitacao por medo: um vem da clareza, o outro vem do medo de se machucar",
+            "CTA: 'Voce ja se pegou com pressa pra definir um relacionamento? Comenta aqui — vamos conversar sobre isso.'"
+          ],
+          "legenda": "Em 2026, as mulheres estao escolhendo namorar mais devagar. E essa tendencia tem uma base psicologica muito solida.\n\nDesacelerar nao e jogar dificil — e namorar com intencao.\n\nVoce ja tentou o slow dating? Funcionou?\n\n#SlowDating #Relacionamento #PsicologiaFeminina #PriscillaAndrade #NamorarComIntencao",
+          "vibe": "Camera estatica, tom reflexivo e acolhedor, luz quente — como uma conversa a tarde numa cafeteria"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "titulo": "Slow living e espiritualidade feminina: a tendencia que esta silenciosamente transformando mulheres em 2026",
+      "resumo": "Em 2026, o slow living — desacelerar intencionalmente para priorizar qualidade de vida, descanso e presenca — emerge como uma das tendencias mais solidas entre mulheres. Aliado a espiritualidade feminina e ao autoconhecimento, esse movimento representa uma ruptura com o paradigma da mulher sempre produtiva. Para Priscilla, esse nao e apenas um trend — e uma resposta psicologica legitima ao esgotamento coletivo feminino.",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "urgencia": "evergreen",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "Estado de Minas - 'A tendencia de autocuidado que vai dominar 2026 com descanso e tempo offline' / Terra.com.br - Espiritualidade feminina e autoconhecimento",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Apresentar o slow living como resposta psicologica ao esgotamento feminino — nao como preguica, mas como reconexao intencional consigo mesma.",
+          "gancho": "Em 2026, a tendencia mais silenciosa e tambem a mais transformadora: mulheres escolhendo desacelerar. E isso nao e preguica. E sabedoria.",
+          "roteiro": [
+            {
+              "tempo": "0-3s",
+              "descricao": "Abertura",
+              "fala": "Existe uma tendencia em 2026 que nao faz barulho — mas esta transformando a vida de mulheres em silencio. Chama slow living. E quero te explicar por que isso e muito mais do que um aesthetic."
+            },
+            {
+              "tempo": "3-15s",
+              "descricao": "Contexto",
+              "fala": "Slow living e a pratica intencional de desacelerar: priorizar descanso, cultivar presenca, reduzir estimulos, estar offline mais tempo. E em 2026, essa tendencia esta dominando entre mulheres que passaram anos no modo automatico e chegaram ao limite."
+            },
+            {
+              "tempo": "15-25s",
+              "descricao": "Virada psicologica",
+              "fala": "Do ponto de vista psicologico, o slow living nao e fuga — e reconexao. Quando voce para de se mover o tempo todo, voce comeca a ouvir o que estava tentando te dizer. Seu corpo, sua intuicao, seus sonhos. A mulher que desacelera nao esta parada — ela esta, pela primeira vez, realmente presente. E presenca e o ponto de partida de qualquer transformacao real."
+            },
+            {
+              "tempo": "25-30s",
+              "descricao": "CTA",
+              "fala": "Voce ja tentou desacelerar intencionalmente? Me conta como foi — ou me conta o que te impede."
+            }
+          ],
+          "legenda": "Slow living. A tendencia de 2026 que esta transformando mulheres em silencio.\n\nNao e sobre ser lenta.\nNao e sobre ser preguicosa.\nNao e sobre desistir de nada.\n\nE sobre parar de viver no automatico e comecar a viver com presenca.\n\nQuando voce desacelera:\nVoce ouve sua intuicao de novo\nVoce percebe o que realmente importa\nVoce para de reagir e comeca a escolher\nVoce se reconecta com quem voce e quando ninguem esta olhando\n\nE essa reconexao? E o ponto de partida de qualquer transformacao real.\n\nVoce ja tentou desacelerar intencionalmente? O que aconteceu?\n\n#SlowLiving #AutocuidadoFeminino #EspiritualidadeFeminina #PriscillaAndrade #Autoconhecimento #PresencaIntencional #TendenciaFeminina2026 #Psicologia #VidaComProposito"
+        },
+        "post-estatico": {
+          "ideia": "Frase poderosa sobre slow living transformada em arte visual para gerar salvamentos e compartilhamentos.",
+          "titulo_visual": "Desacelerar nao e preguica. E a mulher que aprendeu a se ouvir de volta.",
+          "legenda": "Em 2026, a tendencia mais transformadora entre mulheres nao e produtividade — e presenca.\n\nSlow living nao e um aesthetic de Instagram.\n\nE a resposta de quem chegou ao limite e decidiu que nao vai mais viver no modo automatico.\n\nDescanso e sabedoria.\nPresenca e poder.\nDesacelerar e a forma mais revolucionaria de cuidado proprio.\n\nSalva esse post e manda pra uma mulher que precisa de permissao pra respirar.\n\n#SlowLiving #AutocuidadoFeminino #EspiritualidadeFeminina #PriscillaAndrade #Autoconhecimento #DescansoERevolicao #TendenciaFeminina2026",
+          "cta": "Salva e manda pra uma mulher que precisa de permissao pra respirar."
+        }
+      }
+    }
+  ]
+}
